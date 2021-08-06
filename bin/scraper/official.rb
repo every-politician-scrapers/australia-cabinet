@@ -8,11 +8,17 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.css('.name').text.tidy
+      noko.css('.title').text.tidy
+        .delete_prefix('Senator the Hon ')
+        .delete_prefix('The Hon ')
+        .delete_prefix('Dr ')
+        .sub(/ MP$/, '')
+        .sub(/ AM$/, '')
+        .sub(/ CSC$/, '')
     end
 
     field :position do
-      noko.css('.position').text.tidy
+      noko.css('.ministries').text.split(/, (?=Minister)/).map(&:tidy)
     end
   end
 
@@ -28,7 +34,7 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      noko.css('.minister-item')
     end
   end
 end
