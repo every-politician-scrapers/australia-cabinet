@@ -9,16 +9,20 @@ class MemberList
   class Member < Scraped::HTML
     field :name do
       noko.css('.title').text.tidy
-        .delete_prefix('Senator the Hon ')
-        .delete_prefix('The Hon ')
-        .delete_prefix('Dr ')
-        .sub(/ MP$/, '')
-        .sub(/ AM$/, '')
-        .sub(/ CSC$/, '')
+          .delete_prefix('Senator the Hon ')
+          .delete_prefix('The Hon ')
+          .delete_prefix('Dr ')
+          .sub(/ MP$/, '')
+          .sub(/ AM$/, '')
+          .sub(/ CSC$/, '')
     end
 
     field :position do
-      noko.css('.ministries').text.split(/, (?=Minister)/).map(&:tidy)
+      noko.css('.ministries').text
+          .gsub(', Assistant', '|Assistant')
+          .gsub(', Deputy', '|Deputy')
+          .gsub(', Minister', '|Minister')
+          .split('|')
     end
   end
 
