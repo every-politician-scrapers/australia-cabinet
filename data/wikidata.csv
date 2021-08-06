@@ -1,6 +1,42 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q4707935,Alan Tudge,Alan Tudge,male,1971-02-24T00:00:00Z,11,https://www.pm.gov.au/your-government,Q11796967,Minister for Education and Youth,Q4707935-E77553A5-CEBA-4EA6-B2C8-A5B711231854
+Q4717151,Alex Hawke,Alex Hawke,male,1977-07-09T00:00:00Z,11,https://www.pm.gov.au/your-government,Q11796950,"Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs",Q4717151-B86D4A44-EB26-4741-BC80-8882D2D34845
+Q4757071,Andrew Gee,Andrew Gee,male,1968-09-13T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865787,Minister for Defence Personnel,Q4757071-2EC7AAD0-BF57-4C06-BF39-AD30F3992BC7
+Q4757071,Andrew Gee,Andrew Gee,male,1968-09-13T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865985,Minister for Veterans’ Affairs,Q4757071-899CA576-416F-4D53-AFF7-462501216C43
+Q16196728,Angus Taylor,Angus Taylor,male,1966-09-30T00:00:00Z,11,https://www.pm.gov.au/your-government,Q11796924,Minister for Energy and Emissions Reduction,Q16196728-E1318566-2540-4896-8917-85CBEA0F64B7
+Q4768766,Anne Ruston,Anne Ruston,female,1963-06-10T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865821,Minister for Families and Social Services,Q4768766-75FFBB64-4569-4CF2-8B3C-28912FB218DF
+Q4768766,Anne Ruston,Anne Ruston,female,1963-06-10T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6866013,Minister for Women's Safety,Q4768766-36BC37F6-1F5C-4162-8F6B-BD5B4B4E4553
+Q4861362,Barnaby Joyce,Barnaby Joyce,male,1967-04-17T00:00:00Z,11,https://www.pm.gov.au/your-government,Q5261065,Deputy Prime Minister,Q4861362-A4C69173-48EB-4A69-A1FC-75D32BBFAB25
+Q4861362,Barnaby Joyce,Barnaby Joyce,male,1967-04-17T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865888,"Minister for Infrastructure, Transport and Regional Development",Q4861362-BA088E14-FF87-4F15-A6AD-CBFCB2EEF202
+Q4966734,Bridget McKenzie,Bridget McKenzie,female,1969-12-27T00:00:00Z,11,,Q107970971,Minister for Emergency Management and National Recovery and Resilience,Q4966734-0F0D3BC5-A0CC-4520-AF96-D5606F1ED37B
+Q4966734,Bridget McKenzie,Bridget McKenzie,female,1969-12-27T00:00:00Z,11,,Q107970970,"Minister for Regionalisation, Regional Communications and Regional Education",Q4966734-0A5548EF-F40D-46D0-AF09-C09CFDFE72E3
+Q5110039,Christian Porter,Christian Porter,male,1970-07-11T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865883,"Minister for Industry, Science and Technology",Q5110039-093C0EA9-9AEB-4B9F-BA75-B81997FEF252
+Q5214486,Dan Tehan,Dan Tehan,male,1968-01-27T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865979,"Minister for Trade, Tourism and Investment",Q5214486-5B5BCE8C-C02C-427B-8FEB-5337B791B0E2
+Q16189272,David Gillespie,David Gillespie,male,1957-12-20T00:00:00Z,11,,Q107971730,Deputy Leader of the House,Q16189272-001DECDC-26D9-4841-97EC-A1BC89400384
+Q16189272,David Gillespie,David Gillespie,male,1957-12-20T00:00:00Z,11,,Q107971726,Minister for Regional Health,Q16189272-406035CC-A057-46E9-9277-1529430E06B3
 Q25756209,David Littleproud,David Littleproud,male,1976-09-04T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865745,Minister for Agriculture and Northern Australia,Q25756209-cee629ae-4caf-a838-d0d1-d3f250645fd7
 Q5605742,Greg Hunt,Greg Hunt,male,1965-11-18T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865857,Minister for Health and Aged Care,Q5605742-FC3B20E2-2943-400A-9E76-36D95CC62D29
 Q6288876,Josh Frydenberg,Josh Frydenberg,male,1971-07-17T00:00:00Z,11,https://www.pm.gov.au/your-government,Q2390270,Treasurer,Q6288876-2743f07c-4ef3-a2e3-e781-64748816cd8e
 Q6369482,Karen Andrews,Karen Andrews,female,1960-08-23T00:00:00Z,11,,Q6865868,Minister for Home Affairs,Q6369482-7abe605d-4f89-c779-4d4e-d37537075257
-Q7436908,Scott Morrison,Scott Morrison,male,1968-05-13T00:00:00Z,11,,Q319145,Prime Minister of Australia,Q7436908-51127120-4df0-4542-f876-f6af57ed2125
+Q16206609,Keith Pitt,Keith Pitt,male,1969-08-31T00:00:00Z,11,,Q107971013,Minister for Resources and Water,Q16206609-8932C897-8D10-4642-85EA-B69CCC8F0AF5
+Q3195101,Ken Wyatt,Ken Wyatt,male,1952-08-04T00:00:00Z,11,https://www.pm.gov.au/your-government,Q17007714,Minister for Indigenous Australians,Q3195101-A0D343B4-F884-4E74-B611-6F53F6673D58
+Q16735152,Linda Reynolds,Linda Reynolds,female,1965-05-16T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865874,Minister for Government Services,Q16735152-26A83F0A-B30C-4547-A741-8ECD48A17932
+Q16735152,Linda Reynolds,Linda Reynolds,female,1965-05-16T00:00:00Z,11,,Q107971257,Minister for the National Disability Insurance Scheme,Q16735152-0EDFC956-EB73-43AF-8E7A-9F1DD7636DEF
+Q16191011,Marise Payne,Marise Payne,female,1964-07-29T00:00:00Z,11,,Q2660943,Minister for Foreign Affairs,Q16191011-D5606213-CD88-4838-95AC-36BC3992DD3E
+Q16191011,Marise Payne,Marise Payne,female,1964-07-29T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6866013,Minister for Women,Q16191011-FC1368F2-1247-4161-A6DB-6F8DCC329E21
+Q16195275,Melissa Price,Melissa Price,female,1963-12-12T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865784,Minister for Defence Industry,Q16195275-30EEDB3C-48AD-4D3A-B52D-C0687E103529
+Q16221628,Michael Sukkar,Michael Sukkar,male,1981-09-11T00:00:00Z,11,,Q107971707,Assistant Treasurer,Q16221628-F7517894-A2D0-4C1C-AF96-CA330EDAA9C2
+Q16221628,Michael Sukkar,Michael Sukkar,male,1981-09-11T00:00:00Z,11,,Q107971701,"Minister for Homelessness, Social and Community Housing",Q16221628-38DF2DC4-2B6C-42A0-A379-5C22E829904B
+Q572783,Michaelia Cash,Michaelia Cash,female,1970-07-19T00:00:00Z,11,https://www.pm.gov.au/your-government,Q4818607,Attorney-General,Q572783-55E1A0B1-6CA2-4F93-A551-42900560C013
+Q572783,Michaelia Cash,Michaelia Cash,female,1970-07-19T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865809,Minister for Industrial Relations,Q572783-E4341FED-CFA0-4C2A-BCC9-FA7B127F9FB7
+Q7048144,Nola Marino,Nola Marino,female,1954-02-18T00:00:00Z,11,,Q107971537,Assistant Minister for Regional Development and Territories,Q7048144-3067A754-39F9-41C5-BCFB-F6BED39FD7A3
+Q7150671,Paul Fletcher,Paul Fletcher,male,1965-01-16T00:00:00Z,11,,Q107971662,"Minister for Communications, Urban Infrastructure, Cities and the Arts",Q7150671-808DAC26-B0EB-4963-A704-82CE67FA93B5
+Q7173778,Peter Dutton,Peter Dutton,male,1970-11-18T00:00:00Z,11,,Q3315112,Minister for Defence,Q7173778-585FF37A-557C-4E32-9366-C32209A01E6E
+Q7324825,Richard Colbeck,Richard Colbeck,male,1958-04-05T00:00:00Z,11,,Q107971482,Minister for Senior Australians and Aged Care Services,Q7324825-849233C9-E5C9-4337-8E22-3D42D51DB9D2
+Q7324825,Richard Colbeck,Richard Colbeck,male,1958-04-05T00:00:00Z,11,,Q11796981,Minister for Sport,Q7324825-352E726F-CC2D-4AA8-8933-61E24C49599F
+Q7436908,Scott Morrison,Scott Morrison,male,1968-05-13T00:00:00Z,11,,Q107971627,Minister for the Public Service,Q7436908-517689B6-9503-4626-B2D5-40901D2A31D9
+Q7436908,Scott Morrison,Scott Morrison,male,1968-05-13T00:00:00Z,11,https://www.pm.gov.au/your-government,Q319145,Prime Minister,Q7436908-51127120-4df0-4542-f876-f6af57ed2125
+Q7518284,Simon Birmingham,Simon Birmingham,male,1974-06-14T00:00:00Z,11,https://www.pm.gov.au/your-government,Q6865833,Minister for Finance,Q7518284-7FF15F06-17EB-4A50-A06F-64729F4C53D7
+Q7627022,Stuart Robert,Stuart Robert,male,1970-12-11T00:00:00Z,11,https://www.pm.gov.au/your-government,Q11796971,"Minister for Employment, Workforce, Skills, Small and Family Business",Q7627022-7A6E9B58-AEC5-45FF-843C-D4C547E3A85A
+Q7649377,Sussan Ley,Sussan Ley,female,1961-12-14T00:00:00Z,11,,Q11796986,Minister for the Environment,Q7649377-5B7F621E-E245-40AD-8634-90E2AEC8D7A5
+Q8068367,Zed Seselja,Zed Seselja,male,1977-03-27T00:00:00Z,11,,Q107971470,Minister for International Development and the Pacific,Q8068367-5A31ADDB-3089-4EE2-8ABE-A3BFE5FF3388
