@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Australia",
+      "id": "Q408"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q65072634",
+      "start": "2021-06-21",
+      "parent": "Q2028178"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.pm.gov.au/your-government",
+        "title": "Your Government | Prime Minister of Australia",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/australia-cabinet"
 }
