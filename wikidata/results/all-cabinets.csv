@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5468043,Forde Ministry,1945-07-06,11,,,1945-07-13,11,,,Q2028178,Cabinet of Australia,,,,,,,Q7443236,Second Curtin Ministry,Q5452615,First Chifley Ministry
 ,Q5452615,First Chifley Ministry,1945-07-13,11,1945-07-13,11,1946-11-01,11,1946-11-01,11,Q2028178,Cabinet of Australia,,,,,,,Q5468043,Forde Ministry,Q7443187,Second Chifley Ministry
 ,Q7443187,Second Chifley Ministry,1946-11-01,11,1946-11-01,11,1949-12-19,11,1949-12-19,11,Q2028178,Cabinet of Australia,,,,,,,Q5452615,First Chifley Ministry,Q5476134,Fourth Menzies Ministry
 ,Q5476134,Fourth Menzies Ministry,1949-12-19,11,1949-12-19,11,1951-05-11,11,1951-05-11,11,Q2028178,Cabinet of Australia,,,,,,,Q7443187,Second Chifley Ministry,Q5447537,Fifth Menzies Ministry
