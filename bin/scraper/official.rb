@@ -22,6 +22,7 @@ class MemberList
           .gsub(', Assistant', '|Assistant')
           .gsub(', Deputy', '|Deputy')
           .gsub(', Minister', '|Minister')
+          .gsub(', Special', '|Special')
           .split('|')
     end
   end
