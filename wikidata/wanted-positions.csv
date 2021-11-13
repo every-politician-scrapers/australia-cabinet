@@ -4,6 +4,7 @@ Q319145,Prime Minister
 Q5261065,Deputy Prime Minister
 Q108381259,Minister for Administrative Services
 Q24026255,Minister for Aged Care
+Q6865745,Minister for Agriculture and Northern Australia
 Q6865994,Minister for the Arts
 Q11796917,"Minister for Broadband, Communications and the Digital Economy"
 Q99383586,Minister for Business and Consumer Affairs
@@ -76,19 +77,21 @@ Q107972802,Assistant Minister to the Minister for the Public Service
 Q107972803,Assistant Minister to the Prime Minister and Cabinet
 Q107972886,Assistant Minister to the Prime Minister for Mental Health and Suicide Prevention
 Q32947148,Deputy Minster for Children
-Q7241304,President of the Australian Senate
+Q7241304,President of the Senate
 Q7574256,Speaker of the House of Representatives
 Q16147127,Leader of the House
+Q107971730,Deputy Leader of the House
 Q17009655,Leader of the Government in the Senate
 Q6746718,Manager of Government Business in the Senate
-Q4818607,Attorney-General for Australia
+Q4818607,Attorney-General
 Q3409185,Chief Justice
 Q58326282,Chief Justice of the Federal Court
 Q17003098,Director of Public Prosecutions
 Q5280509,Director-General of the Australian Secret Intelligence Service
 Q106466461,Director-General of the Australian Signals Directorate
 Q3489387,Solicitor-General
-Q2390270,Treasurer of Australia
+Q2390270,Treasurer
+Q107971707,Assistant Treasurer
 Q109453640,Governor of the Reserve Bank
 Q5097000,Chief of Air Force
 Q5097027,Chief of Joint Operations
