@@ -1,0 +1,970 @@
+{
+  "title": "Keith Pitt",
+  "pageID": 40694342,
+  "categories": [
+    "1969 births",
+    "Australian farmers",
+    "Government ministers of Australia",
+    "Liberal National Party of Queensland members of the Parliament of Australia",
+    "Living people",
+    "Members of the Australian House of Representatives",
+    "Members of the Australian House of Representatives for Hinkler",
+    "People from Bundaberg",
+    "Queensland University of Technology alumni",
+    "Turnbull Government",
+    "21st-century Australian politicians",
+    "Australian electrical engineers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Keith John Pitt (born 31 August 1969) is an Australian politician who has been the Minister for Resources, Water and Northern Australia in the Morrison Government since February 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Resources, Water and Northern Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morrison Government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Keith John Pitt"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the National Party and has represented the Division of Hinkler in Queensland since the 2013 federal election.",
+              "links": [
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Hinkler"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                },
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He was an electrical engineer and businessman before entering politics."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2015",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "02",
+            "date": "06",
+            "df": "y",
+            "template": "start date",
+            "text": "February 6, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "05",
+            "df": "y",
+            "template": "start date",
+            "text": "March 5, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "08",
+            "date": "28",
+            "df": "y",
+            "template": "end date",
+            "text": "August 28, 2018"
+          }
+        },
+        {
+          "year": "1969",
+          "month": "8",
+          "day": "31",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Keith Pitt"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Keith Pitt Portrait 2013.jpg"
+          },
+          "office": {
+            "text": "Minister for Resources, Water and Northern Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Resources, Water and Northern Australia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "February 6, 2020"
+          },
+          "predecessor": {
+            "text": "Matt Canavan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matt Canavan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Assistant Minister to the Deputy Prime Minister",
+            "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Australia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Malcolm Turnbull Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              },
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "March 5, 2018"
+          },
+          "term_end1": {
+            "text": "August 28, 2018"
+          },
+          "predecessor1": {
+            "text": "Luke Hartsuyker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luke Hartsuyker"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Andrew Gee",
+            "links": [
+              {
+                "text": "Andrew Gee",
+                "type": "internal",
+                "page": "Andrew Gee (politician)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 February 2016"
+          },
+          "term_end2": {
+            "text": "19 July 2016"
+          },
+          "predecessor2": {
+            "text": "Michael McCormack",
+            "links": [
+              {
+                "text": "Michael McCormack",
+                "type": "internal",
+                "page": "Michael McCormack (Australian politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Luke Hartsuyker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luke Hartsuyker"
+              }
+            ]
+          },
+          "office3": {
+            "text": "MiniAssistant Minister for Trade, Investment and Tourism",
+            "links": [
+              {
+                "text": "MiniAssistant Minister for Trade, Investment and Tourism",
+                "type": "internal",
+                "page": "Minister for Trade, Tourism and Investment",
+                "anchor": "List of Assistant Ministers for Trade, Tourism and Investment"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Malcolm Turnbull",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "19 July 2016"
+          },
+          "term_end3": {
+            "text": "20 December 2017"
+          },
+          "predecessor3": {
+            "text": "Richard Colbeck (as Minister Assisting the Minister for Trade and Investment)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Colbeck"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Luke Hartsuyker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luke Hartsuyker"
+              }
+            ]
+          },
+          "constituency_mp4": {
+            "text": "Hinkler",
+            "links": [
+              {
+                "text": "Hinkler",
+                "type": "internal",
+                "page": "Division of Hinkler"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Australian"
+          },
+          "term_start4": {
+            "text": "7 September 2013"
+          },
+          "predecessor4": {
+            "text": "Paul Neville",
+            "links": [
+              {
+                "text": "Paul Neville",
+                "type": "internal",
+                "page": "Paul Neville (politician)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Keith John Pitt"
+          },
+          "birth_date": {
+            "text": "August 31, 1969"
+          },
+          "birth_place": {
+            "text": "Bundaberg, Queensland, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bundaberg"
+              },
+              {
+                "type": "internal",
+                "page": "Queensland"
+              },
+              {
+                "type": "internal",
+                "page": "Australia"
+              }
+            ]
+          },
+          "party": {
+            "text": "National",
+            "links": [
+              {
+                "text": "National",
+                "type": "internal",
+                "page": "National Party of Australia"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Liberal National Party of Queensland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liberal National Party of Queensland"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Allison"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Queensland University of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Queensland University of Technology"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Electrical engineer, businessman, farmer"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pitt was born in Bundaberg, Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bundaberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                }
+              ]
+            },
+            {
+              "text": "He grew up in Woongarra and attended Kepnock State High School before taking up an electrical apprenticeship.",
+              "links": [
+                {
+                  "text": "Woongarra",
+                  "type": "internal",
+                  "page": "Woongarra, Queensland"
+                }
+              ]
+            },
+            {
+              "text": "He went on to the Queensland University of Technology, graduating with the degree of Bachelor of Engineering.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queensland University of Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Engineering"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pitt worked as an electrical fitter mechanic before joining Bundaberg Sugar as an electrical engineer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bundaberg Sugar"
+                }
+              ]
+            },
+            {
+              "text": "He later served as the company's group safety co-ordinator."
+            },
+            {
+              "text": "In 2002, he established the Australian Safety and Training Alliance, a workplace health and safety training provider."
+            },
+            {
+              "text": "He and his wife also purchased two sugarcane farms, one bought in 1998 and one in 2004, but they were sold to concentrate on the training business."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "name": "Mr Keith Pitt MP",
+          "mpid": "148150",
+          "access-date": "15 November 2021",
+          "template": "citation",
+          "type": "au parliament"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22chamber/hansardr/aec24641-694d-4aba-adb3-c0e00179d7a4/0073%22",
+          "title": "Maiden speech",
+          "work": "Hansard",
+          "publisher": "Parliament of Australia",
+          "date": "14 November 2013",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://minister.awe.gov.au/pitt/biography",
+          "title": "The Hon Keith Pitt MP: Minister for Resources, Water and Northern Australia",
+          "publisher": "Department of Agriculture, Water and the Environment",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/nation/politics/nuclear-paris-and-a-return-to-cabinet-who-is-keith-pitt/news-story/ac1225c7faea9e679d6c6a0924951710",
+          "title": "Nuclear, Paris and a return to cabinet: Who is Keith Pitt?",
+          "newspaper": "The Australian",
+          "date": "6 February 2020",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In December 2012, Pitt won the Liberal National Party of Queensland's preselection ballot for the Division of Hinkler, following the retirement of incumbent MP Paul Neville.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal National Party of Queensland"
+                },
+                {
+                  "text": "preselection",
+                  "type": "internal",
+                  "page": "preselection"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Hinkler"
+                },
+                {
+                  "text": "Paul Neville",
+                  "type": "internal",
+                  "page": "Paul Neville (politician)"
+                }
+              ]
+            },
+            {
+              "text": "He had been a member of the LNP for only six months prior to his selection, and stated that his victory in the ballot was a surprise."
+            },
+            {
+              "text": "He retained Hinkler for the party at the 2013 federal election and like Neville sits with the Nationals in federal parliament.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected at the 2016 and 2019 federal elections.",
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                },
+                {
+                  "text": "2019 federal elections",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pitt served as the Assistant Minister to the Deputy Prime Minister between February and July 2016, following a rearrangement in the First Turnbull Ministry.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Australia"
+                },
+                {
+                  "text": "rearrangement",
+                  "type": "internal",
+                  "page": "First Turnbull Ministry",
+                  "anchor": "Second arrangement"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Turnbull Ministry"
+                }
+              ]
+            },
+            {
+              "text": "With the reelection of the Turnbull Government in 2016, Pitt served as the MiniAssistant Minister for Trade, Investment and Tourism between July 2016 and December 2017 in the Second Turnbull Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Turnbull Government"
+                },
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                },
+                {
+                  "text": "MiniAssistant Minister for Trade, Investment and Tourism",
+                  "type": "internal",
+                  "page": "Minister for Trade, Tourism and Investment",
+                  "anchor": "List of Assistant Ministers for Trade, Tourism and Investment"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Turnbull Ministry"
+                }
+              ]
+            },
+            {
+              "text": "He returned as Assistant Minister to the Deputy Prime Minister from 5 March to 28 August 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2020, following the resignation of Matt Canavan, Pitt was reappointed to the ministry as Minister for Resources, Water and Northern Australia in the Second Morrison Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Matt Canavan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Morrison Ministry"
+                }
+              ]
+            },
+            {
+              "text": "He reportedly supported Michael McCormack against Barnaby Joyce in the preceding Nationals leadership spill.",
+              "links": [
+                {
+                  "text": "Michael McCormack",
+                  "type": "internal",
+                  "page": "Michael McCormack (Australian politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barnaby Joyce"
+                },
+                {
+                  "text": "Nationals leadership spill",
+                  "type": "internal",
+                  "page": "2020 National Party of Australia leadership spill"
+                }
+              ]
+            },
+            {
+              "text": "He contested the party's vacant deputy leadership against David Littleproud and David Gillespie, with Littleproud emerging victorious.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Littleproud"
+                },
+                {
+                  "text": "David Gillespie",
+                  "type": "internal",
+                  "page": "David Gillespie (politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sunshinecoastdaily.com.au/news/businessman-wins-race-hinkler/1644099/",
+          "title": "Businessman wins preselection for Hinkler",
+          "date": "2 December 2012",
+          "newspaper": "Sunshine Coast Daily",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.qt.com.au/news/hinkler-lnp-candidate-will-unite-electorate/1708871/",
+          "title": "Hinkler LNP candidate 'will unite' electorate",
+          "newspaper": "Queensland Times",
+          "date": "8 January 2013",
+          "access-date": "11 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://gg.gov.au/events/ministerial-swearing-ceremony-0",
+          "title": "Ministerial Swearing-in Ceremony",
+          "work": "Events",
+          "publisher": "Governor-General of the Commonwealth of Australia",
+          "date": "18 February 2016",
+          "access-date": "19 February 2016",
+          "archive-url": "https://web.archive.org/web/20160301170128/http://gg.gov.au/events/ministerial-swearing-ceremony-0",
+          "archive-date": "1 March 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Stephanie",
+          "last": "Anderson",
+          "title": "Election 2016: Malcolm Turnbull unveils ministry with Christopher Pyne, Greg Hunt on the move",
+          "url": "http://www.abc.net.au/news/2016-07-18/malcolm-turnbull-unveils-new-look-ministry/7638492",
+          "newspaper": "ABC News",
+          "date": "20 July 2016",
+          "access-date": "22 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Barbour",
+          "first": "Lucy",
+          "date": "6 February 2020",
+          "title": "David Littleproud returns to agriculture as Nationals change jobs in Scott Morrison's new-look frontbench",
+          "url": "https://www.abc.net.au/news/2020-02-06/nationals-into-cabinet-at-scott-morrison-reshuffles-frontbench/11932374",
+          "work": "ABC",
+          "location": "Canberra",
+          "access-date": "February 6, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.afr.com/politics/federal/industry-urges-pitt-to-keep-his-foot-on-the-gas-20200206-p53yfw",
+          "title": "Industry urges Pitt to keep his foot on the gas",
+          "quote": "\"Mr Pitt, who declined requests for comment yesterday, was one of several supporters of Nationals leader Michael McCormack to be rewarded with a promotion in the ministerial reshuffle following Barnaby Joyce's unsuccessful leadership coup on Tuesday.\"",
+          "newspaper": "The Australian Financial Review",
+          "date": "6 February 2020",
+          "access-date": "11 July 2020",
+          "first": "Philip",
+          "last": "Coorey",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.afr.com/politics/federal/littleproud-wins-after-rebuffing-joyce-offer-20200204-p53xj2",
+          "title": "Littleproud wins after playing it smart",
+          "newspaper": "The Australian Financial Review",
+          "date": "4 February 2020",
+          "access-date": "11 July 2020",
+          "first": "Andrew",
+          "last": "Tillett",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.theage.com.au/federal-politics/political-news/cabinet-reshuffle-malcolm-turnbull-announces-new-frontbench-as-mal-brough-resigns-20160213-gmta7z.html",
+          "title": "Cabinet reshuffle: Malcolm Turnbull announces new frontbench as Mal Brough resigns",
+          "work": "The Age",
+          "date": "13 February 2016",
+          "access-date": "13 February 2016",
+          "author": "Massola, James",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "quote": "The Hon Keith Pitt MP returns to the Ministry as Assistant Minister to the Deputy Prime Minister.",
+          "url": "https://www.pm.gov.au/media/changes-ministry",
+          "title": "Changes to the Ministry",
+          "date": "1 March 2018",
+          "publisher": "Government of Australia",
+          "author": "Turnbull, Malcolm",
+          "author-link": "Malcolm Turnbull",
+          "access-date": "6 March 2018",
+          "archive-url": "https://web.archive.org/web/20180305202715/https://www.pm.gov.au/media/changes-ministry",
+          "archive-date": "5 March 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "Political views",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In December 2017, Pitt was one of only four members of the House of Representatives to vote against the Marriage Amendment (Definition and Religious Freedoms) Act 2017, which legalised same-sex marriage in Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Described as \"one of the government’s most outspoken advocates for nuclear power\", Pitt quit as assistant minister in August 2018 to demonstrate his opposition to the government commitment to the Paris Agreement on emission reductions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paris Agreement"
+                }
+              ]
+            },
+            {
+              "text": "He has been described as \"one of the key drivers\" behind a 2019 parliamentary inquiry into nuclear power which \"recommended the government consider adding the energy technology to its future energy mix\".",
+              "links": [
+                {
+                  "text": "energy mix",
+                  "type": "internal",
+                  "page": "energy mix"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a May 2021 interview with Sky News Australia presenter, Tom Connell, Pitt declined to admit that batteries could provide dispatchable power to back up electricity generated by a wind farm.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sky News Australia"
+                },
+                {
+                  "text": "dispatchable power",
+                  "type": "internal",
+                  "page": "dispatchable generation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "House of Representatives Hansard THURSDAY, 7 DECEMBER 2017",
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/chamber/hansardr/716f5e71-dee3-40a3-9385-653e048de81b/toc_pdf/House%20of%20Representatives_2017_12_07_5783.pdf;fileType=application%2Fpdf",
+          "access-date": "8 December 2017",
+          "ref": "102",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "‘Clarke and Dawe’: Keith Pitt refuses to say a battery can back up a windfarm",
+          "url": "https://www.youtube.com/watch?v=0MVg3v8zwCY",
+          "access-date": "2021-05-11",
+          "date": "2021-05-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pitt has three children with his wife Allison."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Paul Neville",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Hinkler",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Richard Colbeck",
+          "as": "Minister Assisting the Minister for Trade and Investment",
+          "template": "s-bef"
+        },
+        {
+          "title": "MiniAssistant Minister for Trade, Investment and Tourism",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "after": "Luke Hartsuyker",
+          "template": "s-aft"
+        },
+        {
+          "before": "Michael McCormack",
+          "template": "s-bef"
+        },
+        {
+          "title": "Assistant Minister to the Deputy Prime Minister",
+          "years": "2016",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Luke Hartsuyker",
+          "template": "s-bef"
+        },
+        {
+          "title": "Assistant Minister to the Deputy Prime Minister",
+          "years": "2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Andrew Gee",
+          "template": "s-aft"
+        },
+        {
+          "before": "Matt Canavan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Resources, Water and Minister fNorthern Australia",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "current queensland representatives"
+        },
+        {
+          "template": "australian cabinet"
+        },
+        {
+          "template": "first turnbull ministry"
+        },
+        {
+          "template": "second turnbull ministry"
+        },
+        {
+          "state": "autocollapse",
+          "template": "second morrison ministry"
+        },
+        {
+          "template": "australia-national-politician-stub"
+        }
+      ]
+    }
+  ]
+}

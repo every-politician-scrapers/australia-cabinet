@@ -1,0 +1,746 @@
+{
+  "title": "Kevin Hogan (politician)",
+  "pageID": 40475286,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "National Party of Australia members of the Parliament of Australia",
+    "Members of the Australian House of Representatives for Page",
+    "Members of the Australian House of Representatives",
+    "People from Port Augusta",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kevin John Hogan (born 11 August 1963) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Kevin John Hogan"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Nationals member of the Australian House of Representatives, representing the Division of Page in New South Wales, since September 2013.",
+              "links": [
+                {
+                  "text": "Nationals",
+                  "type": "internal",
+                  "page": "National Party of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Page"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician (born 1963)",
+          "template": "short description"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "date": "March 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1963",
+          "month": "8",
+          "day": "11",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Kevin Hogan"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Kevin Hogan (cropped).jpg"
+          },
+          "office": {
+            "text": "Deputy Speaker of the House",
+            "links": [
+              {
+                "text": "Deputy Speaker of the House",
+                "type": "internal",
+                "page": "Speaker of the Australian House of Representatives"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 March 2018"
+          },
+          "term_end": {
+            "text": "10 February 2020"
+          },
+          "predecessor": {
+            "text": "Mark Coulton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Coulton"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Llew O'Brien",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Llew O'Brien"
+              }
+            ]
+          },
+          "constituency_mp1": {
+            "text": "Page",
+            "links": [
+              {
+                "text": "Page",
+                "type": "internal",
+                "page": "Division of Page"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Australian"
+          },
+          "predecessor1": {
+            "text": "Janelle Saffin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janelle Saffin"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 September 2013"
+          },
+          "birth_name": {
+            "text": "Kevin John Hogan"
+          },
+          "birth_date": {
+            "text": "August 11, 1963"
+          },
+          "birth_place": {
+            "text": "Port Augusta, South Australia, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Port Augusta, South Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian",
+            "links": [
+              {
+                "text": "Australian",
+                "type": "internal",
+                "page": "Australians"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party of Australia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Karen Webber"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Flinders University (BEc)\nSouthern Cross University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Flinders University"
+              },
+              {
+                "text": "BEc",
+                "type": "internal",
+                "page": "Bachelor of Economics"
+              },
+              {
+                "type": "internal",
+                "page": "Southern Cross University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Economist"
+          },
+          "website": {
+            "text": "https://www.kevinhogan.com.au"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hogan was born in Port Augusta in regional South Australia."
+            },
+            {
+              "text": "After completing a Bachelor of Economics at Flinders University in 1984, he began a career in finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Flinders University"
+                }
+              ]
+            },
+            {
+              "text": "He moved to Sydney and worked for an official money market dealer, GIO Securities, dealing with the Reserve Bank of Australia on a daily basis.",
+              "links": [
+                {
+                  "text": "GIO Securities",
+                  "type": "internal",
+                  "page": "GIO General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Reserve Bank of Australia"
+                }
+              ]
+            },
+            {
+              "text": "Hogan then went on to work with Colonial State Bank for ten years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Colonial State Bank"
+                }
+              ]
+            },
+            {
+              "text": "In this role he managed a multibillion-dollar portfolio and appeared on Sky News every morning giving an economic update."
+            },
+            {
+              "text": "Hogan married his wife Karen in 1993."
+            },
+            {
+              "text": "They returned to Karen's home town of Lismore in 1998.",
+              "links": [
+                {
+                  "text": "Lismore",
+                  "type": "internal",
+                  "page": "Lismore, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "He then completed a Graduate Diploma in Education in 1998 at Southern Cross University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Southern Cross University"
+                }
+              ]
+            },
+            {
+              "text": "He took up a position at St Mary's High School in Casino where he taught Business Studies and Commerce from 1999 until 2006.",
+              "links": [
+                {
+                  "text": "Casino",
+                  "type": "internal",
+                  "page": "Casino, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "Hogan has also been a director of the industry superannuation fund Catholic Superannuation Retirement Fund, and was their investment officer from 2006 for a number of years."
+            },
+            {
+              "text": "He then operated his own consultancy business and runs a small cattle property outside Lismore."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.scu.edu.au/about/history/your-stories/graduate-kevin-hogan/",
+          "title": "Graduate: Kevin Hogan",
+          "publisher": "Southern Cross University",
+          "access-date": "2 March 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hogan ran as the Nationals candidate for the Division of Page at the 2010 election, but was defeated by the incumbent Australian Labor Party candidate Janelle Saffin.",
+              "links": [
+                {
+                  "text": "Nationals",
+                  "type": "internal",
+                  "page": "National Party of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Page"
+                },
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Janelle Saffin"
+                }
+              ]
+            },
+            {
+              "text": "He re-contested the bellwether seat at the 2013 election and campaigned heavily on cost of living issues, jobs and the duplication of the Pacific Highway.",
+              "links": [
+                {
+                  "text": "bellwether",
+                  "type": "internal",
+                  "page": "bellwether"
+                },
+                {
+                  "text": "2013 election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He secured a two-party-preferred swing of 6.7 points – almost twice the national average of 3.6 points, finishing with a margin of 2.5 points."
+            },
+            {
+              "text": "The redistribution before the 2016 election saw Kevin re-elected.",
+              "links": [
+                {
+                  "text": "2016 election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "Upon entering Australia's 44th Federal Parliament as a member of the Coalition government, Hogan was appointed to the Finance Select Committee where, at its first meeting, he urged Australian Reserve Bank Governor Glenn Stevens to consider appointing a regional representative to the 11-member interest-rate setting board."
+            },
+            {
+              "text": "Hogan has served on Lismore City Council’s Wastewater Advisory Committee, was vice-president of his local state primary school Parents & Citizens Committee, and has coached junior sporting teams.",
+              "links": [
+                {
+                  "text": "Lismore City Council",
+                  "type": "internal",
+                  "page": "City of Lismore"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 March 2018, the House of Representatives elected Hogan as Deputy Speaker.",
+              "links": [
+                {
+                  "text": "Deputy Speaker",
+                  "type": "internal",
+                  "page": "Speaker of the Australian House of Representatives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following Peter Dutton's unsuccessful attempt to oust Malcolm Turnbull as leader of the Liberal Party and Prime Minister, Hogan announced that he would move to the crossbench if the Liberals called for another spill before the next election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peter Dutton"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malcolm Turnbull"
+                },
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Australia"
+                },
+                {
+                  "text": "another spill",
+                  "type": "internal",
+                  "page": "2018 Liberal Party of Australia leadership spills"
+                }
+              ]
+            },
+            {
+              "text": "He made good on his promise on 24 August, when Turnbull resigned the leadership rather than face a second spill, which resulted in Scott Morrison becoming Prime Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scott Morrison"
+                }
+              ]
+            },
+            {
+              "text": "Hogan called himself an \"Independent National\"; while he sat on the crossbench, he continued to support the Coalition on confidence and supply matters, and remained in the National party room."
+            },
+            {
+              "text": "Nationals leader and Deputy Prime Minister Michael McCormack said that Hogan remained a member of the Nationals in good standing.",
+              "links": [
+                {
+                  "text": "Michael McCormack",
+                  "type": "internal",
+                  "page": "Michael McCormack (Australian politician)"
+                }
+              ]
+            },
+            {
+              "text": "McCormack also stated that Hogan would have the Nationals' full support if he sought reelection as a National at the next federal election.",
+              "links": [
+                {
+                  "text": "next federal election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With Hogan's move to the crossbench and Turnbull's subsequent retirement from politics, the Coalition was reduced to a minority government with 74 out of 150 seats.",
+              "links": [
+                {
+                  "text": "minority government",
+                  "type": "internal",
+                  "page": "minority government"
+                }
+              ]
+            },
+            {
+              "text": "The Coalition remained in minority government after the ensuing by-election saw Wentworth taken by independent Kerryn Phelps.",
+              "links": [
+                {
+                  "text": "ensuing by-election",
+                  "type": "internal",
+                  "page": "2018 Wentworth by-election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kerryn Phelps"
+                }
+              ]
+            },
+            {
+              "text": "As a result, the Coalition needed the votes of Hogan and the five crossbenchers to remain in office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hogan sought reelection as a National in 2019, and was reelected with a healthy swing of seven percent, enough to technically make Page a safe National seat."
+            },
+            {
+              "text": "In a statement published on his own website on 21 May 2019, Hogan announced that he was returning to the Coalition benches, saying that he was satisfied that rule changes in the Liberal Party to discourage challenges to sitting Prime Ministers would end the instability that had caused him to withdraw from the Coalition in protest, and that the recent election results showed that the public wanted a Coalition government."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2020, Hogan was promoted to the Morrison Ministry as the Assistant Minister to the Deputy Prime Minister.",
+              "links": [
+                {
+                  "text": "Morrison Ministry",
+                  "type": "internal",
+                  "page": "Second Morrison Ministry"
+                }
+              ]
+            },
+            {
+              "text": "Llew O'Brien was elected to replace him as the Deputy Speaker of the House on 10 February 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Llew O'Brien"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://results.aec.gov.au/17496/Website/HouseDivisionFirstPrefs-17496-138.htm",
+          "title": "House of Representatives NSW Division – Page",
+          "website": "Election 2013: Virtual Tally Room",
+          "publisher": "Australian Electoral Commission",
+          "date": "30 September 2013",
+          "access-date": "2 March 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.northernstar.com.au/news/i-cannot-condone-constant-rotation-pms-kevin-hogan/3500822/",
+          "title": "'I will not resign... this is about integrity': Kevin Hogan",
+          "first": "Alison",
+          "last": "Patterson",
+          "newspaper": "The Northern Star",
+          "date": "23 August 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/national-affairs/independent-mps-refuse-to-give-morrison-guarantees-of-confidence/news-story/760eeb176b7be3a1836c4791a539b898",
+          "title": "Independent MPs refuse to give Morrison guarantees of confidence",
+          "first": "Rosie",
+          "last": "Lewis",
+          "newspaper": "The Australian",
+          "date": "25 August 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2018-08-28/support-continues-for-kevin-hogan-as-he-heads-for-crossbenches/10169212",
+          "first1": "Hannah",
+          "last1": "Ross",
+          "first2": "Bruce",
+          "last2": "MacKenzie",
+          "first3": "Joanne",
+          "last3": "Shoebridge",
+          "title": "MP Kevin Hogan moving to crossbenches, but remaining as a National Party member",
+          "website": "ABC North Coast",
+          "date": "28 August 2018",
+          "publisher": "Australian Broadcasting Corporation",
+          "access-date": "2 March 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.kevinhogan.com.au/statement-on-cross-bench-position/",
+          "first1": "Kevin",
+          "last1": "Hogan",
+          "title": "STATEMENT ON CROSS BENCH POSITION",
+          "website": "Kevin Hogan MP",
+          "date": "21 May 2019",
+          "publisher": "Kevin Hogan",
+          "access-date": "28 May 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/nation/politics/rebel-national-kevin-hogan-has-no-regrets-at-sit-out/news-story/1296de3e0f195028588d47c9623bac75",
+          "title": "Rebel National Kevin Hogan 'has no regrets' at sit out",
+          "publisher": "The Australian",
+          "date": "6 February 2020",
+          "access-date": "7 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2020-02-06/nationals-into-cabinet-at-scott-morrison-reshuffles-frontbench/11932374",
+          "title": "David Littleproud returns to agriculture as Nationals change jobs in Scott Morrison's new-look frontbench",
+          "publisher": "ABC News",
+          "date": "6 February 2020",
+          "access-date": "6 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2020-02-10/queensland-mp-llew-o27brien-quits-nationals-party-room/11948492",
+          "title": "Barnaby Joyce backer Llew O'Brien quits Nationals party room only to win a shock promotion",
+          "last1": "Doran",
+          "first1": "Matthew",
+          "last2": "Borys",
+          "first2": "Stephanie",
+          "date": "2020-02-10",
+          "website": "ABC News",
+          "language": "en-AU",
+          "access-date": "2020-02-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "name": "Mr Kevin Hogan MP",
+          "mpid": "218019",
+          "access-date": "15 November 2021",
+          "template": "citation",
+          "type": "au parliament"
+        },
+        {
+          "title": "Kevin Hogan voted in as new Deputy Speaker",
+          "url": "https://www.northernstar.com.au/news/kevin-hogan-voted-in-as-new-deputy-speaker/3371148/",
+          "access-date": "26 March 2018",
+          "work": "Northern Star",
+          "date": "26 March 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://www.kevinhogan.com.au/"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-hr"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Janelle Saffin",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Page",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Mark Coulton",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Speaker of the House of Representatives",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Llew O'Brien",
+          "template": "s-aft"
+        },
+        {
+          "template": "current new south wales representatives"
+        }
+      ]
+    }
+  ]
+}

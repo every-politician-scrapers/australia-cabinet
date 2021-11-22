@@ -1,0 +1,1335 @@
+{
+  "title": "Simon Birmingham",
+  "pageID": 10768337,
+  "categories": [
+    "1974 births",
+    "Abbott Government",
+    "Government ministers of Australia",
+    "Living people",
+    "Liberal Party of Australia members of the Parliament of Australia",
+    "Members of the Australian Senate",
+    "Members of the Australian Senate for South Australia",
+    "Members of the Cabinet of Australia",
+    "People from Adelaide",
+    "Turnbull Government",
+    "University of Adelaide alumni",
+    "21st-century Australian politicians",
+    "Morrison Government"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon John Birmingham (born 14 June 1974) is an Australian politician who has been a Senator for South Australia since 2007.",
+              "links": [
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Australian Senate"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon John Birmingham"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Liberal Party and has been the Minister for Finance in the Morrison government since 2020.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                },
+                {
+                  "text": "Minister for Finance",
+                  "type": "internal",
+                  "page": "Minister for Finance (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morrison government"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Minister for Trade, Tourism and Investment in the Morrison government from 2018 to 2020, Minister for Education and Training in the Turnbull government from 2015 to 2018, and as a parliamentary secretary and assistant minister in the Abbott government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Trade, Tourism and Investment"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morrison government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for Education and Training"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turnbull government"
+                },
+                {
+                  "text": "parliamentary secretary",
+                  "type": "internal",
+                  "page": "parliamentary secretary"
+                },
+                {
+                  "text": "assistant minister",
+                  "type": "internal",
+                  "page": "assistant minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abbott government"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 30 October 2020, Birmingham was sworn in as Minister for Finance and became Leader of the Government in the Senate following the resignation of Mathias Cormann.",
+              "links": [
+                {
+                  "text": "Minister for Finance",
+                  "type": "internal",
+                  "page": "Minister for Finance (Australia)"
+                },
+                {
+                  "text": "Leader of the Government in the Senate",
+                  "type": "internal",
+                  "page": "Leader of the Government in the Senate (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mathias Cormann"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "August 2016",
+          "template": "use australian english"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1974",
+          "month": "06",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Senator The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Senator"
+              },
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Simon Birmingham"
+          },
+          "image": {
+            "text": "File:Simon Birmingham.jpg"
+          },
+          "caption": {
+            "text": "Birmingham in 2015"
+          },
+          "office1": {
+            "text": "Leader of the Government in the Senate",
+            "links": [
+              {
+                "text": "Leader of the Government in the Senate",
+                "type": "internal",
+                "page": "Leader of the Government in the Senate (Australia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 October 2020"
+          },
+          "primeminister1": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mathias Cormann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Finance",
+            "links": [
+              {
+                "text": "Minister for Finance",
+                "type": "internal",
+                "page": "Minister for Finance (Australia)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mathias Cormann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "30 October 2020"
+          },
+          "office3": {
+            "text": "Vice-President of the Executive Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice-President of the Executive Council"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Mathias Cormann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "30 October 2020"
+          },
+          "office4": {
+            "text": "Minister for Trade, Tourism and Investment",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Trade, Tourism and Investment"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Steven Ciobo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Ciobo"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Dan Tehan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dan Tehan"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 August 2018"
+          },
+          "term_end4": {
+            "text": "22 December 2020"
+          },
+          "office5": {
+            "text": "Deputy Leader of the Government in the Senate",
+            "links": [
+              {
+                "text": "Deputy Leader of the Government in the Senate",
+                "type": "internal",
+                "page": "Leader of the Government in the Senate (Australia)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "28 August 2018"
+          },
+          "term_end5": {
+            "text": "30 October 2020"
+          },
+          "primeminister5": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "leader5": {
+            "text": "Mathias Cormann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Mitch Fifield",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mitch Fifield"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Michaelia Cash",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michaelia Cash"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Minister for Education and Training",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Education and Training"
+              }
+            ]
+          },
+          "primeminister6": {
+            "text": "Malcolm Turnbull Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              },
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor6": {
+            "text": "Christopher Pyne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christopher Pyne"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Dan Tehan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dan Tehan"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "21 September 2015"
+          },
+          "term_end6": {
+            "text": "28 August 2018"
+          },
+          "office7": {
+            "text": "Assistant Minister for Education and Training",
+            "links": [
+              {
+                "text": "Assistant Minister for Education and Training",
+                "type": "internal",
+                "page": "Minister for Education and Training",
+                "anchor": "List of assistant ministers"
+              }
+            ]
+          },
+          "primeminister7": {
+            "text": "Tony Abbott\nMalcolm Turnbull",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Abbott"
+              },
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "predecessor7": {
+            "text": "Sussan Ley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sussan Ley"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
+          },
+          "term_start7": {
+            "text": "23 December 2014"
+          },
+          "term_end7": {
+            "text": "21 September 2015"
+          },
+          "office8": {
+            "text": "Senator for South Australia",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "South Australia"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "3 May 2007"
+          },
+          "predecessor8": {
+            "text": "Jeannie Ferris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeannie Ferris"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Simon John Birmingham"
+          },
+          "birth_date": {
+            "text": "June 14, 1974"
+          },
+          "birth_place": {
+            "text": "Ashford, Adelaide, South Australia",
+            "links": [
+              {
+                "text": "Ashford",
+                "type": "internal",
+                "page": "Ashford, South Australia"
+              },
+              {
+                "type": "internal",
+                "page": "Adelaide"
+              },
+              {
+                "type": "internal",
+                "page": "South Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Australia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Adelaide",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Adelaide"
+              }
+            ]
+          },
+          "website": {
+            "text": "senatorbirmingham.com.au"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/CitizenshipRegister",
+          "title": "Citizenship Register",
+          "publisher": "Parliament of Australia",
+          "access-date": "5 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Gailberger",
+          "first1": "Jade",
+          "title": "Simon Birmingham sworn in as finance minister",
+          "url": "https://www.theaustralian.com.au/breaking-news/simon-birmingham-sworn-in-as-finance-minister/news-story/6fc538c06d9ed9ff8be5f1c1fcc4f521",
+          "website": "The Australian",
+          "access-date": "29 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Birmingham grew up on his family's horse agistment property near Gawler, South Australia.",
+              "links": [
+                {
+                  "text": "agistment",
+                  "type": "internal",
+                  "page": "agistment"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gawler, South Australia"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at Gawler High School and the University of Adelaide; neither of his parents had attended university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gawler High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                }
+              ]
+            },
+            {
+              "text": "He has cited his grandmother Madge Herde, a school principal, as a key influence in his decision to enter politics."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Birmingham was named South Australia's Lions Club Youth of the Year in 1992 and awarded the Town of Gawler's Australia Day Young Citizen of the Year Award in 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lions Club"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gawler"
+                }
+              ]
+            },
+            {
+              "text": "He holds a Master of Business Administration from the Adelaide Graduate School of Business, University of Adelaide.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He began his career working as an electorate officer for Senator Robert Hill.",
+              "links": [
+                {
+                  "text": "Robert Hill",
+                  "type": "internal",
+                  "page": "Robert Hill (Australian ambassador)"
+                }
+              ]
+            },
+            {
+              "text": "In 1997 Birmingham moved from federal to state politics, working as a ministerial advisor to Joan Hall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joan Hall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Early in 2000 Birmingham moved to Canberra to become the national manager of public affairs for the Australian Hotels Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canberra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Hotels Association"
+                }
+              ]
+            },
+            {
+              "text": "In late 2001, Birmingham was appointed chief of staff to the South Australian state minister for tourism and innovation, Martin Hamilton-Smith.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Martin Hamilton-Smith"
+                }
+              ]
+            },
+            {
+              "text": "Following a change of government in 2002, Birmingham began work with the Winemakers' Federation of Australia where he remained until his appointment to the Senate in 2007."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lionsclubs.org.au/yoty/shr%20sa%20nt.htm",
+          "title": "South Australia: Lions Club Youth of the Year",
+          "publisher": "Lions Clubs of Australia",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20080722120358/http://lionsclubs.org.au/yoty/shr%20sa%20nt.htm",
+          "archive-date": "22 July 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://parlinfoweb.aph.gov.au/piweb/TranslateWIPILink.aspx?Folder=PRESSCLP&Criteria=CITATION_ID:SZ436%3B",
+          "title": "Building industry tips job losses",
+          "work": "The Age",
+          "date": "4 January 2001}}{{dead link|date=November 2014|undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/tv/qanda/senators/birmingham.htm",
+          "title": "Simon BirninghamP profile",
+          "work": "Q&A",
+          "publisher": "Australian Broadcasting Corporation",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.senatorbirmingham.com.au/about-simon/biography/",
+          "title": "Biography",
+          "publisher": "Simon Birmingham",
+          "access-date": "15 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.afr.com/policy/health-and-education/simon-birmingham-the-man-behind-the-stunning-political-strike-which-revived-gonski-school-funding-20170503-gvy4xj",
+          "title": "Simon Birmingham: The man behind Turnbull's stunning Gonski political strike",
+          "newspaper": "The Australian Financial Review",
+          "date": "5 May 2017",
+          "access-date": "15 January 2020",
+          "first": "Tim",
+          "last": "Dodd",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the age of 29, Birmingham won Liberal Party preselection for the marginal seat of Hindmarsh at the 2004 federal election following the retirement of sitting member Chris Gallus.",
+              "links": [
+                {
+                  "text": "Hindmarsh",
+                  "type": "internal",
+                  "page": "Division of Hindmarsh"
+                },
+                {
+                  "text": "2004 federal election",
+                  "type": "internal",
+                  "page": "2004 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chris Gallus"
+                }
+              ]
+            },
+            {
+              "text": "The seat was narrowly won by Labor's Steve Georganas.",
+              "links": [
+                {
+                  "text": "Labor's",
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Steve Georganas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After an unsuccessful attempt to fill the vacancy created by Robert Hill's retirement from the Senate in 2006, Birmingham won Liberal Party preselection as a Senate candidate in 2007 federal election and was elected for a six-year term.",
+              "links": [
+                {
+                  "text": "2007 federal election",
+                  "type": "internal",
+                  "page": "Australian Federal Election, 2007"
+                }
+              ]
+            },
+            {
+              "text": "However, he entered the Senate earlier, being appointed to fill the vacancy caused by the death of Senator Jeannie Ferris.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jeannie Ferris"
+                }
+              ]
+            },
+            {
+              "text": "At the time of his appointment on 3 May 2007, Birmingham was the youngest member of the Australian Senate."
+            },
+            {
+              "text": "He is identified with the moderate wing of the Liberal Party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Birmingham served on Senate Environment, Communications, and Arts Committees from May 2007 to February 2010, the Senate Select Committee on the National Broadband Network as well as the Joint Standing Committee on Treaties from 2007 to September 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joint Standing Committee on Treaties"
+                }
+              ]
+            },
+            {
+              "text": "He was also the Chair of the Senate Environment and Communications References Committee (from September 2012), the Deputy Chair of the Senate Environment and Communications Legislation Committee (from September 2012), a member of the Joint Standing Committee on Electoral Matters (from February 2008) and a member of the Joint Committee on the National Broadband Network (from March 2011)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Birmingham is also deputy chair of the Parliamentary Association for UNICEF.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UNICEF"
+                }
+              ]
+            },
+            {
+              "text": "Birmingham has a keen interest in water issues including the health and future of the Murray Darling Basin,  and in December 2008 introduced a Private Member's Bill, The Water Amendment (Saving the Goulburn and Murray Rivers) Bill 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Murray Darling Basin"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Water Amendment (Saving the Goulburn and Murray Rivers) Bill 2008"
+                ]
+              }
+            },
+            {
+              "text": "In December 2009 Birmingham was appointed to the Coalition frontbench as Shadow Parliamentary Secretary for the Murray Darling Basin and Shadow Parliamentary Secretary for Climate Action."
+            },
+            {
+              "text": "After the 2010 election he was re-appointed Shadow Parliamentary Secretary for the Murray Darling Basin and appointed Shadow Parliamentary Secretary for the Environment."
+            },
+            {
+              "text": "He also represented the Shadow Minister for Communications and Broadband, Hon Malcolm Turnbull, in the Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malcolm Turnbull"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.theaustralian.news.com.au/story/0,25197,18778684-2702,00.html",
+          "title": "Loss for Hill's faction in Senate",
+          "work": "The Australian",
+          "date": "11 April 2006}}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.independentweekly.com.au/news/local/news/general/victoria-slurps-murray-as-sa-dams/1489312.aspx",
+          "title": "Victoria Slurps Murray as SA Dams",
+          "work": "The Independent Weekly",
+          "date": "18 April 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://parlinfo/parlInfo/download/media/pressclp/SG9R6/upload_binary/sg9r60.pdf;fileType=application/pdf#search=%22Advertiser%20Birmingham%20murray%22",
+          "title": "Opinion: Government giving up on our Lower Lakes",
+          "work": "The Advertiser",
+          "date": "14 August 2008}}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://parlinfo/parlInfo/download/media/pressclp/37IP6/upload_binary/37ip63.pdf;fileType=application/pdf#search=%22Advertiser%20Birmingham%20murray%22",
+          "title": "Lack of action is leaving us high and dry",
+          "work": "The Advertiser",
+          "date": "25 January 2008}}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.liberal.org.au/news.php?Id=4282",
+          "title": "A Reshaped Coalition Team for Australia's Future",
+          "publisher": "Liberal Party of Australia",
+          "date": "8 December 2009",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.aph.gov.au/Library/parl/43/Shadow/index.htm",
+          "title": "Archived copy",
+          "access-date": "15 October 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100917122739/http://www.aph.gov.au/Library/parl/43/Shadow/index.htm",
+          "archive-date": "17 September 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://parlinfoweb.aph.gov.au/piweb/TranslateWIPILink.aspx?Folder=biogs&Criteria=NAME_ID:H6X%3B",
+          "title": "Senator Simon John Birmingham",
+          "work": "Members and Senators",
+          "publisher": "Parliament of Australia",
+          "url-status": "dead",
+          "archive-url": "http://webarchive.loc.gov/all/20090515023257/http://parlinfoweb.aph.gov.au/piweb/TranslateWIPILink.aspx?Folder=biogs&Criteria=NAME_ID:H6X;",
+          "archive-date": "15 May 2009",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ministerial appointments",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2013 federal election, Birmingham served in the Abbott Ministry as a parliamentary secretary to the Minister for the Environment and from September 2013 until December 2014; when he was appointed as the Assistant Minister for Education and Training.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abbott Ministry"
+                },
+                {
+                  "text": "parliamentary secretary",
+                  "type": "internal",
+                  "page": "parliamentary secretary"
+                },
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Minister for the Environment (Australia)"
+                },
+                {
+                  "text": "Assistant Minister for Education and Training",
+                  "type": "internal",
+                  "page": "Minister for Education and Training",
+                  "anchor": "List of assistant ministers"
+                }
+              ]
+            },
+            {
+              "text": "He became the Minister for Education and Training in the First Turnbull Ministry following the Liberal Party of Australia leadership spill, September 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First Turnbull Ministry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liberal Party of Australia leadership spill, September 2015"
+                }
+              ]
+            },
+            {
+              "text": "Upon the installment of the Morrison Ministry in August 2018, he became the Minister for Trade, Tourism and Investment."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 30 October 2020, Birmingham was further appointed as Leader of the Government in the Senate and Minister for Finance.",
+              "links": [
+                {
+                  "text": "Leader of the Government in the Senate",
+                  "type": "internal",
+                  "page": "Leader of the Government in the Senate (Australia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IA CEPA Signing Ceremony (47276317981).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IA_CEPA_Signing_Ceremony_(47276317981).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IA_CEPA_Signing_Ceremony_(47276317981).jpg",
+          "caption": "Birmingham and his Indonesian counterpart Enggartiasto Lukita at the signing of the Indonesia–Australia Comprehensive Economic Partnership Agreement in March 2019",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Abbott Government",
+            "Turnbull Government",
+            "Morrison Government"
+          ],
+          "template": "further"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.trademinister.gov.au/minister/simon-birmingham/media-release/appointment-minister-finance",
+          "title": "Appointment as Minister for Finance",
+          "publisher": "Minister for Trade, Tourism and Investment",
+          "date": "30 October 2020",
+          "access-date": "12 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pm.gov.au/media/minister-finance-and-senate-leadership",
+          "title": "Minister for Finance and Senate leadership",
+          "publisher": "Prime Minister of Australia",
+          "date": "8 October 2020",
+          "access-date": "12 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.dpmc.gov.au/parliamentary/docs/ministry_list_20130918.pdf",
+          "title": "Abbott Ministry",
+          "work": "Department of the Prime Minister and Cabinet",
+          "publisher": "Commonwealth of Australia",
+          "date": "18 September 2013",
+          "access-date": "22 September 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20130926165842/http://www.dpmc.gov.au/parliamentary/docs/ministry_list_20130918.pdf",
+          "archive-date": "26 September 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tony Abbott's revamped Ministry sworn in at Government House",
+          "url": "http://www.news.com.au/national/tony-abbotts-revamped-ministry-sworn-in-at-government-house/story-fncynjr2-1227164880085",
+          "work": "news.com.au",
+          "publisher": "News Corp Australia",
+          "date": "23 December 2014",
+          "access-date": "23 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tony Abbott cabinet reshuffle moves Scott Morrison out of immigration",
+          "date": "21 December 2014",
+          "access-date": "21 December 2014",
+          "url": "https://www.theguardian.com/australia-news/2014/dec/21/tony-abbott-cabinet-reshuffle-moves-scott-morrison-out-of-immigration",
+          "author": "Taylor, Lenore",
+          "work": "Guardian Australia",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "name": "Senator the Hon Simon Birmingham",
+          "mpid": "H6X",
+          "access-date": "2021-11-04",
+          "template": "citation",
+          "type": "au parliament"
+        }
+      ]
+    },
+    {
+      "title": "Political views",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Birmingham is a member of the moderate or liberal wing of the Liberal Party, and was regarded as a key backer of Malcolm Turnbull in the 2015 leadership contest.",
+              "links": [
+                {
+                  "text": "2015 leadership contest",
+                  "type": "internal",
+                  "page": "September 2015 Liberal Party of Australia leadership spill"
+                }
+              ]
+            },
+            {
+              "text": "According to Andrew Tillett, writing in The Australian Financial Review in August 2019, the retirement of Christopher Pyne saw Birmingham \"assume the mantle as the most senior moderate\" in the party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Australian Financial Review"
+                },
+                {
+                  "type": "internal",
+                  "page": "Christopher Pyne"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Australian Financial Review"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Tillett",
+          "first": "Andrew",
+          "date": "23 August 2019",
+          "title": "The rise of the next generation of factional leaders",
+          "newspaper": "The Australian Financial Review",
+          "url": "https://www.afr.com/politics/federal/the-rise-of-the-next-generation-of-factional-leaders-20190822-p52joy",
+          "access-date": "15 January 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Birmingham is married to his former campaign manager Courtney Morcombe, who is the chief of staff to South Australian premier Steven Marshall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steven Marshall"
+                }
+              ]
+            },
+            {
+              "text": "The couple have two daughters."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a 2013 survey of Australian federal politics, Birmingham was one of only four MPs and senators to publicly identify as atheist."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.adelaidenow.com.au/lifestyle/sa-weekend/a-liberal-dose-of-influence-for-adelaides-ultimate-power-couple-simon-birmingham-and-courtney-morcombe/news-story/51caa742266b2098f8086335d1160eeb",
+          "title": "Simon Birmingham and Courtney Morcombe: Adelaide's ultimate power couple",
+          "newspaper": "The Advertiser",
+          "date": "25 October 2019",
+          "access-date": "15 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.news.com.au/lifestyle/do-australian-mps-believe-in-god/news-story/105d104df51b77ee48a5af05fe5bcba2",
+          "title": "Do Australian MPs believe in God?",
+          "publisher": "News.com.au",
+          "date": "31 March 2013",
+          "access-date": "15 January 2020",
+          "first": "Candace",
+          "last": "Sutton",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Jeannie Ferris",
+          "template": "s-bef"
+        },
+        {
+          "title": "Senator for South Australia",
+          "years": "2007–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Mathias Cormann",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Finance",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "title": "Leader of the Government in the Senate",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Steven Ciobo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Trade, Tourism and Investment",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Dan Tehan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Mitch Fifield",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Leader of the Government in the Senate",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michaelia Cash",
+          "template": "s-aft"
+        },
+        {
+          "before": "Christopher Pyne",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Education and Training",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Dan Tehan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sussan Ley",
+          "as": "Assistant Minister for Education",
+          "template": "s-bef"
+        },
+        {
+          "title": "Assistant Minister for Education and Training",
+          "years": "2014–2015",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Ministry abolished",
+          "template": "s-non"
+        },
+        {
+          "template": "australian senators"
+        },
+        {
+          "template": "australian cabinet"
+        },
+        {
+          "template": "abbott ministry"
+        },
+        {
+          "template": "first turnbull ministry"
+        },
+        {
+          "template": "second turnbull ministry"
+        },
+        {
+          "template": "first morrison ministry"
+        },
+        {
+          "template": "second morrison ministry"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Senator Birmingham's Official Website",
+            "links": [
+              {
+                "text": "Senator Birmingham's Official Website",
+                "type": "external",
+                "site": "http://www.senatorbirmingham.com.au"
+              }
+            ]
+          },
+          {
+            "text": "Summary of parliamentary voting for Senator Simon Birmingham on TheyVoteForYou.org.au",
+            "links": [
+              {
+                "text": "Summary of parliamentary voting for Senator Simon Birmingham on TheyVoteForYou.org.au",
+                "type": "external",
+                "site": "https://theyvoteforyou.org.au/people/senate/sa/simon_birmingham"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Rachel Noble",
+  "pageID": 64244862,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Australian public servants",
+    "Recipients of the Public Service Medal (Australia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rachel Noble is the Director-General of the Australian Signals Directorate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Signals Directorate"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rachel Noble"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed to the position in February 2020 and is the first woman to hold the position."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "PSM"
+          ],
+          "template": "post-nominals"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Noble was employed at the Australian Cyber Security Centre and prior to her ASD appointment had spent 20 years working in the public service.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Cyber Security Centre"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior senior executive roles have included acting as Australia’s first national security CIO within the Department of the Prime Minister and Cabinet, and Deputy chief of the Australia-US satellite tracking facility at Pine Gap in the Northern Territory.",
+              "links": [
+                {
+                  "text": "Department of the Prime Minister and Cabinet",
+                  "type": "internal",
+                  "page": "Department of the Prime Minister and Cabinet (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pine Gap"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Territory"
+                }
+              ]
+            },
+            {
+              "text": "She is also a former National Director of Intelligence and Chief Information Officer at the Australian Customs and Border Protection Service and Assistant secretary of governance, responsible for the overall governance and assurance framework for the Department of Defence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Customs and Border Protection Service"
+                },
+                {
+                  "text": "Department of Defence",
+                  "type": "internal",
+                  "page": "Department of Defence (Australia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Dingwall",
+          "first": "Doug",
+          "date": "2019-12-13",
+          "title": "New Australian Signals Directorate boss announced",
+          "url": "https://www.canberratimes.com.au/story/6541690/new-australian-signals-directorate-boss-announced/",
+          "access-date": "2020-06-16",
+          "website": "The Canberra Times",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "ACSC chief Rachel Noble ascends to head ASD",
+          "url": "https://www.itnews.com.au/news/acsc-chief-rachel-noble-ascends-to-head-asd-535559",
+          "access-date": "2020-06-11",
+          "website": "iTnews",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-12-13",
+          "title": "New spy boss becomes the first woman to lead major Australian intelligence agency",
+          "url": "https://www.abc.net.au/news/2019-12-13/rachel-noble-first-woman-to-lead-australian-signals-directorate/11797046",
+          "access-date": "2020-06-11",
+          "website": "www.abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Barbaschow",
+          "first": "Asha",
+          "title": "Rachel Noble to become director-general of the Australian Signals Directorate",
+          "url": "https://www.zdnet.com/article/rachel-noble-to-become-director-general-of-the-australian-signals-directorate/",
+          "access-date": "2020-06-16",
+          "website": "ZDNet",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Mike Burgess",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director-General of the\nAustralian Signals Directorate",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "australia-gov-bio-stub"
+        }
+      ]
+    }
+  ]
+}

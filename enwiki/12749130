@@ -1,0 +1,1168 @@
+{
+  "title": "Susan Kiefel",
+  "pageID": 12749130,
+  "categories": [
+    "Women chief justices",
+    "Australian Queen's Counsel",
+    "Justices of the High Court of Australia",
+    "Judges of the Federal Court of Australia",
+    "Judges of the Supreme Court of Queensland",
+    "Companions of the Order of Australia",
+    "Fellows of the Australian Academy of Law",
+    "Alumni of Wolfson College, Cambridge",
+    "People from Cairns",
+    "1954 births",
+    "Living people",
+    "Chief Justices of Australia",
+    "Australian women judges",
+    "Judges of the Supreme Court of Norfolk Island",
+    "20th-century Australian judges",
+    "21st-century Australian judges",
+    "20th-century women judges",
+    "21st-century women judges",
+    "20th-century Australian women"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Mary Kiefel ( born 17 January 1954) is the chief justice of Australia, in office since 30 January 2017.",
+              "links": [
+                {
+                  "text": "chief justice of Australia",
+                  "type": "internal",
+                  "page": "Chief Justice of Australia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Mary Kiefel"
+                ]
+              }
+            },
+            {
+              "text": "She has served on the High Court since 2007, having previously been a judge of the Supreme Court of Queensland and the Federal Court.",
+              "links": [
+                {
+                  "text": "High Court",
+                  "type": "internal",
+                  "page": "High Court of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Queensland"
+                },
+                {
+                  "text": "Federal Court",
+                  "type": "internal",
+                  "page": "Federal Court of Australia"
+                }
+              ]
+            },
+            {
+              "text": "Kiefel is the first woman to serve as Chief Justice.",
+              "links": [
+                {
+                  "text": "first woman to",
+                  "type": "internal",
+                  "page": "List of the first women appointed to Australian judicial positions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian judge; Chief Justice of Australia",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2011",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AC"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1954",
+          "month": "1",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "AC"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "template": "ipac",
+          "transcription": "ˈ,k,iː,f,əl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable Chief Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
+              {
+                "text": "Chief Justice",
+                "type": "internal",
+                "page": "Chief Justice of Australia"
+              }
+            ]
+          },
+          "name": {
+            "text": "Susan Kiefel"
+          },
+          "image": {
+            "text": "Susan Kiefel 2011.jpg"
+          },
+          "caption": {
+            "text": "Kiefel in 2011"
+          },
+          "order": {
+            "text": "13th"
+          },
+          "office": {
+            "text": "Chief Justice of Australia"
+          },
+          "term_start": {
+            "text": "30 January 2017"
+          },
+          "appointer": {
+            "text": "Sir Peter Cosgrove",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Cosgrove"
+              }
+            ]
+          },
+          "nominator": {
+            "text": "Malcolm Turnbull",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Robert French",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert French"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Justice of the High Court of Australia",
+            "links": [
+              {
+                "text": "Justice of the High Court of Australia",
+                "type": "internal",
+                "page": "List of Justices of the High Court of Australia"
+              }
+            ]
+          },
+          "nominator2": {
+            "text": "John Howard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Howard"
+              }
+            ]
+          },
+          "appointer2": {
+            "text": "Michael Jeffery",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Jeffery"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 September 2007"
+          },
+          "predecessor2": {
+            "text": "Ian Callinan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ian Callinan"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Judge of the Federal Court of Australia",
+            "links": [
+              {
+                "text": "Judge of the Federal Court of Australia",
+                "type": "internal",
+                "page": "List of judges of the Federal Court of Australia"
+              }
+            ]
+          },
+          "nominator3": {
+            "text": "Paul Keating",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Keating"
+              }
+            ]
+          },
+          "appointer3": {
+            "text": "Bill Hayden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Hayden"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "17 October 1994"
+          },
+          "term_end3": {
+            "text": "4 September 2007"
+          },
+          "office5": {
+            "text": "Judge of the Supreme Court of Queensland",
+            "links": [
+              {
+                "text": "Judge of the Supreme Court of Queensland",
+                "type": "internal",
+                "page": "List of judges of the Supreme Court of Queensland"
+              }
+            ]
+          },
+          "nominator5": {
+            "text": "Wayne Goss",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wayne Goss"
+              }
+            ]
+          },
+          "appointer5": {
+            "text": "Leneen Forde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leneen Forde"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "16 June 1993"
+          },
+          "term_end5": {
+            "text": "16 October 1994"
+          },
+          "alma_mater": {
+            "text": "Legal Profession Admission Board Wolfson College, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legal Profession Admission Board"
+              },
+              {
+                "type": "internal",
+                "page": "Wolfson College, Cambridge"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 17, 1954"
+          },
+          "birth_place": {
+            "text": "Cairns, Queensland, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cairns"
+              },
+              {
+                "type": "internal",
+                "page": "Queensland"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Michael Albrecht"
+          },
+          "nationality": {
+            "text": "Australian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "12 June 2011",
+          "title": "Justice Susan Kiefel",
+          "url": "https://www.youtube.com/watch?v=SIVombCaPiw&t=87",
+          "access-date": "30 November 2015",
+          "publisher": "SBS World News",
+          "template": "citation",
+          "type": "av media"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiefel was born in Cairns, Queensland, in 1954.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cairns"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                }
+              ]
+            },
+            {
+              "text": "She attended Sandgate District State High School, leaving at the age of 15 upon completing year 10.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sandgate District State High School"
+                }
+              ]
+            },
+            {
+              "text": "In 1971, she completed secretarial training at Kangaroo Point Technical College on a scholarship.",
+              "links": [
+                {
+                  "text": "Kangaroo Point",
+                  "type": "internal",
+                  "page": "Kangaroo Point, Queensland"
+                },
+                {
+                  "text": "Technical College",
+                  "type": "internal",
+                  "page": "Technical and Further Education"
+                },
+                {
+                  "text": "scholarship",
+                  "type": "internal",
+                  "page": "scholarship"
+                }
+              ]
+            },
+            {
+              "text": "She worked as a secretary for a building society, an architect, and an exploration company before starting work as a receptionist for a group of barristers.",
+              "links": [
+                {
+                  "text": "building society",
+                  "type": "internal",
+                  "page": "building society"
+                }
+              ]
+            },
+            {
+              "text": "During this time, she completed secondary school and began studying law.",
+              "links": [
+                {
+                  "text": "secondary school",
+                  "type": "internal",
+                  "page": "secondary school"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1973, Kiefel joined a firm of solicitors as a legal clerk."
+            },
+            {
+              "text": "Completing her education at night, she enrolled in the Barristers Admission Board course and passed her course with honours.",
+              "links": [
+                {
+                  "text": "Barristers Admission Board course",
+                  "type": "internal",
+                  "page": "Legal Profession Admission Board"
+                }
+              ]
+            },
+            {
+              "text": "In 1984, while on sabbatical leave, she completed a Master of Laws (LLM) at the University of Cambridge, where she was awarded the C.J. Hamson Prize in Comparative Law and the Jennings Prize.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Comparative Law"
+                }
+              ]
+            },
+            {
+              "text": "In 2008, she was elected to an honorary fellowship of Wolfson College, Cambridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wolfson College, Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "She is a life fellow of the Australian Academy of Law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Academy of Law"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.smh.com.au/news/national/straightshooter-jumps-the-bar/2007/08/17/1186857771602.html?page=fullpage#contentSwap1",
+          "title": "Straight-shooter jumps the bar",
+          "work": "The Sydney Morning Herald",
+          "date": "18 August 2007",
+          "access-date": "18 August 2007",
+          "author": "Marriner, Cosima",
+          "archive-date": "8 November 2012",
+          "archive-url": "https://web.archive.org/web/20121108051947/http://www.smh.com.au/news/national/straightshooter-jumps-the-bar/2007/08/17/1186857771602.html?page=fullpage#contentSwap1",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Susan Kiefel – Member public profile",
+          "url": "https://academyoflaw.org.au/Sys/PublicProfile/35294373/4141329",
+          "access-date": "2020-07-31",
+          "website": "Australian Academy of Law",
+          "archive-date": "26 October 2020",
+          "archive-url": "https://web.archive.org/web/20201026121319/https://academyoflaw.org.au/Sys/PublicProfile/35294373/4141329",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/news/inquirer/third-times-a-charm/news-story/62d8fe9f609b2a50ac4abfbb7144ff7c",
+          "author": "Pelly, Michael",
+          "title": "Third time's a charm",
+          "work": "The Australian",
+          "date": "14 August 2007",
+          "access-date": "25 July 2020",
+          "archive-date": "9 March 2017",
+          "archive-url": "https://web.archive.org/web/20170309160814/http://www.theaustralian.com.au/news/inquirer/third-times-a-charm/news-story/62d8fe9f609b2a50ac4abfbb7144ff7c",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Legal and judicial career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiefel was admitted to the bar in 1975."
+            },
+            {
+              "text": "She became an honorary secretary of the Queensland Bar Association in 1978 and served on its committee in 1993."
+            },
+            {
+              "text": "She was appointed as the first female Queen's Counsel in Queensland in 1987 and was appointed to the Human Rights and Equal Opportunity Commission in 1989.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen's Counsel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Human Rights and Equal Opportunity Commission"
+                }
+              ]
+            },
+            {
+              "text": "In May 1993, Kiefel was appointed to the Supreme Court of Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Queensland"
+                }
+              ]
+            },
+            {
+              "text": "The following year she was appointed by the Keating Government to the Supreme Court of Norfolk Island and was one of the first women to be appointed to the Federal Court of Australia on 17 October 1994, after Justice Deirdre O'Connor.",
+              "links": [
+                {
+                  "text": "Keating",
+                  "type": "internal",
+                  "page": "Paul Keating"
+                },
+                {
+                  "text": "Government",
+                  "type": "internal",
+                  "page": "Keating Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Norfolk Island"
+                },
+                {
+                  "type": "internal",
+                  "page": "Federal Court of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deirdre O'Connor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2001, Kiefel was appointed Deputy President of the Australian Federal Police Disciplinary Tribunal and became its president in April 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Federal Police"
+                }
+              ]
+            },
+            {
+              "text": "In 2003, Kiefel was appointed as a part-time commissioner of the Australian Law Reform Commission, and was re-appointed for a further three years in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Law Reform Commission"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2009, Justice Kiefel was granted an honorary doctorate from Griffith University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Griffith University"
+                }
+              ]
+            },
+            {
+              "text": "Justice Kiefel was chosen to recognise her distinguished contributions to the legal profession and for leading the way for women in the industry."
+            },
+            {
+              "text": "On 13 June 2011, she was named a companion of the Order of Australia for eminent service to the law and to the judiciary, to law reform and to legal education in the areas of ethics, justice and governance.",
+              "links": [
+                {
+                  "text": "companion of the Order of Australia",
+                  "type": "internal",
+                  "page": "Order of Australia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.courts.qld.gov.au/library/exhibition/women/biographies/kiefel.htm",
+          "publisher": "Supreme Court of Queensland",
+          "work": "Women in the Law in Queensland",
+          "title": "Biographies: Susan Kiefel",
+          "access-date": "13 August 2007",
+          "archive-url": "https://web.archive.org/web/20060919091620/http://www.courts.qld.gov.au/library/exhibition/women/biographies/kiefel.htm",
+          "archive-date": "19 September 2006",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.fedcourt.gov.au/aboutct/jj_seniority.html#kiefel.htm",
+          "title": "List by appointment date of current judges",
+          "work": "The Court",
+          "publisher": "Federal Court of Australia",
+          "access-date": "13 August 2007",
+          "archive-date": "26 March 2012",
+          "archive-url": "https://web.archive.org/web/20120326064047/http://www.fedcourt.gov.au/aboutct/jj_seniority.html#kiefel.htm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www3.griffith.edu.au/03/ertiki/tiki-read_article.php?articleId=21185",
+          "title": "Justice Kiefel awarded honorary doctorate",
+          "work": "Griffith News",
+          "access-date": "9 August 2009",
+          "date": "6 August 2009",
+          "author": "Phipps, Julia",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20091112000704/http://www3.griffith.edu.au/03/ertiki/tiki-read_article.php?articleId=21185",
+          "archive-date": "12 November 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Susan Kiefel AC",
+          "url": "http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1144232&search_type=simple&showInd=true",
+          "work": "It's an Honour",
+          "publisher": "Commonwealth of Australian",
+          "date": "13 June 2011",
+          "access-date": "13 June 2011",
+          "archive-date": "24 March 2012",
+          "archive-url": "https://web.archive.org/web/20120324045649/http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1144232&search_type=simple&showInd=true",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.heraldsun.com.au/news/more-news/justice-susan-kiefel-awarded-ac-in-queens-birthday-honours/story-fn7x8me2-1226073981274",
+          "title": "Justice Susan Kiefel awarded AC in Queen's Birthday Honours",
+          "work": "Herald Sun",
+          "date": "13 June 2011",
+          "access-date": "13 June 2011",
+          "author": "Leys, Nick",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Appointment to the High Court",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 13 August 2007, Attorney-General Philip Ruddock announced Kiefel as the nominee to the High Court of Australia to replace the retiring High Court Justice Ian Callinan.",
+              "links": [
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philip Ruddock"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ian Callinan"
+                }
+              ]
+            },
+            {
+              "text": "Kiefel had previously been considered a favourite nominee to replace former High Court Justice Mary Gaudron when she retired in 2003, and again in 2005 as replacement for Justice Michael McHugh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mary Gaudron"
+                },
+                {
+                  "text": "Michael McHugh",
+                  "type": "internal",
+                  "page": "Michael McHugh (judge)"
+                }
+              ]
+            },
+            {
+              "text": "Kiefel is the third female High Court Justice and the forty-sixth overall.",
+              "links": [
+                {
+                  "text": "High Court Justice",
+                  "type": "internal",
+                  "page": "List of Justices of the High Court of Australia"
+                }
+              ]
+            },
+            {
+              "text": "Her appointment alongside incumbent Justice Susan Crennan marked the first time two women sat concurrently on the High Court bench.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Susan Crennan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiefel's nomination was met with support from the Australian Bar Association amid criticism of the lack of consultation by the Australian government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Bar Association"
+                }
+              ]
+            },
+            {
+              "text": "She was considered a conservative \"black-letter\" judge.",
+              "links": [
+                {
+                  "text": "black-letter",
+                  "type": "internal",
+                  "page": "Black letter law"
+                }
+              ]
+            },
+            {
+              "text": "She may remain on the High Court until 2024, when she will reach the constitutionally mandatory retirement age of 70."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Shaw",
+          "first": "Meaghan",
+          "url": "http://www.theage.com.au/news/national/second-woman-appointed-to-high-court/2005/09/20/1126982047232.html",
+          "title": "Second woman appointed to High Court",
+          "work": "The Age",
+          "location": "Australia",
+          "date": "20 September 2005",
+          "access-date": "13 August 2007",
+          "archive-date": "1 September 2007",
+          "archive-url": "https://web.archive.org/web/20070901014618/http://www.theage.com.au/news/national/second-woman-appointed-to-high-court/2005/09/20/1126982047232.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Karvelas",
+          "first": "Patricia",
+          "url": "http://www.theaustralian.news.com.au/story/0,25197,22240944-601,00.html",
+          "title": "Kiefel will make High Court history",
+          "publisher": "The Australian",
+          "date": "14 August 2007",
+          "access-date": "15 August 2007}}{{dead link|date=February 2012|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Pelly",
+          "first": "Michael",
+          "url": "http://www.smh.com.au/news/national/mchughs-angels-10-women-fit-for-high-court-says-top-judge/2005/08/18/1123958182102.html",
+          "title": "McHugh's angels: 10 women fit for High Court, says top judge",
+          "work": "The Sydney Morning Herald",
+          "date": "19 August 2007",
+          "access-date": "13 August 2007",
+          "archive-date": "12 September 2007",
+          "archive-url": "https://web.archive.org/web/20070912213825/http://www.smh.com.au/news/national/mchughs-angels-10-women-fit-for-high-court-says-top-judge/2005/08/18/1123958182102.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Hudson",
+          "first": "Phillip",
+          "url": "http://www.smh.com.au/news/national/ruddock-names-new-high-court-judge/2007/08/13/1186857421228.html",
+          "title": "Ruddock names new High Court judge",
+          "work": "The Sydney Morning Herald",
+          "date": "13 August 2007",
+          "access-date": "13 August 2007",
+          "archive-date": "23 October 2012",
+          "archive-url": "https://web.archive.org/web/20121023021224/http://www.smh.com.au/news/national/ruddock-names-new-high-court-judge/2007/08/13/1186857421228.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Chief Justice of Australia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 29 November 2016, Prime Minister Malcolm Turnbull and Attorney-General George Brandis announced Kiefel's appointment as Chief Justice of Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malcolm Turnbull"
+                },
+                {
+                  "type": "internal",
+                  "page": "George Brandis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of Australia"
+                }
+              ]
+            },
+            {
+              "text": "The appointment took effect from 30 January 2017, following the retirement of Robert French.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert French"
+                }
+              ]
+            },
+            {
+              "text": "Kiefel is the first woman to be appointed as Chief Justice."
+            },
+            {
+              "text": "Her seat on the court was filled by James Edelman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Edelman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Giving the inaugural Lord Atkin Lecture in November 2017, Kiefel expressed her disapproval of the prevalence of judicial dissent, which she believes should be reserved for only the most important cases.",
+              "links": [
+                {
+                  "text": "judicial dissent",
+                  "type": "internal",
+                  "page": "Dissenting opinion"
+                }
+              ]
+            },
+            {
+              "text": "She said law students should devote more attention to \"mundane majority opinion\", and described judges who frequently dissent as \"somewhat self-indulgent\"."
+            },
+            {
+              "text": "She further observed that \"humorous dissent may provide the author with fleeting popularity, but it may harm the image the public has of the court and its judges\"."
+            },
+            {
+              "text": "An article in May 2018 noted that Kiefel had dissented in only two out of 164 cases before the High Court since 2014, classing her as one of the court's \"great assenters\" along with Patrick Keane and Virginia Bell.",
+              "links": [
+                {
+                  "text": "Patrick Keane",
+                  "type": "internal",
+                  "page": "Patrick Keane (justice)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Virginia Bell"
+                }
+              ]
+            },
+            {
+              "text": "She was one of three dissenters in Love v Commonwealth (2020), which found that Aboriginal Australians are not subject to the aliens power in section 51(xix) of the constitution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Love v Commonwealth"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aboriginal Australians"
+                },
+                {
+                  "text": "section 51(xix)",
+                  "type": "internal",
+                  "page": "Section 51 of the Constitution of Australia"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Love v Commonwealth"
+                ]
+              }
+            },
+            {
+              "text": "She stated that the majority had confused property rights with citizenship rights, and said that \"race is irrelevant to the questions of citizenship and membership of the Australian body politic\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2020, Kiefel announced that the High Court had in 2019 commissioned an independent investigation into sexual misconduct allegations against her former colleague Dyson Heydon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dyson Heydon"
+                }
+              ]
+            },
+            {
+              "text": "The inquiry, led by Vivienne Thom, concluded that Heydon had sexually harassed six female associates.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vivienne Thom"
+                },
+                {
+                  "text": "associates",
+                  "type": "internal",
+                  "page": "Judge's associate"
+                }
+              ]
+            },
+            {
+              "text": "In a statement, Kiefel said that she had apologised to the women on behalf of the court and that it had adopted recommendations from the inquiry."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://auspublaw.org/2016/11/chief-justice-susan-kiefel-and-the-politics-of-judicial-diversity",
+          "title": "Chief Justice Susan Kiefel and the politics of judicial diversity",
+          "first": "Kcasey",
+          "last": "McLoughlin",
+          "work": "AUSPUBLAW",
+          "date": "29 November 2016",
+          "access-date": "29 November 2016",
+          "archive-date": "29 November 2016",
+          "archive-url": "https://web.archive.org/web/20161129210231/https://auspublaw.org/2016/11/chief-justice-susan-kiefel-and-the-politics-of-judicial-diversity/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://auspublaw.org/2017/02/ceremony-matters",
+          "title": "Ceremony matters: The lasting significance of the swearing-in ceremony of Chief Justice Susan Kiefel",
+          "last": "Roberts",
+          "first": "Heather",
+          "work": "AUSPUBLAW",
+          "date": "9 February 2017",
+          "access-date": "9 February 2017",
+          "archive-date": "12 February 2017",
+          "archive-url": "https://web.archive.org/web/20170212091043/https://auspublaw.org/2017/02/ceremony-matters/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.hcourt.gov.au/assets/publications/speeches/current-justices/kiefelj/KiefelCJ28Nov2017_1.pdf",
+          "website": "High Court of Australia",
+          "last": "Kiefel",
+          "first": "Susan",
+          "title": "Judicial Courage and the Decorum of Dissent",
+          "date": "28 November 2017",
+          "access-date": "5 May 2018",
+          "archive-date": "5 May 2018",
+          "archive-url": "https://web.archive.org/web/20180505204742/http://www.hcourt.gov.au/assets/publications/speeches/current-justices/kiefelj/KiefelCJ28Nov2017_1.pdf",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://insidestory.org.au/the-great-assenters/",
+          "title": "The great assenters",
+          "author": "Jeremy Gans",
+          "publisher": "Inside Story",
+          "date": "1 May 2018",
+          "access-date": "4 May 2018",
+          "archive-date": "4 May 2018",
+          "archive-url": "https://web.archive.org/web/20180504174826/http://insidestory.org.au/the-great-assenters/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2020-02-12/high-court-love-and-thoms-aboriginal-connection-to-land/11954662",
+          "title": "High Court decision in Love and Thoms case reflects Aboriginal connection to the land",
+          "first": "Anne",
+          "last": "Twomey",
+          "author-link": "Anne Twomey (academic)",
+          "date": "12 February 2020",
+          "access-date": "27 June 2020",
+          "archive-date": "27 April 2020",
+          "archive-url": "https://web.archive.org/web/20200427033142/https://www.abc.net.au/news/2020-02-12/high-court-love-and-thoms-aboriginal-connection-to-land/11954662",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2020-06-22/former-high-court-judge-sexually-harrassed-several-associates/12381236",
+          "title": "High Court statement reveals investigation findings of sexual harassment, denied by former High Court judge Dyson Heydon",
+          "work": "ABC News",
+          "date": "23 June 2020",
+          "access-date": "27 June 2020",
+          "archive-date": "25 June 2020",
+          "archive-url": "https://web.archive.org/web/20200625235314/https://www.abc.net.au/news/2020-06-22/former-high-court-judge-sexually-harrassed-several-associates/12381236",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/australia-news/2016/nov/29/susan-kiefel-becomes-first-woman-appointed-as-high-court-chief-justice",
+          "title": "Susan Kiefel becomes first woman appointed as high court chief justice",
+          "last": "Chan",
+          "first": "Gabrielle",
+          "newspaper": "The Guardian",
+          "date": "29 November 2016",
+          "access-date": "6 February 2017",
+          "archive-date": "6 February 2017",
+          "archive-url": "https://web.archive.org/web/20170206190415/https://www.theguardian.com/australia-news/2016/nov/29/susan-kiefel-becomes-first-woman-appointed-as-high-court-chief-justice",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "While at Wolfson College, Kiefel met her future husband, Michael Albrecht, a social anthropologist, when she became a member of the college rowing crew and Albrecht was her coach.",
+              "links": [
+                {
+                  "text": "social anthropologist",
+                  "type": "internal",
+                  "page": "Social anthropology"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.wolfson.cam.ac.uk/news/2007/08/15/the-hon-justice-susan-kiefel-appointed-to-australian-high-court/",
+          "title": "The Hon Justice Susan Kiefel appointed to Australian High Court",
+          "work": "Wolfson College News",
+          "date": "15 August 2007",
+          "access-date": "18 August 2007",
+          "archive-date": "7 November 2007",
+          "archive-url": "https://web.archive.org/web/20071107070443/http://www.wolfson.cam.ac.uk/news/2007/08/15/the-hon-justice-susan-kiefel-appointed-to-australian-high-court/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of first women lawyers and judges by nationality",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of first women lawyers and judges by nationality"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "before": "Robert French",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Justice of Australia",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "justices of the high court of australia"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

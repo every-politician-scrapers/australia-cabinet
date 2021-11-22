@@ -1,0 +1,869 @@
+{
+  "title": "David Coleman (Australian politician)",
+  "pageID": 40470199,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Lawyers from Sydney",
+    "Liberal Party of Australia members of the Parliament of Australia",
+    "Politicians from Sydney",
+    "University of New South Wales Law School alumni",
+    "Members of the Australian House of Representatives for Banks",
+    "Members of the Australian House of Representatives",
+    "21st-century Australian politicians",
+    "Turnbull Government",
+    "Government ministers of Australia",
+    "Morrison Government"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Bernard Coleman (born 5 March 1974) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "David Bernard Coleman"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Liberal Party and was elected to the House of Representatives at the 2013 federal election, holding the New South Wales seat of Banks.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                },
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                },
+                {
+                  "text": "Banks",
+                  "type": "internal",
+                  "page": "Division of Banks"
+                }
+              ]
+            },
+            {
+              "text": "In December 2020 he was appointed Assistant Minister to the Prime Minister for Mental Health and Suicide Prevention."
+            },
+            {
+              "text": "He previously served as Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs in the Morrison Government from August 2018, although in December 2019 he took indefinite leave for personal reasons.",
+              "links": [
+                {
+                  "text": "Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs",
+                  "type": "internal",
+                  "page": "Minister for Immigration (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morrison Government"
+                }
+              ]
+            },
+            {
+              "text": "He had earlier served as Assistant Minister for Finance in the Turnbull Government from 2017 to 2018.",
+              "links": [
+                {
+                  "text": "Assistant Minister for Finance",
+                  "type": "internal",
+                  "page": "Minister for Finance (Australia)",
+                  "anchor": "List of assistant ministers for finance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turnbull Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "David Coleman",
+            "David Coleman (disambiguation)"
+          ],
+          "template": "other people"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2016",
+          "template": "use australian english"
+        },
+        {
+          "df": "y",
+          "year": "1974",
+          "month": "3",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honorable"
+          },
+          "name": {
+            "text": "David Coleman"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "David Coleman.jpg"
+          },
+          "office": {
+            "text": "Assistant Minister to the Prime Minister for Mental Health and Suicide Prevention"
+          },
+          "term_start": {
+            "text": "22 December 2020"
+          },
+          "predecessor": {
+            "text": "New title",
+            "formatting": {
+              "italic": [
+                "New title"
+              ]
+            }
+          },
+          "primeminister": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs",
+            "links": [
+              {
+                "text": "Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs",
+                "type": "internal",
+                "page": "Minister for Immigration (Australia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 August 2018"
+          },
+          "term_end1": {
+            "text": "22 December 2020"
+          },
+          "predecessor1": {
+            "text": "Peter Dutton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Dutton"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Alex Hawke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alex Hawke"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Assistant Minister for Finance",
+            "links": [
+              {
+                "text": "Assistant Minister for Finance",
+                "type": "internal",
+                "page": "Minister for Finance (Australia)",
+                "anchor": "List of assistant ministers for finance"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Mathias Cormann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 December 2017"
+          },
+          "term_end2": {
+            "text": "28 August 2018"
+          },
+          "predecessor2": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Zed Seselja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zed Seselja"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Malcolm Turnbull Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              },
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "constituency_mp3": {
+            "text": "Banks",
+            "links": [
+              {
+                "text": "Banks",
+                "type": "internal",
+                "page": "Division of Banks"
+              }
+            ]
+          },
+          "parliament3": {
+            "text": "Australian"
+          },
+          "predecessor3": {
+            "text": "Daryl Melham",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daryl Melham"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "7 September 2013"
+          },
+          "majority3": {
+            "text": "6.26% (11,488)"
+          },
+          "birth_date": {
+            "text": "March 5, 1974"
+          },
+          "birth_place": {
+            "text": "Camden, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Camden, New South Wales"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Australia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of New South Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of New South Wales"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Management consultant",
+            "links": [
+              {
+                "text": "Management consultant",
+                "type": "internal",
+                "page": "Management consulting"
+              }
+            ]
+          },
+          "website": {
+            "text": "aph.gov.au/D_Coleman_MP"
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "quote": "David Coleman, who came to Parliament after a long career in business, was elevated to the ministry as Assistant Minister for Finance.",
+          "url": "https://www.pm.gov.au/media/ministerial-arrangements-2",
+          "title": "Ministerial Arrangements",
+          "date": "19 December 2017",
+          "publisher": "Government of Australia",
+          "author": "Turnbull, Malcolm",
+          "author-link": "Malcolm Turnbull",
+          "access-date": "3 February 2018",
+          "archive-url": "https://web.archive.org/web/20180313005337/https://www.pm.gov.au/media/ministerial-arrangements-2",
+          "archive-date": "13 March 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Coleman was born in, a south-western suburb of Sydney."
+            },
+            {
+              "text": "He attended primary school at Saint Thomas à Becket primary school in ; and completed his schooling at the Christian Brothers' High School, also in Lewisham.",
+              "links": [
+                {
+                  "text": "Saint Thomas à Becket",
+                  "type": "internal",
+                  "page": "Trinity Grammar School (New South Wales)"
+                },
+                {
+                  "text": "Christian Brothers' High School",
+                  "type": "internal",
+                  "page": "Christian Brothers' High School, Lewisham"
+                }
+              ]
+            },
+            {
+              "text": "Coleman studied at the University of New South Wales, where he graduated with a Bachelor of Arts and Bachelor of Laws, and was president of the UNSW Student Guild in 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of New South Wales"
+                },
+                {
+                  "text": "Bachelor of Laws",
+                  "type": "internal",
+                  "page": "Bachelor of Law"
+                },
+                {
+                  "text": "UNSW Student Guild",
+                  "type": "internal",
+                  "page": "Arc @ UNSW Limited",
+                  "anchor": "University of New South Wales Student Guild"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Camden"
+          ],
+          "template": "nswcity"
+        },
+        {
+          "list": [
+            "Lewisham"
+          ],
+          "template": "nswcity"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=241067",
+          "title": "Mr David Coleman MP",
+          "work": "Senators and Members",
+          "publisher": "Parliament of Australia",
+          "access-date": "25 November 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Before entering politics, Coleman worked for global management consulting firm McKinsey & Co, LookSmart, dStore, and since 2005, in a variety of roles for PBL Media and the Nine Network where he was the director of strategy and digital.",
+              "links": [
+                {
+                  "text": "McKinsey & Co",
+                  "type": "internal",
+                  "page": "McKinsey & Company"
+                },
+                {
+                  "type": "internal",
+                  "page": "LookSmart"
+                },
+                {
+                  "text": "dStore",
+                  "type": "internal",
+                  "page": "dStore"
+                },
+                {
+                  "text": "PBL Media",
+                  "type": "internal",
+                  "page": "Nine Entertainment Co."
+                },
+                {
+                  "type": "internal",
+                  "page": "Nine Network"
+                }
+              ]
+            },
+            {
+              "text": "Coleman entered Liberal preselection contests for Cook in 2007 and Bradfield in 2010; but he was unsuccessful in receiving Liberal endorsement.",
+              "links": [
+                {
+                  "text": "Liberal",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                },
+                {
+                  "text": "Cook",
+                  "type": "internal",
+                  "page": "Division of Cook"
+                },
+                {
+                  "text": "Bradfield",
+                  "type": "internal",
+                  "page": "Division of Bradfield"
+                }
+              ]
+            },
+            {
+              "text": "Before his election to Parliament, Coleman held directorships with ninemsn Pty Limited (2008–13), Australian News Channel Pty Limited (2008–13), and Yellow Brick Road Holdings Limited (2011–13).",
+              "links": [
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Australia"
+                },
+                {
+                  "text": "ninemsn",
+                  "type": "internal",
+                  "page": "ninemsn"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian News Channel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the 2013 federal election Coleman defeated the incumbent Labor member for Banks, Daryl Melham, who had held the seat for 23 years.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "text": "Labor",
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "text": "Banks",
+                  "type": "internal",
+                  "page": "Division of Banks"
+                },
+                {
+                  "type": "internal",
+                  "page": "Daryl Melham"
+                }
+              ]
+            },
+            {
+              "text": "Coleman recorded a two-party preferred swing of 3.28 points in his favour; and became the first non-Labor member to hold the seat since the Division of Banks was created in 1949.",
+              "links": [
+                {
+                  "text": "two-party preferred",
+                  "type": "internal",
+                  "page": "two-party preferred"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://results.aec.gov.au/17496/Website/HouseDivisionFirstPrefs-17496-103.htm",
+          "title": "House of Representatives: NSW: Banks",
+          "work": "Election 2013",
+          "publisher": "Australian Electoral Commission",
+          "date": "24 September 2013",
+          "access-date": "15 July 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=CHAMBER;id=chamber%2Fhansardr%2Fcbaa06fe-b02e-4ba8-9fde-fd279b7b8579%2F0073;query=Id%3A%22chamber%2Fhansardr%2Fcbaa06fe-b02e-4ba8-9fde-fd279b7b8579%2F0074%22",
+          "title": "First speech",
+          "work": "Hansard extract",
+          "publisher": "Parliament of Australia",
+          "date": "19 November 2013",
+          "access-date": "25 November 2013",
+          "author": "Coleman, David",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nsw.liberal.org.au/david-coleman",
+          "title": "David Coleman Liberal for Banks",
+          "publisher": "Liberal Party of Australia – New South Wales",
+          "access-date": "7 September 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.theleader.com.au/story/1763552/coleman-eager-to-deliver-on-commitments/?cs=12",
+          "title": "Coleman eager to deliver on commitments",
+          "author": "Galinovic, Maria",
+          "date": "11 September 2013",
+          "work": "St George and Sutherland Shire Leader",
+          "access-date": "14 September 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Ministerial career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Coleman was appointed Assistant Minister for Finance in December 2017, in the Second Turnbull Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Turnbull Ministry"
+                }
+              ]
+            },
+            {
+              "text": "In the August 2018 leadership spills, he reportedly supported Malcolm Turnbull in the first vote and Scott Morrison in the second.",
+              "links": [
+                {
+                  "text": "August 2018 leadership spills",
+                  "type": "internal",
+                  "page": "2018 Liberal Party of Australia leadership spills"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malcolm Turnbull"
+                },
+                {
+                  "type": "internal",
+                  "page": "Scott Morrison"
+                }
+              ]
+            },
+            {
+              "text": "He was subsequently appointed Minister for Immigration, Citizenship and Multicultural Affairs in the First Morrison Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Immigration, Citizenship and Multicultural Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Morrison Ministry"
+                }
+              ]
+            },
+            {
+              "text": "After the government's re-election at the 2019 election, his title was changed to Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs.",
+              "links": [
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2019, it was announced that Coleman would be taking indefinite leave for personal reasons, with Alan Tudge taking over his portfolio as acting minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alan Tudge"
+                }
+              ]
+            },
+            {
+              "text": "He formally remained as a minister until a December 2020 reshuffle, in which he was instead appointed Assistant Minister to the Prime Minister for Mental Health and Suicide Prevention."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.smh.com.au/politics/federal/malcolm-turnbull-v-peter-dutton-who-voted-for-who-the-full-list-20180821-p4zyvg.html",
+          "title": "Malcolm Turnbull v Peter Dutton: Who voted for whom? The full list",
+          "date": "21 August 2018",
+          "website": "The Sydney Morning Herald",
+          "language": "en",
+          "access-date": "21 August 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.smh.com.au/politics/federal/how-the-party-members-voted-in-the-liberal-leadership-contest-20180824-p4zzoc.html",
+          "title": "How the party members voted in the Liberal leadership contest",
+          "access-date": "30 August 2018",
+          "date": "24 August 2018",
+          "website": "The Sydney Morning Herald",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Immigration Minister David Coleman takes indefinite personal leave, hands over duties",
+          "url": "https://www.sbs.com.au/news/immigration-minister-david-coleman-takes-indefinite-personal-leave-hands-over-duties",
+          "date": "13 December 2019",
+          "access-date": "12 August 2020",
+          "website": "SBS News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political views",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Coleman was in favour of legalising same-sex marriage in the 2017 postal survey.",
+              "links": [
+                {
+                  "text": "same-sex marriage",
+                  "type": "internal",
+                  "page": "same-sex marriage"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.davidcoleman.com.au/media/media-releases/statement-same-sex-marriage",
+          "title": "Statement on Same Sex Marriage'",
+          "access-date": "6 April 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Coleman is married to Dotte Derrickson and they have two children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.davidcoleman.com.au/about-david/",
+          "title": "About David",
+          "website": "davidcoleman.com.au",
+          "access-date": "8 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Daryl Melham",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Banks",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "list": [
+            "minister"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Assistant Minister for Finance",
+          "years": "2017–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Zed Seselja",
+          "template": "s-aft"
+        },
+        {
+          "before": "Peter Dutton",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Immigration, Citizenship and Multicultural Affairs",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "current new south wales representatives"
+        },
+        {
+          "template": "second turnbull ministry"
+        },
+        {
+          "template": "first morrison ministry"
+        },
+        {
+          "template": "second morrison ministry"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Coleman's OpenAustralia page",
+            "links": [
+              {
+                "text": "Coleman's OpenAustralia page",
+                "type": "external",
+                "site": "http://www.openaustralia.org.au/mp/david_coleman/banks"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

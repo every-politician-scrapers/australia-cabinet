@@ -1,0 +1,1064 @@
+{
+  "title": "David Gillespie (politician)",
+  "pageID": 40475716,
+  "categories": [
+    "1957 births",
+    "Australian gastroenterologists",
+    "Government ministers of Australia",
+    "Living people",
+    "Members of the Australian House of Representatives",
+    "Members of the Australian House of Representatives for Lyne",
+    "National Party of Australia members of the Parliament of Australia",
+    "Sydney Medical School alumni",
+    "21st-century Australian politicians",
+    "Turnbull Government"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Arthur Gillespie (born 20 December 1957) is an Australian politician and gastroenterologist.",
+              "formatting": {
+                "bold": [
+                  "David Arthur Gillespie"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Nationals member of the House of Representatives since 2013, representing the Division of Lyne in New South Wales.",
+              "links": [
+                {
+                  "text": "Nationals",
+                  "type": "internal",
+                  "page": "National Party of Australia"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Lyne"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "He is currently the Minister for Regional Health and has previously served as an assistant minister in the Turnbull Government from 2016 to 2018, serving as Assistant Minister for Rural Health (2016–2017), Assistant Minister for Health (2017) and Assistant Minister for Children and Families (2017–2018).",
+              "links": [
+                {
+                  "text": "Minister for Regional Health",
+                  "type": "internal",
+                  "page": "Minister for Health (Australia)",
+                  "anchor": "List of ministers for regional health"
+                },
+                {
+                  "text": "assistant minister",
+                  "type": "internal",
+                  "page": "assistant minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turnbull Government"
+                },
+                {
+                  "text": "Assistant Minister for Rural Health",
+                  "type": "internal",
+                  "page": "Minister for Health (Australia)",
+                  "anchor": "List of assistant health ministers"
+                },
+                {
+                  "text": "Assistant Minister for Health",
+                  "type": "internal",
+                  "page": "Minister for Health (Australia)",
+                  "anchor": "List of assistant health ministers"
+                },
+                {
+                  "text": "Assistant Minister for Children and Families",
+                  "type": "internal",
+                  "page": "Minister for Social Services (Australia)",
+                  "anchor": "List of assistant minister for children and families"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician and gastroenterologist",
+          "template": "short description"
+        },
+        {
+          "date": "January 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "df": "yes",
+          "year": "1957",
+          "month": "12",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dr David Gillespie"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "David Gillespie 2017 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Gillespie in 2017"
+          },
+          "office": {
+            "text": "Minister for Regional Health",
+            "links": [
+              {
+                "text": "Minister for Regional Health",
+                "type": "internal",
+                "page": "Department of Health (Australia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mark Coulton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Coulton"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 July 2021"
+          },
+          "office2": {
+            "text": "Assistant Minister for Children and Families",
+            "links": [
+              {
+                "text": "Assistant Minister for Children and Families",
+                "type": "internal",
+                "page": "Minister for Social Services (Australia)",
+                "anchor": "List of assistant minister for children and families"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Malcolm Turnbull Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              },
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "New ministerial post",
+            "formatting": {
+              "italic": [
+                "New ministerial post"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Michelle Landry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Landry"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 December 2017"
+          },
+          "term_end2": {
+            "text": "28 August 2018"
+          },
+          "office3": {
+            "text": "Assistant Minister for Health",
+            "links": [
+              {
+                "text": "Assistant Minister for Health",
+                "type": "internal",
+                "page": "Minister for Health (Australia)",
+                "anchor": "List of assistant health ministers"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Malcolm Turnbull",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Himself (as Assistant Minister for Rural Health)",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Bridget McKenzie (as the Minister for Rural Health)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bridget McKenzie"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "24 January 2017"
+          },
+          "term_end3": {
+            "text": "20 December 2017"
+          },
+          "office4": {
+            "text": "Assistant Minister for Rural Health",
+            "links": [
+              {
+                "text": "Assistant Minister for Rural Health",
+                "type": "internal",
+                "page": "Minister for Health (Australia)",
+                "anchor": "List of assistant health ministers"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Malcolm Turnbull",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Fiona Nash (as Minister for Rural Health)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fiona Nash"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Himself (as Assistant Minister for Health)",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "term_start4": {
+            "text": "19 July 2016"
+          },
+          "term_end4": {
+            "text": "24 January 2017"
+          },
+          "constituency_mp5": {
+            "text": "Lyne",
+            "links": [
+              {
+                "text": "Lyne",
+                "type": "internal",
+                "page": "Division of Lyne"
+              }
+            ]
+          },
+          "parliament5": {
+            "text": "Australian"
+          },
+          "predecessor5": {
+            "text": "Rob Oakeshott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rob Oakeshott"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "7 September 2013"
+          },
+          "birth_name": {
+            "text": "David Arthur Gillespie"
+          },
+          "birth_date": {
+            "text": "December 20, 1957"
+          },
+          "birth_place": {
+            "text": "Canberra, Australian Capital Territory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Canberra"
+              },
+              {
+                "type": "internal",
+                "page": "Australian Capital Territory"
+              }
+            ]
+          },
+          "party": {
+            "text": "The Nationals",
+            "links": [
+              {
+                "text": "The Nationals",
+                "type": "internal",
+                "page": "National Party of Australia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Charlotte Gillespie"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of Sydney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sydney"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Gastroenterologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gastroenterologist"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "quote": "In the new role of Assistant Minister for Children and Families, Dr David Gillespie will work with the Minister for Social Services, Dan Tehan, to ensure children get the best start in life and families get all the support they need.",
+          "url": "https://www.pm.gov.au/media/ministerial-arrangements-2",
+          "title": "Ministerial Arrangements",
+          "date": "20 December 2017",
+          "publisher": "Government of Australia",
+          "author": "Turnbull, Malcolm",
+          "author-link": "Malcolm Turnbull",
+          "access-date": "3 February 2018",
+          "archive-url": "https://web.archive.org/web/20180313005337/https://www.pm.gov.au/media/ministerial-arrangements-2",
+          "archive-date": "13 March 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gillespie was born in Canberra and educated at Saint Ignatius' College, Riverview.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canberra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Ignatius' College, Riverview"
+                }
+              ]
+            },
+            {
+              "text": "He was a gastroenterologist for twenty years and, up until the 2013 election, was the director of physician training at Port Macquarie Base Hospital.",
+              "links": [
+                {
+                  "text": "gastroenterologist",
+                  "type": "internal",
+                  "page": "gastroenterologist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Port Macquarie"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/federal-election-2013/guide/lyne/",
+          "author": "Green, Antony",
+          "author-link": "Antony Green",
+          "title": "Lyne Results: Federal Election 2013",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "15 September 2013",
+          "access-date": "15 September 2013",
+          "archive-url": "https://web.archive.org/web/20181026104016/https://www.abc.net.au/news/federal-election-2013/guide/lyne/",
+          "archive-date": "26 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gillespie contested the seat of Lyne for the first time in 2010."
+            },
+            {
+              "text": "While he lost to the incumbent, National-turned-independent Rob Oakeshott, the Nationals picked up an 11-point swing.",
+              "links": [
+                {
+                  "text": "independent",
+                  "type": "internal",
+                  "page": "Independent (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rob Oakeshott"
+                }
+              ]
+            },
+            {
+              "text": "Following Oakeshott's retirement at the 2013 federal election, Gillespie contested the seat again and won it resoundingly.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "During Oakeshott's tenure, Lyne remained a comfortably safe National seat in a traditional two-party matchup with Labor, so it had been expected that the seat would revert to the Nationals once Oakeshott retired."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nationals.org.au/OurTeam/FederalCandidates/DavidGillespieLyne.aspx",
+          "title": "David Gillespie Candidate for Lyne",
+          "publisher": "National Party of Australia",
+          "year": "2013",
+          "access-date": "7 September 2013",
+          "archive-url": "https://web.archive.org/web/20130901085344/http://www.nationals.org.au/OurTeam/FederalCandidates/DavidGillespieLyne.aspx",
+          "archive-date": "1 September 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Turnbull Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the re-election of the Turnbull Government at the 2016 federal election, Gillespie was appointed Assistant Minister for Rural Health in the a ministerial reshuffle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Turnbull Government"
+                },
+                {
+                  "text": "2016 federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                },
+                {
+                  "text": "a ministerial reshuffle",
+                  "type": "internal",
+                  "page": "Second Turnbull Ministry",
+                  "anchor": "First arrangement"
+                }
+              ]
+            },
+            {
+              "text": "He was promoted to Assistant Minister for Health in a subsequent rearrangement of the ministry in January 2017.",
+              "links": [
+                {
+                  "text": "subsequent rearrangement of the ministry",
+                  "type": "internal",
+                  "page": "Second Turnbull Ministry",
+                  "anchor": "Second arrangement"
+                }
+              ]
+            },
+            {
+              "text": "Gillespie has argued for politicians who represent electorates larger than 10,000 square kilometres (such as his own) to receive additional expenses."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2018, Gillespie was briefly a candidate to replace Barnaby Joyce as National Party leader.",
+              "links": [
+                {
+                  "text": "a candidate",
+                  "type": "internal",
+                  "page": "2018 National Party of Australia leadership election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barnaby Joyce"
+                }
+              ]
+            },
+            {
+              "text": "After finding a lack of support for his candidacy within the party room, he withdrew from the race and endorsed Michael McCormack, the only other announced candidate.",
+              "links": [
+                {
+                  "text": "party room",
+                  "type": "internal",
+                  "page": "party room"
+                },
+                {
+                  "text": "Michael McCormack",
+                  "type": "internal",
+                  "page": "Michael McCormack (Australian politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gillespie was not retained in the ministry when Scott Morrison replaced Turnbull as prime minister in August 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scott Morrison"
+                }
+              ]
+            },
+            {
+              "text": "He said he was \"disappointed but it is a very competitive space, and the reshuffle is a reflection of how much talent we have\"."
+            },
+            {
+              "text": "He also stated that \"the general electorate was pretty disgusted with all the factional wars that we saw played out in public\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "first": "Stephanie",
+          "last": "Anderson",
+          "title": "Election 2016: Malcolm Turnbull unveils ministry with Christopher Pyne, Greg Hunt on the move",
+          "url": "http://www.abc.net.au/news/2016-07-18/malcolm-turnbull-unveils-new-look-ministry/7638492",
+          "newspaper": "ABC News",
+          "date": "20 July 2016",
+          "access-date": "22 July 2016",
+          "archive-url": "https://web.archive.org/web/20160824050817/http://www.abc.net.au/news/2016-07-18/malcolm-turnbull-unveils-new-look-ministry/7638492",
+          "archive-date": "24 August 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "PM's Department tries to hide frontbencher's bid for extra perks",
+          "url": "http://www.abc.net.au/news/2017-12-02/pms-department-tries-to-hide-frontbenchers-bid-for-extra-perks/9218658",
+          "access-date": "2 December 2017",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "2 December 2017",
+          "language": "en-AU",
+          "archive-url": "https://web.archive.org/web/20171201221739/http://www.abc.net.au/news/2017-12-02/pms-department-tries-to-hide-frontbenchers-bid-for-extra-perks/9218658",
+          "archive-date": "1 December 2017",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.manningrivertimes.com.au/story/5246790/lyne-mp-to-challenge-for-leadership-if-joyce-quits-video/",
+          "title": "Dr David Gillespie confirms he will stand for leadership of the National Party if Barnaby Joyce resigns",
+          "work": "Manning River Times",
+          "date": "23 February 2018",
+          "access-date": "3 February 2020",
+          "archive-url": "https://web.archive.org/web/20180418235551/https://www.manningrivertimes.com.au/story/5246790/lyne-mp-to-challenge-for-leadership-if-joyce-quits-video/",
+          "archive-date": "18 April 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/national-affairs/michael-mccormack-to-lead-nationals/news-story/c97e0b69ffddacde8abddd64825afe9a",
+          "title": "Michael McCormack to lead Nationals",
+          "newspaper": "The Australian",
+          "author": "Joe Kelly",
+          "date": "26 February 2018",
+          "access-date": "26 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "New federal ministers officially sworn in",
+          "url": "http://www.skynews.com.au/news/top-stories/2017/01/24/new-ministers-to-be-sworn-in.html",
+          "access-date": "24 January 2017",
+          "work": "Sky News",
+          "location": "Australia",
+          "date": "24 January 2017",
+          "agency": "AAP",
+          "language": "en-AU",
+          "archive-url": "https://web.archive.org/web/20170202033237/http://www.skynews.com.au/news/top-stories/2017/01/24/new-ministers-to-be-sworn-in.html",
+          "archive-date": "2 February 2017",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.portnews.com.au/story/5609564/lyne-mp-david-gillespie-disappointed-at-losing-ministry-job/#comments",
+          "title": "Lyne MP David Gillespie disappointed at losing ministry job",
+          "newspaper": "Port Macquarie News",
+          "date": "27 August 2018",
+          "access-date": "30 May 2020",
+          "first": "Letitia",
+          "last": "Fitzpatrick",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Morrison Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the resignation of Bridget McKenzie, Gillespie stood unsuccessfully for the deputy leadership of the National Party in February 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bridget McKenzie"
+                },
+                {
+                  "text": "in February 2020",
+                  "type": "internal",
+                  "page": "2020 National Party of Australia leadership spill"
+                }
+              ]
+            },
+            {
+              "text": "He was defeated by David Littleproud, with Keith Pitt also running.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Littleproud"
+                },
+                {
+                  "type": "internal",
+                  "page": "Keith Pitt"
+                }
+              ]
+            },
+            {
+              "text": "In the lead-up to the vote, he criticised party leader Michael McCormack's lack of engagement with the national media."
+            },
+            {
+              "text": "McCormack defeated Barnaby Joyce in a leadership ballot, and Gillespie subsequently stated that \"the leader has our full support\" and that another challenge to McCormack's leadership was unlikely."
+            },
+            {
+              "text": "In 2021, Barnaby Joyce successfully challenged McCormack for the leadership of the National Party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the cabinet reshuffle in late June 2021, he was appointed as the Minister for Regional Health."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.portnews.com.au/story/6613864/mp-fails-in-bid-to-become-deputy-leader/",
+          "title": "Lyne MP David Gillespie falls short of becoming deputy leader of the National Party",
+          "newspaper": "Port Macquarie News",
+          "date": "4 February 2020",
+          "access-date": "30 May 2020",
+          "first": "Carla",
+          "last": "Mascarenhas",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Dennett",
+          "first": "Harley",
+          "date": "28 June 2021",
+          "title": "David Gillespie promoted in Barnaby Joyce's Nationals federal cabinet reshuffle",
+          "work": "Port Macquarie News",
+          "url": "https://www.portnews.com.au/story/7316539/lyne-mp-david-gillespie-promoted-in-new-look-federal-cabinet/",
+          "access-date": "20 October 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary eligibility",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gillespie came under scrutiny after the High Court ruling in the Bob Day case.",
+              "links": [
+                {
+                  "text": "High Court",
+                  "type": "internal",
+                  "page": "High Court of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob Day"
+                }
+              ]
+            },
+            {
+              "text": "In April 2017, the High Court found that, under section 44(v) of the Australian Constitution, Senator Bob Day had not been eligible to hold public office because of an indirect pecuniary relationship with the Australian government.",
+              "links": [
+                {
+                  "text": "Australian Constitution",
+                  "type": "internal",
+                  "page": "Constitution of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob Day"
+                }
+              ]
+            },
+            {
+              "text": "The Australian Labor Party (ALP) opposition and some community groups believe that Gillespie also has an indirect financial relationship with the federal government, in that he owns a suburban shopping complex in Port Macquarie which leases a premises to an Australia Post licensee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Port Macquarie"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australia Post"
+                }
+              ]
+            },
+            {
+              "text": "In July 2017, the ALP launched a High Court challenge to Gillespie's eligibility as an MP."
+            },
+            {
+              "text": "The case was formally brought by Peter Alley, the ALP candidate for Gillespie's seat of Lyne at the 2016 federal election.",
+              "links": [
+                {
+                  "text": "2016 federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "Gillespie sold his interest in the shopping complex in early 2018, which would ensure his eligibility in a by-election if the court ruled that he was ineligible at the time of the 2016 election."
+            },
+            {
+              "text": "On 21 March 2018 the seven members of the High Court determined unanimously that it does not have the jurisdiction to hear the case, unless this matter is referred to it by parliament."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2017–18 Australian parliamentary eligibility crisis"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.portnews.com.au/story/5235294/david-gillespie-offloads-post-office-amid-constitutional-challenge/?cs=257",
+          "title": "David Gillespie offloads post office amid constitutional challenge",
+          "author": "Adam Gartrell",
+          "publisher": "Port Macquarie News",
+          "date": "18 February 2018",
+          "access-date": "23 February 2018",
+          "archive-url": "https://web.archive.org/web/20180223171706/http://www.portnews.com.au/story/5235294/david-gillespie-offloads-post-office-amid-constitutional-challenge/?cs=257",
+          "archive-date": "23 February 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2018-03-21/david-gillespie-australia-post-hearing-not-going-to-high-court/9570568",
+          "title": "High Court cannot hear challenge to David Gillespie's eligibility to sit in Parliament",
+          "first": "Elizabeth",
+          "last": "Byrne",
+          "work": "ABC News",
+          "date": "21 March 2018",
+          "access-date": "28 May 2018",
+          "archive-url": "https://web.archive.org/web/20180602183908/http://www.abc.net.au/news/2018-03-21/david-gillespie-australia-post-hearing-not-going-to-high-court/9570568",
+          "archive-date": "2 June 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Gartrell",
+          "first1": "Adam",
+          "title": "Labor launches High Court action against Turnbull MP in bid to topple government",
+          "url": "http://www.smh.com.au/federal-politics/political-news/turnbull-government-at-threat-as-labor-plans-high-court-challenge-20170706-gx6b7q.html",
+          "access-date": "7 July 2017",
+          "work": "The Sydney Morning Herald",
+          "date": "7 July 2017",
+          "archive-url": "https://web.archive.org/web/20170707032401/http://www.smh.com.au/federal-politics/political-news/turnbull-government-at-threat-as-labor-plans-high-court-challenge-20170706-gx6b7q.html",
+          "archive-date": "7 July 2017",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gillespie is married to Charlotte, and they have three children."
+            },
+            {
+              "text": "The family lives at Sancrox, west of Port Macquarie.",
+              "links": [
+                {
+                  "text": "Sancrox",
+                  "type": "internal",
+                  "page": "Sancrox, New South Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Port Macquarie"
+                }
+              ]
+            },
+            {
+              "text": "He is a Roman Catholic As of 23 October 2021, Gillespie and his wife holds shares in BHP, South32 and gold extractor Northern Star Resources."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.dailytelegraph.com.au/news/special-features/nationals-candidate-david-gillespie-tipped-to-take-lyne/story-fnho52jp-1226714049291",
+          "title": "Nationals candidate David Gillespie tipped to take Lyne",
+          "author": "Townsend, Samantha",
+          "work": "The Sunday Telegraph",
+          "date": "7 September 2013",
+          "access-date": "15 September 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "NAPIER-RAMAN",
+          "first1": "Kishor",
+          "title": "Holding the country ransom while owning mining shares — guess who?",
+          "url": "https://www.crikey.com.au/2021/10/20/holding-the-country-ransom-while-owning-mining-shares-guess-who/",
+          "publisher": "Crikey",
+          "access-date": "23 October 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.davidgillespie.com.au/"
+          ],
+          "template": "official website"
+        },
+        {
+          "list": [
+            "David Gillespie"
+          ],
+          "template": "openaustralia"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Rob Oakeshott",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Lyne",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "list": [
+            "minister"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Assistant Minister for Children and Families",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Himself",
+          "as": "Assistant Minister for Rural Health",
+          "template": "s-bef"
+        },
+        {
+          "title": "Assistant Minister for Health",
+          "years": "2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Bridget McKenzie",
+          "as": "Minister for Rural Health",
+          "template": "s-aft"
+        },
+        {
+          "before": "Fiona Nash",
+          "as": "Minister for Rural Health",
+          "template": "s-bef"
+        },
+        {
+          "title": "Assistant Minister for Rural Health",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Himself",
+          "as": "Assistant Minister for Health",
+          "template": "s-aft"
+        },
+        {
+          "template": "current new south wales representatives"
+        },
+        {
+          "template": "second turnbull ministry"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
