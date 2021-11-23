@@ -309,6 +309,11 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "div.",
+          "meaning": "divorced",
+          "template": "abbr"
+        },
+        {
           "spouse": "Mary Ciccarelli",
           "from": "1974",
           "to": "1988",
