@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Anthony David Hawthorn Smith (born 13 March 1967) is an Australian politician who is the 30th and current Speaker of the House of Representatives.",
+              "text": "Anthony David Hawthorn Smith (born 13 March 1967) is an Australian politician who was the 30th Speaker of the House of Representatives.",
               "links": [
                 {
                   "text": "Speaker of the House of Representatives",
@@ -128,6 +128,9 @@
           "term_start": {
             "text": "10 August 2015"
           },
+          "term_end": {
+            "text": "23 November 2021"
+          },
           "deputy": {
             "text": "Bruce Scott\nMark Coulton\nKevin Hogan\nLlew O'Brien",
             "links": [
@@ -157,6 +160,15 @@
               {
                 "type": "internal",
                 "page": "Bronwyn Bishop"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Andrew Wallace",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Wallace"
               }
             ]
           },
@@ -519,6 +531,9 @@
                   "page": "Frederick Holder"
                 }
               ]
+            },
+            {
+              "text": "Due to his upcoming retirement from parliament, Smith resigned as Speaker on 23 November 2021."
             }
           ]
         }
@@ -565,6 +580,15 @@
           "access-date": "8 July 2019",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2021-11-23/andrew-wallace-replaces-tony-smith-as-speaker/100642674",
+          "title": "Andrew Wallace becomes new Speaker, taking on the 'difficult task' of replacing well-respected MP Tony Smith",
+          "publisher": "ABC News",
+          "date": "23 November 2021",
+          "access-date": "23 November 2021",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -601,12 +625,12 @@
         },
         {
           "title": "Speaker of the Australian House of Representatives",
-          "years": "2015–present",
+          "years": "2015–2021",
           "template": "s-ttl"
         },
         {
-          "rows": "2",
-          "template": "s-inc"
+          "after": "Andrew Wallace",
+          "template": "s-aft"
         },
         {
           "before": "Michael Wooldridge",
@@ -618,7 +642,7 @@
           "template": "s-ttl"
         },
         {
-          "template": "presiding officers of australian legislatures"
+          "template": "s-inc"
         },
         {
           "template": "speaker of the australian house of representatives"

@@ -245,7 +245,7 @@
               ]
             },
             {
-              "text": "He was criticised for taking a holiday during the 2019–20 bushfires and for his government's response to the disaster, and for the response to the 2021 Parliament rape allegations.",
+              "text": "He was criticized for taking a holiday during the 2019–20 bushfires and for his government's response to the disaster, and for the response to the 2021 Parliament rape allegations.",
               "links": [
                 {
                   "text": "2019–20 bushfires",
@@ -1516,7 +1516,7 @@
         {
           "sentences": [
             {
-              "text": "Morrison sought Liberal preselection for the Division of Cook, an electorate in the southern suburbs of Sydney which includes Cronulla, Caringbah, and Miranda, for the 2007 election, following the retirement of Bruce Baird, who had served as the member since 1998.",
+              "text": "Morrison sought Liberal preselection for the division of Cook, an electorate in the southern suburbs of Sydney which includes Cronulla, Caringbah, and Miranda, for the 2007 election, following the retirement of Bruce Baird, who had served as the member since 1998.",
               "links": [
                 {
                   "text": "preselection",
@@ -1524,8 +1524,9 @@
                   "page": "preselection"
                 },
                 {
+                  "text": "division of Cook",
                   "type": "internal",
-                  "page": "Division of Cook"
+                  "page": "division of Cook"
                 },
                 {
                   "text": "Cronulla",
@@ -1731,6 +1732,15 @@
           "accessdate": "26 July 2007",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2009-09-26/fletcher-wins-liberals-preselection-for-bradfield/1443458",
+          "title": "Fletcher wins Liberals preselection for Bradfield",
+          "work": "ABC News (Australia)",
+          "date": "26 September 2009",
+          "accessdate": "28 September 2009",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://www.abc.net.au/pm/content/2007/s1996381.htm",
@@ -3805,9 +3815,6 @@
               "text": "Morrison's office initially declined to comment on the length of his trip and his whereabouts, citing security concerns, and made false claims that Morrison was not in Hawaii."
             },
             {
-              "text": "A viral satirical shirt fund raising initiative was followed by a range of community-based responses, including comedian Celeste Barber's fund raise for bushfire relief."
-            },
-            {
               "text": "After increasing criticism from opposition politicians and on social media regarding the holiday, Morrison released a statement on 20 December that stated he \"deeply regret[ted] any offence caused\" and that he would cut his holiday short to return to Australia on 21 December."
             }
           ]
@@ -3838,20 +3845,6 @@
           "date": "19 December 2019",
           "archive-url": "https://web.archive.org/web/20191219221310/https://www.sbs.com.au/news/climate-protesters-set-up-tent-city-at-kirribilli-house-to-wait-for-scott-morrison-s-return",
           "archive-date": "19 December 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Remeikis",
-          "first1": "Amy",
-          "title": "Scott Morrison's Hawaii horror show: how a PR disaster unfolded",
-          "website": "TheGuardian.com",
-          "url": "https://www.theguardian.com/australia-news/2019/dec/21/scott-morrison-hawaii-horror-show-pr-disaster-unfolded",
-          "access-date": "23 December 2019",
-          "date": "21 December 2019",
-          "archive-url": "https://web.archive.org/web/20191223051314/https://www.theguardian.com/australia-news/2019/dec/21/scott-morrison-hawaii-horror-show-pr-disaster-unfolded",
-          "archive-date": "23 December 2019",
           "url-status": "live",
           "template": "citation",
           "type": "web"
