@@ -1644,16 +1644,18 @@
       ],
       "references": [
         {
+          "url": "https://thenewdaily.com.au/news/2020/11/17/stuart-robert-robodebt-post-truth/",
+          "title": "Robert claims credit for Robodebt change, despite ignoring problems",
+          "date": "17 November 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.themandarin.com.au/152790-seven-things-you-need-to-know-about-new-small-business-minister-stuart-robert/",
+          "title": "Seven things you need to know about new small business minister Stuart Robert",
+          "date": "30 March 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
@@ -1830,28 +1832,35 @@
       ],
       "references": [
         {
+          "url": "https://www.theguardian.com/australia-news/2018/oct/05/stuart-robert-charged-taxpayers-2000-a-month-for-his-home-internet",
+          "title": "Stuart Robert charged taxpayers $2,000 a month for his home internet",
+          "website": "TheGuardian.com",
+          "date": "5 October 2018",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.smh.com.au/national/nsw/assistant-treasurer-bills-taxpayers-2000-a-month-for-data-at-home-20181003-p507jx.html",
+          "title": "Assistant treasurer bills taxpayers $2000 a month for data at home",
+          "date": "4 October 2018",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "http://www.abc.net.au/news/2018-10-05/federal-mp-stuart-robert-internet-bills-qld-gold-coast-home/10342074",
+          "title": "Taxpayers foot $2,800 home internet bill for Federal Assistant Treasurer",
+          "newspaper": "ABC News",
+          "date": "5 October 2018",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "url": "https://www.theguardian.com/australia-news/2018/dec/20/stuart-robert-contacted-multiple-times-over-high-cost-of-home-internet",
+          "title": "Stuart Robert contacted 'multiple' times over high cost of home internet",
+          "website": "TheGuardian.com",
+          "date": "20 December 2018",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "date": "2018-10-12",
@@ -1888,16 +1897,20 @@
       ],
       "references": [
         {
+          "url": "https://www.theguardian.com/australia-news/2020/mar/23/incompetence-attack-mygov-website-did-not-crash-because-of-ddos-cyber-assault-as-stuart-robert-claimed",
+          "title": "'Incompetence attack': MyGov website did not crash because of DDoS cyber attack, as Stuart Robert claimed",
+          "website": "TheGuardian.com",
+          "date": "23 March 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.theguardian.com/world/2020/mar/24/stuart-roberts-incompetence-on-mygov-should-accelerate-his-own-social-isolation",
+          "title": "Stuart Robert's incompetence on MyGov should accelerate his own social isolation &#124; Katharine Murphy",
+          "website": "TheGuardian.com",
+          "date": "24 March 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },

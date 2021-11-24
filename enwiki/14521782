@@ -3818,6 +3818,19 @@
               "text": "After increasing criticism from opposition politicians and on social media regarding the holiday, Morrison released a statement on 20 December that stated he \"deeply regret[ted] any offence caused\" and that he would cut his holiday short to return to Australia on 21 December."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 November 2021, Morrison falsely claimed in parliament he had informed opposition leader Anthony Albanese that he was travelling to Hawaii.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anthony Albanese"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -3862,6 +3875,17 @@
           "archive-url": "https://web.archive.org/web/20191221142001/https://www.abc.net.au/news/2019-12-21/prime-minister-scott-morrison-returns-home-as-bushfires-rage/11821258",
           "archive-date": "21 December 2019",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Martin",
+          "first1": "Sarah",
+          "title": "Morrison under fire for falsely claiming he told Albanese he was travelling to Hawaii in 2019",
+          "url": "https://www.theguardian.com/australia-news/2021/nov/22/morrison-under-fire-for-falsely-claiming-he-told-albanese-he-was-travelling-to-hawaii-in-2019",
+          "website": "The Guardian",
+          "access-date": "24 November 2021",
+          "date": "22 November 2021",
           "template": "citation",
           "type": "web"
         },
@@ -5043,62 +5067,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In August 2020, Morrison announced that Australians would be \"among the first in the world to receive a COVID-19 vaccine, if it proves successful, through an agreement between the Australian Government and UK-based drug company AstraZeneca\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "AstraZeneca"
-                }
-              ]
-            },
-            {
-              "text": "In November 2020, he said the government's COVID-19 strategy would put \"Australia at the front of the queue for a safe and effective vaccine\"."
-            },
-            {
-              "text": "The original goal for vaccine doses has been revised down several times since March 2021, and as of 30 June 2021 the number of doses given (7.6 million) was 4.7 million less than the goal for the end of June."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The slow vaccine rollout prompted the traditionally conservative The Australian newspaper to editorialise that \"the federal government is losing credibility with its management of the vaccine rollout and its repeated claims that everything is on track\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "The Australian"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "The Australian"
-                ]
-              }
-            },
-            {
-              "text": "Former ALP staffer Tim Soutphommasane and progressive activist Marc Stears criticised the government's management of the vaccine rollout in June 2021, saying it will likely be \"taught as a case study of public policy failure\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tim Soutphommasane"
-                },
-                {
-                  "type": "internal",
-                  "page": "Marc Stears"
-                }
-              ]
-            },
-            {
-              "text": "During a press conference in July, Morrison issued an apology for the slow vaccine rollout."
-            },
-            {
-              "text": "In August, Morrison declared that the government's problems with the rollout had been \"overcome\", despite several states having a shortage of vaccines."
-            }
-          ]
         }
       ],
       "images": [
@@ -5163,6 +5131,107 @@
           "template": "citation",
           "type": "news"
         },
+        {
+          "title": "Advice on coronavirus",
+          "publisher": "Prime Minister of Australia's official website",
+          "date": "13 March 2020",
+          "url": "https://www.pm.gov.au/media/advice-coronavirus",
+          "access-date": "1 April 2020",
+          "archive-url": "https://web.archive.org/web/20200516125943/https://www.pm.gov.au/media/advice-coronavirus",
+          "archive-date": "16 May 2020",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "last": "Hitch",
+          "first": "Georgia",
+          "title": "COAG scrapped, National Cabinet here to stay, PM says",
+          "url": "https://www.abc.net.au/news/2020-05-29/coag-scrapped-national-cabinet-here-to-say-coronavirus-update/12300636",
+          "date": "2020-05-29",
+          "website": "ABC News",
+          "language": "en-AU",
+          "access-date": "2020-05-29",
+          "archive-url": "https://web.archive.org/web/20200531103849/https://www.abc.net.au/news/2020-05-29/coag-scrapped-national-cabinet-here-to-say-coronavirus-update/12300636",
+          "archive-date": "2020-05-31",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.pm.gov.au/media/virtual-speech-singapore-fintech-festival",
+          "title": "VIRTUAL SPEECH - SINGAPORE FINTECH FESTIVAL",
+          "access-date": "December 17, 2020",
+          "work": "Official Site of Prime Minister of Australia",
+          "date": "December 8, 2020",
+          "archive-date": "8 December 2020",
+          "archive-url": "https://web.archive.org/web/20201208033434/https://www.pm.gov.au/media/virtual-speech-singapore-fintech-festival",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Vaccine Rollout",
+      "depth": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2020, Morrison announced that Australians would be \"among the first in the world to receive a COVID-19 vaccine, if it proves successful, through an agreement between the Australian Government and UK-based drug company AstraZeneca\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "AstraZeneca"
+                }
+              ]
+            },
+            {
+              "text": "In November 2020, he said the government's COVID-19 strategy would put \"Australia at the front of the queue for a safe and effective vaccine\"."
+            },
+            {
+              "text": "The original goal for vaccine doses has been revised down several times since March 2021, and as of 30 June 2021 the number of doses given (7.6 million) was 4.7 million less than the goal for the end of June."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The slow vaccine rollout prompted the traditionally conservative The Australian newspaper to editorialise that \"the federal government is losing credibility with its management of the vaccine rollout and its repeated claims that everything is on track\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Australian"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Australian"
+                ]
+              }
+            },
+            {
+              "text": "Former ALP staffer Tim Soutphommasane and progressive activist Marc Stears criticised the government's management of the vaccine rollout in June 2021, saying it will likely be \"taught as a case study of public policy failure\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tim Soutphommasane"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marc Stears"
+                }
+              ]
+            },
+            {
+              "text": "During a press conference in July, Morrison issued an apology for the slow vaccine rollout."
+            },
+            {
+              "text": "In August, Morrison declared that the government's problems with the rollout had been \"overcome\", despite several states having a shortage of vaccines."
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "title": "New deal secures potential COVID-19 vaccine for every Australian {{!}} Prime Minister of Australia",
           "url": "https://www.pm.gov.au/media/new-deal-secures-potential-covid-19-vaccine-every-australian",
@@ -5266,43 +5335,6 @@
           "last2": "Karp",
           "date": "30 August 2021",
           "accessdate": "5 September 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Advice on coronavirus",
-          "publisher": "Prime Minister of Australia's official website",
-          "date": "13 March 2020",
-          "url": "https://www.pm.gov.au/media/advice-coronavirus",
-          "access-date": "1 April 2020",
-          "archive-url": "https://web.archive.org/web/20200516125943/https://www.pm.gov.au/media/advice-coronavirus",
-          "archive-date": "16 May 2020",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
-          "last": "Hitch",
-          "first": "Georgia",
-          "title": "COAG scrapped, National Cabinet here to stay, PM says",
-          "url": "https://www.abc.net.au/news/2020-05-29/coag-scrapped-national-cabinet-here-to-say-coronavirus-update/12300636",
-          "date": "2020-05-29",
-          "website": "ABC News",
-          "language": "en-AU",
-          "access-date": "2020-05-29",
-          "archive-url": "https://web.archive.org/web/20200531103849/https://www.abc.net.au/news/2020-05-29/coag-scrapped-national-cabinet-here-to-say-coronavirus-update/12300636",
-          "archive-date": "2020-05-31",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.pm.gov.au/media/virtual-speech-singapore-fintech-festival",
-          "title": "VIRTUAL SPEECH - SINGAPORE FINTECH FESTIVAL",
-          "access-date": "December 17, 2020",
-          "work": "Official Site of Prime Minister of Australia",
-          "date": "December 8, 2020",
-          "archive-date": "8 December 2020",
-          "archive-url": "https://web.archive.org/web/20201208033434/https://www.pm.gov.au/media/virtual-speech-singapore-fintech-festival",
-          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
