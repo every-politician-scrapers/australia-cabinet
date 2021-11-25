@@ -3324,6 +3324,13 @@
               "text": "In August 2020 it was announced this mediation had failed."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 Nov 2021, White ruled in Dutton's favour and awarded $35,000 in defamation damages, but refused Dutton’s bid for an injunction to prevent Bazzi tweeting about him."
+            }
+          ]
         }
       ],
       "references": [
@@ -3364,6 +3371,17 @@
           "access-date": "23 September 2021",
           "archive-date": "23 September 2021",
           "archive-url": "https://web.archive.org/web/20210923071413/https://www.theguardian.com/australia-news/2021/sep/21/peter-dutton-to-be-sole-witness-in-defamation-case-against-refugee-activist",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/australia-news/2021/nov/24/peter-dutton-wins-defamation-case-against-refugee-activist-shane-bazzi-over-tweet",
+          "title": "Peter Dutton wins defamation case against refugee activist Shane Bazzi over tweet",
+          "website": "The Guardian",
+          "access-date": "24 Nov 2021",
+          "archive-date": "24 Nov 2021",
+          "archive-url": "https://web.archive.org/web/20170504110752/https://www.theguardian.com/australia-news/2021/nov/24/peter-dutton-wins-defamation-case-against-refugee-activist-shane-bazzi-over-tweet",
           "url-status": "live",
           "template": "citation",
           "type": "web"
