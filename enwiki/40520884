@@ -557,8 +557,8 @@
           "type": "web"
         },
         {
-          "last": "DUBBER",
-          "first": "ANTONY",
+          "last": "Dubber",
+          "first": "Antony",
           "date": "2016-05-11",
           "title": "Who's who in the long race for Hume",
           "url": "https://www.goulburnpost.com.au/story/3900534/whos-who-in-the-long-race-for-hume/",
@@ -953,8 +953,6 @@
       ],
       "references": [
         {
-          "last": "Ten",
-          "first": "Network",
           "title": "Did The Government Waste $80-Million Buying Water?",
           "url": "https://tenplay.com.au:443/channel-ten/the-project/extra/season-10/did-the-government-waste-80-million-buying-water",
           "access-date": "20 April 2019",
@@ -1073,8 +1071,10 @@
           "type": "web"
         },
         {
-          "last": "Hutchinson",
-          "first": "Kylar Loussikian, Samantha",
+          "last1": "Hutchinson",
+          "first1": "Kylar",
+          "last2": "Loussikian",
+          "first2": "Samantha",
           "date": "2020-04-21",
           "title": "Taylor packs up his swag and sells the farm",
           "url": "https://www.smh.com.au/national/taylor-packs-up-his-swag-and-sells-the-farm-20200421-p54lwp.html",
@@ -1097,8 +1097,6 @@
           "type": "web"
         },
         {
-          "last": "corporateName=Commonwealth Parliament; address=Parliament House",
-          "first": "Canberra",
           "title": "Chapter 3",
           "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Faunalextinction2019/Interim_Report/section?id=committees/reportsen/024327/27988",
           "access-date": "2020-07-07",
@@ -1308,8 +1306,9 @@
       ],
       "references": [
         {
-          "last": "Post)",
-          "first": "David Alexander (additional reporting by Chris Gordon and Louise Thrower, Goulburn",
+          "first": "David",
+          "last": "Alexander",
+          "others": "Chris Gordon and Louise Thrower",
           "date": "2012-05-15",
           "title": "Alby's man gets the nod for Hume",
           "url": "https://www.southernhighlandnews.com.au/story/110380/albys-man-gets-the-nod-for-hume/",
@@ -1643,8 +1642,6 @@
           "type": "web"
         },
         {
-          "last": "Arts",
-          "first": "Department of Communications and the",
           "title": "Round 1 Funded Base Stations",
           "url": "https://data.gov.au/data/dataset/mobile-black-spot-programme-funded-base-stations/resource/797a7c1b-cf1e-452d-8a92-194c2ed5708a",
           "language": "en",
@@ -1893,8 +1890,6 @@
       ],
       "references": [
         {
-          "last": "Department of Industry",
-          "first": "Science",
           "date": "2020-01-10",
           "title": "Interview with Kieran Gilbert Sky News",
           "url": "https://www.minister.industry.gov.au/ministers/taylor/transcripts/interview-kieran-gilbert-sky-news",
@@ -1905,8 +1900,6 @@
           "type": "web"
         },
         {
-          "last": "Department of Industry",
-          "first": "Science",
           "date": "2020-01-10",
           "title": "Interview with Fran Kelly ABC Radio National Breakfast",
           "url": "https://www.minister.industry.gov.au/ministers/taylor/transcripts/interview-fran-kelly-abc-radio-national-breakfast-0",
@@ -2051,7 +2044,6 @@
       ],
       "references": [
         {
-          "last": "paddym@schwartzmedia.com.au1516749970",
           "date": "2019-04-23",
           "title": "Watergate",
           "url": "https://www.themonthly.com.au/today/paddy-manning/2019/23/2019/1555998605/watergate",
@@ -2146,8 +2138,6 @@
       ],
       "references": [
         {
-          "last": "Department of Industry",
-          "first": "Science",
           "date": "2020-07-08",
           "title": "Taylor",
           "url": "https://www.minister.industry.gov.au/ministers/taylor",
@@ -2158,8 +2148,6 @@
           "type": "web"
         },
         {
-          "last": "Check",
-          "first": "RMIT ABC Fact",
           "date": "2019-10-24",
           "title": "Fact Check zombie: Angus Taylor repeats misleading claim on carbon emissions yet again",
           "url": "https://www.abc.net.au/news/2019-10-24/zombie---angus-taylor-emissions-abatement-kyoto-protocol/11630780",
@@ -2563,9 +2551,9 @@
           "type": "web"
         },
         {
-          "last1": "December 03",
-          "first1": "Mark Dreyfus {{!}} 53pc",
-          "last2": "2019",
+          "date": "December 3, 2019",
+          "first": "Mark",
+          "last": "Dreyfus",
           "title": "Sky News First Edition 3 December 2019",
           "url": "http://markdreyfus.nationbuilder.com/sky_news_first_edition_3_december_2019",
           "access-date": "2020-07-01",
@@ -2583,7 +2571,7 @@
         },
         {
           "last1": "Norman",
-          "first1": "political reporters Jane",
+          "first1": "Jane",
           "last2": "Dalzell",
           "first2": "Stephanie",
           "last3": "Conifer",
