@@ -362,8 +362,13 @@
               ]
             },
             {
-              "text": "She went to Renmark High School where she was a classmate of future army chief Rick Burr.",
+              "text": "She went to Renmark High School where she was a classmate of future Chief of Army Rick Burr.",
               "links": [
+                {
+                  "text": "Chief of Army",
+                  "type": "internal",
+                  "page": "Chief of Army (Australia)"
+                },
                 {
                   "type": "internal",
                   "page": "Rick Burr"
