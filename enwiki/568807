@@ -1348,6 +1348,31 @@
         {
           "sentences": [
             {
+              "text": "The pace of national vaccination program brought the word strollout  to the national vernacular."
+            },
+            {
+              "text": "A blend of rollout and stroll, the word refers to the \"perceived lack of speed\" in Australia's vaccine rollout.",
+              "formatting": {
+                "italic": [
+                  "rollout",
+                  "stroll"
+                ]
+              }
+            },
+            {
+              "text": "On November 17, Canberra's Australian National Dictionary Centre announced strollout as its pick for the word of the year, Two Australian dictionaries — and, in one poll, the Australian public — have chosen strollout as their word of the year for 2021.",
+              "formatting": {
+                "italic": [
+                  "strollout",
+                  "strollout"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "In June 2020, Hunt announced that he would ask the Governor-General in Council to make regulations from 1 July 2020 prohibiting the importation of e-cigarettes containing vaporizer nicotine and nicotine-containing refills unless on prescription from a doctor.",
               "links": [
                 {
@@ -1466,6 +1491,26 @@
           "access-date": "2021-07-06",
           "work": "The Sydney Morning Herald",
           "language": "en-AU",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-11-29",
+          "title": "Australia's word of the the year is phonetically satisfying — and very frustrating",
+          "language": "en-AU",
+          "work": "ABC News",
+          "url": "https://www.abc.net.au/news/2021-11-30/covid-vaccine-strollout-macquarie-dictionary-word-year-australia/100659388",
+          "access-date": "2021-11-29",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-11-17",
+          "title": "2021's Word of the Year alludes to a uniquely Australian problem",
+          "language": "en-AU",
+          "work": "ABC News",
+          "url": "https://www.abc.net.au/news/2021-11-17/australian-word-of-the-year-is-strollout-referencing-vaccines/100626698",
+          "access-date": "2021-11-29",
           "template": "citation",
           "type": "news"
         },
