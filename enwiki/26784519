@@ -203,11 +203,15 @@
             ]
           },
           "deputy": {
-            "text": "Vickie Chapman",
+            "text": "Vickie Chapman\nDan van Holst Pellekaan",
             "links": [
               {
                 "type": "internal",
                 "page": "Vickie Chapman"
+              },
+              {
+                "type": "internal",
+                "page": "Dan van Holst Pellekaan"
               }
             ]
           },
@@ -321,11 +325,15 @@
             ]
           },
           "deputy3": {
-            "text": "Vickie Chapman",
+            "text": "Vickie Chapman\nDan van Holst Pellekaan",
             "links": [
               {
                 "type": "internal",
                 "page": "Vickie Chapman"
+              },
+              {
+                "type": "internal",
+                "page": "Dan van Holst Pellekaan"
               }
             ]
           },

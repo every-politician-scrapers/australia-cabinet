@@ -44,12 +44,11 @@
         {
           "sentences": [
             {
-              "text": "Kim Christian Beazley (born 14 December 1948) is an Australian politician who is currently the 33rd governor of Western Australia.",
+              "text": "Kim Christian Beazley (born 14 December 1948) is an Australian politician and diplomat who is currently serving as the 33rd Governor of Western Australia.",
               "links": [
                 {
-                  "text": "governor of Western Australia",
                   "type": "internal",
-                  "page": "governor of Western Australia"
+                  "page": "Governor of Western Australia"
                 }
               ],
               "formatting": {
@@ -59,7 +58,7 @@
               }
             },
             {
-              "text": "He was previously Deputy Prime Minister of Australia from 1995 to 1996, Leader of the Labor Party and Leader of the Opposition from 1996 to 2001 and 2005 to 2006, and Ambassador to the United States from 2010 to 2016.",
+              "text": "He previously served as Deputy Prime Minister of Australia from 1995 to 1996, Leader of the Labor Party and Leader of the Opposition from 1996 to 2001 and 2005 to 2006, and Ambassador to the United States from 2010 to 2016.",
               "links": [
                 {
                   "type": "internal",
@@ -395,16 +394,16 @@
               }
             ]
           },
-          "office2": {
-            "text": "[[List of ambassadors of Australia to the United States|24th Ambassador of Australia to\nthe United States]]"
+          "office3": {
+            "text": "24th [[List of ambassadors of Australia to the United States|Ambassador of Australia to\nthe United States]]"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "17 February 2010"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "22 January 2016"
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Kevin Rudd\nJulia Gillard\nTony Abbott\nMalcolm Turnbull",
             "links": [
               {
@@ -425,7 +424,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Dennis Richardson",
             "links": [
               {
@@ -435,7 +434,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Joe Hockey",
             "links": [
               {
@@ -444,7 +443,7 @@
               }
             ]
           },
-          "office3": {
+          "office8": {
             "text": "Chancellor of Australian National University",
             "links": [
               {
@@ -455,13 +454,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start8": {
             "text": "1 January 2009"
           },
-          "term_end3": {
+          "term_end8": {
             "text": "1 January 2010"
           },
-          "predecessor3": {
+          "predecessor8": {
             "text": "Allan Hawke",
             "links": [
               {
@@ -470,7 +469,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor8": {
             "text": "Gareth Evans",
             "links": [
               {
@@ -661,7 +660,7 @@
               }
             ]
           },
-          "office8": {
+          "office2": {
             "text": "9th Deputy Prime Minister of Australia",
             "links": [
               {
@@ -670,13 +669,13 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start2": {
             "text": "20 June 1995"
           },
-          "term_end8": {
+          "term_end2": {
             "text": "11 March 1996"
           },
-          "primeminister8": {
+          "primeminister2": {
             "text": "Paul Keating",
             "links": [
               {
@@ -685,7 +684,7 @@
               }
             ]
           },
-          "predecessor8": {
+          "predecessor2": {
             "text": "Brian Howe",
             "links": [
               {
@@ -695,7 +694,7 @@
               }
             ]
           },
-          "successor8": {
+          "successor2": {
             "text": "Tim Fischer",
             "links": [
               {

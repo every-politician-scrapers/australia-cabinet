@@ -367,10 +367,10 @@
             ]
           },
           "image": {
-            "text": "Scott Morrison 2014.jpg"
+            "text": "Prime Ministers of Australia Scott Morrison.jpg"
           },
           "caption": {
-            "text": "Morrison in 2014"
+            "text": "Morrison in 2021."
           },
           "order": {
             "text": "30th"
@@ -2620,6 +2620,15 @@
               "text": "Morrison insisted that he did not desire to take over the position of Treasurer despite his strong performances."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Scott Morrison 2014.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Scott_Morrison_2014.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Scott_Morrison_2014.jpg",
+          "caption": "Morrison in 2014.",
+          "links": []
         }
       ],
       "references": [
