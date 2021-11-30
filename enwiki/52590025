@@ -263,36 +263,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-gov"
-        },
-        {
-          "before": "Justin Gleeson",
-          "template": "s-bef"
-        },
-        {
-          "title": "Solicitor-General of Australia",
-          "years": "2017–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }

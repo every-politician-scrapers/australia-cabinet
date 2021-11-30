@@ -264,45 +264,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-gov"
-        },
-        {
-          "before": "John Hardy",
-          "template": "s-bef"
-        },
-        {
-          "title": "Administrator of the Northern Territory",
-          "years": "2017–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "administrators of the northern territory"
-        },
-        {
-          "template": "australian governors"
-        },
-        {
-          "template": "australia-business-bio-stub"
-        },
-        {
-          "template": "australia-gov-bio-stub"
-        }
-      ]
     }
   ]
 }
