@@ -237,18 +237,7 @@
         }
       ],
       "infoboxes": [
-        {
-          "[object Object]": {
-            "text": "honorific-suffix\t\t= MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          }
-        }
+        {}
       ]
     }
   ]

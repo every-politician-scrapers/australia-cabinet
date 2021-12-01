@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Andrew Bruce Wallace (born 27 February 1968) is an Australian politician and is currently the 31st Speaker of the House of Representatives.",
+              "text": "Andrew Bruce Wallace (born 27 February 1968) is an Australian politician currently serving as the 31st Speaker of the House of Representatives.",
               "links": [
                 {
                   "text": "Speaker of the House of Representatives",
@@ -135,14 +135,12 @@
               }
             ]
           },
+          "image": {
+            "text": "Andrew Wallace.png"
+          },
           "office": {
             "text": "31st Speaker of the Australian House of Representatives",
             "links": [
-              {
-                "text": "31st",
-                "type": "internal",
-                "page": "List of Speakers of the Australian House of Representatives"
-              },
               {
                 "type": "internal",
                 "page": "Speaker of the Australian House of Representatives"
