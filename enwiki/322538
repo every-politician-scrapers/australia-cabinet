@@ -44,11 +44,12 @@
         {
           "sentences": [
             {
-              "text": "Kim Christian Beazley (born 14 December 1948) is an Australian politician and diplomat who is currently serving as the 33rd Governor of Western Australia.",
+              "text": "Kim Christian Beazley (born 14 December 1948) is an Australian politician and diplomat who is currently serving as the 33rd governor of Western Australia.",
               "links": [
                 {
+                  "text": "governor of Western Australia",
                   "type": "internal",
-                  "page": "Governor of Western Australia"
+                  "page": "governor of Western Australia"
                 }
               ],
               "formatting": {
@@ -58,19 +59,20 @@
               }
             },
             {
-              "text": "He previously served as Deputy Prime Minister of Australia from 1995 to 1996, Leader of the Labor Party and Leader of the Opposition from 1996 to 2001 and 2005 to 2006, and Ambassador to the United States from 2010 to 2016.",
+              "text": "He previously served as deputy prime minister of Australia from 1995 to 1996, leader of the Labor Party and leader of the Opposition from 1996 to 2001 and 2005 to 2006, and Ambassador to the United States from 2010 to 2016.",
               "links": [
                 {
+                  "text": "deputy prime minister of Australia",
                   "type": "internal",
-                  "page": "Deputy Prime Minister of Australia"
+                  "page": "deputy prime minister of Australia"
                 },
                 {
-                  "text": "Leader of the Labor Party",
+                  "text": "leader of the Labor Party",
                   "type": "internal",
                   "page": "Australian Labor Party"
                 },
                 {
-                  "text": "Leader of the Opposition",
+                  "text": "leader of the Opposition",
                   "type": "internal",
                   "page": "Leader of the Opposition (Australia)"
                 },

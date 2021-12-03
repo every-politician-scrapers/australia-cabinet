@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Alan Tudge (born 24 February 1971) is an Australian politician who has been Minister for Education and Youth in the Morrison Government since 2020.",
+              "text": "Alan Tudge (born 24 February 1971) is an Australian politician who served as Minister for Education and Youth in the Morrison Government from 2020 to 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -82,7 +82,7 @@
               ]
             },
             {
-              "text": "Prior to entering politics he was a management consultant with the Boston Consulting Group and deputy director of the Cape York Institute (2006–2009).",
+              "text": "Before entering politics he was a management consultant with the Boston Consulting Group and deputy director of the Cape York Institute (2006–2009).",
               "links": [
                 {
                   "type": "internal",
@@ -120,7 +120,7 @@
               ]
             },
             {
-              "text": "He has been a government minister in the Turnbull and Morrison Governments since 2016 and was elevated to cabinet in 2019.",
+              "text": "He served as a government minister in the Turnbull and Morrison Governments since 2016 and was elevated to cabinet in 2019.",
               "links": [
                 {
                   "text": "Turnbull",
@@ -236,6 +236,9 @@
           },
           "term_start": {
             "text": "22 December 2020"
+          },
+          "term_end": {
+            "text": "2 December 2021"
           },
           "predecessor": {
             "text": "Dan Tehan (as Minister for Education) Richard Colbeck (as Minister for Youth and Sport)",
