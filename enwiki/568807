@@ -107,6 +107,9 @@
                   "page": "COVID-19 pandemic in Australia"
                 }
               ]
+            },
+            {
+              "text": "Hunt will be retiring in the coming weeks."
             }
           ]
         }
@@ -425,6 +428,12 @@
           "agency": "AAP",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "date": "2020-03-17",
