@@ -215,9 +215,9 @@
         },
         {
           "list": [
-            "University of Queensland (BA/LLB)",
+            "University of Queensland (BA, LLB)",
             "London School of Economics (MA)",
-            "Australian National University (GDipLegPrac)"
+            "Australian National University"
           ],
           "template": "ubl"
         },
@@ -258,6 +258,9 @@
           "image": {
             "text": "Annastacia Palaszczuk 2016.jpg"
           },
+          "caption": {
+            "text": "Palaszczuk in 2016"
+          },
           "office": {
             "text": "39th Premier of Queensland\nElections: 2015, 2017, 2020",
             "links": [
@@ -271,7 +274,7 @@
             "text": "14 February 2015"
           },
           "deputy": {
-            "text": "Jackie Trad (2015-2020)\nSteven Miles (2020-present)",
+            "text": "Jackie Trad (2015–2020)\nSteven Miles (since 2020)",
             "links": [
               {
                 "type": "internal",
@@ -294,7 +297,7 @@
             ]
           },
           "governor": {
-            "text": "Paul de Jersey (2015-2021) Jeannette Young (2021-present)",
+            "text": "Paul de Jersey (2015–2021) Jeannette Young (since 2021)",
             "links": [
               {
                 "type": "internal",
@@ -368,10 +371,10 @@
             ]
           },
           "office2": {
-            "text": "Leader of the Australian Labor Party (Queensland Branch)",
+            "text": "Leader of the Labor Party in Queensland",
             "links": [
               {
-                "text": "Leader of the Australian Labor Party (Queensland Branch)",
+                "text": "Leader of the Labor Party in Queensland",
                 "type": "internal",
                 "page": "Australian Labor Party (Queensland Branch)"
               }
@@ -381,7 +384,7 @@
             "text": "28 March 2012"
           },
           "deputy2": {
-            "text": "Tim Mulherin (2012-2015)\nJackie Trad (2015-2020)\nSteven Miles (2020-present)",
+            "text": "Tim Mulherin (2012–2015)\nJackie Trad (2015–2020)\nSteven Miles (since 2020)",
             "links": [
               {
                 "type": "internal",
@@ -561,18 +564,19 @@
               }
             ]
           },
-          "constituency_am7": {
-            "text": "Inala",
+          "office7": {
+            "text": "Member of the Queensland Legislative Assembly for Inala",
             "links": [
+              {
+                "type": "internal",
+                "page": "Queensland Legislative Assembly"
+              },
               {
                 "text": "Inala",
                 "type": "internal",
                 "page": "Electoral district of Inala"
               }
             ]
-          },
-          "assembly7": {
-            "text": "Queensland Legislative"
           },
           "term_start7": {
             "text": "9 September 2006"
@@ -586,14 +590,11 @@
               }
             ]
           },
-          "majority7": {
-            "text": "28.17% (16,617) (2020)"
-          },
           "birth_date": {
             "text": "July 25, 1969"
           },
           "birth_place": {
-            "text": "Durack, Queensland",
+            "text": "Durack, Queensland, Australia",
             "links": [
               {
                 "text": "Durack",
@@ -622,8 +623,11 @@
           "spouse": {
             "text": "George Megalogenis (m. 1996-1998)\n\nSimon Every (m. 2004-2009)"
           },
+          "partner": {
+            "text": "Reza Adib (since 2021) \n\nShaun Drabsch (2015–2018)"
+          },
           "alma_mater": {
-            "text": "University of Queensland (BA/LLB)\n\nLondon School of Economics (MA)\n\nAustralian National University (GDipLegPrac)"
+            "text": "University of Queensland (BA, LLB)\n\nLondon School of Economics (MA)\n\nAustralian National University"
           },
           "father": {
             "text": "Henry Palaszczuk",
@@ -648,27 +652,21 @@
             ]
           },
           "occupation": {
-            "text": "Policy adviser"
-          },
-          "profession": {
-            "text": "Solicitor Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solicitor"
-              },
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Palaszczuk in 2016"
+            "text": "Solicitor · Policy adviser · Politician"
           }
         }
       ],
       "references": [
+        {
+          "last": "Whiting",
+          "first": "Francis",
+          "date": "3 September 2021",
+          "title": "Queensland Premier Annastacia Palaszczuk confirms she is in a relationship with Brisbane surgeon Dr Reza Adib",
+          "url": "https://www.couriermail.com.au/lifestyle/qweekend/queensland-premier-annastacia-palaszczuk-confirms-she-is-in-a-relationship-with-brisbane-surgeon-dr-reza-adib/news-story/5933bb92946980f685863a32503e3bee",
+          "work": "The Courier-Mail",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "Queensland Premier Annastacia Palaszczuk on her pragmatic approach to politics",
           "url": "https://www.afr.com/leadership/annastacia-palaszczuk--the-cautious-reformer-20161010-grz5si",
@@ -709,6 +707,20 @@
           "work": "The Guardian",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://honey.nine.com.au/2018/02/11/08/41/qld-premier-splits-with-partner",
+          "title": "QLD Premier Annastacia Palaszczuk confirms split with partner",
+          "last": "Dewey",
+          "first": "Imogen",
+          "date": "10 February 2018",
+          "work": "Nine Network",
+          "access-date": "12 February 2018",
+          "archive-url": "https://web.archive.org/web/20180212111626/https://honey.nine.com.au/2018/02/11/08/41/qld-premier-splits-with-partner",
+          "archive-date": "12 February 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         }
       ]
     }
