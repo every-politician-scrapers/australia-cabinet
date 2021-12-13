@@ -650,6 +650,15 @@
             "text": "2",
             "number": 2
           },
+          "father": {
+            "text": "John Douglas Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Douglas Morrison"
+              }
+            ]
+          },
           "party": {
             "text": "Liberal",
             "links": [
