@@ -89,6 +89,7 @@ Q3409185,Chief Justice of Australia,Q408,Q408,,,1903,,,,Chief Justice of Austral
 Q58326282,Chief Justice of the Federal Court of Australia,Q408,Q408,,Q6624574,,,,,
 Q17003098,Director of Public Prosecutions,Q408,Q408,,,1984,,,,Director of Public Prosecutions (Australia)
 Q5280509,Director-General of the Australian Secret Intelligence Service,Q408,Q408,,,1952,,,,Director-General of the Australian Secret Intelligence Service
+Q106466461,Director-General of the Australian Signals Directorate,Q408,Q408,,,,,,,
 Q3489387,Solicitor-General of Australia,Q408,Q408,,,,,,,Solicitor-General of Australia
 Q2390270,Treasurer of Australia,Q408,Q408,,,1901,,,,Treasurer of Australia
 Q107971707,Assistant Treasurer,Q408,Q408,,,,,,,
@@ -101,12 +102,15 @@ Q1528895,Governor of New South Wales,Q408,Q3224,,,1788,,,,Governor of New South 
 Q13527950,Premier of New South Wales,Q408,Q3224,,,1856-06-06,,,,Premier of New South Wales
 Q1467097,Governor of Queensland,Q408,Q36074,,,1859-12-10,,,,Governor of Queensland
 Q13526082,Premier of Queensland,Q408,Q36074,,,1859-12-10,,,,Premier of Queensland
+Q1840570,Governor of South Australia,Q408,Q35715,Q53996469,Q21476824,1836-12-28,,,Q7241370,Governor of South Australia
+Q27230596,Premier of South Australia,Q408,Q35715,Q50320316,Q676357,1856-10-24,,Q50390789,,
 Q1779581,Governor of Tasmania,Q408,Q34366,,,1855,,,,Governor of Tasmania
 Q13527933,Premier of Tasmania,Q408,Q34366,,,1856-11-01,,,,Premier of Tasmania
 Q1571023,Governor of Victoria,Q408,Q36687,,,1855,,,,Governor of Victoria
 Q13527909,Premier of Victoria,Q408,Q36687,Q5261060,,1855-11-30,,,,Premier of Victoria
 Q1372518,Governor of Western Australia,Q408,Q3206,,,1832,,,,Governor of Western Australia
 Q1550276,Premier of Western Australia,Q408,Q3206,,,1890-12-29,,,,Premier of Western Australia
+Q3249421,Administrator of the Northern Territory,Q408,Q3235,,,,,Q52179110,,Administrator of the Northern Territory
 Q1072341,Chief Minister of the Northern Territory,Q408,Q3235,,,1974,,,,Chief Minister of the Northern Territory
 Q493649,Chief Minister of the Australian Capital Territory,Q408,Q3258,,,1989-05-11,,,,Chief Minister of the Australian Capital Territory
 Q29291882,Administrator of Norfolk Island,Q408,Q31057,,Q952413,,,,,
