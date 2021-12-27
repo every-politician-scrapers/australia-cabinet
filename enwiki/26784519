@@ -315,14 +315,7 @@
             ]
           },
           "office3": {
-            "text": "Leader of the South Australian Liberal Party",
-            "links": [
-              {
-                "text": "Leader of the South Australian Liberal Party",
-                "type": "internal",
-                "page": "Liberal Party of Australia (South Australian Division)"
-              }
-            ]
+            "text": "[[Liberal Party of Australia (South Australian Division)|Leader of the South Australian\nLiberal Party]]"
           },
           "deputy3": {
             "text": "Vickie Chapman\nDan van Holst Pellekaan",
@@ -461,7 +454,7 @@
             "text": "Businessperson"
           },
           "education": {
-            "text": "Ethelton Primary School Immanuel College",
+            "text": "Ethelton Primary School\nImmanuel College",
             "links": [
               {
                 "text": "Immanuel College",
