@@ -330,10 +330,6 @@
           "template": "birth date and age"
         },
         {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
           "spouse": "Jenny Warren",
           "from": "14 January 1990",
           "template": "marriage"
@@ -636,11 +632,15 @@
             "text": "May 13, 1968"
           },
           "birth_place": {
-            "text": "Waverley, New South Wales, Australia",
+            "text": "Sydney, New South Wales, Australia",
             "links": [
               {
                 "type": "internal",
-                "page": "Waverley, New South Wales"
+                "page": "Sydney"
+              },
+              {
+                "type": "internal",
+                "page": "New South Wales"
               }
             ]
           },
