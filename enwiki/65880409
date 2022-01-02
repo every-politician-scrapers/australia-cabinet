@@ -267,54 +267,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.couriermail.com.au/lifestyle/qweekend/i-lost-eight-people-in-one-shift-chos-horror-night/news-story/ff752656956602860ed4289beecffe68",
-          "title": "'I lost eight people in one shift': CHO's horror night",
-          "newspaper": "The Courier-Mail",
-          "last": "Miles",
-          "first": "Janelle",
-          "date": "4 December 2020",
-          "access-date": "4 February 2021",
-          "archive-date": "5 August 2021",
-          "archive-url": "https://web.archive.org/web/20210805020501/https://login.newscorpaustralia.com/authorize?client_id=0v9i7KoW6MBLSfe036YSQT79zA8Zaz4Y&response_type=token%20id_token&scope=openid%20profile&audience=newscorpaustralia&redirect_uri=https%3A%2F%2Fwww.couriermail.com.au%2Fremote%2Fidentity%2Fauth%2Flatest%2Flogin%2Fcallback.html&state=4HIFjzNkqnI.xRXAXfy~1rlb1oT2lGD0&nonce=5HbCTQ1jizIXrkuR1ZzSzom_tfhyIfiD&response_mode=web_message&prompt=none&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNi4yIn0%3D",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "20 May 2005",
-          "title": "Bundaberg Hospital Commission of Inquiry – Statement of Dr. Jeanette Rosita Young",
-          "url": "http://www.qphci.qld.gov.au/pdf/BHCI_Exhibit209.pdf",
-          "url-status": "live",
-          "access-date": "5 November 2021",
-          "website": "Queensland Public Hospitals Commission of Inquiry",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.brisbanetimes.com.au/national/queensland/jeannette-young-who-is-the-woman-leading-queensland-s-fight-against-covid-19-20200406-p54hmd.html",
-          "title": "Jeannette Young: who is the woman leading Queensland's fight against COVID-19?",
-          "last": "Lynch",
-          "first": "Lydia",
-          "work": "Brisbane Times",
-          "date": "30 April 2020",
-          "access-date": "19 November 2020",
-          "archive-date": "22 November 2020",
-          "archive-url": "https://web.archive.org/web/20201122074638/https://www.brisbanetimes.com.au/national/queensland/jeannette-young-who-is-the-woman-leading-queensland-s-fight-against-covid-19-20200406-p54hmd.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.govhouse.qld.gov.au/the-governor-of-queensland/about-the-governor/the-governor-s-biography",
-          "title": "The Governor's Biography",
-          "publisher": "Government House Queensland",
-          "access-date": "2 November 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

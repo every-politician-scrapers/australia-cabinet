@@ -302,27 +302,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "GUTWEIN, Peter Carl",
-          "url": "http://www.parliament.tas.gov.au/history/tasparl/gutweinp727.htm",
-          "website": "The Parliament of Tasmania from 1856",
-          "publisher": "Parliament of Tasmania",
-          "access-date": "8 February 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "20 January 2020",
-          "title": "Peter Gutwein elected unopposed to replace Will Hodgman as Tasmanian premier",
-          "language": "en-AU",
-          "work": "ABC News",
-          "url": "https://www.abc.net.au/news/2020-01-20/tasmania-new-premier-announced-peter-gutwein/11880490",
-          "access-date": "20 January 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

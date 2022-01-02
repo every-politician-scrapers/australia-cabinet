@@ -667,69 +667,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.transparency.gov.au/annual-reports/hearing-australia/reporting-year/2018-2019-24",
-          "title": "Minister for Government Services",
-          "last": "Commonwealth of Australia - Dept of Finance",
-          "date": "2019-10-29",
-          "website": "Transparency Portal",
-          "language": "en",
-          "access-date": "2019-12-13",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tony Abbott's cabinet and outer ministry",
-          "url": "http://www.smh.com.au/federal-politics/political-news/tony-abbotts-cabinet-and-outer-ministry-20130916-2tuma.html",
-          "access-date": "16 September 2013",
-          "newspaper": "The Sydney Morning Herald",
-          "date": "16 September 2013",
-          "agency": "AAP",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Couriermail.com.au {{!}} Subscribe to The Courier Mail for exclusive stories",
-          "url": "https://www.couriermail.com.au/subscribe/news/1/?sourceCode=CMWEB_WRE170_a&dest=https%3A%2F%2Fwww.couriermail.com.au%2Fnews%2Fnational%2Fpower-brokers-of-canberras-corridors-party-players-advisers-insiders-and-unionists%2Fnews-story%2F775a1fe262ada58d2ef73678bf52ef30&memtype=anonymous&mode=premium&nk=79962a3fc0e698e9e8d8f8f6d8ebd1fa-1619070731",
-          "access-date": "2021-04-22",
-          "website": "www.couriermail.com.au",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Reshuffle in a reshuffle",
-          "url": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fcommentary%2Fstrewth%2Freshuffle-in-a-reshuffle%2Fnews-story%2Fbebd92514493e3d61998435025ab51b0&memtype=anonymous&mode=premium&nk=a58fdd9dd459613855971daca7dc2f0c-1619072417",
-          "access-date": "2021-04-22",
-          "website": "www.theaustralian.com.au",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.dpmc.gov.au/parliamentary/docs/ministry_list_20130918.pdf",
-          "title": "Abbott Ministry",
-          "work": "Department of the Prime Minister and Cabinet",
-          "publisher": "Commonwealth of Australia",
-          "date": "18 September 2013",
-          "access-date": "22 September 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20130926165842/http://www.dpmc.gov.au/parliamentary/docs/ministry_list_20130918.pdf",
-          "archive-date": "26 September 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Henderson",
-          "first1": "Anna",
-          "date": "12 February 2016",
-          "title": "Stuart Robert to resign from Turnbull ministry following probe into China trip",
-          "publisher": "ABC News",
-          "url": "http://www.abc.net.au/news/2016-02-12/stuart-robert-to-resign-fom-ministry-abc-understands/7163226",
-          "access-date": "12 February 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

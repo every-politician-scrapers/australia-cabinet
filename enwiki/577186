@@ -521,53 +521,6 @@
             "text": "sussanley.com/"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Parliamentary_Handbook/Current_Ministry_List",
-          "title": "Current Ministry List: The 45th Parliament",
-          "work": "Parliament of Australia",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tony Abbott's cabinet and outer ministry",
-          "url": "http://www.smh.com.au/federal-politics/political-news/tony-abbotts-cabinet-and-outer-ministry-20130916-2tuma.html",
-          "access-date": "16 September 2013",
-          "newspaper": "The Sydney Morning Herald",
-          "date": "16 September 2013",
-          "agency": "AAP",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "first": "Lukas",
-          "last": "Coch",
-          "title": "Sussan Ley sworn in",
-          "url": "http://www.abc.net.au/news/2014-12-23/sussan-ley-sworn-in/5985286",
-          "publisher": "ABC News",
-          "location": "Australia",
-          "date": "23 December 2014",
-          "access-date": "23 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Tony Abbott's revamped Ministry sworn in at Government House",
-          "url": "http://www.news.com.au/national/tony-abbotts-revamped-ministry-sworn-in-at-government-house/story-fncynjr2-1227164880085",
-          "work": "news.com.au",
-          "publisher": "News Corp Australia",
-          "date": "23 December 2014",
-          "access-date": "23 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

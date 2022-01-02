@@ -327,23 +327,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "12 June 2011",
-          "title": "Justice Susan Kiefel",
-          "url": "https://www.youtube.com/watch?v=SIVombCaPiw&t=87",
-          "access-date": "30 November 2015",
-          "publisher": "SBS World News",
-          "template": "citation",
-          "type": "av media"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

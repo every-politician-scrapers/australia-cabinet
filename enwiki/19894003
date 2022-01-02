@@ -265,37 +265,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Welcomes",
-          "url": "http://www.vicbar.com.au/GetFile.ashx?file=GeneralFiles/BarNewsArchive/1990-1999/VBN_94_1995_Spring.pdf",
-          "accessdate": "12 February 2015",
-          "work": "Victorian Bar News",
-          "date": "Spring 1995",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20150323183412/http://vicbar.com.au/GetFile.ashx?file=GeneralFiles%2FBarNewsArchive%2F1990-1999%2FVBN_94_1995_Spring.pdf",
-          "archivedate": "23 March 2015",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "White",
-          "first1": "Alex",
-          "title": "Victoria's first female Governor Linda Dessau sworn in",
-          "url": "http://www.heraldsun.com.au/news/victoria/victorias-first-female-governor-linda-dessau-sworn-in/story-fni0fit3-1227423372392",
-          "accessdate": "1 July 2015",
-          "work": "Herald Sun",
-          "date": "1 July 2015",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
