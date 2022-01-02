@@ -845,35 +845,6 @@
             "text": "https://www.markmcgowan.com.au/"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.parliament.wa.gov.au/parliament/library/MPHistoricalData.nsf/(Lookup)/7CD32364F371062648257C75001F1B7F?OpenDocument",
-          "title": "Members' biographical register : Mr Mark McGowan",
-          "publisher": "Parliament of Western Australia",
-          "access-date": "2020-12-22",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.abc.net.au/news/2017-03-17/new-wa-labor-government-sworn-in-pledge-to-create-jobs/8362988",
-          "title": "Mark McGowan sworn in as WA's 30th Premier",
-          "date": "17 March 2017",
-          "work": "ABC News",
-          "access-date": "17 March 2017",
-          "archive-url": "https://web.archive.org/web/20170317132359/http://www.abc.net.au/news/2017-03-17/new-wa-labor-government-sworn-in-pledge-to-create-jobs/8362988",
-          "archive-date": "17 March 2017",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.smh.com.au/politics/western-australia/wa-state-election-2021-live-clear-favourite-mark-mcgowan-heads-for-second-term-in-government-20210308-p578uu.html",
-          "title": "WA state election 2021 as it happened: Total Liberal wipeout as rockstar Premier Mark McGowan celebrates landslide win",
-          "date": "13 March 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

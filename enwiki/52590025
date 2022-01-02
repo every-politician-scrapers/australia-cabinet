@@ -243,25 +243,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Baker",
-          "first1": "Emily",
-          "title": "Australia's Solicitor-General named as Stephen Donaghue",
-          "url": "http://www.smh.com.au/national/public-service/australias-solicitorgeneral-named-as-stephen-donaghue-20161214-gtbacq",
-          "accessdate": "15 December 2016",
-          "work": "The Sydney Morning Herald",
-          "date": "15 December 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

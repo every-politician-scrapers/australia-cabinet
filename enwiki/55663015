@@ -228,41 +228,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "New NT Administrator appointed",
-          "url": "http://www.ntnews.com.au/news/northern-territory/vicki-ohalloran-appointed-new-northern-territory-administrator/news-story/a63f00ca85c52b14aacea7d8356a3859",
-          "access-date": "30 October 2017",
-          "work": "NT News",
-          "date": "31 August 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "O'HALLORAN, Vicki Susan",
-          "url": "https://honours.pmc.gov.au/honours/awards/1148962",
-          "website": "Australian Honours",
-          "publisher": "Department of Prime Minister and Cabinet",
-          "access-date": "30 October 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "O'HALLORAN, Vicki Susan",
-          "url": "https://honours.pmc.gov.au/honours/awards/2004928",
-          "website": "Australian Honours",
-          "publisher": "Department of Prime Minister and Cabinet",
-          "access-date": "10 June 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

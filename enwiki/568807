@@ -417,53 +417,6 @@
             "text": "Official website"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Tony Abbott's cabinet and outer ministry",
-          "url": "http://www.smh.com.au/federal-politics/political-news/tony-abbotts-cabinet-and-outer-ministry-20130916-2tuma.html",
-          "access-date": "16 September 2013",
-          "newspaper": "The Sydney Morning Herald",
-          "date": "16 September 2013",
-          "agency": "AAP",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "2020-03-17",
-          "title": "Human biosecurity emergency declared in Australia",
-          "url": "https://www.news.com.au/national/politics/coronavirus-australia-human-biosecurity-emergency-declared/news-story/cd7fbff78297c076c8bb774595459c59",
-          "access-date": "2021-06-02",
-          "website": "NewsComAu",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-06-01",
-          "title": "Federal court rejects challenge to Australia's outbound travel ban",
-          "url": "http://www.theguardian.com/law/2021/jun/01/federal-court-rejects-challenge-to-australias-outbound-travel-ban",
-          "access-date": "2021-06-02",
-          "website": "the Guardian",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-11-10",
-          "title": "Australia almost eliminated the coronavirus by putting faith in scien…",
-          "url": "http://archive.today/xBLat",
-          "access-date": "2021-06-02",
-          "website": "archive.is",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

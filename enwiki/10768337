@@ -523,26 +523,6 @@
             "text": "senatorbirmingham.com.au"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/CitizenshipRegister",
-          "title": "Citizenship Register",
-          "publisher": "Parliament of Australia",
-          "access-date": "5 December 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Gailberger",
-          "first1": "Jade",
-          "title": "Simon Birmingham sworn in as finance minister",
-          "url": "https://www.theaustralian.com.au/breaking-news/simon-birmingham-sworn-in-as-finance-minister/news-story/6fc538c06d9ed9ff8be5f1c1fcc4f521",
-          "website": "The Australian",
-          "access-date": "29 October 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

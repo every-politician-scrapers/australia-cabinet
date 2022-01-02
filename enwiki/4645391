@@ -321,54 +321,6 @@
             "text": "https://www.andrewbarr.com.au/"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.canberratimes.com.au/act-news/act-election-2016/andrew-barr-a-lifelong-creature-of-politics-20161005-grvgig.html",
-          "title": "Andrew Barr, a lifelong creature of politics",
-          "newspaper": "The Canberra Times",
-          "last": "Lawson",
-          "first": "Kirsten",
-          "date": "11 October 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Andrew pops the question",
-          "first": "Jorian",
-          "last": "Gardner",
-          "newspaper": "CityNews",
-          "edition": "Canberra",
-          "volume": "15",
-          "number": "40",
-          "page": "3",
-          "date": "15–21 October 2009",
-          "quotation": "''Openly gay Minister Andrew Barr will enter into a civil union with partner Anthony Toms next month, just as the ACT Legislative assembly attempts another run at putting forward same-sex partnerships legislation similar to that recently passed in Tasmania.''",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.abc.net.au/news/2014-12-11/andrew-barr-elected-act-chief-minister/5959984",
-          "title": "Andrew Barr elected ACT Chief Minister, seventh in history",
-          "work": "ABC News",
-          "location": "Australia",
-          "date": "11 December 2014",
-          "access-date": "11 December 2014",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
