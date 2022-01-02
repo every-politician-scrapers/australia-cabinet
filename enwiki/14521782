@@ -235,8 +235,13 @@
         {
           "sentences": [
             {
-              "text": "Morrison went on to lead the Coalition to a surprise victory in the 2019 election.",
+              "text": "Morrison went on to lead the Coalition to an upset victory in the 2019 election.",
               "links": [
+                {
+                  "text": "upset victory",
+                  "type": "internal",
+                  "page": "upset victory"
+                },
                 {
                   "text": "2019 election",
                   "type": "internal",
