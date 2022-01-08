@@ -1,44 +1,43 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q5468043,Forde Ministry,1945-07-06,11,,,1945-01-01,9,,,Q2028178,Cabinet of Australia,,,,,,,Q7443236,Second Curtin Ministry,Q5452615,First Chifley Ministry
-,Q5452615,First Chifley Ministry,1945-07-13,11,1945-07-13,11,1946-11-01,11,1946-11-01,11,Q2028178,Cabinet of Australia,,,,,,,Q5468043,Forde Ministry,Q7443187,Second Chifley Ministry
-,Q7443187,Second Chifley Ministry,1946-11-01,11,1946-11-01,11,1949-12-19,11,1949-12-19,11,Q2028178,Cabinet of Australia,,,,,,,Q5452615,First Chifley Ministry,Q5476134,Fourth Menzies Ministry
-,Q5476134,Fourth Menzies Ministry,1949-12-19,11,1949-12-19,11,1951-05-11,11,1951-05-11,11,Q2028178,Cabinet of Australia,,,,,,,Q7443187,Second Chifley Ministry,Q5447537,Fifth Menzies Ministry
-,Q5447537,Fifth Menzies Ministry,1951-05-11,11,1951-05-11,11,1954-07-09,11,1954-07-09,11,Q2028178,Cabinet of Australia,,,,,,,Q5476134,Fourth Menzies Ministry,Q15711616,Sixth Menzies Ministry
-,Q15711616,Sixth Menzies Ministry,1954-07-09,11,1954-07-09,11,1956-01-11,11,1956-01-11,11,Q2028178,Cabinet of Australia,,,,,,,Q5447537,Fifth Menzies Ministry,Q7457736,Seventh Menzies Ministry
-,Q7457736,Seventh Menzies Ministry,1956-01-11,11,1956-01-11,11,1958-12-10,11,1958-12-10,11,Q2028178,Cabinet of Australia,,,,,,,Q15711616,Sixth Menzies Ministry,Q5349114,Eighth Menzies Ministry
-,Q5349114,Eighth Menzies Ministry,1958-12-10,11,1958-12-10,11,1961-12-22,11,1961-12-22,11,Q2028178,Cabinet of Australia,,,,,,,Q7457736,Seventh Menzies Ministry,Q7039222,Ninth Menzies Ministry
-,Q7039222,Ninth Menzies Ministry,1961-12-22,11,1961-12-22,11,1963-12-18,11,1963-12-18,11,Q2028178,Cabinet of Australia,,,,,,,Q5349114,Eighth Menzies Ministry,Q7700874,Tenth Menzies Ministry
-,Q7700874,Tenth Menzies Ministry,1963-12-18,11,1963-12-18,11,1966-01-26,11,1966-01-26,11,Q2028178,Cabinet of Australia,,,,,,,Q7039222,Ninth Menzies Ministry,Q5453076,First Holt Ministry
-,Q5453076,First Holt Ministry,1966-01-26,11,1966-01-26,11,1966-12-14,11,1966-12-14,11,Q2028178,Cabinet of Australia,,,,,,,Q7700874,Tenth Menzies Ministry,Q15926634,Second Holt Ministry
-,Q15926634,Second Holt Ministry,1966-12-14,11,1966-12-14,11,1967-12-19,11,1967-12-19,11,Q2028178,Cabinet of Australia,,,,,,,Q5453076,First Holt Ministry,Q6801110,McEwen Ministry
-,Q6801110,McEwen Ministry,1967-12-19,11,1967-12-19,11,1968-01-10,11,1968-01-10,11,Q2028178,Cabinet of Australia,,,,,,,Q15926634,Second Holt Ministry,Q5453054,First Gorton Ministry
-,Q5453054,First Gorton Ministry,1968-01-10,11,1968-01-10,11,1969-11-12,11,1969-11-12,11,Q2028178,Cabinet of Australia,,,,,,,Q6801110,McEwen Ministry,Q7443324,Second Gorton Ministry
-,Q7443324,Second Gorton Ministry,1969-11-12,11,1969-11-12,11,1971-03-10,11,1971-03-10,11,Q2028178,Cabinet of Australia,,,,,,,Q5453054,First Gorton Ministry,Q15778629,McMahon Ministry
-,Q15778629,McMahon Ministry,1971-03-10,11,1971-03-10,11,1972-12-05,11,1972-12-05,11,Q2028178,Cabinet of Australia,,,,,,,Q7443324,Second Gorton Ministry,Q5454079,First Whitlam Ministry
-,Q5454079,First Whitlam Ministry,1972-12-05,11,1972-12-05,11,1972-12-19,11,1972-12-19,11,Q2028178,Cabinet of Australia,,,,,,,Q15778629,McMahon Ministry,Q7443644,Second Whitlam Ministry
-,Q7443644,Second Whitlam Ministry,1972-12-19,11,1972-12-19,11,1974-06-12,11,1974-06-12,11,Q2028178,Cabinet of Australia,,,,,,,Q5454079,First Whitlam Ministry,Q7785013,Third Whitlam Ministry
-,Q7785013,Third Whitlam Ministry,1974-06-12,11,1974-06-12,11,1975-11-11,11,1975-11-11,11,Q2028178,Cabinet of Australia,,,,,,,Q7443644,Second Whitlam Ministry,Q5453030,First Fraser Ministry
-,Q5453030,First Fraser Ministry,1975-11-11,11,1975-11-11,11,1975-12-22,11,1975-12-22,11,Q2028178,Cabinet of Australia,,,,,,,Q7785013,Third Whitlam Ministry,Q7443305,Second Fraser Ministry
-,Q7443305,Second Fraser Ministry,1975-12-22,11,1975-12-22,11,1977-12-10,11,1977-12-10,11,Q2028178,Cabinet of Australia,,,,,,,Q5453030,First Fraser Ministry,Q7784861,Third Fraser Ministry
-,Q7784861,Third Fraser Ministry,1977-12-10,11,1977-12-10,11,1980-10-18,11,1980-10-18,11,Q2028178,Cabinet of Australia,,,,,,,Q7443305,Second Fraser Ministry,Q5476093,Fourth Fraser Ministry
-,Q5476093,Fourth Fraser Ministry,1980-10-18,11,1980-10-18,11,1983-03-05,11,1983-03-05,11,Q2028178,Cabinet of Australia,,,,,,,Q7784861,Third Fraser Ministry,Q5453073,First Hawke Ministry
-,Q5453073,First Hawke Ministry,1983-03-11,11,1983-03-11,11,1984-12-13,11,1984-12-13,11,Q2028178,Cabinet of Australia,,,,,,,Q5476093,Fourth Fraser Ministry,Q7443348,Second Hawke Ministry
-,Q7443348,Second Hawke Ministry,1984-12-13,11,1984-12-13,11,1987-07-24,11,1987-07-24,11,Q2028178,Cabinet of Australia,,,,,,,Q5453073,First Hawke Ministry,Q7784872,Third Hawke Ministry
-,Q7784872,Third Hawke Ministry,1987-07-24,11,1987-07-24,11,1990-04-04,11,1990-04-04,11,Q2028178,Cabinet of Australia,,,,,,,Q7443348,Second Hawke Ministry,Q5476115,Fourth Hawke Ministry
-,Q5476115,Fourth Hawke Ministry,1990-04-04,11,1990-04-04,11,1991-12-20,11,1991-12-20,11,Q2028178,Cabinet of Australia,,,,,,,Q7784872,Third Hawke Ministry,Q5453128,First Keating Ministry
-,Q5453128,First Keating Ministry,1991-12-20,11,,,1993-03-24,11,1993-03-24,11,Q2028178,Cabinet of Australia,,,,,,,Q5476115,Fourth Hawke Ministry,Q15927592,Second Keating Ministry
-,Q15927592,Second Keating Ministry,1993-03-24,11,1993-03-24,11,1996-03-11,11,1996-03-11,11,Q2028178,Cabinet of Australia,,,,,,,Q5453128,First Keating Ministry,Q5453082,First Howard Ministry
-,Q5453082,First Howard Ministry,1996-03-11,11,,,1998-10-21,11,,,Q2028178,Cabinet of Australia,,,,,,,Q15927592,Second Keating Ministry,Q7443364,Second Howard Ministry
-,Q7443364,Second Howard Ministry,1998-10-21,11,,,2001-11-26,11,,,Q2028178,Cabinet of Australia,,,,,,,Q5453082,First Howard Ministry,Q7784875,Third Howard Ministry
-,Q7784875,Third Howard Ministry,2001-11-26,11,2001-11-26,11,2004-10-22,11,2004-10-22,11,Q2028178,Cabinet of Australia,,,,,,,Q7443364,Second Howard Ministry,Q3413636,Fourth Howard Ministry
-,Q3413636,Fourth Howard Ministry,2004-10-22,11,2004-10-22,11,2007-12-03,11,2007-12-03,11,Q2028178,Cabinet of Australia,,,,,Q747058,First Rudd Ministry,Q7784875,Third Howard Ministry,Q747058,First Rudd Ministry
-,Q747058,First Rudd Ministry,2007-12-03,11,2007-12-03,11,2010-06-24,11,2010-06-24,11,Q2028178,Cabinet of Australia,,,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry
-,Q3047605,First Gillard Ministry,2010-06-24,11,,,2010-09-14,11,,,Q2028178,Cabinet of Australia,,,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry
-,Q3052912,Second Gillard Ministry,2010-09-14,11,,,2013-06-27,11,2013-06-27,11,Q2028178,Cabinet of Australia,,,Q3047605,First Gillard Ministry,,,Q3047605,First Gillard Ministry,Q13581123,Second Rudd Ministry
-,Q13581123,Second Rudd Ministry,2013-06-27,11,2013-06-27,11,2013-09-18,11,2013-09-18,11,Q2028178,Cabinet of Australia,,,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry
-,Q13581123,Second Rudd Ministry,2013-06-27,11,2013-06-27,11,2013-09-18,11,2013-09-18,11,Q7188,government,,,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry
-,Q14920420,Abbott Ministry,2013-09-18,11,,,2015-09-15,11,,,Q2028178,Cabinet of Australia,,,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry
-,Q20986965,First Turnbull Ministry,2015-09-15,11,,,2016-07-19,11,,,Q2028178,Cabinet of Australia,,,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry
-,Q27163494,Second Turnbull Ministry,2016-07-19,11,,,2018-08-24,11,,,Q2028178,Cabinet of Australia,,,Q20986965,First Turnbull Ministry,Q56254898,First Morrison Ministry,Q20986965,First Turnbull Ministry,,
-71,Q56254898,First Morrison Ministry,2018-08-24,11,,,2019-05-29,11,,,Q2028178,Cabinet of Australia,,,Q27163494,Second Turnbull Ministry,Q65072634,Second Morrison Ministry,,,Q65072634,Second Morrison Ministry
-72,Q65072634,Second Morrison Ministry,2019-05-29,11,,,,,,,Q2028178,Cabinet of Australia,,,Q56254898,First Morrison Ministry,,,Q56254898,First Morrison Ministry,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5468043,Forde Ministry,1945-07-06,11,,,1945-01-01,9,,,,,,,Q7443236,Second Curtin Ministry,Q5452615,First Chifley Ministry
+,Q5452615,First Chifley Ministry,1945-07-13,11,1945-07-13,11,1946-11-01,11,1946-11-01,11,,,,,Q5468043,Forde Ministry,Q7443187,Second Chifley Ministry
+,Q7443187,Second Chifley Ministry,1946-11-01,11,1946-11-01,11,1949-12-19,11,1949-12-19,11,,,,,Q5452615,First Chifley Ministry,Q5476134,Fourth Menzies Ministry
+,Q5476134,Fourth Menzies Ministry,1949-12-19,11,1949-12-19,11,1951-05-11,11,1951-05-11,11,,,,,Q7443187,Second Chifley Ministry,Q5447537,Fifth Menzies Ministry
+,Q5447537,Fifth Menzies Ministry,1951-05-11,11,1951-05-11,11,1954-07-09,11,1954-07-09,11,,,,,Q5476134,Fourth Menzies Ministry,Q15711616,Sixth Menzies Ministry
+,Q15711616,Sixth Menzies Ministry,1954-07-09,11,1954-07-09,11,1956-01-11,11,1956-01-11,11,,,,,Q5447537,Fifth Menzies Ministry,Q7457736,Seventh Menzies Ministry
+,Q7457736,Seventh Menzies Ministry,1956-01-11,11,1956-01-11,11,1958-12-10,11,1958-12-10,11,,,,,Q15711616,Sixth Menzies Ministry,Q5349114,Eighth Menzies Ministry
+,Q5349114,Eighth Menzies Ministry,1958-12-10,11,1958-12-10,11,1961-12-22,11,1961-12-22,11,,,,,Q7457736,Seventh Menzies Ministry,Q7039222,Ninth Menzies Ministry
+,Q7039222,Ninth Menzies Ministry,1961-12-22,11,1961-12-22,11,1963-12-18,11,1963-12-18,11,,,,,Q5349114,Eighth Menzies Ministry,Q7700874,Tenth Menzies Ministry
+,Q7700874,Tenth Menzies Ministry,1963-12-18,11,1963-12-18,11,1966-01-26,11,1966-01-26,11,,,,,Q7039222,Ninth Menzies Ministry,Q5453076,First Holt Ministry
+,Q5453076,First Holt Ministry,1966-01-26,11,1966-01-26,11,1966-12-14,11,1966-12-14,11,,,,,Q7700874,Tenth Menzies Ministry,Q15926634,Second Holt Ministry
+,Q15926634,Second Holt Ministry,1966-12-14,11,1966-12-14,11,1967-12-19,11,1967-12-19,11,,,,,Q5453076,First Holt Ministry,Q6801110,McEwen Ministry
+,Q6801110,McEwen Ministry,1967-12-19,11,1967-12-19,11,1968-01-10,11,1968-01-10,11,,,,,Q15926634,Second Holt Ministry,Q5453054,First Gorton Ministry
+,Q5453054,First Gorton Ministry,1968-01-10,11,1968-01-10,11,1969-11-12,11,1969-11-12,11,,,,,Q6801110,McEwen Ministry,Q7443324,Second Gorton Ministry
+,Q7443324,Second Gorton Ministry,1969-11-12,11,1969-11-12,11,1971-03-10,11,1971-03-10,11,,,,,Q5453054,First Gorton Ministry,Q15778629,McMahon Ministry
+,Q15778629,McMahon Ministry,1971-03-10,11,1971-03-10,11,1972-12-05,11,1972-12-05,11,,,,,Q7443324,Second Gorton Ministry,Q5454079,First Whitlam Ministry
+,Q5454079,First Whitlam Ministry,1972-12-05,11,1972-12-05,11,1972-12-19,11,1972-12-19,11,,,,,Q15778629,McMahon Ministry,Q7443644,Second Whitlam Ministry
+,Q7443644,Second Whitlam Ministry,1972-12-19,11,1972-12-19,11,1974-06-12,11,1974-06-12,11,,,,,Q5454079,First Whitlam Ministry,Q7785013,Third Whitlam Ministry
+,Q7785013,Third Whitlam Ministry,1974-06-12,11,1974-06-12,11,1975-11-11,11,1975-11-11,11,,,,,Q7443644,Second Whitlam Ministry,Q5453030,First Fraser Ministry
+,Q5453030,First Fraser Ministry,1975-11-11,11,1975-11-11,11,1975-12-22,11,1975-12-22,11,,,,,Q7785013,Third Whitlam Ministry,Q7443305,Second Fraser Ministry
+,Q7443305,Second Fraser Ministry,1975-12-22,11,1975-12-22,11,1977-12-10,11,1977-12-10,11,,,,,Q5453030,First Fraser Ministry,Q7784861,Third Fraser Ministry
+,Q7784861,Third Fraser Ministry,1977-12-10,11,1977-12-10,11,1980-10-18,11,1980-10-18,11,,,,,Q7443305,Second Fraser Ministry,Q5476093,Fourth Fraser Ministry
+,Q5476093,Fourth Fraser Ministry,1980-10-18,11,1980-10-18,11,1983-03-05,11,1983-03-05,11,,,,,Q7784861,Third Fraser Ministry,Q5453073,First Hawke Ministry
+,Q5453073,First Hawke Ministry,1983-03-11,11,1983-03-11,11,1984-12-13,11,1984-12-13,11,,,,,Q5476093,Fourth Fraser Ministry,Q7443348,Second Hawke Ministry
+,Q7443348,Second Hawke Ministry,1984-12-13,11,1984-12-13,11,1987-07-24,11,1987-07-24,11,,,,,Q5453073,First Hawke Ministry,Q7784872,Third Hawke Ministry
+,Q7784872,Third Hawke Ministry,1987-07-24,11,1987-07-24,11,1990-04-04,11,1990-04-04,11,,,,,Q7443348,Second Hawke Ministry,Q5476115,Fourth Hawke Ministry
+,Q5476115,Fourth Hawke Ministry,1990-04-04,11,1990-04-04,11,1991-12-20,11,1991-12-20,11,,,,,Q7784872,Third Hawke Ministry,Q5453128,First Keating Ministry
+,Q5453128,First Keating Ministry,1991-12-20,11,,,1993-03-24,11,1993-03-24,11,,,,,Q5476115,Fourth Hawke Ministry,Q15927592,Second Keating Ministry
+,Q15927592,Second Keating Ministry,1993-03-24,11,1993-03-24,11,1996-03-11,11,1996-03-11,11,,,,,Q5453128,First Keating Ministry,Q5453082,First Howard Ministry
+,Q5453082,First Howard Ministry,1996-03-11,11,,,1998-10-21,11,,,,,,,Q15927592,Second Keating Ministry,Q7443364,Second Howard Ministry
+,Q7443364,Second Howard Ministry,1998-10-21,11,,,2001-11-26,11,,,,,,,Q5453082,First Howard Ministry,Q7784875,Third Howard Ministry
+,Q7784875,Third Howard Ministry,2001-11-26,11,2001-11-26,11,2004-10-22,11,2004-10-22,11,,,,,Q7443364,Second Howard Ministry,Q3413636,Fourth Howard Ministry
+,Q3413636,Fourth Howard Ministry,2004-10-22,11,2004-10-22,11,2007-12-03,11,2007-12-03,11,,,Q747058,First Rudd Ministry,Q7784875,Third Howard Ministry,Q747058,First Rudd Ministry
+,Q747058,First Rudd Ministry,2007-12-03,11,2007-12-03,11,2010-06-24,11,2010-06-24,11,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry
+,Q3047605,First Gillard Ministry,2010-06-24,11,,,2010-09-14,11,,,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry
+,Q3052912,Second Gillard Ministry,2010-09-14,11,,,2013-06-27,11,2013-06-27,11,Q3047605,First Gillard Ministry,,,Q3047605,First Gillard Ministry,Q13581123,Second Rudd Ministry
+,Q13581123,Second Rudd Ministry,2013-06-27,11,2013-06-27,11,2013-09-18,11,2013-09-18,11,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry
+,Q14920420,Abbott Ministry,2013-09-18,11,,,2015-09-15,11,,,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry
+,Q20986965,First Turnbull Ministry,2015-09-15,11,,,2016-07-19,11,,,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry
+,Q27163494,Second Turnbull Ministry,2016-07-19,11,,,2018-08-24,11,,,Q20986965,First Turnbull Ministry,Q56254898,First Morrison Ministry,Q20986965,First Turnbull Ministry,,
+71,Q56254898,First Morrison Ministry,2018-08-24,11,,,2019-05-29,11,,,Q27163494,Second Turnbull Ministry,Q65072634,Second Morrison Ministry,,,Q65072634,Second Morrison Ministry
+72,Q65072634,Second Morrison Ministry,2019-05-29,11,,,,,,,Q56254898,First Morrison Ministry,,,Q56254898,First Morrison Ministry,,
