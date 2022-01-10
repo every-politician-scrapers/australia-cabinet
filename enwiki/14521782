@@ -57,6 +57,15 @@
                   "page": "Liberal Party of Australia"
                 }
               ]
+            },
+            {
+              "text": "He is the longest-serving prime minister since John Howard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Howard"
+                }
+              ]
             }
           ]
         },
@@ -313,7 +322,7 @@
       ],
       "templates": [
         {
-          "description": "30th prime minister of Australia",
+          "description": "30th prime minister of Australia since 2018",
           "template": "short description"
         },
         {
