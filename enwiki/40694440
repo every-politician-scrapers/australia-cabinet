@@ -217,11 +217,15 @@
             "text": "26 May 2019"
           },
           "minister1": {
-            "text": "Linda Reynolds",
+            "text": "Linda Reynolds Peter Dutton",
             "links": [
               {
                 "type": "internal",
                 "page": "Linda Reynolds"
+              },
+              {
+                "type": "internal",
+                "page": "Peter Dutton"
               }
             ]
           },
