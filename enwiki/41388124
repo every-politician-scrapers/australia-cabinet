@@ -14,7 +14,8 @@
     "Members of the Australian House of Representatives",
     "Members of the Australian House of Representatives for Goldstein",
     "Liberal Party of Australia members of the Parliament of Australia",
-    "21st-century Australian politicians"
+    "21st-century Australian politicians",
+    "Australian people of Armenian descent"
   ],
   "sections": [
     {
@@ -167,11 +168,11 @@
             "text": "March 12, 1980"
           },
           "birth_place": {
-            "text": "Melbourne, Australia",
+            "text": "Prahran, Victoria, Australia",
             "links": [
               {
                 "type": "internal",
-                "page": "Melbourne"
+                "page": "Prahran, Victoria"
               }
             ]
           },
