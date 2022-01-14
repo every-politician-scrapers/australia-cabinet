@@ -345,7 +345,7 @@
         },
         {
           "spouse": "Jenny Warren",
-          "from": "14 January 1990",
+          "from": "1990",
           "template": "marriage"
         },
         {
@@ -662,7 +662,7 @@
             "text": "ScoMo"
           },
           "spouse": {
-            "text": "Jenny Warren (m. 14 January 1990)"
+            "text": "Jenny Warren (m. 1990)"
           },
           "children": {
             "text": "2",
