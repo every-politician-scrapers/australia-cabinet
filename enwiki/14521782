@@ -35,12 +35,11 @@
         {
           "sentences": [
             {
-              "text": "Scott John Morrison (born 13 May 1968) is an Australian politician serving as the 30th and current prime minister of Australia.",
+              "text": "Scott John Morrison (born 13 May 1968) is an Australian politician serving as the 30th and current Prime Minister of Australia.",
               "links": [
                 {
-                  "text": "prime minister of Australia",
                   "type": "internal",
-                  "page": "prime minister of Australia"
+                  "page": "Prime Minister of Australia"
                 }
               ],
               "formatting": {
@@ -322,7 +321,7 @@
       ],
       "templates": [
         {
-          "description": "30th prime minister of Australia since 2018",
+          "description": "30th Prime Minister of Australia since 2018",
           "template": "short description"
         },
         {
