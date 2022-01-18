@@ -482,7 +482,10 @@
             ]
           },
           "term_start2": {
-            "text": "26 May 2019"
+            "text": "29 May 2019"
+          },
+          "term_end2": {
+            "text": "8 October 2021"
           },
           "predecessor2": {
             "text": "Mathias Cormann",
@@ -490,6 +493,16 @@
               {
                 "type": "internal",
                 "page": "Mathias Cormann"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ben Morton",
+            "links": [
+              {
+                "text": "Ben Morton",
+                "type": "internal",
+                "page": "Ben Morton (politician)"
               }
             ]
           },

@@ -125,7 +125,38 @@
           "image": {
             "text": "Ben Morton.jpg"
           },
-          "constituency_mp": {
+          "office": {
+            "text": "Minister for the Public Service",
+            "links": [
+              {
+                "text": "Minister for the Public Service",
+                "type": "internal",
+                "page": "Australian Public Service"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "primeminister": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Scott Morrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Morrison"
+              }
+            ]
+          },
+          "constituency_mp3": {
             "text": "Tangney",
             "links": [
               {
@@ -135,13 +166,13 @@
               }
             ]
           },
-          "parliament": {
+          "parliament3": {
             "text": "Australian"
           },
-          "term_start": {
+          "term_start3": {
             "text": "July 2, 2016"
           },
-          "predecessor": {
+          "predecessor3": {
             "text": "Dennis Jensen",
             "links": [
               {
@@ -211,9 +242,6 @@
           },
           "website": {
             "text": "http://www.benmorton.net.au/"
-          },
-          "constituency": {
-            "text": "Tangney"
           },
           "office2": {
             "text": "Special Minister of State",
