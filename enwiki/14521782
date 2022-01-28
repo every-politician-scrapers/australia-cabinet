@@ -192,11 +192,7 @@
                   "page": "Malcolm Turnbull"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In August 2018, Home Affairs Minister Peter Dutton unsuccessfully challenged Turnbull for the leadership of the Liberal Party.",
               "links": [
@@ -207,7 +203,7 @@
               ]
             },
             {
-              "text": "Leadership tension continued, and the party voted to hold a second leadership ballot on 24 August, with Turnbull choosing not to stand.",
+              "text": "Leadership tension continued, and the party voted to hold a second leadership ballot days later, with Turnbull choosing not to stand.",
               "links": [
                 {
                   "text": "a second leadership ballot",
@@ -217,25 +213,11 @@
               ]
             },
             {
-              "text": "In that ballot, Morrison was seen as a compromise candidate and defeated both Dutton and Foreign Minister Julie Bishop to become leader of the Liberal Party.",
+              "text": "In that ballot, Morrison was seen as a compromise candidate and defeated both Dutton and Foreign Minister Julie Bishop to become party leader and thus prime minister.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Julie Bishop"
-                }
-              ]
-            },
-            {
-              "text": "He was sworn in as prime minister by governor-general Peter Cosgrove later that day.",
-              "links": [
-                {
-                  "text": "governor-general",
-                  "type": "internal",
-                  "page": "Governor-General of Australia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Peter Cosgrove"
                 }
               ]
             }
@@ -285,16 +267,6 @@
                   "text": "National Cabinet",
                   "type": "internal",
                   "page": "National Cabinet (Australia)"
-                }
-              ]
-            },
-            {
-              "text": "Morrison has also been criticised for a slow vaccination rollout that fell far short of its targets.",
-              "links": [
-                {
-                  "text": "vaccination rollout",
-                  "type": "internal",
-                  "page": "COVID-19 vaccination in Australia"
                 }
               ]
             },
