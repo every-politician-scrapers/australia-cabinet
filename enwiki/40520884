@@ -67,6 +67,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taylor is a member of the National Right faction of the Liberal Party."
+            }
+          ]
         }
       ],
       "templates": [
