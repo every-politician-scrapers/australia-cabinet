@@ -185,7 +185,7 @@
             ]
           },
           "awards": {
-            "text": "Officer of the Order of Australia Commendation for Distinguished Service (2) Knight of the Legion of Honour (France) Commander of the Order of Naval Merit (Chile) Grand Cross of the Order of Naval Merit (Peru) Navy Meritorious Service Star (Indonesia)",
+            "text": "Officer of the Order of Australia Commendation for Distinguished Service (2) Knight of the Legion of Honour (France) Commander of the Order of Naval Merit (Chile) Grand Cross of the Order of Naval Merit (Peru) Navy Meritorious Service Star (Indonesia) Meritorious Service Medal (Singapore)",
             "links": [
               {
                 "type": "internal",
@@ -199,6 +199,11 @@
                 "text": "Knight of the Legion of Honour",
                 "type": "internal",
                 "page": "Legion of Honour"
+              },
+              {
+                "text": "Meritorious Service Medal",
+                "type": "internal",
+                "page": "Pingat Jasa Gemilang (Tentera)"
               }
             ]
           }
