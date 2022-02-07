@@ -55,7 +55,7 @@
               }
             },
             {
-              "text": "He is the leader of the National Party of Australia, and previously served as deputy prime minister from February 2016 to October 2017 and from December 2017 to February 2018.",
+              "text": "He is the leader of the National Party of Australia, and previously served as deputy prime minister from 2016 to 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -239,7 +239,7 @@
               "text": "In February 2018, he resigned his ministerial and leadership roles after acknowledging that he was in a relationship and expecting a child with a former staffer."
             },
             {
-              "text": "He was succeeded by Michael McCormack, but returned as leader of the Nationals on 21 June 2021, following a leadership spill.",
+              "text": "He was succeeded by Michael McCormack, but returned as leader of the Nationals and deputy prime minister in June 2021, following a leadership spill.",
               "links": [
                 {
                   "text": "Michael McCormack",
@@ -271,6 +271,13 @@
         },
         {
           "list": [
+            "ch",
+            "a"
+          ],
+          "template": "ref label"
+        },
+        {
+          "list": [
             "Other positions"
           ],
           "titlestyle": "background-color:#eee",
@@ -296,6 +303,20 @@
           "to": "2017",
           "end": "separated",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "ch",
+            "a"
+          ],
+          "template": "note"
+        },
+        {
+          "list": [
+            "ch",
+            "a"
+          ],
+          "template": "ref label"
         }
       ],
       "infoboxes": [
@@ -366,25 +387,19 @@
             ]
           },
           "term_start1": {
-            "text": "6 December 2017"
+            "text": "18 February 2016"
           },
           "term_end1": {
             "text": "26 February 2018"
           },
           "predecessor1": {
-            "text": "Office vacant",
+            "text": "Warren Truss",
             "links": [
               {
-                "text": "Office vacant",
                 "type": "internal",
-                "page": "2017 New England by-election"
+                "page": "Warren Truss"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Office vacant"
-              ]
-            }
+            ]
           },
           "successor1": {
             "text": "Michael McCormack",
@@ -395,45 +410,6 @@
                 "page": "Michael McCormack (Australian politician)"
               }
             ]
-          },
-          "primeminister2": {
-            "text": "Malcolm Turnbull",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malcolm Turnbull"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 February 2016"
-          },
-          "term_end2": {
-            "text": "27 October 2017"
-          },
-          "predecessor2": {
-            "text": "Warren Truss",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Warren Truss"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Office vacant",
-            "links": [
-              {
-                "text": "Office vacant",
-                "type": "internal",
-                "page": "2017 New England by-election"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Office vacant"
-              ]
-            }
           },
           "office3": {
             "text": "Leader of the National Party",
@@ -931,6 +907,9 @@
                 "page": "Royal Queensland Regiment"
               }
             ]
+          },
+          "footnotes": {
+            "text": "Office vacant from 27 October 2017 to 6 December 2017."
           }
         }
       ]
