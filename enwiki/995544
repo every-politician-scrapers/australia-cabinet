@@ -147,7 +147,14 @@
         {
           "sentences": [
             {
-              "text": "Colbeck is a member of the Moderate/Modern Liberal faction of the Liberal Party."
+              "text": "Colbeck is a member of the Moderate/Modern Liberal faction of the Liberal Party.",
+              "links": [
+                {
+                  "text": "Moderate/Modern Liberal faction",
+                  "type": "internal",
+                  "page": "Moderates (Liberal Party of Australia)"
+                }
+              ]
             }
           ]
         }
