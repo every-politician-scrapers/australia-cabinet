@@ -373,10 +373,7 @@
               }
             ]
           },
-          "2blankname": {
-            "text": "Governor-General"
-          },
-          "2namedata": {
+          "governor_general": {
             "text": "Sir Peter Cosgrove David Hurley",
             "links": [
               {
@@ -389,10 +386,7 @@
               }
             ]
           },
-          "3blankname": {
-            "text": "Deputy"
-          },
-          "3namedata": {
+          "deputy": {
             "text": "Michael McCormack Barnaby Joyce",
             "links": [
               {
