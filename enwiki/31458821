@@ -151,7 +151,7 @@
           "template": "use australian english"
         },
         {
-          "date": "November 2019",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -566,20 +566,12 @@
             "text": "September 21, 1982"
           },
           "birth_place": {
-            "text": "West Pennant Hills, Sydney, New South Wales, Australia",
+            "text": "West Pennant Hills, Sydney, Australia",
             "links": [
               {
                 "text": "West Pennant Hills",
                 "type": "internal",
                 "page": "West Pennant Hills, New South Wales"
-              },
-              {
-                "type": "internal",
-                "page": "Sydney"
-              },
-              {
-                "type": "internal",
-                "page": "New South Wales"
               }
             ]
           },
@@ -604,14 +596,7 @@
             ]
           },
           "nationality": {
-            "text": "Australian",
-            "links": [
-              {
-                "text": "Australian",
-                "type": "internal",
-                "page": "Australians"
-              }
-            ]
+            "text": "Australian"
           },
           "occupation": {
             "text": "Lawyer · Politician"
