@@ -234,10 +234,68 @@
           "month": "11",
           "day": "18",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Dutton, a member of the Liberal National Party, sits with the Liberal MPs in the House."
+          ],
+          "template": "efn"
+        },
+        {
+          "spouse": "Kirilly Brumby",
+          "from": "July 2003",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
-        {}
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "allegiance": {
+            "text": "Queensland Police",
+            "links": [
+              {
+                "text": "Queensland Police",
+                "type": "internal",
+                "page": "Queensland Police Service"
+              }
+            ]
+          },
+          "department": {
+            "text": "National Crime Authority",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Crime Authority"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Covert surveillance unit, drug squad, sex offenders squad"
+          },
+          "serviceyears": {
+            "text": "1990–1999"
+          },
+          "rank": {
+            "text": "Qld-police-senior-constable.png Senior Constable"
+          }
+        },
+        {
+          "education": {
+            "text": "St Paul's School, Bald Hills",
+            "links": [
+              {
+                "text": "St Paul's School, Bald Hills",
+                "type": "internal",
+                "page": "St Paul's Anglican School, Bald Hills"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Kirilly Brumby (m. July 2003)"
+          }
+        }
       ]
     }
   ]
