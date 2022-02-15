@@ -6,7 +6,7 @@
     "Leaders of the Opposition in South Australia",
     "1968 births",
     "Living people",
-    "People from Adelaide",
+    "Politicians from Adelaide",
     "Australian monarchists",
     "Liberal Party of Australia members of the Parliament of South Australia",
     "21st-century Australian politicians",
@@ -412,17 +412,7 @@
             "text": "January 21, 1968"
           },
           "birth_place": {
-            "text": "Woodville South, South Australia, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Woodville South"
-              },
-              {
-                "type": "internal",
-                "page": "South Australia"
-              }
-            ]
+            "text": "Woodville South, South Australia"
           },
           "party": {
             "text": "Liberal Party of Australia (SA)",

@@ -245,6 +245,15 @@
           "spouse": "Kirilly Brumby",
           "from": "July 2003",
           "template": "marriage"
+        },
+        {
+          "template": "flagicon image"
+        },
+        {
+          "list": [
+            "This was the highest rank Dutton achieved prior to leaving the Queensland Police."
+          ],
+          "template": "efn"
         }
       ],
       "infoboxes": [
@@ -253,17 +262,20 @@
             "text": "yes"
           },
           "allegiance": {
-            "text": "Queensland Police",
+            "text": "Queensland",
             "links": [
               {
-                "text": "Queensland Police",
+                "text": "Queensland",
                 "type": "internal",
-                "page": "Queensland Police Service"
+                "page": "undefined"
               }
             ]
           },
           "department": {
-            "text": "National Crime Authority",
+            "text": "Queensland Police"
+          },
+          "branch": {
+            "text": "National Crime Authority, covert surveillance unit, drug squad, sex offenders squad",
             "links": [
               {
                 "type": "internal",
@@ -271,14 +283,11 @@
               }
             ]
           },
-          "branch": {
-            "text": "Covert surveillance unit, drug squad, sex offenders squad"
-          },
           "serviceyears": {
             "text": "1990–1999"
           },
           "rank": {
-            "text": "Qld-police-senior-constable.png Senior Constable"
+            "text": "Qld-police-senior-constable.png Detective Senior Constable"
           }
         },
         {
