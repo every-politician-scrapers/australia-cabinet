@@ -124,12 +124,6 @@
           "month": "09",
           "day": "30",
           "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Goulburn"
-          ],
-          "template": "nswcity"
         }
       ],
       "infoboxes": [
@@ -344,6 +338,9 @@
                 "page": "Liberal Party of Australia"
               }
             ]
+          },
+          "residence": {
+            "text": "Cayman islands"
           },
           "education": {
             "text": "The King's School, Parramatta",
