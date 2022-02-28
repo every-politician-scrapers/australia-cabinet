@@ -205,7 +205,7 @@
             ]
           },
           "awards": {
-            "text": "Officer of the Order of Australia Distinguished Service Cross Bronze Star (United States) Officer of the National Order of Merit (France)",
+            "text": "Officer of the Order of Australia Distinguished Service Cross Bronze Star (United States) Officer of the National Order of Merit (France) Air Force Meritorious Service Star, First Class (Indonesia)",
             "links": [
               {
                 "type": "internal",
@@ -225,6 +225,11 @@
                 "text": "Officer of the National Order of Merit",
                 "type": "internal",
                 "page": "Ordre national du Mérite"
+              },
+              {
+                "text": "Air Force Meritorious Service Star, First Class",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Indonesia"
               }
             ]
           }

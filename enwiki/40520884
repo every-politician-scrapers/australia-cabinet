@@ -71,7 +71,14 @@
         {
           "sentences": [
             {
-              "text": "Taylor is a member of the National Right faction of the Liberal Party."
+              "text": "Taylor is a member of the National Right faction of the Liberal Party.",
+              "links": [
+                {
+                  "text": "National Right",
+                  "type": "internal",
+                  "page": "National Right (Liberal Party of Australia)"
+                }
+              ]
             }
           ]
         }
