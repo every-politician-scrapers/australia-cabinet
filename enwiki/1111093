@@ -445,7 +445,7 @@
             ]
           },
           "deputy4": {
-            "text": "Fiona Nash Bridget McKenzie",
+            "text": "Fiona Nash\nBridget McKenzie",
             "links": [
               {
                 "type": "internal",
@@ -587,10 +587,10 @@
             ]
           },
           "term8": {
-            "text": "18 September 2013 – 27 October 2017 6 December 2017 – 20 December 2017"
+            "text": "18 September 2013 – 27 October 2017\n6 December 2017 – 20 December 2017"
           },
           "primeminister8": {
-            "text": "Malcolm Turnbull Tony Abbott",
+            "text": "Malcolm Turnbull\nTony Abbott",
             "links": [
               {
                 "type": "internal",

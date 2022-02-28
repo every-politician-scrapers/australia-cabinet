@@ -271,7 +271,7 @@
               ]
             },
             {
-              "text": "In foreign policy, Morrison oversaw the signing of the AUKUS security pact, increased tensions between Australia and China and resisted international pressure to implement policies to address climate change.",
+              "text": "In foreign policy, Morrison oversaw the signing of the AUKUS security pact, increased tensions between Australia and China, resisted international pressure to implement policies to address climate change and became part of the international effort against Russia in the wake of the 2022 Russian invasion of Ukraine.",
               "links": [
                 {
                   "type": "internal",
@@ -286,6 +286,11 @@
                   "text": "climate change",
                   "type": "internal",
                   "page": "Climate change in Australia"
+                },
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
                 }
               ]
             }
