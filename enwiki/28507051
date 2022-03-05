@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Alan Tudge (born 24 February 1971) is an Australian politician who served as Minister for Education and Youth in the Morrison Government from 2020 to 2021.",
+              "text": "Alan Tudge (born 24 February 1971) is an Australian politician who most recently served as Minister for Education and Youth in the Morrison Government from 2020 to 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -238,7 +238,7 @@
             "text": "22 December 2020"
           },
           "term_end": {
-            "text": "2 December 2021"
+            "text": "4 March 2022"
           },
           "predecessor": {
             "text": "Dan Tehan (as Minister for Education) Richard Colbeck (as Minister for Youth and Sport)",
