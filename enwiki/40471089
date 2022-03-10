@@ -1,245 +1,27 @@
 {
-  "title": "Michelle Landry",
-  "pageID": 40471089,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Liberal National Party of Queensland members of the Parliament of Australia",
-    "People from Rockhampton",
-    "Members of the Australian House of Representatives",
-    "Members of the Australian House of Representatives for Capricornia",
-    "Women members of the Australian House of Representatives",
-    "21st-century Australian politicians",
-    "21st-century Australian women politicians",
-    "Morrison Government"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Michelle Leanne Landry (née Martin; born 15 October 1962) is an Australian politician who has been a member of the House of Representatives since the 2013 federal election, representing the Division of Capricornia.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "Australian House of Representatives"
-                },
-                {
-                  "text": "2013 federal election",
-                  "type": "internal",
-                  "page": "2013 Australian federal election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Division of Capricornia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Michelle Leanne Landry",
-                  "Martin"
-                ]
-              }
-            },
-            {
-              "text": "She holds the positions of Assistant Minister for Children and Families (2018–present) and Assistant Minister for Northern Australia (2020–present) in the Morrison Government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Morrison Government"
-                }
-              ]
-            },
-            {
-              "text": "She is a member of the Liberal National Party of Queensland, and sits with the Nationals in federal parliament.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Liberal National Party of Queensland"
-                },
-                {
-                  "text": "Nationals",
-                  "type": "internal",
-                  "page": "National Party of Australia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "January 2016",
-          "template": "use australian english"
-        },
-        {
-          "df": "yes",
-          "year": "1962",
-          "month": "10",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Michelle Landry"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          },
-          "image": {
-            "text": "Michelle Landry 2016.jpg"
-          },
-          "caption": {
-            "text": "Landry in 2016"
-          },
-          "office": {
-            "text": "Assistant Minister for Northern Australia"
-          },
-          "primeminister": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 February 2020"
-          },
-          "predecessor": {
-            "text": "New title",
-            "formatting": {
-              "italic": [
-                "New title"
-              ]
-            }
-          },
-          "office2": {
-            "text": "Assistant Minister for Children and Families"
-          },
-          "primeminister2": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 August 2018"
-          },
-          "predecessor2": {
-            "text": "David Gillespie",
-            "links": [
-              {
-                "text": "David Gillespie",
-                "type": "internal",
-                "page": "David Gillespie (politician)"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Capricornia",
-            "links": [
-              {
-                "text": "Capricornia",
-                "type": "internal",
-                "page": "Division of Capricornia"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Australian"
-          },
-          "predecessor3": {
-            "text": "Kirsten Livermore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kirsten Livermore"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 September 2013"
-          },
-          "birth_name": {
-            "text": "Michelle Leanne Martin"
-          },
-          "birth_date": {
-            "text": "October 15, 1962"
-          },
-          "birth_place": {
-            "text": "Rockhampton, Queensland, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rockhampton, Queensland"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian"
-          },
-          "party": {
-            "text": "Nationals (LNP)",
-            "links": [
-              {
-                "text": "Nationals",
-                "type": "internal",
-                "page": "National Party of Australia"
-              },
-              {
-                "text": "LNP",
-                "type": "internal",
-                "page": "Liberal National Party of Queensland"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "occupation": {
-            "text": "Business owner"
-          },
-          "website": {
-            "text": "michellelandry.com.au"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Michelle Landry",
+  "honorific-suffix": "MP",
+  "image": "Michelle Landry 2016.jpg",
+  "caption": "Landry in 2016",
+  "office": "Assistant Minister for Northern Australia",
+  "primeminister": "Scott Morrison",
+  "term_start": "6 February 2020",
+  "predecessor": "New title",
+  "office2": "Assistant Minister for Children and Families",
+  "primeminister2": "Scott Morrison",
+  "term_start2": "28 August 2018",
+  "predecessor2": "David Gillespie",
+  "constituency_mp3": "Capricornia",
+  "parliament3": "Australian",
+  "predecessor3": "Kirsten Livermore",
+  "term_start3": "7 September 2013",
+  "birth_name": "Michelle Leanne Martin",
+  "birth_date": "October 15, 1962",
+  "birth_place": "Rockhampton, Queensland, Australia",
+  "nationality": "Australian",
+  "party": "Nationals (LNP)",
+  "children": "2",
+  "occupation": "Business owner",
+  "website": "michellelandry.com.au"
 }

@@ -1,229 +1,26 @@
 {
-  "title": "Jason Wood (politician)",
-  "pageID": 1066639,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "Members of the Australian House of Representatives",
-    "Members of the Australian House of Representatives for La Trobe",
-    "Liberal Party of Australia members of the Parliament of Australia",
-    "Australian police officers",
-    "RMIT University alumni",
-    "21st-century Australian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jason Peter Wood (born 24 May 1968) is an Australian politician and former police officer.",
-              "formatting": {
-                "bold": [
-                  "Jason Peter Wood"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Liberal Party and has been Assistant Minister for Customs, Community Safety and Multicultural Affairs in the Morrison Government since May 2019.",
-              "links": [
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Australia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Morrison Government"
-                }
-              ]
-            },
-            {
-              "text": "He represents the Division of La Trobe in Victoria, which he has held since 2013 and previously from 2004 to 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Division of La Trobe"
-                },
-                {
-                  "text": "Victoria",
-                  "type": "internal",
-                  "page": "Victoria (Australia)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Jason Wood"
-          ],
-          "template": "other people"
-        },
-        {
-          "date": "December 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "June 2016",
-          "template": "use australian english"
-        },
-        {
-          "df": "yes",
-          "year": "1968",
-          "month": "5",
-          "day": "24",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Jason Wood"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          },
-          "office": {
-            "text": "Assistant Minister for Customs, Community Safety and Multicultural Affairs"
-          },
-          "primeminister": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 May 2019"
-          },
-          "predecessor": {
-            "text": "New title",
-            "formatting": {
-              "italic": [
-                "New title"
-              ]
-            }
-          },
-          "constituency_mp3": {
-            "text": "La Trobe",
-            "links": [
-              {
-                "text": "La Trobe",
-                "type": "internal",
-                "page": "Division of La Trobe"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Australian"
-          },
-          "term_start3": {
-            "text": "7 September 2013"
-          },
-          "predecessor3": {
-            "text": "Laura Smyth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laura Smyth"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "9 October 2004"
-          },
-          "term_end4": {
-            "text": "21 August 2010"
-          },
-          "predecessor4": {
-            "text": "Bob Charles",
-            "links": [
-              {
-                "text": "Bob Charles",
-                "type": "internal",
-                "page": "Bob Charles (politician)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Laura Smyth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laura Smyth"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Jason Peter Wood"
-          },
-          "birth_date": {
-            "text": "May 24, 1968"
-          },
-          "birth_place": {
-            "text": "Sutherland, New South Wales, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sutherland, New South Wales"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian"
-          },
-          "party": {
-            "text": "Liberal",
-            "links": [
-              {
-                "text": "Liberal",
-                "type": "internal",
-                "page": "Liberal Party of Australia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Judy Cheung"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "profession": {
-            "text": "Police officer"
-          },
-          "website": {
-            "text": "jasonwood.com.au"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Jason Wood",
+  "honorific-suffix": "MP",
+  "office": "Assistant Minister for Customs, Community Safety and Multicultural Affairs",
+  "primeminister": "Scott Morrison",
+  "term_start": "29 May 2019",
+  "predecessor": "New title",
+  "constituency_mp3": "La Trobe",
+  "parliament3": "Australian",
+  "term_start3": "7 September 2013",
+  "predecessor3": "Laura Smyth",
+  "term_start4": "9 October 2004",
+  "term_end4": "21 August 2010",
+  "predecessor4": "Bob Charles",
+  "successor4": "Laura Smyth",
+  "birth_name": "Jason Peter Wood",
+  "birth_date": "May 24, 1968",
+  "birth_place": "Sutherland, New South Wales, Australia",
+  "nationality": "Australian",
+  "party": "Liberal",
+  "spouse": "Judy Cheung",
+  "children": "1",
+  "profession": "Police officer",
+  "website": "jasonwood.com.au"
 }

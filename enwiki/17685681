@@ -1,296 +1,36 @@
 {
-  "title": "Margaret Beazley",
-  "pageID": 17685681,
-  "categories": [
-    "1951 births",
-    "Living people",
-    "Governors of New South Wales",
-    "Judges of the Federal Court of Australia",
-    "Judges of the Supreme Court of New South Wales",
-    "Australian Queen's Counsel",
-    "Australian women judges",
-    "Presidents of the NSW Court of Appeal",
-    "Companions of the Order of Australia",
-    "20th-century Australian judges",
-    "21st-century Australian judges",
-    "Judges of the Supreme Court of the Australian Capital Territory",
-    "Judges of the Industrial Relations Court of Australia",
-    "Judges of the District Court of NSW",
-    "20th-century women judges",
-    "21st-century women judges",
-    "20th-century Australian women"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Margaret Joan Beazley, (born 23 July 1951) is an Australian jurist who is the 39th and current governor of New South Wales, serving since 2 May 2019.",
-              "links": [
-                {
-                  "text": "jurist",
-                  "type": "internal",
-                  "page": "Judge"
-                },
-                {
-                  "text": "governor of New South Wales",
-                  "type": "internal",
-                  "page": "governor of New South Wales"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Margaret Joan Beazley"
-                ]
-              }
-            },
-            {
-              "text": "She was the president of the New South Wales Court of Appeal, the first woman to hold the office, from 2013 until February 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New South Wales Court of Appeal"
-                },
-                {
-                  "text": "first woman to hold the office",
-                  "type": "internal",
-                  "page": "List of the first women appointed to Australian judicial positions"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Governor of New South Wales",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "June 2018",
-          "template": "use australian english"
-        },
-        {
-          "date": "May 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "AUS",
-          "size": "100%",
-          "sep": ",",
-          "list": [
-            "AC",
-            "QC"
-          ],
-          "template": "postnominals"
-        },
-        {
-          "template": "date",
-          "data": {
-            "df": "yes",
-            "year": "2019",
-            "month": "05",
-            "date": "02",
-            "template": "start date",
-            "text": "May 2, 2019"
-          }
-        },
-        {
-          "df": "y",
-          "year": "1951",
-          "month": "7",
-          "day": "23",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Alan Sullivan (divorced)",
-            "Dennis Wilson"
-          ],
-          "template": "unbulleted list"
-        },
-        {
-          "country": "AUS",
-          "size": "100%",
-          "sep": ",",
-          "list": [
-            "AC",
-            "QC"
-          ],
-          "template": "postnominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Margaret Beazley"
-          },
-          "nationality": {
-            "text": "🇦🇺"
-          },
-          "office": {
-            "text": "Governor of New South Wales"
-          },
-          "term_start": {
-            "text": "May 2, 2019"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "text": "Elizabeth II",
-                "type": "internal",
-                "page": "Elizabeth II of Australia"
-              }
-            ]
-          },
-          "premier": {
-            "text": "Gladys Berejiklian\nDominic Perrottet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gladys Berejiklian"
-              },
-              {
-                "type": "internal",
-                "page": "Dominic Perrottet"
-              }
-            ]
-          },
-          "lieutenant": {
-            "text": "Tom Bathurst",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tom Bathurst"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "David Hurley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Hurley"
-              }
-            ]
-          },
-          "order": {
-            "text": "39th"
-          },
-          "office1": {
-            "text": "9th President of the New South Wales Court of Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the New South Wales Court of Appeal"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 March 2013"
-          },
-          "term_end1": {
-            "text": "27 February 2019"
-          },
-          "predecessor1": {
-            "text": "James Allsop",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Allsop"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Andrew Bell",
-            "links": [
-              {
-                "text": "Andrew Bell",
-                "type": "internal",
-                "page": "Andrew Bell (judge)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Judge of the New South Wales Court of Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New South Wales Court of Appeal"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 March 1996"
-          },
-          "term_end2": {
-            "text": "1 March 2013"
-          },
-          "office3": {
-            "text": "Judge of the Federal Court of Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Federal Court of Australia"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 1993"
-          },
-          "term_end3": {
-            "text": "28 April 1996"
-          },
-          "birth_date": {
-            "text": "July 23, 1951"
-          },
-          "birth_place": {
-            "text": "Sydney, New South Wales",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sydney"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Sydney",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Sydney"
-              }
-            ]
-          },
-          "education": {
-            "text": "• St Declan's Primary School, Penshurst\n\n• St Joseph's Girls High School, Kogarah\n\n• Mount Saint Joseph, Milperra"
-          },
-          "spouse": {
-            "text": "Alan Sullivan (divorced)\n\nDennis Wilson"
-          },
-          "children": {
-            "text": "Erin, Lauren and Anthony Sullivan"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Her Excellency The Honourable",
+  "name": "Margaret Beazley",
+  "nationality": "🇦🇺",
+  "office": "Governor of New South Wales",
+  "term_start": "May 2, 2019",
+  "monarch": "Elizabeth II",
+  "premier": "Gladys Berejiklian\nDominic Perrottet",
+  "lieutenant": "Tom Bathurst",
+  "predecessor": "David Hurley",
+  "order": "39th",
+  "office1": "9th President of the New South Wales Court of Appeal",
+  "term_start1": "1 March 2013",
+  "term_end1": "27 February 2019",
+  "predecessor1": "James Allsop",
+  "successor1": "Andrew Bell",
+  "office2": "Judge of the New South Wales Court of Appeal",
+  "term_start2": "28 March 1996",
+  "term_end2": "1 March 2013",
+  "office3": "Judge of the Federal Court of Australia",
+  "term_start3": "1 January 1993",
+  "term_end3": "28 April 1996",
+  "birth_date": "July 23, 1951",
+  "birth_place": "Sydney, New South Wales",
+  "alma_mater": "University of Sydney",
+  "education": "• St Declan's Primary School, Penshurst\n\n• St Joseph's Girls High School, Kogarah\n\n• Mount Saint Joseph, Milperra",
+  "spouse": "Alan Sullivan (divorced)\n\nDennis Wilson",
+  "children": "Erin, Lauren and Anthony Sullivan"
+}
+{
+  "image": "Badge of the Governor of New South Wales.svg",
+  "name": "Margaret Beazley",
+  "dipstyle": "Her Excellency",
+  "offstyle": "Your Excellency",
+  "altstyle": "Ma'am"
 }

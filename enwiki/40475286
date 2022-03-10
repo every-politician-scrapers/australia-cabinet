@@ -1,233 +1,26 @@
 {
-  "title": "Kevin Hogan (politician)",
-  "pageID": 40475286,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "National Party of Australia members of the Parliament of Australia",
-    "Members of the Australian House of Representatives for Page",
-    "Members of the Australian House of Representatives",
-    "People from Port Augusta",
-    "21st-century Australian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kevin John Hogan (born 11 August 1963) is an Australian politician.",
-              "formatting": {
-                "bold": [
-                  "Kevin John Hogan"
-                ]
-              }
-            },
-            {
-              "text": "He has been a Nationals member of the Australian House of Representatives, representing the Division of Page in New South Wales, since September 2013.",
-              "links": [
-                {
-                  "text": "Nationals",
-                  "type": "internal",
-                  "page": "National Party of Australia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Australian House of Representatives"
-                },
-                {
-                  "type": "internal",
-                  "page": "Division of Page"
-                },
-                {
-                  "type": "internal",
-                  "page": "New South Wales"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician (born 1963)",
-          "template": "short description"
-        },
-        {
-          "date": "January 2016",
-          "template": "use australian english"
-        },
-        {
-          "date": "March 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1963",
-          "month": "8",
-          "day": "11",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Kevin Hogan"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          },
-          "image": {
-            "text": "Kevin Hogan (cropped).jpg"
-          },
-          "office": {
-            "text": "Deputy Speaker of the House",
-            "links": [
-              {
-                "text": "Deputy Speaker of the House",
-                "type": "internal",
-                "page": "Speaker of the Australian House of Representatives"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 March 2018"
-          },
-          "term_end": {
-            "text": "10 February 2020"
-          },
-          "predecessor": {
-            "text": "Mark Coulton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Coulton"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Llew O'Brien",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Llew O'Brien"
-              }
-            ]
-          },
-          "constituency_mp1": {
-            "text": "Page",
-            "links": [
-              {
-                "text": "Page",
-                "type": "internal",
-                "page": "Division of Page"
-              }
-            ]
-          },
-          "parliament1": {
-            "text": "Australian"
-          },
-          "predecessor1": {
-            "text": "Janelle Saffin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janelle Saffin"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 September 2013"
-          },
-          "birth_name": {
-            "text": "Kevin John Hogan"
-          },
-          "birth_date": {
-            "text": "August 11, 1963"
-          },
-          "birth_place": {
-            "text": "Port Augusta, South Australia, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Port Augusta, South Australia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian",
-            "links": [
-              {
-                "text": "Australian",
-                "type": "internal",
-                "page": "Australians"
-              }
-            ]
-          },
-          "party": {
-            "text": "National Party",
-            "links": [
-              {
-                "text": "National Party",
-                "type": "internal",
-                "page": "National Party of Australia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Karen Webber"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Flinders University (BEc)\nSouthern Cross University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Flinders University"
-              },
-              {
-                "text": "BEc",
-                "type": "internal",
-                "page": "Bachelor of Economics"
-              },
-              {
-                "type": "internal",
-                "page": "Southern Cross University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Economist"
-          },
-          "website": {
-            "text": "https://www.kevinhogan.com.au"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Kevin Hogan",
+  "honorific-suffix": "MP",
+  "image": "Kevin Hogan (cropped).jpg",
+  "office": "Deputy Speaker of the House",
+  "term_start": "26 March 2018",
+  "term_end": "10 February 2020",
+  "predecessor": "Mark Coulton",
+  "successor": "Llew O'Brien",
+  "constituency_mp1": "Page",
+  "parliament1": "Australian",
+  "predecessor1": "Janelle Saffin",
+  "term_start1": "7 September 2013",
+  "birth_name": "Kevin John Hogan",
+  "birth_date": "August 11, 1963",
+  "birth_place": "Port Augusta, South Australia, Australia",
+  "nationality": "Australian",
+  "party": "National Party",
+  "spouse": "Karen Webber",
+  "children": "3",
+  "alma_mater": "Flinders University (BEc)\nSouthern Cross University",
+  "occupation": "Politician",
+  "profession": "Economist",
+  "website": "https://www.kevinhogan.com.au"
 }
