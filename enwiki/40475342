@@ -1,198 +1,21 @@
 {
-  "title": "Luke Howarth",
-  "pageID": 40475342,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Liberal National Party of Queensland members of the Parliament of Australia",
-    "Members of the Australian House of Representatives",
-    "Members of the Australian House of Representatives for Petrie",
-    "21st-century Australian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Luke Ronald Howarth (born 6 June 1972) is an Australian politician who has been a member of the House of Representatives since the 2013 federal election, representing the Division of Petrie.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "Australian House of Representatives"
-                },
-                {
-                  "text": "2013 federal election",
-                  "type": "internal",
-                  "page": "2013 Australian federal election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Division of Petrie"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luke Ronald Howarth"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Liberal National Party of Queensland, and sits with the Liberal Party in federal parliament.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Liberal National Party of Queensland"
-                },
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Australia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "January 2016",
-          "template": "use australian english"
-        },
-        {
-          "df": "yes",
-          "year": "1972",
-          "month": "6",
-          "day": "6",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Luke Howarth"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          },
-          "image": {
-            "text": "Luke Howarth (cropped).jpg"
-          },
-          "office": {
-            "text": "Assistant Minister for Youth and Employment Services"
-          },
-          "term_start": {
-            "text": "22 December 2020"
-          },
-          "office1": {
-            "text": "Assistant Minister for Community Housing, Homelessness and Community Services"
-          },
-          "term_start1": {
-            "text": "29 May 2019"
-          },
-          "term_end1": {
-            "text": "22 December 2020"
-          },
-          "successor1": {
-            "text": "Michael Sukkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Sukkar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament for Petrie",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Representatives (Australia)"
-              },
-              {
-                "text": "Petrie",
-                "type": "internal",
-                "page": "Division of Petrie"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Yvette D'Ath",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yvette D'Ath"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 September 2013"
-          },
-          "birth_date": {
-            "text": "June 6, 1972"
-          },
-          "birth_place": {
-            "text": "Brisbane, Queensland, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brisbane, Queensland"
-              },
-              {
-                "type": "internal",
-                "page": "Australia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian"
-          },
-          "party": {
-            "text": "LNP",
-            "links": [
-              {
-                "text": "LNP",
-                "type": "internal",
-                "page": "Liberal National Party of Queensland"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Small Businessman"
-          },
-          "caption": {
-            "text": "Howarth visiting Woody Point Pharmacy in the electorate of Petrie"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Luke Howarth",
+  "honorific-suffix": "MP",
+  "image": "Luke Howarth (cropped).jpg",
+  "office": "Assistant Minister for Youth and Employment Services",
+  "term_start": "22 December 2020",
+  "office1": "Assistant Minister for Community Housing, Homelessness and Community Services",
+  "term_start1": "29 May 2019",
+  "term_end1": "22 December 2020",
+  "successor1": "Michael Sukkar",
+  "office2": "Member of Parliament for Petrie",
+  "predecessor2": "Yvette D'Ath",
+  "term_start2": "7 September 2013",
+  "birth_date": "June 6, 1972",
+  "birth_place": "Brisbane, Queensland, Australia",
+  "nationality": "Australian",
+  "party": "LNP",
+  "occupation": "Small Businessman",
+  "caption": "Howarth visiting Woody Point Pharmacy in the electorate of Petrie"
 }

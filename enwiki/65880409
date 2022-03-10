@@ -1,273 +1,31 @@
 {
-  "title": "Jeannette Young",
-  "pageID": 65880409,
-  "categories": [
-    "Living people",
-    "1963 births",
-    "Medical doctors from Sydney",
-    "Australian women medical doctors",
-    "Australian medical doctors",
-    "20th-century Australian medical doctors",
-    "20th-century Australian public servants",
-    "21st-century Australian medical doctors",
-    "21st-century Australian public servants",
-    "Australian health officials",
-    "University of Sydney alumni",
-    "Recipients of the Public Service Medal (Australia)",
-    "Governors of Queensland",
-    "20th-century Australian women",
-    "21st-century Australian women"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jeannette Rosita Young (born 1963) is the current governor of the state of Queensland, Australia, and a medical doctor and administrator.",
-              "links": [
-                {
-                  "text": "governor",
-                  "type": "internal",
-                  "page": "Governor of Queensland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Queensland"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jeannette Rosita Young"
-                ]
-              }
-            },
-            {
-              "text": "Before being sworn-in as Governor, Young was the Chief Health Officer of Queensland Health from 2005 to 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Queensland Health"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Governor of Queensland",
-          "template": "short description"
-        },
-        {
-          "date": "October 2020",
-          "template": "use australian english"
-        },
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1963",
-          "template": "birth year and age"
-        },
-        {
-          "spouse": "Graeme Nimmo",
-          "from": "March 2000",
-          "template": "marriage"
-        },
-        {
-          "list": [
-            "Received an honorary degree."
-          ],
-          "template": "efn"
-        },
-        {
-          "list": [
-            "Received an honorary degree."
-          ],
-          "template": "efn"
-        },
-        {
-          "country": "AUS",
-          "list": [
-            "PSM",
-            "FRACMA"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Her Excellency The Honourable",
-            "links": [
-              {
-                "text": "Her Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Jeannette Young"
-          },
-          "honorific_suffix": {
-            "text": "PSM FRACMA",
-            "links": [
-              {
-                "text": "PSM",
-                "type": "internal",
-                "page": "Public Service Medal (Australia)"
-              },
-              {
-                "text": "FRACMA",
-                "type": "internal",
-                "page": "Royal Australasian College of Medical Administrators"
-              }
-            ]
-          },
-          "image": {
-            "text": "Jeannette Young, Chief Health Officer, Queensland Government, 2020 (cropped) 2.jpg"
-          },
-          "caption": {
-            "text": "Jeannette Young in August 2020."
-          },
-          "office": {
-            "text": "27th Governor of Queensland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Queensland"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "premier": {
-            "text": "Annastacia Palaszczuk",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annastacia Palaszczuk"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 November 2021"
-          },
-          "predecessor": {
-            "text": "Paul de Jersey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul de Jersey"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief Health Officer of Queensland",
-            "links": [
-              {
-                "text": "Chief Health Officer of Queensland",
-                "type": "internal",
-                "page": "Queensland Health"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "17 August 2005"
-          },
-          "term_end1": {
-            "text": "1 November 2021"
-          },
-          "deputy1": {
-            "text": "Sonya Bennett (2020–2021) Peter Aitken (2021) Lynne McKinlay (2021) James Smith (2021)"
-          },
-          "predecessor1": {
-            "text": "Gerry FitzGerald"
-          },
-          "successor1": {
-            "text": "John Gerrard"
-          },
-          "birth_date": {
-            "text": "1963 (age 59)"
-          },
-          "birth_place": {
-            "text": "Sydney, New South Wales, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sydney"
-              },
-              {
-                "type": "internal",
-                "page": "New South Wales"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian",
-            "links": [
-              {
-                "text": "Australian",
-                "type": "internal",
-                "page": "Australians"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Graeme Nimmo (m. March 2000)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "St Ives High School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "St Ives High School"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Queensland University of Technology\n\nGriffith University\n\nMacquarie University (MBA)\n\nUniversity of Sydney (MBBS)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Queensland University of Technology"
-              },
-              {
-                "type": "internal",
-                "page": "Griffith University"
-              },
-              {
-                "type": "internal",
-                "page": "Macquarie University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Sydney"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Her Excellency The Honourable",
+  "name": "Jeannette Young",
+  "honorific_suffix": "PSM FRACMA",
+  "image": "Jeannette Young, Chief Health Officer, Queensland Government, 2020 (cropped) 2.jpg",
+  "caption": "Jeannette Young in August 2020.",
+  "office": "27th Governor of Queensland",
+  "monarch": "Elizabeth II",
+  "premier": "Annastacia Palaszczuk",
+  "term_start": "1 November 2021",
+  "predecessor": "Paul de Jersey",
+  "office1": "Chief Health Officer of Queensland",
+  "term_start1": "17 August 2005",
+  "term_end1": "1 November 2021",
+  "deputy1": "Sonya Bennett (2020–2021) Peter Aitken (2021) Lynne McKinlay (2021) James Smith (2021)",
+  "predecessor1": "Gerry FitzGerald",
+  "successor1": "John Gerrard",
+  "birth_date": "1963 (age 59)",
+  "birth_place": "Sydney, New South Wales, Australia",
+  "nationality": "Australian",
+  "spouse": "Graeme Nimmo (m. March 2000)",
+  "children": "2",
+  "education": "St Ives High School",
+  "alma_mater": "Queensland University of Technology\n\nGriffith University\n\nMacquarie University (MBA)\n\nUniversity of Sydney (MBBS)"
+}
+{
+  "image": "Badge of the Governor of Queensland.svg",
+  "name": "Jeannette Young (2021–Present)",
+  "dipstyle": "Her Excellency the Honourable",
+  "offstyle": "Your Excellency"
 }

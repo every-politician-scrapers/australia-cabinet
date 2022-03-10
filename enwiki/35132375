@@ -1,359 +1,45 @@
 {
-  "title": "Frances Adamson",
-  "pageID": 35132375,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Companions of the Order of Australia",
-    "Governors of South Australia",
-    "Australian public servants",
-    "People from Adelaide",
-    "Ambassadors of Australia to China",
-    "University of Adelaide alumni",
-    "Australian women ambassadors",
-    "Representatives of Australia to Taiwan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Frances Jennifer Adamson, (born 20 April 1961) is an Australian public servant and diplomat who is the 36th Governor of South Australia, in office since 7 October 2021.",
-              "links": [
-                {
-                  "text": "diplomat",
-                  "type": "internal",
-                  "page": "diplomat"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of South Australia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Frances Jennifer Adamson"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian public servant and diplomat",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "February 2015",
-          "template": "use australian english"
-        },
-        {
-          "date": "February 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "AUS",
-          "list": [
-            "AC"
-          ],
-          "size": "100",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1961",
-          "month": "04",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "country": "AUS",
-          "size": "100",
-          "list": [
-            "AC"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency The Honourable",
-            "links": [
-              {
-                "text": "Her Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Frances Adamson"
-          },
-          "image": {
-            "text": "Frances Adamson.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2012"
-          },
-          "office": {
-            "text": "36th Governor of South Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of South Australia"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 October 2021"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "premier": {
-            "text": "Steven Marshall",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steven Marshall"
-              }
-            ]
-          },
-          "lieutenant_governor": {
-            "text": "Brenda Wilson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brenda Wilson"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Hieu Van Le",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hieu Van Le"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Secretary of the Department of Foreign Affairs and Trade",
-            "links": [
-              {
-                "text": "Secretary of the Department of Foreign Affairs and Trade",
-                "type": "internal",
-                "page": "Department of Foreign Affairs and Trade",
-                "anchor": "Secretary of the Department"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 July 2016"
-          },
-          "term_end1": {
-            "text": "25 June 2021"
-          },
-          "1blankname1": {
-            "text": "Foreign Minister"
-          },
-          "1namedata1": {
-            "text": "Julie Bishop Marise Payne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julie Bishop"
-              },
-              {
-                "type": "internal",
-                "page": "Marise Payne"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Peter Varghese",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Peter Varghese"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Kathryn Campbell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kathryn Campbell"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Australian Ambassador to China",
-            "links": [
-              {
-                "text": "Australian Ambassador to China",
-                "type": "internal",
-                "page": "List of ambassadors of Australia to China"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "August 2011"
-          },
-          "term_end2": {
-            "text": "February 2016"
-          },
-          "primeminister2": {
-            "text": "Julia Gillard Kevin Rudd Tony Abbott Malcolm Turnbull",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julia Gillard"
-              },
-              {
-                "type": "internal",
-                "page": "Kevin Rudd"
-              },
-              {
-                "type": "internal",
-                "page": "Tony Abbott"
-              },
-              {
-                "type": "internal",
-                "page": "Malcolm Turnbull"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Foreign Minister"
-          },
-          "1namedata2": {
-            "text": "Kevin Rudd Bob Carr Julie Bishop",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kevin Rudd"
-              },
-              {
-                "type": "internal",
-                "page": "Bob Carr"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Geoff Raby",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Geoff Raby"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jan Adams",
-            "links": [
-              {
-                "text": "Jan Adams",
-                "type": "internal",
-                "page": "Jan Adams (diplomat)"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Frances Jennifer Adamson"
-          },
-          "birth_date": {
-            "text": "April 20, 1961"
-          },
-          "birth_place": {
-            "text": "Adelaide, South Australia, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adelaide"
-              },
-              {
-                "type": "internal",
-                "page": "South Australia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian",
-            "links": [
-              {
-                "text": "Australian",
-                "type": "internal",
-                "page": "Australians"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Public servant · Diplomat"
-          },
-          "mother": {
-            "text": "Jennifer Cashmore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jennifer Cashmore"
-              }
-            ]
-          },
-          "father": {
-            "text": "Ian Adamson"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "spouse": {
-            "text": "Rod Bunten"
-          },
-          "relations": {
-            "text": "Christine Adamson (sister)\n\nStewart Cockburn (stepfather)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christine Adamson"
-              },
-              {
-                "type": "internal",
-                "page": "Stewart Cockburn"
-              }
-            ]
-          },
-          "education": {
-            "text": "Walford Anglican School for Girls",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Walford Anglican School for Girls"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Adelaide (BEc)"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Her Excellency The Honourable",
+  "name": "Frances Adamson",
+  "image": "Frances Adamson.jpg",
+  "caption": "Official portrait, 2012",
+  "office": "36th Governor of South Australia",
+  "term_start": "7 October 2021",
+  "monarch": "Elizabeth II",
+  "premier": "Steven Marshall",
+  "lieutenant_governor": "Brenda Wilson",
+  "predecessor": "Hieu Van Le",
+  "office1": "Secretary of the Department of Foreign Affairs and Trade",
+  "term_start1": "22 July 2016",
+  "term_end1": "25 June 2021",
+  "1blankname1": "Foreign Minister",
+  "1namedata1": "Julie Bishop Marise Payne",
+  "predecessor1": "Peter Varghese",
+  "successor1": "Kathryn Campbell",
+  "office2": "Australian Ambassador to China",
+  "term_start2": "August 2011",
+  "term_end2": "February 2016",
+  "primeminister2": "Julia Gillard Kevin Rudd Tony Abbott Malcolm Turnbull",
+  "1blankname2": "Foreign Minister",
+  "1namedata2": "Kevin Rudd Bob Carr Julie Bishop",
+  "predecessor2": "Geoff Raby",
+  "successor2": "Jan Adams",
+  "birth_name": "Frances Jennifer Adamson",
+  "birth_date": "April 20, 1961",
+  "birth_place": "Adelaide, South Australia, Australia",
+  "nationality": "Australian",
+  "occupation": "Public servant · Diplomat",
+  "mother": "Jennifer Cashmore",
+  "father": "Ian Adamson",
+  "children": "4",
+  "spouse": "Rod Bunten",
+  "relations": "Christine Adamson (sister)\n\nStewart Cockburn (stepfather)",
+  "education": "Walford Anglican School for Girls",
+  "alma_mater": "University of Adelaide (BEc)"
+}
+{
+  "image": "Badge of the Governor of South Australia.svg",
+  "name": "Frances Adamson\n(2021–present)",
+  "dipstyle": "Her Excellency the Honourable",
+  "offstyle": "Your Excellency"
 }

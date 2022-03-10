@@ -1,271 +1,29 @@
 {
-  "title": "Linda Dessau",
-  "pageID": 19894003,
-  "categories": [
-    "1953 births",
-    "Living people",
-    "Australian Jews",
-    "Judges of the Family Court of Australia",
-    "Australian women judges",
-    "Australian magistrates",
-    "Australian barristers",
-    "Companions of the Order of Australia",
-    "Governors of Victoria (Australia)",
-    "Melbourne Law School alumni",
-    "Australian people of Polish-Jewish descent",
-    "20th-century Australian judges",
-    "21st-century Australian judges",
-    "20th-century women judges",
-    "21st-century women judges",
-    "20th-century Australian women"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Linda Marion Dessau, (born 8 May 1953) is an Australian jurist, barrister, and the 29th and current governor of Victoria since 1 July 2015.",
-              "links": [
-                {
-                  "text": "governor of Victoria",
-                  "type": "internal",
-                  "page": "governor of Victoria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Linda Marion Dessau"
-                ]
-              }
-            },
-            {
-              "text": "She is the first female and the first Jewish holder of the office.",
-              "links": [
-                {
-                  "text": "Jewish",
-                  "type": "internal",
-                  "page": "Jews"
-                },
-                {
-                  "text": "holder of the office",
-                  "type": "internal",
-                  "page": "List of Jewish governors of Australia"
-                }
-              ]
-            },
-            {
-              "text": "She was a judge of the Family Court of Australia from 1995 to 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Family Court of Australia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "June 2018",
-          "template": "use australian english"
-        },
-        {
-          "date": "June 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "AUS",
-          "size": "100%",
-          "list": [
-            "AC"
-          ],
-          "template": "postnominals"
-        },
-        {
-          "df": "yes",
-          "year": "1953",
-          "month": "5",
-          "day": "8",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Tony Howard",
-          "from": "1982",
-          "template": "marriage"
-        },
-        {
-          "country": "AUS",
-          "size": "100%",
-          "list": [
-            "AC"
-          ],
-          "template": "postnominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Linda Dessau"
-          },
-          "image": {
-            "text": "Linda Dessau.jpg"
-          },
-          "caption": {
-            "text": "Dessau in 2019"
-          },
-          "order": {
-            "text": "29th"
-          },
-          "office": {
-            "text": "Governor of Victoria"
-          },
-          "term_start": {
-            "text": "1 July 2015"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "text": "Elizabeth II",
-                "type": "internal",
-                "page": "Queen Elizabeth II"
-              }
-            ]
-          },
-          "premier": {
-            "text": "Daniel Andrews",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Daniel Andrews"
-              }
-            ]
-          },
-          "lieutenant": {
-            "text": "Marilyn Warren (2015–2017) Ken Lay (2017–2021) James Angus (2021–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marilyn Warren"
-              },
-              {
-                "text": "Ken Lay",
-                "type": "internal",
-                "page": "Ken Lay (police officer)"
-              },
-              {
-                "text": "James Angus",
-                "type": "internal",
-                "page": "James Angus (scientist)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Alex Chernov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Chernov"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Linda Marion Dessau"
-          },
-          "birth_date": {
-            "text": "May 8, 1953"
-          },
-          "birth_place": {
-            "text": "East Melbourne, Victoria, Australia",
-            "links": [
-              {
-                "text": "East Melbourne",
-                "type": "internal",
-                "page": "East Melbourne, Victoria"
-              },
-              {
-                "text": "Victoria",
-                "type": "internal",
-                "page": "Victoria, Australia"
-              },
-              {
-                "type": "internal",
-                "page": "Australia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian",
-            "links": [
-              {
-                "text": "Australian",
-                "type": "internal",
-                "page": "Australians"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tony Howard (m. 1982)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "residence": {
-            "text": "Government House, Melbourne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Government House, Melbourne"
-              }
-            ]
-          },
-          "education": {
-            "text": "St Catherine’s School University of Melbourne",
-            "links": [
-              {
-                "text": "St Catherine’s School",
-                "type": "internal",
-                "page": "St Catherine's School, Toorak"
-              },
-              {
-                "type": "internal",
-                "page": "University of Melbourne"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Jurist, barrister"
-          },
-          "website": {
-            "text": "Governor of Victoria",
-            "links": [
-              {
-                "text": "Governor of Victoria",
-                "type": "external",
-                "site": "http://governor.vic.gov.au"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Her Excellency The Honourable",
+  "name": "Linda Dessau",
+  "image": "Linda Dessau.jpg",
+  "caption": "Dessau in 2019",
+  "order": "29th",
+  "office": "Governor of Victoria",
+  "term_start": "1 July 2015",
+  "monarch": "Elizabeth II",
+  "premier": "Daniel Andrews",
+  "lieutenant": "Marilyn Warren (2015–2017) Ken Lay (2017–2021) James Angus (2021–present)",
+  "predecessor": "Alex Chernov",
+  "birth_name": "Linda Marion Dessau",
+  "birth_date": "May 8, 1953",
+  "birth_place": "East Melbourne, Victoria, Australia",
+  "nationality": "Australian",
+  "spouse": "Tony Howard (m. 1982)",
+  "children": "2",
+  "residence": "Government House, Melbourne",
+  "education": "St Catherine’s School University of Melbourne",
+  "profession": "Jurist, barrister",
+  "website": "Governor of Victoria"
+}
+{
+  "image": "Badge of the Governor of Victoria.svg",
+  "name": "Linda Dessau\n(2015–present)",
+  "dipstyle": "Her Excellency the Honourable",
+  "offstyle": "Your Excellency"
 }

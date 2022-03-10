@@ -1,303 +1,33 @@
 {
-  "title": "Michael Sukkar",
-  "pageID": 40471354,
-  "categories": [
-    "1981 births",
-    "Living people",
-    "Liberal Party of Australia members of the Parliament of Australia",
-    "Members of the Australian House of Representatives",
-    "Members of the Australian House of Representatives for Deakin",
-    "Australian people of Lebanese descent",
-    "Australian people of Norwegian descent",
-    "21st-century Australian politicians",
-    "Turnbull Government",
-    "Government ministers of Australia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Michael Sven Sukkar (born 11 September 1981) is an Australian politician who is the Assistant Treasurer and Minister for Housing.",
-              "links": [
-                {
-                  "text": "Assistant Treasurer",
-                  "type": "internal",
-                  "page": "Assistant Treasurer of Australia"
-                },
-                {
-                  "text": "Minister for Housing",
-                  "type": "internal",
-                  "page": "Minister for Housing (Australia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Michael Sven Sukkar"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the House of Representatives since September 2013, representing the Division of Deakin in Victoria for the Liberal Party.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "Australian House of Representatives"
-                },
-                {
-                  "type": "internal",
-                  "page": "Division of Deakin"
-                },
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Australia"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "June 2016",
-          "template": "use australian english"
-        },
-        {
-          "df": "y",
-          "year": "1981",
-          "month": "9",
-          "day": "11",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Michael Sukkar"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Australian House of Representatives"
-              }
-            ]
-          },
-          "image": {
-            "text": "Michael Sukkar HighRes.png"
-          },
-          "office": {
-            "text": "Assistant Treasurer",
-            "links": [
-              {
-                "text": "Assistant Treasurer",
-                "type": "internal",
-                "page": "Treasurer of Australia",
-                "anchor": "List of Assistant Ministers"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 May 2019"
-          },
-          "primeminister": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "minister": {
-            "text": "Josh Frydenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Josh Frydenberg"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Stuart Robert",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stuart Robert"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Housing",
-            "links": [
-              {
-                "text": "Minister for Housing",
-                "type": "internal",
-                "page": "Minister for Families and Social Services"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "minister1": {
-            "text": "Anne Ruston",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anne Ruston"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Sarah Henderson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sarah Henderson"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 May 2019"
-          },
-          "office2": {
-            "text": "Minister for Homelessness, Social and Community Housing"
-          },
-          "term_start2": {
-            "text": "22 December 2020"
-          },
-          "primeminister2": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Anne Ruston",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anne Ruston"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Luke Howarth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luke Howarth"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Deakin",
-            "links": [
-              {
-                "text": "Deakin",
-                "type": "internal",
-                "page": "Division of Deakin"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Australian"
-          },
-          "predecessor3": {
-            "text": "Mike Symon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mike Symon"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 September 2013"
-          },
-          "birth_date": {
-            "text": "September 11, 1981"
-          },
-          "birth_place": {
-            "text": "Melbourne, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Melbourne"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Australian"
-          },
-          "spouse": {
-            "text": "Anna Sukkar"
-          },
-          "party": {
-            "text": "Liberal",
-            "links": [
-              {
-                "text": "Liberal",
-                "type": "internal",
-                "page": "Liberal Party of Australia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Deakin University\nUniversity of Melbourne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deakin University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Melbourne"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician\nLawyer"
-          },
-          "website": {
-            "text": "michaelsukkar.com.au/"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Michael Sukkar",
+  "honorific-suffix": "MP",
+  "image": "Michael Sukkar HighRes.png",
+  "office": "Assistant Treasurer",
+  "term_start": "29 May 2019",
+  "primeminister": "Scott Morrison",
+  "minister": "Josh Frydenberg",
+  "predecessor": "Stuart Robert",
+  "office1": "Minister for Housing",
+  "primeminister1": "Scott Morrison",
+  "minister1": "Anne Ruston",
+  "predecessor1": "Sarah Henderson",
+  "term_start1": "29 May 2019",
+  "office2": "Minister for Homelessness, Social and Community Housing",
+  "term_start2": "22 December 2020",
+  "primeminister2": "Scott Morrison",
+  "minister2": "Anne Ruston",
+  "predecessor2": "Luke Howarth",
+  "constituency_mp3": "Deakin",
+  "parliament3": "Australian",
+  "predecessor3": "Mike Symon",
+  "term_start3": "7 September 2013",
+  "birth_date": "September 11, 1981",
+  "birth_place": "Melbourne, Australia",
+  "nationality": "Australian",
+  "spouse": "Anna Sukkar",
+  "party": "Liberal",
+  "alma_mater": "Deakin University\nUniversity of Melbourne",
+  "profession": "Politician\nLawyer",
+  "website": "michaelsukkar.com.au/"
 }

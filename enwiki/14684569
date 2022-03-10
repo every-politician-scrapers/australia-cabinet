@@ -1,552 +1,61 @@
 {
-  "title": "Zed Seselja",
-  "pageID": 14684569,
-  "categories": [
-    "1977 births",
-    "Liberal Party of Australia members of the Australian Capital Territory Legislative Assembly",
-    "Australian people of Croatian descent",
-    "Australian public servants",
-    "Australian republicans",
-    "Australian Roman Catholics",
-    "Leaders of the Opposition in the Australian Capital Territory",
-    "Living people",
-    "Members of the Australian Capital Territory Legislative Assembly",
-    "People from Canberra",
-    "Members of the Australian Senate for the Australian Capital Territory",
-    "Australian National University alumni",
-    "University of Canberra alumni",
-    "Liberal Party of Australia members of the Parliament of Australia",
-    "21st-century Australian politicians",
-    "Turnbull Government",
-    "Government ministers of Australia",
-    "Morrison Government"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Zdenko Matthew \"Zed\" Seselja (born 27 March 1977) is an Australian politician who has been a Senator for the Australian Capital Territory since 2013, representing the Liberal Party.",
-              "links": [
-                {
-                  "text": "Senator",
-                  "type": "internal",
-                  "page": "Australian Senate"
-                },
-                {
-                  "type": "internal",
-                  "page": "Australian Capital Territory"
-                },
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Australia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Zdenko Matthew",
-                  "Zed",
-                  "Seselja"
-                ]
-              }
-            },
-            {
-              "text": "He has been the Minister for International Development and the Pacific in the Morrison Government since December 2020, and has previously served as an assistant minister in the Morrison and Turnbull Governments since 2016.",
-              "links": [
-                {
-                  "text": "Minister for International Development and the Pacific",
-                  "type": "internal",
-                  "page": "Minister for Foreign Affairs (Australia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Morrison Government"
-                },
-                {
-                  "text": "Turnbull Governments",
-                  "type": "internal",
-                  "page": "Turnbull Government"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Seselja was previously a member of the Australian Capital Territory Legislative Assembly from 2004 to 2013, and served as leader of the Canberra Liberals and Leader of the Opposition from 2007 to 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Australian Capital Territory Legislative Assembly"
-                },
-                {
-                  "type": "internal",
-                  "page": "Canberra Liberals"
-                },
-                {
-                  "text": "Leader of the Opposition",
-                  "type": "internal",
-                  "page": "Leader of the Opposition (Australian Capital Territory)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Australian politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2016",
-          "template": "use australian english"
-        },
-        {
-          "date": "December 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2017",
-            "month": "12",
-            "date": "20",
-            "df": "y",
-            "template": "start date",
-            "text": "December 20, 2017"
-          }
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2017",
-            "month": "12",
-            "date": "20",
-            "df": "y",
-            "template": "end date",
-            "text": "December 20, 2017"
-          }
-        },
-        {
-          "df": "yes",
-          "year": "1977",
-          "month": "3",
-          "day": "27",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Senator The Honourable",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "Australian Senate"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Zed Seselja"
-          },
-          "image": {
-            "text": "Zed Seselja.jpg"
-          },
-          "office": {
-            "text": "Minister for International Development and the Pacific",
-            "links": [
-              {
-                "text": "Minister for International Development and the Pacific",
-                "type": "internal",
-                "page": "Minister for Foreign Affairs (Australia)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 December 2020"
-          },
-          "predecessor": {
-            "text": "Alex Hawke",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Hawke"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Assistant Minister for Finance, Charities and Electoral Matters"
-          },
-          "primeminister1": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 May 2019"
-          },
-          "term_end1": {
-            "text": "22 December 2020"
-          },
-          "predecessor1": {
-            "text": "Himself (Treasury and Finance)"
-          },
-          "successor1": {
-            "text": "Ben Morton as Assistant Minister for Electoral Matters",
-            "links": [
-              {
-                "text": "Ben Morton",
-                "type": "internal",
-                "page": "Ben Morton (politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Assistant Minister for Treasury and Finance"
-          },
-          "primeminister2": {
-            "text": "Scott Morrison",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Morrison"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 August 2018"
-          },
-          "term_end2": {
-            "text": "29 May 2019"
-          },
-          "predecessor2": {
-            "text": "David Coleman",
-            "links": [
-              {
-                "text": "David Coleman",
-                "type": "internal",
-                "page": "David Coleman (Australian politician)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Himself Jane Hume",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jane Hume"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Assistant Minister for Science, Jobs and Innovation",
-            "links": [
-              {
-                "text": "Assistant Minister for Science, Jobs and Innovation",
-                "type": "internal",
-                "page": "Minister for Jobs and Innovation",
-                "anchor": "List of assistant minister"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "December 20, 2017"
-          },
-          "term_end3": {
-            "text": "28 August 2018"
-          },
-          "primeminister3": {
-            "text": "Malcolm Turnbull",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malcolm Turnbull"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "Michaelia Cash",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michaelia Cash"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Craig Laundy as Assistant Minister for Industry, Innovation and Science",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Craig Laundy"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "vacant",
-            "formatting": {
-              "italic": [
-                "vacant"
-              ]
-            }
-          },
-          "office4": {
-            "text": "[[Minister for Social Services (Australia)#List of assistant ministers for social services and for multicultural affairs|Assistant Minister for Social Services and Multicultural Affairs]]"
-          },
-          "term_start4": {
-            "text": "18 July 2016"
-          },
-          "term_end4": {
-            "text": "December 20, 2017"
-          },
-          "primeminister4": {
-            "text": "Malcolm Turnbull",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malcolm Turnbull"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Christian Porter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Porter"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Craig Laundy (as [[Minister for Social Services (Australia)#List of assistant ministers for social services and for multicultural affairs|Assistant Minister for Multicultural Affairs]])",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Craig Laundy"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Alan Tudge (as Minister for Citizenship and Multicultural Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alan Tudge"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Senator for the Australian Capital Territory",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "Australian Senate"
-              },
-              {
-                "type": "internal",
-                "page": "Australian Capital Territory"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "7 September 2013"
-          },
-          "predecessor5": {
-            "text": "Gary Humphries",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gary Humphries"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Leader of the Opposition of the Australian Capital Territory",
-            "links": [
-              {
-                "text": "Leader of the Opposition of the Australian Capital Territory",
-                "type": "internal",
-                "page": "Leader of the Opposition (Australian Capital Territory)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "13 December 2007"
-          },
-          "term_end6": {
-            "text": "11 February 2013"
-          },
-          "predecessor6": {
-            "text": "Bill Stefaniak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bill Stefaniak"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Jeremy Hanson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeremy Hanson"
-              }
-            ]
-          },
-          "constituency_am7": {
-            "text": "Brindabella",
-            "links": [
-              {
-                "text": "Brindabella",
-                "type": "internal",
-                "page": "Brindabella electorate"
-              }
-            ]
-          },
-          "assembly7": {
-            "text": "Australian Capital Territory Legislative"
-          },
-          "term_start7": {
-            "text": "6 November 2012"
-          },
-          "term_end7": {
-            "text": "11 June 2013"
-          },
-          "predecessor7": {
-            "text": "Amanda Bresnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amanda Bresnan"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Nicole Lawder",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicole Lawder"
-              }
-            ]
-          },
-          "constituency_am8": {
-            "text": "Molonglo",
-            "links": [
-              {
-                "text": "Molonglo",
-                "type": "internal",
-                "page": "Molonglo electorate"
-              }
-            ]
-          },
-          "assembly8": {
-            "text": "Australian Capital Territory Legislative"
-          },
-          "term_start8": {
-            "text": "16 October 2004"
-          },
-          "term_end8": {
-            "text": "6 November 2012"
-          },
-          "predecessor8": {
-            "text": "Greg Cornwell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Cornwell"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Giulia Jones",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giulia Jones"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Zdenko Matthew Seselja"
-          },
-          "birth_date": {
-            "text": "March 27, 1977"
-          },
-          "birth_place": {
-            "text": "Canberra, Australian Capital Territory, Australia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Canberra"
-              },
-              {
-                "type": "internal",
-                "page": "Australian Capital Territory"
-              }
-            ]
-          },
-          "party": {
-            "text": "Liberal Party",
-            "links": [
-              {
-                "text": "Liberal Party",
-                "type": "internal",
-                "page": "Liberal Party of Australia"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Australian National University, University of Canberra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Australian National University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Canberra"
-              }
-            ]
-          },
-          "website": {
-            "text": "Official Website",
-            "links": [
-              {
-                "text": "Official Website",
-                "type": "external",
-                "site": "http://www.zedseselja.com.au/"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Senator The Honourable",
+  "name": "Zed Seselja",
+  "image": "Zed Seselja.jpg",
+  "office": "Minister for International Development and the Pacific",
+  "primeminister": "Scott Morrison",
+  "term_start": "22 December 2020",
+  "predecessor": "Alex Hawke",
+  "office1": "Assistant Minister for Finance, Charities and Electoral Matters",
+  "primeminister1": "Scott Morrison",
+  "term_start1": "29 May 2019",
+  "term_end1": "22 December 2020",
+  "predecessor1": "Himself (Treasury and Finance)",
+  "successor1": "Ben Morton as Assistant Minister for Electoral Matters",
+  "office2": "Assistant Minister for Treasury and Finance",
+  "primeminister2": "Scott Morrison",
+  "term_start2": "28 August 2018",
+  "term_end2": "29 May 2019",
+  "predecessor2": "David Coleman",
+  "successor2": "Himself Jane Hume",
+  "office3": "Assistant Minister for Science, Jobs and Innovation",
+  "term_start3": "December 20, 2017",
+  "term_end3": "28 August 2018",
+  "primeminister3": "Malcolm Turnbull",
+  "minister3": "Michaelia Cash",
+  "predecessor3": "Craig Laundy as Assistant Minister for Industry, Innovation and Science",
+  "successor3": "vacant",
+  "office4": "[[Minister for Social Services (Australia)#List of assistant ministers for social services and for multicultural affairs|Assistant Minister for Social Services and Multicultural Affairs]]",
+  "term_start4": "18 July 2016",
+  "term_end4": "December 20, 2017",
+  "primeminister4": "Malcolm Turnbull",
+  "minister4": "Christian Porter",
+  "predecessor4": "Craig Laundy (as [[Minister for Social Services (Australia)#List of assistant ministers for social services and for multicultural affairs|Assistant Minister for Multicultural Affairs]])",
+  "successor4": "Alan Tudge (as Minister for Citizenship and Multicultural Affairs",
+  "office5": "Senator for the Australian Capital Territory",
+  "term_start5": "7 September 2013",
+  "predecessor5": "Gary Humphries",
+  "office6": "Leader of the Opposition of the Australian Capital Territory",
+  "term_start6": "13 December 2007",
+  "term_end6": "11 February 2013",
+  "predecessor6": "Bill Stefaniak",
+  "successor6": "Jeremy Hanson",
+  "constituency_am7": "Brindabella",
+  "assembly7": "Australian Capital Territory Legislative",
+  "term_start7": "6 November 2012",
+  "term_end7": "11 June 2013",
+  "predecessor7": "Amanda Bresnan",
+  "successor7": "Nicole Lawder",
+  "constituency_am8": "Molonglo",
+  "assembly8": "Australian Capital Territory Legislative",
+  "term_start8": "16 October 2004",
+  "term_end8": "6 November 2012",
+  "predecessor8": "Greg Cornwell",
+  "successor8": "Giulia Jones",
+  "birth_name": "Zdenko Matthew Seselja",
+  "birth_date": "March 27, 1977",
+  "birth_place": "Canberra, Australian Capital Territory, Australia",
+  "party": "Liberal Party",
+  "alma_mater": "Australian National University, University of Canberra",
+  "website": "Official Website"
 }
