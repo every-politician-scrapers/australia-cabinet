@@ -1,20 +1,14 @@
 @@,itemlabel,item,startdate,enddate
-+++,Sir James Cockle,Q3068268,1863-02-21,1879-06-24
-+++,Sir Charles Lilley,Q2959658,1879-06-25,1893-03-13
-+++,Sir Samuel Griffith,Q3471137,1893-03-13,1903-10-04
-+++,Sir Pope Alexander Cooper,Q7229150,1903-10-21,1922-03-31
-+++,Thomas McCawley,Q7792273,1922-04-01,1925-04-16
-+++,Sir James Blair,Q6129853,1925-04-24,1940-05-16
-+++,Hugh Denis Macrossan,Q5930537,1940-05-17,1940-06-23
-+++,Sir William Webb,Q643603,1940-06-27,1946-05-15
-+++,Neal Macrossan,Q6984136,1946-04-23,1955-12-30
-+++,Sir Alan Mansfield,Q2602011,1956-02-09,1966-02-21
-+++,William Mack,Q28012573,1966-02-24,1971-05-12
-+++,Sir Mostyn Hanger,Q6917023,1971-05-13,1977-07-18
+->,James Cockle->Sir James Cockle,Q3068268,1863-02-21,1879-06-24
+->,Charles Lilley->Sir Charles Lilley,Q2959658,1879-06-25,1893-03-13
+->,Samuel Griffith->Sir Samuel Griffith,Q3471137,1893-03-13,1903-10-04
+->,Pope Cooper->Sir Pope Alexander Cooper,Q7229150,1903-10-21,1922-03-31
+->,James Blair->Sir James Blair,Q6129853,1925-04-24,1940-05-16
+->,William Flood Webb->Sir William Webb,Q643603,1940-06-27,1946-05-15
+->,Alan Mansfield->Sir Alan Mansfield,Q2602011,1956-02-09,1966-02-21
+->,Mostyn Hanger->Sir Mostyn Hanger,Q6917023,1971-05-13,1977-07-18
 ->,Charles Wanstall->Sir Charles Wanstall,Q23901651,1977-07-19,1982-02-17
-+++,Sir Walter Campbell,Q465245,1982-02-18,1985-07-07
-+++,Sir Dormer Andrews,Q20313004,1985-07-08,1989-04-07
-+++,John Murtagh Macrossan,Q6249995,1989-04-10,1998-02-16
+->,Walter Campbell->Sir Walter Campbell,Q465245,1982-02-18,1985-07-07
+->,Dormer Andrews->Sir Dormer Andrews,Q20313004,1985-07-08,1989-04-07
 ->,Paul de Jersey,Q7154577,1998-02-17->1998-09-21,2014-07-08
-+++,Tim Carmody,Q17198067,2014-07-08,2015-07-01
-+++,Helen Bowskill,Q111327660,2022-03-19,
+->,Helen Bowskill,Q111327660->NULL,2022-03-19,
