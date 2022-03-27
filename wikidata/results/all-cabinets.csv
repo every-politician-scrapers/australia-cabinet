@@ -34,7 +34,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3413636,Fourth Howard Ministry,2004-10-22,11,2004-10-22,11,2007-12-03,11,2007-12-03,11,,,Q747058,First Rudd Ministry,Q7784875,Third Howard Ministry,Q747058,First Rudd Ministry
 ,Q747058,First Rudd Ministry,2007-12-03,11,2007-12-03,11,2010-06-24,11,2010-06-24,11,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry,Q3413636,Fourth Howard Ministry,Q3047605,First Gillard Ministry
 ,Q3047605,First Gillard Ministry,2010-06-24,11,,,2010-09-14,11,,,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry,Q747058,First Rudd Ministry,Q3052912,Second Gillard Ministry
-,Q3052912,Second Gillard Ministry,2010-09-14,11,,,2013-06-27,11,2013-06-27,11,Q3047605,First Gillard Ministry,,,Q3047605,First Gillard Ministry,Q13581123,Second Rudd Ministry
+,Q3052912,Second Gillard Ministry,2010-09-14,11,,,2013-06-27,11,2013-06-27,11,Q3047605,First Gillard Ministry,Q13581123,Second Rudd Ministry,Q3047605,First Gillard Ministry,Q13581123,Second Rudd Ministry
 ,Q13581123,Second Rudd Ministry,2013-06-27,11,2013-06-27,11,2013-09-18,11,2013-09-18,11,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry,Q3052912,Second Gillard Ministry,Q14920420,Abbott Ministry
 ,Q14920420,Abbott Ministry,2013-09-18,11,,,2015-09-15,11,,,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry,Q13581123,Second Rudd Ministry,Q20986965,First Turnbull Ministry
 ,Q20986965,First Turnbull Ministry,2015-09-15,11,,,2016-07-19,11,,,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry,Q14920420,Abbott Ministry,Q27163494,Second Turnbull Ministry
