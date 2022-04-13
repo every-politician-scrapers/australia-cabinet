@@ -1,52 +1,22 @@
 @@,itemlabel,item,startdate,enddate
-+++,William Mackie,Q8015001,1831,1834
-+++,George Fletcher Moore,Q4307602,1834,1846
-+++,Richard West Nash,Q65063625,1846,1847
 +++,George Fletcher Moore,,1847,1852
 +++,B. W. Vigors,,1852,1854
-+++,George Frederick Stone,Q16065356,1854,1857
 +++,Richard Burnie,,1857,1859
 +++,George Frederick Stone,,1860,1870
 +++,Robert John Walcott,,1870-11-04,1872-12
 ->,Henry Hicks Hocking,Q33062580,1872->1872-12,1879->1874-06-30
-+++,George Walpole Leake,Q5545848,1874-06-30,1875-01-16
 +++,Henry Hicks Hocking,,1875-01-16,1879-02-25
 +++,QC,Q1533366,1879-03-01,1879-11-24
-+++,Edward Albert Stone,Q5341528,1879-11-24,1880-03-21
 +++,QC,Q1533366,1880-03-21,1881-03-21
-+++,Alexander Onslow,Q4719784,1881-03-21,1883-04-09
 +++,QC,Q1533366,1883-04-09,1883-07-10
-+++,Alfred Hensman,Q4722837,1883-07-10,1886-06-18
-+++,Septimus Burt,Q16043659,1886-06-19,1886-12-03
-+++,Charles Warton,Q5083372,1886-12-09,1890-12
 +++,Septimus Burt,,1890-12-29,1897-10-27
-+++,Richard Pennefather,Q7328359,1897-10-27,1901-03-20
-+++,William Sayer,Q24648718,1901-03-25,1901-05-27
-+++,George Leake,Q1507747,1901-05-27,1901-11-21
-+++,Frederick Moorhead,Q24648749,1901-11-21,1901-12-23
 +++,KC,Q1533366,1901-12-23,1902-06-24
-+++,Walter James,Q7965253,1902-07-01,1904-08-10
-+++,Norbert Keenan,Q21538166,1906-05-14,1909-05-14
-+++,John Nanson,Q24072978,1910-09-16,1911-10-07
+->,Sir Norbert Michael Keenan->Norbert Keenan,Q21538166,1906-05-14,1909-05-14
+->,John Leighton Nanson->John Nanson,Q24072978,1910-09-16,1911-10-07
 ->,Thomas Walker,Q15492102,1911-11-22->1911-10-07,1916-07-27
-+++,Robert Robinson,Q21537568,1916-07-27,1917-06-28
-+++,Robert Robinson,Q21537568,1917-06-28,1919-04-17
-+++,Robert Robinson,Q21537568,1919-04-17,1919-05-17
-+++,Thomas Draper,Q24044873,1919-05-17,1921-03-12
-+++,Thomas Davy,Q7788889,1930-04-24,1933-02-18
-+++,Hubert Parker,Q5927530,1933-02-22,1933-04-08
-+++,Robert Ross McDonald,Q21538198,1947-04-01,1948-01-05
-+++,Arthur Abbott,Q25930035,1948-01-05,1953-02-23
-+++,Arthur Watts,Q16006868,1959-04-02,1962-01-31
-+++,Ron Bertram,Q25768350,1971-03-03,1971-09-30
-+++,Tom Evans,Q27924905,1971-10-12,1974-04-08
-+++,Ian Medcalf,Q24175062,1975-12-22,1982-01-25
-+++,Ian Medcalf,Q24175062,1982-01-25,1983-02-25
+->,Robert Thomson Robinson->Robert Robinson,Q21537568,1916-07-27,1917-06-28
+->,Robert Thomson Robinson->Robert Robinson,Q21537568,1917-06-28,1919-04-17
+->,Robert Thomson Robinson->Robert Robinson,Q21537568,1919-04-17,1919-05-17
+->,Thomas Percy Draper->Thomas Draper,Q24044873,1919-05-17,1921-03-12
+->,Ross McDonald->Robert Ross McDonald,Q21538198,1947-04-01,1948-01-05
 ->,Joe Berinson,Q6208614,1983-02-25,1993-02-16->1988-02-25
-+++,Joe Berinson,Q6208614,1988-02-25,1990-02-12
-+++,Joe Berinson,Q6208614,1990-02-12,1993-02-16
-+++,Cheryl Edwardes,Q16145052,1993-02-16,1995-12-21
-+++,Peter Foss,Q7174041,1995-12-21,2001-02-16
-+++,Jim McGinty,Q15497249,2001-02-16,2006-01-25
-+++,Jim McGinty,Q15497249,2006-01-25,2008-09-23
-+++,Michael Mischin,Q16192846,2012-06-28,2017-03-17
