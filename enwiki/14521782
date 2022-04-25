@@ -7,8 +7,8 @@
   "order": "30th",
   "office": "Prime Minister of Australia",
   "monarch": "Elizabeth II",
-  "governor_general": "Sir Peter Cosgrove David Hurley",
-  "deputy": "Michael McCormack Barnaby Joyce",
+  "governor_general": "Sir Peter Cosgrove\nDavid Hurley",
+  "deputy": "Michael McCormack\nBarnaby Joyce",
   "term_start": "24 August 2018",
   "predecessor": "Malcolm Turnbull",
   "office1": "14th Leader of the Liberal Party",
@@ -28,7 +28,7 @@
   "predecessor3": "Joe Hockey",
   "successor3": "Josh Frydenberg",
   "office4": "Minister for Social Services",
-  "primeminister4": "Tony Abbott Malcolm Turnbull",
+  "primeminister4": "Tony Abbott\nMalcolm Turnbull",
   "term_start4": "23 December 2014",
   "term_end4": "21 September 2015",
   "predecessor4": "Kevin Andrews",
@@ -54,7 +54,7 @@
   "party": "Liberal",
   "otherparty": "Coalition",
   "education": "University of New South Wales (BSc Hons)",
-  "residence": "Kirribilli House (primary) The Lodge (Canberra)",
+  "residence": "Kirribilli House (primary) \nThe Lodge (Canberra)",
   "signature": "Prime Minister Scott Morrison signature from public campaign.svg",
   "website": "scottmorrison.com.au"
 }
