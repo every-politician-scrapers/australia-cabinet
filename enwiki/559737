@@ -1,12 +1,12 @@
 {
   "embed": "yes",
   "allegiance": "Queensland",
-  "department": "Queensland Police",
-  "branch": "National Crime Authority, covert surveillance unit, drug squad, sex offenders squad",
-  "serviceyears": "1990–1999",
-  "rank": "Qld-police-senior-constable.png Detective Senior Constable"
+  "department": "Queensland Police"
 }
 {
   "education": "St Paul's School, Bald Hills",
-  "spouse": "Kirilly Brumby (m. July 2003)"
+  "spouse": "Kirilly Brumby (m. July 2003)",
+  "branch": "National Crime Authority, Drug Squad, Sex Offenders Squad",
+  "serviceyears": "1990–1999",
+  "rank": "Qld-police-senior-constable.png Detective Senior Constable"
 }
