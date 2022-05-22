@@ -12,6 +12,7 @@ Q109860630,Greg Mirabella,spouse,Q7563039,Sophie Mirabella
 Q111305122,Ashton Hurn,relative,Q21598212,Brian Hurn
 Q111305122,Ashton Hurn,sibling,Q7488892,Shannon Hurn
 Q111513180,Jana Stewart,relative,Q77492799,Alice Kelly
+Q112078635,Dean Harriss,father,Q7151160,Paul Harriss
 Q1239291,Alexander Downer,child,Q56159193,Georgina Downer
 Q1239291,Alexander Downer,father,Q4714124,Alick Downer
 Q1239291,Alexander Downer,mother,Q6779338,Mary Downer
@@ -276,6 +277,7 @@ Q6968504,Natasha Stott Despoja,spouse,Q19879108,Ian Smith
 Q6988239,Neil Andrew,relative,Q90334712,Nicola Centofanti
 Q7027920,Nick Sherry,father,Q7298103,Ray Sherry
 Q7146371,Pat Dodson,sibling,Q6838143,Mick Dodson
+Q7151160,Paul Harriss,child,Q112078635,Dean Harriss
 Q7164452,Penny Wright,spouse,Q16193290,Mark Parnell
 Q7172455,Peter Abetz,sibling,Q964840,Eric Abetz
 Q7174695,Peter Hodgman,father,Q4909450,Bill Hodgman
