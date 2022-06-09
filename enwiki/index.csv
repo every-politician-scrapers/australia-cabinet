@@ -1,30 +1,38 @@
 pageid,title
 322538,Kim Beazley
 324832,Fred Nile
+556745,Anthony Albanese
 556812,Clover Moore
-559737,Peter Dutton
 566185,Joe Hockey
-568807,Greg Hunt
-577186,Sussan Ley
-995544,Richard Colbeck
-1066639,Jason Wood (politician)
-1111093,Barnaby Joyce
+573392,Catherine King (politician)
+591836,Brendan O'Connor (politician)
+593173,Tanya Plibersek
+958868,Penny Wong
+1066447,Chris Bowen
+1066502,Tony Burke
+1471898,Katy Gallagher
 2014610,Kon Vatskalis
+2149168,Justine Elliot
+2355005,Bill Shorten
 2396277,Shelley Hancock
-2722187,Marise Payne
-2830251,Alex Hawke
+2687123,Carol Brown (politician)
 2889447,Mitch Fifield
-3035323,Vickie Chapman
 3148758,Brian Ross Martin
 4318583,Daniel Andrews
+4376071,Mark Dreyfus
+4386805,Richard Marles
 4482301,Russell Wortley
-4484555,Josh Frydenberg
 4645391,Andrew Barr
+4845132,Clare O'Neil
 4850834,Jeremy Rockliff
 4873388,Stephen Wade
+5124488,Linda Burney
 5638241,David Ridgway (politician)
+5668829,Amanda Rishworth
+6681679,Don Farrell
 6941877,Annastacia Palaszczuk
 7914921,Matthew Mason-Cox
+8493205,Andrew Leigh
 9620284,Anthony Roberts
 9622608,Brad Hazzard
 9686661,Jillian Skinner
@@ -35,13 +43,11 @@ pageid,title
 11170524,Tim Pallas
 12749130,Susan Kiefel
 13078639,Mark McGowan
+13383203,Jason Clare
 14416875,Yvette D'Ath
-14521782,Scott Morrison
-14551016,Stuart Robert
+14484370,Mark Butler
+14553984,Julie Collins
 14612806,John Quigley (politician)
-14684569,Zed Seselja
-14697194,Nola Marino
-15942105,Michaelia Cash
 16442028,David Hurley
 16726310,Nazih Elasmar
 16992783,Peter Watson (politician)
@@ -51,23 +57,21 @@ pageid,title
 18780246,Graham Quirk
 19894003,Linda Dessau
 20367513,Rita Saffioti
+20862235,Malarndirri McCarthy
 21693258,Curtis Pitt
 22199275,Peter Styles (politician)
 22244919,Colin Brooks (politician)
+23022129,Murray Watt
 24347203,Bill Johnston (politician)
-24485695,Paul Fletcher (politician)
 26784496,Tim Whetstone
 26858697,Mark Shelton (Australian politician)
 27113158,Sally Capp
 27761632,Stuart Ayres
-28464298,Ken Wyatt
+28295910,Ed Husic
+28472484,Michelle Rowland
 28476273,Natasha Griggs
-28478004,Dan Tehan
-28507051,Alan Tudge
-28577861,Scott Buchholz
-28577892,Karen Andrews
-28793025,Bridget McKenzie
-31366933,Andrew Gee (politician)
+28480003,Stephen Jones (Australian politician)
+28793043,Matt Thistlethwaite
 31436707,Mark Speakman
 31452620,Matt Kean
 31458821,Dominic Perrottet
@@ -76,30 +80,26 @@ pageid,title
 31949731,Tom Bathurst
 32623959,Peter Malinauskas
 32679553,Paul Symon
+33018318,Jenny McAllister
 34693463,Susan Close
 35132375,Frances Adamson
 35651646,Jackie Trad
+36035795,Ged Kearney
 36054937,Mel Hupfeld
 36235728,Timothy Pilgrim
 36925515,Anne Ruston
 36989985,Natasha Fyles
 38552751,Nicole Manison
+38571403,Kyam Maher
 39469948,Alan Blow
-40470199,David Coleman (Australian politician)
-40471089,Michelle Landry
-40471354,Michael Sukkar
 40475248,Eric Hutchinson (politician)
-40475286,Kevin Hogan (politician)
-40475342,Luke Howarth
-40475716,David Gillespie (politician)
-40520884,Angus Taylor (politician)
+40528947,Pat Conroy (politician)
 40572344,Angus Campbell (general)
-40694342,Keith Pitt
-40694440,Melissa Price (politician)
-40695690,Linda Reynolds
+40604807,Andrew Giles
+40604826,Tim Watts (politician)
 40709077,Anne Ferguson (judge)
+40746506,Jim Chalmers
 41374830,Chris Kourakis
-41388124,Tim Wilson (Australian politician)
 41581165,Michael Noonan (admiral)
 42215648,Stephen Mullighan
 42215651,Katrine Hildyard
@@ -108,14 +108,14 @@ pageid,title
 44700380,Nat Cook
 44727965,Greg Bilton
 44735105,Jaclyn Symes
-47872251,Andrew Hastie
+44946487,Anthony Chisholm (politician)
+46266799,Alister Henskens
+47125000,Anne Aly
 48521023,Tom Tate
-50976482,Jonathon Duniam
-50983976,Ben Morton (politician)
-51032276,Trevor Evans (politician)
+51006468,Emma McBride
+51009946,Matt Keogh
+51032026,Madeleine King
 51032307,Andrew Wallace
-51032369,David Littleproud
-51241207,Jane Hume
 51440743,Eva Lawler
 51482313,Ngaree Ah Kit
 51556311,Philip Lowe
@@ -126,12 +126,15 @@ pageid,title
 55663015,Vicki O'Halloran
 56869515,Blair Boyer
 56869631,Dan Cregan
-56887460,Amanda Stoker
+58016778,Patrick Gorman (politician)
 59016748,Sandy Verschoor
+60896072,Tim Ayres
+60914650,Anika Wells
 62778590,Sarah McNaughton
 62924424,James Muecke
 64244862,Rachel Noble
 64410494,Shane Patton
+64465675,Kristy McBain
 65862187,Anna Reynolds (mayor)
 65880409,Jeannette Young
 67791637,Barbara Baker
