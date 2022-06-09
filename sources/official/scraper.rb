@@ -17,10 +17,11 @@ class MemberList
     field :position do
       noko.css('.ministries').text
           .gsub(', Assistant', '|Assistant')
-          .gsub(', Deputy', '|Deputy')
-          .gsub(', Minister', '|Minister')
-          .gsub(', Special', '|Special')
-          .gsub(', Attorney', '|Attorney')
+          .gsub(', Deputy',    '|Deputy')
+          .gsub(', Minister',  '|Minister')
+          .gsub(', Special',   '|Special')
+          .gsub(', Attorney',  '|Attorney')
+          .gsub(', Cabinet',   '|Cabinet')
           .split('|')
     end
   end
