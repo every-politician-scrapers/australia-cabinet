@@ -10,12 +10,12 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Image'
+    'appointment'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[img rnk name pn service start end].freeze
+      %w[rnk name pn service start end].freeze
     end
   end
 end
