@@ -1,0 +1,905 @@
+{
+  "title": "Kyam Maher",
+  "pageID": 38571403,
+  "categories": [
+    "Living people",
+    "Members of the South Australian Legislative Council",
+    "Place of birth missing (living people)",
+    "Year of birth missing (living people)",
+    "21st-century Australian lawyers",
+    "Australian Labor Party members of the Parliament of South Australia",
+    "Labor Left politicians",
+    "21st-century Australian politicians",
+    "Indigenous Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kyam Joseph Maher is an Australian politician who has been Attorney-General of South Australia and the Leader of the Government in the Legislative Council since March 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney-General of South Australia"
+                },
+                {
+                  "text": "Leader of the Government in the Legislative Council",
+                  "type": "internal",
+                  "page": "Leader of the Government in the Legislative Council (South Australia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kyam Joseph Maher"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed to a casual vacancy in the South Australian Legislative Council for the South Australian Branch of the Australian Labor Party on 17 October 2012.",
+              "links": [
+                {
+                  "text": "casual vacancy",
+                  "type": "internal",
+                  "page": "casual vacancy"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian Legislative Council"
+                },
+                {
+                  "text": "South Australian Branch of the Australian Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (South Australian Branch)"
+                }
+              ]
+            },
+            {
+              "text": "He previously served in the Cabinet of South Australia between 2015 and 2018 and was the Leader of the Government in the Legislative Council between 2016 and 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of South Australia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2014",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "18",
+            "df": "y",
+            "template": "end date",
+            "text": "March 18, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "18",
+            "df": "y",
+            "template": "end date",
+            "text": "March 18, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "18",
+            "df": "y",
+            "template": "end date",
+            "text": "March 18, 2018"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Kyam Maher"
+          },
+          "honorific-suffix": {
+            "text": "MLC"
+          },
+          "office1": {
+            "text": "51st Attorney-General of South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attorney-General of South Australia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 March 2022"
+          },
+          "premier1": {
+            "text": "Peter Malinauskas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Vickie Chapman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vickie Chapman"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Aboriginal Affairs\n(2022–present)\nMinister for Aboriginal Affairs and Reconciliation\n(2015–2018)"
+          },
+          "term_start2": {
+            "text": "24 March 2022"
+          },
+          "premier2": {
+            "text": "Peter Malinauskas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Steven Marshall (separated from position of Premier)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "premier3": {
+            "text": "Jay Weatherill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Weatherill"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 February 2015"
+          },
+          "term_end3": {
+            "text": "March 18, 2018"
+          },
+          "predecessor3": {
+            "text": "Ian Hunter",
+            "links": [
+              {
+                "text": "Ian Hunter",
+                "type": "internal",
+                "page": "Ian Hunter (politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Steven Marshall (as Premier of South Australia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Industrial Relations and Public Sector"
+          },
+          "term_start4": {
+            "text": "24 March 2022"
+          },
+          "premier4": {
+            "text": "Peter Malinauskas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "New postion"
+          },
+          "office5": {
+            "text": "Leader of the Government in the Legislative Council",
+            "links": [
+              {
+                "text": "Leader of the Government in the Legislative Council",
+                "type": "internal",
+                "page": "Leader of the Government in the Legislative Council (South Australia)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "24 March 2022"
+          },
+          "premier5": {
+            "text": "Peter Malinauskas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Rob Lucas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rob Lucas"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "18 January 2016"
+          },
+          "term_end6": {
+            "text": "18 March 2018"
+          },
+          "premier6": {
+            "text": "Jay Weatherill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Weatherill"
+              }
+            ]
+          },
+          "predecessor6": {
+            "text": "Gail Gago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gail Gago"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Rob Lucas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rob Lucas"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Minister for Manufacturing and Innovation"
+          },
+          "premier7": {
+            "text": "Jay Weatherill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Weatherill"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "3 February 2015"
+          },
+          "term_end7": {
+            "text": "March 18, 2018"
+          },
+          "predecessor7": {
+            "text": "Susan Close",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan Close"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "David Pisoni (as Minister for Industry and Skills)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Pisoni"
+              }
+            ]
+          },
+          "office8": {
+            "text": "Minister for Automotive Transformation"
+          },
+          "premier8": {
+            "text": "Jay Weatherill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Weatherill"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "3 February 2015"
+          },
+          "term_end8": {
+            "text": "March 18, 2018"
+          },
+          "predecessor8": {
+            "text": "Susan Close",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan Close"
+              }
+            ]
+          },
+          "successor8": {
+            "text": "David Pisoni (as Minister for Industry and Skills)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Pisoni"
+              }
+            ]
+          },
+          "office9": {
+            "text": "Member of the South Australian Legislative Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Australian Legislative Council"
+              }
+            ]
+          },
+          "term_start9": {
+            "text": "17 October 2012"
+          },
+          "predecessor9": {
+            "text": "Bob Sneath",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob Sneath"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Kyam Joseph Maher"
+          },
+          "birth_place": {
+            "text": "Littlehampton, South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Littlehampton, South Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Australian Labor Party (SA)",
+            "links": [
+              {
+                "text": "Australian Labor Party (SA)",
+                "type": "internal",
+                "page": "Australian Labor Party (South Australian Branch)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Carmel Maher"
+          },
+          "alma_mater": {
+            "text": "University of Adelaide",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Adelaide"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          },
+          "website": {
+            "text": "SA Parliamentary Profile",
+            "links": [
+              {
+                "text": "SA Parliamentary Profile",
+                "type": "external",
+                "site": "https://members.parliament.sa.gov.au/Detail.aspx?pid=4697"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maher is of Aboriginal descent.",
+              "links": [
+                {
+                  "text": "Aboriginal",
+                  "type": "internal",
+                  "page": "Aboriginal Australians"
+                }
+              ]
+            },
+            {
+              "text": "He grew up in Mount Gambier and attended Grant High School there.",
+              "links": [
+                {
+                  "text": "Mount Gambier",
+                  "type": "internal",
+                  "page": "Mount Gambier, South Australia"
+                },
+                {
+                  "text": "Grant High School",
+                  "type": "internal",
+                  "page": "Grant High School (Mount Gambier)"
+                }
+              ]
+            },
+            {
+              "text": "He does not consider that he experienced the disadvantage and racism that is common for many Aboriginal people in Australia."
+            },
+            {
+              "text": "He left Mount Gambier to study law and economics at the University of Adelaide.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maher was a lawyer and political staffer before becoming South Australian state secretary of the Australian Labor Party."
+            },
+            {
+              "text": "In 2006, Maher was an inaugural committee member of the Progressive Labour Education Association Inc (PLEA), a joint-venture training organisation operated by the ALP Socialist Left faction and aligned unions United Voice (then the Liquor Hospitality and Miscellaneous Union) and the Australian Services Union.",
+              "links": [
+                {
+                  "text": "Socialist Left faction",
+                  "type": "internal",
+                  "page": "Socialist Left (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Voice"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Services Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.adelaidenow.com.au/news/south-australia/aboriginal-affairs-and-reconciliation-minister-kyam-maher-starting-to-reconnect-with-indigenous-heritage/news-story/cfe52950a91e8bf4bb5ffc79eee94e3c",
+          "title": "Aboriginal Affairs and Reconciliation Minister Kyam Maher starting to reconnect with indigenous heritage",
+          "first": "Andrew",
+          "last": "Dowdell",
+          "newspaper": "Sunday Mail",
+          "date": "13 May 2017",
+          "accessdate": "5 February 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2012-10-02/alp-secretary-set-for-seat-in-parliament/4290410",
+          "title": "ALP secretary set for seat in Parliament",
+          "publisher": "ABC",
+          "work": "ABC News",
+          "first": "Nick",
+          "last": "Harmsen",
+          "date": "2 October 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "What is the Progressive Labour Education Association (PLEA)?",
+          "url": "https://www.plus.org.au/plea/",
+          "website": "Progressive Left Unions and Sub-Branches (PLUS)",
+          "publisher": "Progressive Left Unions and Sub-Branches (PLUS)",
+          "accessdate": "7 February 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maher was appointed to the South Australian Legislative Council in 2012 to replace outgoing MLC Bob Sneath.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Australian Legislative Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob Sneath"
+                }
+              ]
+            },
+            {
+              "text": "Maher was re-elected from fourth position on the Labor ticket at the 2014 election.",
+              "links": [
+                {
+                  "text": "2014 election",
+                  "type": "internal",
+                  "page": "2014 South Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2015 he was appointed to cabinet and, between 2015 and the 2018 state election, Maher has served as minister in the Labor Weatherill Ministry in a range of portfolios including manufacturing and innovation, automotive transformation, Aboriginal affairs and reconciliation; and employment and science and information economy.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of South Australia"
+                },
+                {
+                  "text": "2018 state election",
+                  "type": "internal",
+                  "page": "2018 South Australian state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Weatherill Ministry"
+                }
+              ]
+            },
+            {
+              "text": "Maher was the first Aboriginal South Australian Minister for Aboriginal Affairs.",
+              "links": [
+                {
+                  "text": "Aboriginal",
+                  "type": "internal",
+                  "page": "Aboriginal Australians"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 18 January 2016 Maher was appointed as the Leader of the Government in the Legislative Council in the Weatherill government.",
+              "links": [
+                {
+                  "text": "Leader of the Government in the Legislative Council",
+                  "type": "internal",
+                  "page": "Leader of the Government in the Legislative Council (South Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Labor won government at the 2022 state election, Maher was appointed Attorney-General in the Malinauskas ministry on 24 March, as well as Minister for Aboriginal Affairs and Minister for Industrial Relations and Public Sector.",
+              "links": [
+                {
+                  "text": "2022 state election",
+                  "type": "internal",
+                  "page": "2022 South Australian state election"
+                },
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General of South Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malinauskas ministry"
+                }
+              ]
+            },
+            {
+              "text": "He also became Leader of the Government in the Legislative Council for the second time."
+            },
+            {
+              "text": "Maher was the first initiated Aboriginal man in the nation's history to be appointed in the Attorney-General position."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://adelaideaz.com/articles/kyam-maher--first-south-australian-government-aboriginal-affairs-minister-discovers-aboriginality",
+          "title": "Kyam Maher, the first South Australian Aboriginal government minister for Aboriginal affairs during 2015-18",
+          "website": "AdelaideAZ",
+          "access-date": "5 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.adelaidenow.com.au/news/south-australia/reshuffle-peter-malinauskas-and-leesa-vlahos-join-jay-weatherills-cabinet/news-story/65ebd68df6c3acde8414c0af5ac01fed",
+          "title": "Reshuffle, Peter Malinauskas and Leesa Vlahos join Jay Weatherill's Cabinet",
+          "work": "The Advertiser",
+          "date": "18 January 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://indaily.com.au/news/2022/03/24/brocks-back-independent-among-new-faces-in-diverse-labor-cabinet/",
+          "work": "In Daily",
+          "title": "Brock's back: Independent among new faces in 'diverse' Labor cabinet",
+          "first": "Stephanie",
+          "last": "Richards",
+          "date": "24 March 2022",
+          "access-date": "25 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2022-03-24/independent-former-minister-joins-new-south-australian-cabinet/100935424",
+          "publisher": "ABC News",
+          "title": "New South Australian cabinet sworn in, with independent Geoff Brock making surprise comeback",
+          "first1": "Nick",
+          "last1": "Harmsen",
+          "first2": "Isabel",
+          "last2": "Dayman",
+          "date": "24 March 2022",
+          "access-date": "25 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.9news.com.au/national/south-australia-politics-new-sa-premier-names-his-new-cabinet/4aa96c37-861b-4b4f-9150-47bc526183a7",
+          "title": "New SA Premier names new cabinet with women and Independents coming out on top",
+          "publisher": "9News",
+          "date": "24 March 2022",
+          "access-date": "31 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "SA ministry reshuffle: Rau gets child protection task, Kyam Maher moved into Cabinet, Katrine Hildyard elevated",
+          "url": "http://www.abc.net.au/news/2015-02-03/maher-joins-sa-cabinet-rau-gets-child-protection/6064820",
+          "accessdate": "6 February 2015",
+          "agency": "ABC News",
+          "date": "3 February 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-sa"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Bob Sneath",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the South Australian Legislative Council",
+          "years": "2012–present",
+          "alongside": "Multiple Members",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Susan Close",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Manufacturing and Innovation",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "after": "David Pisoni",
+          "as": "Minister for Industry and Skills",
+          "template": "s-aft"
+        },
+        {
+          "title": "Minister for Automotive Transformation",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Ian Hunter",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Aboriginal Affairs and Reconciliation",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Steven Marshall",
+          "as": "Premier of South Australia",
+          "template": "s-aft"
+        },
+        {
+          "before": "Gail Gago",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Government in the South Australian Legislative Council",
+          "years": "2016–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rob Lucas",
+          "template": "s-aft"
+        },
+        {
+          "title": "Minister for Science and Information Economy",
+          "years": "2016–2018",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "after": "David Ridgway",
+          "as": "Minister for Trade, Tourism and Investment",
+          "template": "s-aft"
+        },
+        {
+          "before": "Gail Gago\nas Minister for Employment, Higher Education and Skills",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Employment",
+          "years": "2016–2018",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Vickie Chapman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Attorney-General of South Australia",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Rob Lucas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Government in the South Australian Legislative Council",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "cabinet of south australia"
+        },
+        {
+          "template": "sacurrentmlcs"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary Profile: SA Parliament website",
+            "links": [
+              {
+                "text": "Parliamentary Profile: SA Parliament website",
+                "type": "external",
+                "site": "https://members.parliament.sa.gov.au/Detail.aspx?pid=4697"
+              }
+            ]
+          },
+          {
+            "text": "Parliamentary Profile: SA Labor website",
+            "links": [
+              {
+                "text": "Parliamentary Profile: SA Labor website",
+                "type": "external",
+                "site": "http://sa.alp.org.au/alp/state-mps/hon-kyam-maher-mlc"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

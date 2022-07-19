@@ -1,0 +1,1183 @@
+{
+  "title": "Tim Watts (politician)",
+  "pageID": 40604826,
+  "categories": [
+    "1982 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Labor Right politicians",
+    "Members of the Australian House of Representatives for Gellibrand",
+    "Members of the Australian House of Representatives",
+    "Australian solicitors",
+    "Bond University alumni",
+    "Monash University alumni",
+    "Alumni of the London School of Economics",
+    "21st-century Australian politicians",
+    "People from Toowoomba",
+    "Telstra people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Timothy Graham Watts (born 8 June 1982) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Timothy Graham Watts"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Australian Labor Party (ALP) and has been a member of the House of Representatives since the 2013 federal election, representing the Victorian seat of Gellibrand.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Australia)"
+                },
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "text": "Gellibrand",
+                  "type": "internal",
+                  "page": "Division of Gellibrand"
+                }
+              ]
+            },
+            {
+              "text": "Since 1 June 2022, Watts has served as Assistant Minister for Foreign Affairs in the ministry of Anthony Albanese.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anthony Albanese"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2016",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2022",
+            "month": "6",
+            "date": "1",
+            "template": "start date",
+            "text": "June 1, 2022"
+          }
+        },
+        {
+          "df": "yes",
+          "year": "1982",
+          "month": "6",
+          "day": "8",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Tim Watts"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Tim Watts crop.jpg"
+          },
+          "office": {
+            "text": "MAssistant Minister for Foreign Affairs",
+            "links": [
+              {
+                "text": "MAssistant Minister for Foreign Affairs",
+                "type": "internal",
+                "page": "Minister for Foreign Affairs (Australia)",
+                "anchor": "List of ministers assisting the minister for foreign affairs"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 1, 2022"
+          },
+          "predecessor": {
+            "text": "Steven Ciobo (2015)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Ciobo"
+              }
+            ]
+          },
+          "constituency_mp1": {
+            "text": "Gellibrand",
+            "links": [
+              {
+                "text": "Gellibrand",
+                "type": "internal",
+                "page": "Division of Gellibrand"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Australian"
+          },
+          "predecessor1": {
+            "text": "Nicola Roxon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Roxon"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 September 2013"
+          },
+          "birth_name": {
+            "text": "Timothy Graham Watts"
+          },
+          "birth_date": {
+            "text": "June 8, 1982"
+          },
+          "birth_place": {
+            "text": "Toowoomba, Queensland, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Toowoomba"
+              },
+              {
+                "type": "internal",
+                "page": "Queensland"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Joyce Kwok"
+          },
+          "party": {
+            "text": "Australian Labor Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Bond University\nMonash University\nLondon School of Economics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bond University"
+              },
+              {
+                "type": "internal",
+                "page": "Monash University"
+              },
+              {
+                "type": "internal",
+                "page": "London School of Economics"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.timwatts.net.au/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watts was born on 8 June 1982 in Toowoomba, Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Toowoomba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                }
+              ]
+            },
+            {
+              "text": "He is a descendant of John Watts, an immigrant from England who was a member of the first parliament of Queensland.",
+              "links": [
+                {
+                  "text": "John Watts",
+                  "type": "internal",
+                  "page": "John Watts (Australian politician)"
+                },
+                {
+                  "text": "parliament of Queensland",
+                  "type": "internal",
+                  "page": "parliament of Queensland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watts attended Centenary Heights State High School in Toowoomba.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Centenary Heights State High School"
+                }
+              ]
+            },
+            {
+              "text": "He holds a Bachelor of Laws with Honours from Bond University, a Master of Public Policy and Management from Monash University and a Master of Science in Politics and Communications from the London School of Economics and Political Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bond University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Monash University"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics and Political Science"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=193430",
+          "title": "Mr Tim Watts MP",
+          "website": "Parliament of Australia",
+          "access-date": "3 August 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22chamber/hansardr/7c9ab1c0-b8d7-4984-afcf-e66510c0be9b/0114%22",
+          "title": "First speech",
+          "date": "2 December 2013",
+          "access-date": "12 June 2021",
+          "work": "Hansard",
+          "publisher": "Parliament of Australia",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watts worked as a solicitor with Mallesons Stephen Jaques from 2003 to 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mallesons Stephen Jaques"
+                }
+              ]
+            },
+            {
+              "text": "He subsequently worked for Senator Stephen Conroy as deputy chief of staff from 2005 to 2009, and briefly as a senior adviser to Victorian premier John Brumby.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stephen Conroy"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Brumby"
+                }
+              ]
+            },
+            {
+              "text": "In 2009 he was recruited by Telstra to advise on the company's relationship with the new National Broadband Network, with the title of corporate relations manager.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Telstra"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Broadband Network"
+                }
+              ]
+            },
+            {
+              "text": "His appointment was seen as part of a strategy by the new CEO David Thodey to repair Telstra's relationship with the federal government, which had deteriorated under his predecessor Sol Trujillo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Thodey"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sol Trujillo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.smh.com.au/business/telstra-hires-former-conroy-adviser-20090714-dk6y.html",
+          "title": "Telstra hires former Conroy adviser",
+          "last": "Oakes",
+          "first": "Dan",
+          "date": "15 July 2009",
+          "newspaper": "The Sydney Morning Herald",
+          "access-date": "3 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.heraldsun.com.au/leader/west/labor-candidate-for-gellibrand-tim-watts-powers-ahead/news-story/70a9da68f92f99751965dd0fbe45b365",
+          "title": "Labor candidate Tim Watts powers ahead",
+          "last": "O'Doherty",
+          "first": "Fiona",
+          "date": "15 April 2013",
+          "newspaper": "Herald Sun",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In April 2013, Watts won ALP preselection for the Division of Gellibrand, following the retirement of the incumbent MP Nicola Roxon.",
+              "links": [
+                {
+                  "text": "preselection",
+                  "type": "internal",
+                  "page": "preselection"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Gellibrand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicola Roxon"
+                }
+              ]
+            },
+            {
+              "text": "He was initially one of five candidates for preselection, including future senator Kimberley Kitching and Roxon's preferred candidate Katie Hall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kimberley Kitching"
+                }
+              ]
+            },
+            {
+              "text": "However, the others withdrew prior to the final ballot."
+            },
+            {
+              "text": "He reportedly had the support of Stephen Conroy's Centre Unity faction.",
+              "links": [
+                {
+                  "text": "Centre Unity",
+                  "type": "internal",
+                  "page": "Labor Right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watts retained Gellibrand for the ALP at the 2013 federal election.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "In parliament he has served on a number of standing committees."
+            },
+            {
+              "text": "Following the 2019 election, he was appointed to new leader Anthony Albanese's shadow ministry as an assistant shadow minister with the portfolios of communications and cyber security.",
+              "links": [
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anthony Albanese"
+                },
+                {
+                  "text": "shadow ministry",
+                  "type": "internal",
+                  "page": "Shadow ministry of Australia"
+                }
+              ]
+            },
+            {
+              "text": "In February 2021 he announced plans for a national ransomware strategy.",
+              "links": [
+                {
+                  "text": "ransomware",
+                  "type": "internal",
+                  "page": "ransomware"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, Watts was mentioned in secret recordings made of ALP powerbroker Adem Somyurek, who described him as \"bowing to me\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adem Somyurek"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.news.com.au/national/breaking-news/tim-watts-wins-gellibrand-preselection/news-story/d084cb12c0016ee285b307078bf18cf4",
+          "title": "Tim Watts wins Gellibrand preselection",
+          "publisher": "news.com.au",
+          "date": "10 April 2013",
+          "access-date": "12 June 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theage.com.au/politics/federal/preselection-rumble-over-labor-seat-20130326-2gsde.html",
+          "title": "Preselection rumble over Labor seat",
+          "newspaper": "The Age",
+          "date": "27 March 2013",
+          "access-date": "12 June 2021",
+          "first1": "Richard",
+          "last1": "Willingham",
+          "first2": "Josh",
+          "last2": "Gordon",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theage.com.au/politics/federal/dirt-flies-in-gellibrand-preselection-20130408-2hhe7.html",
+          "title": "Dirt flies in Gellibrand preselection",
+          "newspaper": "The Age",
+          "date": "9 April 2013",
+          "access-date": "12 June 2021",
+          "first1": "Richard",
+          "last1": "Willingham",
+          "first2": "Josh",
+          "last2": "Gordon",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/nation/politics/labor-pushes-for-national-plan-to-tackle-14bn-in-ransomware-attacks/news-story/27705be675788000d33bf99ee8432eef",
+          "title": "Labor pushes for national plan to tackle $1.4bn in ransomware attacks",
+          "first": "Richard",
+          "last": "Ferguson",
+          "newspaper": "The Australian",
+          "date": "17 February 2021",
+          "access-date": "12 June 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theage.com.au/national/victoria/who-s-going-to-protect-albo-tapes-show-how-powerbroker-controls-alp-20200614-p552hc.html",
+          "title": "'Who's going to protect Albo': Tapes show how powerbroker controls ALP",
+          "first1": "Nick",
+          "last1": "McKenzie",
+          "first2": "Joel",
+          "last2": "Tozer",
+          "first3": "Sumeyya",
+          "last3": "Ilanbey",
+          "newspaper": "The Age",
+          "date": "14 June 2020",
+          "access-date": "12 June 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political positions",
+      "depth": 0
+    },
+    {
+      "title": "Family violence",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the murder of Fiona Warzywoda in the electorate in 2014, Watts campaigned for preventing and removing family violence across Melbourne's West and Australia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, Watts launched the bipartisan 'Parliamentarians against Family Violence' with Coalition MP's Andrew Broad and Ken Wyatt.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrew Broad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ken Wyatt"
+                }
+              ]
+            },
+            {
+              "text": "Australian of the Year, Rosie Batty addressed a meeting of the group in 2015, expressing that 'Cross-party commitment is important to the issue of family and domestic violence'.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosie Batty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In response, former Labor Leader, Mark Latham used a column in the Australian Financial Review to label Watts as \"symptomatic of the decline in Labor's thinking\" and argue that \"Watts has fallen for the feminist line on domestic violence\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mark Latham"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Financial Review"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Australian Financial Review"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2015, Watts and fellow Labor MP Terri Butler introduced a private member's bill to criminalise the non-consensual sharing of private sexual material.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Terri Butler"
+                },
+                {
+                  "text": "private member's bill",
+                  "type": "internal",
+                  "page": "private member's bill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In an opinion piece published by the Chifley Research Centre, Watts called for action in response to the issue of family violence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chifley Research Centre"
+                }
+              ]
+            },
+            {
+              "text": "He has written on the importance of engaging with the states, territories and relevant stakeholders, as well as the use of effective communication in achieving successful policy outcomes to the issue."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.openaustralia.org.au/debates/?id=2014-06-18.129.1&s=Fiona+Warzywoda#g129.2",
+          "title": "Constituency Statements: Domestic Violence",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "18 June 2014",
+          "website": "OpenAustralia.org",
+          "access-date": "16 June 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/federal-politics/political-news/tim-watts-on-why-privileged-men-need-to-join-the-domestic-violence-fight-20141019-1189sn.html",
+          "title": "Tim Watts on why privileged men need to join the domestic violence fight",
+          "last": "Ireland",
+          "first": "Judith",
+          "date": "20 October 2014",
+          "newspaper": "The Sydney Morning Herald",
+          "access-date": "20 October 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.heraldsun.com.au/news/parliamentarians-against-family-violence-to-campaign-against-abuse/news-story/b8b650c264ab15855cf8303d0325dae6",
+          "title": "Parliamentarians Against Family Violence to campaign against abuse",
+          "last": "Whinnett",
+          "first": "Ellen",
+          "date": "20 October 2014",
+          "newspaper": "Herald Sun",
+          "access-date": "20 October 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.ourwatch.org.au/News-media/Latest-news/Our-Watch-Ambassador,-Rosie-Batty,-addresses-parli",
+          "title": "Our Watch Ambassador, Rosie Batty, addresses parliamentarians on family violence",
+          "last": "Grant",
+          "first": "Hannah",
+          "date": "2 March 2015",
+          "website": "Our Watch",
+          "access-date": "2 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.crikey.com.au/2015/05/18/latham-enlists-domestic-violence-for-his-own-culture-war/",
+          "title": "Latham enlists domestic violence for his own culture war",
+          "last": "Keane",
+          "first": "Bernard",
+          "date": "18 May 2015",
+          "website": "Crikey",
+          "access-date": "18 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=CHAMBER;id=chamber%2Fhansardr%2Ff86cb155-06ef-4ce4-a81e-4ab253e0a30f%2F0023;query=Id%3A%22chamber%2Fhansardr%2Ff86cb155-06ef-4ce4-a81e-4ab253e0a30f%2F0026%22",
+          "title": "Criminal Code Amendment (Private Sexual Material) Bill 2016",
+          "last1": "Watts",
+          "first1": "Tim",
+          "last2": "Butler",
+          "first2": "Terri",
+          "date": "17 October 2016",
+          "website": "Parliament of Australia",
+          "access-date": "17 October 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/pm/content/2016/s4414694.htm",
+          "title": "Revenge porn should be criminalised says Senate committee",
+          "last": "Donovan",
+          "first": "Samantha",
+          "date": "26 February 2016",
+          "website": "PM",
+          "access-date": "3 August 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.chifley.org.au/the-time-to-tackle-family-violence-is-now/",
+          "title": "The Time to Tackle Family Violence is Now",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "21 March 2015",
+          "website": "Chifley Research Centre",
+          "access-date": "21 March 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Foreign affairs",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watts has been an outspoken advocate of Australian Aid in the Parliament and has travelled to Cambodia and Papua New Guinea to visit Australian funded development programs in those countries."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watts has been an advocate of greater Australian engagement in Asia, speaking frequently about Asian-Australian diaspora communities."
+            },
+            {
+              "text": "He has been a delegate to a number of bilateral events such as the Australian Chinese Youth Dialogue, Australian Indian Youth Dialogue and CAUSINDY."
+            },
+            {
+              "text": "He was also a program participant for the Asialink Leaders Course in 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watts has also written on the economic growth of Indonesia in recent years, stating \"there is no other nation in Asia more important to our future than Indonesia\"."
+            },
+            {
+              "text": "Subsequently, he has called for an increase to the cap on working holiday visas for Indonesians and argued that it is time Australians consider Indonesia as \"critical\" to both the economic prosperity and security of the country."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.openaustralia.org.au/search/?s=Australian+Aid&pid=10794",
+          "title": "Australian Aid",
+          "last": "Watts",
+          "first": "Tim",
+          "website": "OpenAustralia.org",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.openaustralia.org.au/debate/?id=2015-02-12.136.1",
+          "title": "Adjournment: International Development Assistance",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "12 February 2015",
+          "website": "OpenAustralia.org",
+          "access-date": "12 February 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=5_a1cs5L2og",
+          "title": "Tim Watts supports Australian Aid",
+          "author": "Save the Children Australia",
+          "date": "16 August 2015",
+          "website": "YouTube",
+          "access-date": "16 August 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.heraldsun.com.au/news/victoria/png-where-foreign-aid-barely-scratches-the-surface/news-story/f3ba0c5a7497941fbd5d86196a08f7bd",
+          "title": "PNG: Where foreign aid barely scratches the surface",
+          "last": "Whinnett",
+          "first": "Ellen",
+          "date": "14 August 2015",
+          "newspaper": "Herald Sun",
+          "access-date": "14 August 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=iBfnhCbZ-oo",
+          "title": "A Community That Works: Multiculturalism in Australian Society",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "1 October 2014",
+          "website": "YouTube",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sbs.com.au/yourlanguage/punjabi/en/content/tim-watts-supports-long-stay-parental-visa",
+          "title": "Tim Watts supports long stay parental visa",
+          "last": "Kainth",
+          "first": "Shamsher",
+          "date": "16 February 2016",
+          "website": "Special Broadcasting Service",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://acyd.org.au/delegates/",
+          "title": "The ACYD is delighted to announce the delegates for the 2015 Dialogue",
+          "website": "Australian Chinese Youth Dialogue",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.indusage.com.au/hon-minister-tim-watts-a-strong-supporter-of-the-indian-community/",
+          "title": "Federal MP Tim Watts: A strong supporter of the Indian Community",
+          "date": "1 December 2015",
+          "newspaper": "Indus Age",
+          "access-date": "3 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xiK48wL_VsQ",
+          "title": "Tim Watts MP speaks about CAUSINDY",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "23 September 2016",
+          "website": "YouTube",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://asialinkbusiness.com.au/uploads/content/Asialink_Leaders_Program_2017_ParticipantProfiles_Melbourne.pdf",
+          "title": "Biographies of the Asialink Leaders Program participants 2017",
+          "website": "Asialink",
+          "access-date": "3 August 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://medium.com/@TimWatts_MP/if-you-believe-a-recent-poll-nearly-half-of-australians-support-pauline-hansons-call-for-a-ban-on-743c86fb7f27",
+          "title": "Indonesia, Islam and Hanson",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "4 October 2016",
+          "website": "Medium",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "New Australian flag",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watts has written on the importance of multiculturalism in modern Australian society, and in doing so has called for a new Australian flag which does not bear the Union Jack.",
+              "links": [
+                {
+                  "text": "new Australian flag",
+                  "type": "internal",
+                  "page": "Australian flag debate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Union Jack"
+                }
+              ]
+            },
+            {
+              "text": "He described the importance of national symbols and the importance in ensuring they are reflective of the 'modern, multicultural, Southeast Asian nation we have become'."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.sbs.com.au/news/article/2015/09/09/comment-need-flag-reflects-australia",
+          "title": "The Need for a Flag that Represents Australia",
+          "last": "Watts",
+          "first": "Tim",
+          "date": "10 September 2015",
+          "website": "Special Broadcasting Service",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2015, Watts and Labor MP Clare O'Neil released Two Futures: Australia at a critical moment through Text Publishing, which sought to address long-term policy challenges facing Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Clare O'Neil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Text Publishing"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Two Futures: Australia at a critical moment"
+                ]
+              }
+            },
+            {
+              "text": "In 2019 he released another book, The Golden Country: Australia's Changing Identity.",
+              "formatting": {
+                "italic": [
+                  "The Golden Country: Australia's Changing Identity"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.textpublishing.com.au/books/two-futures",
+          "title": "Two Futures: Australia at a critical moment",
+          "website": "Text Publishing",
+          "access-date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.textpublishing.com.au/books/the-golden-country-australia-s-changing-identity",
+          "title": "The Golden Country: Australia's Changing Identity, book by Tim Watts",
+          "date": "2019-09-17",
+          "isbn": "978-1-925603-98-9",
+          "last1": "Watts",
+          "first1": "Tim",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watts lives in Footscray with his wife and two children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since about 2006, Watts has been the author of a blog entitled \"Blogging the Bookshelf\", in which he discusses the books that he has been reading."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/radionational/programs/breakfast/buy,-borrow-or-toss:-labor-mp/7070074",
+          "title": "Buy, borrow or toss: Labor MP Tim Watts' book recommendations",
+          "last": "Kelly",
+          "first": "Fran",
+          "date": "6 January 2016",
+          "website": "Radio National Breakfast",
+          "access-date": "6 January 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Nicola Roxon",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Gellibrand",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "last": "Steven Ciobo",
+          "as": "Parliamentary Secretary",
+          "template": "s-vac"
+        },
+        {
+          "title": "MAssistant Minister for Foreign Affairs",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "current victoria representatives"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.timwatts.net.au/"
+              }
+            ]
+          },
+          {
+            "text": "Parliamentary biography",
+            "links": [
+              {
+                "text": "Parliamentary biography",
+                "type": "external",
+                "site": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=193430"
+              }
+            ]
+          },
+          {
+            "text": "Blogging the Bookshelf",
+            "links": [
+              {
+                "text": "Blogging the Bookshelf",
+                "type": "external",
+                "site": "http://www.bloggingthebookshelf.com/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Blogging the Bookshelf",
+            "links": [
+              {
+                "text": "Blogging the Bookshelf",
+                "type": "external",
+                "site": "http://www.bloggingthebookshelf.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

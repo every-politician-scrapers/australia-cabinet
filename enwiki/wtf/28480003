@@ -1,0 +1,1012 @@
+{
+  "title": "Stephen Jones (Australian politician)",
+  "pageID": 28480003,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Members of the Australian House of Representatives",
+    "Members of the Australian House of Representatives for Throsby",
+    "Members of the Australian House of Representatives for Whitlam",
+    "University of Wollongong alumni",
+    "LGBT rights activists from Australia",
+    "Labor Left politicians",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephen Patrick Jones (born 29 June 1965) is an Australian politician who represents the Division of Whitlam (formerly Throsby) for the Australian Labor Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Division of Whitlam"
+                },
+                {
+                  "text": "Throsby",
+                  "type": "internal",
+                  "page": "Division of Throsby"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Stephen Patrick Jones"
+                ]
+              }
+            },
+            {
+              "text": "He was elected at the 2010 Australian federal election and is the current Assistant Treasurer and Minister for Financial Services.",
+              "links": [
+                {
+                  "text": "2010 Australian federal election",
+                  "type": "internal",
+                  "page": "2010 Australian federal election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2013",
+          "template": "npov language"
+        },
+        {
+          "date": "December 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2011",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2022",
+            "month": "6",
+            "date": "1",
+            "template": "start date",
+            "text": "June 1, 2022"
+          }
+        },
+        {
+          "df": "yes",
+          "year": "1965",
+          "month": "6",
+          "day": "29",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Stephen_Jones_MP_July_2014.jpg"
+          },
+          "name": {
+            "text": "Stephen Jones"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Australia"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Jones in 2014"
+          },
+          "constituency_mp1": {
+            "text": "Whitlam",
+            "links": [
+              {
+                "text": "Whitlam",
+                "type": "internal",
+                "page": "Division of Whitlam"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Australian"
+          },
+          "term_start1": {
+            "text": "2 July 2016"
+          },
+          "predecessor1": {
+            "text": "New seat",
+            "formatting": {
+              "italic": [
+                "New seat"
+              ]
+            }
+          },
+          "constituency_mp2": {
+            "text": "Throsby",
+            "links": [
+              {
+                "text": "Throsby",
+                "type": "internal",
+                "page": "Division of Throsby"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Australian"
+          },
+          "term_start2": {
+            "text": "21 August 2010"
+          },
+          "term_end2": {
+            "text": "2 July 2016"
+          },
+          "predecessor2": {
+            "text": "Jennie George",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jennie George"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Seat abolished",
+            "formatting": {
+              "italic": [
+                "Seat abolished"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Assistant Treasurer and Minister for Financial Services"
+          },
+          "primeminister3": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 1, 2022"
+          },
+          "predecessor3": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "June 29, 1965"
+          },
+          "birth_place": {
+            "text": "Wollongong, New South Wales, Australia",
+            "links": [
+              {
+                "text": "Wollongong",
+                "type": "internal",
+                "page": "Wollongong, New South Wales"
+              },
+              {
+                "type": "internal",
+                "page": "New South Wales"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Australian Labor Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "University of Wollongong (BA), Macquarie University (LLB)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Wollongong"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Macquarie University"
+              },
+              {
+                "text": "LLB",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer and union official",
+            "links": [
+              {
+                "text": "union official",
+                "type": "internal",
+                "page": "union official"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.stephenjones.org.au/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=A9B",
+          "title": "Mr Stephen Jones MP",
+          "website": "www.aph.gov.au",
+          "language": "en-AU",
+          "access-date": "2019-06-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early years and background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephen Jones is one of five children (Maree, Luke, Adam and Amanda) who grew up in Wollongong, New South Wales.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wollongong"
+                }
+              ]
+            },
+            {
+              "text": "His father Mark, was a teacher at TAFE and his mother Margaret, worked as a School Assistant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "TAFE"
+                }
+              ]
+            },
+            {
+              "text": "Stephen is the father to two children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jones attended St Brigid's Primary School in Gwynneville, New South Wales and Edmund Rice College in Wollongong, where he was School Captain and Dux.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gwynneville, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "He holds a Bachelor of Arts (History and Politics) from the University of Wollongong and a Bachelor of Laws from Macquarie University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Wollongong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Macquarie University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His early career was spent as a youth advocate in Campbelltown, New South Wales.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Campbelltown, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "Working primarily with children who had developmental disabilities and later, with adults suffering spinal cord injury."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stephen Jones joined the Community and Public Sector Union (CPSU) in 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Community and Public Sector Union"
+                }
+              ]
+            },
+            {
+              "text": "He worked in various roles, including NSW branch secretary and secretary of the Communications Division."
+            },
+            {
+              "text": "He was seconded to the Australian Council of Trade Unions (ACTU) in 2004, where he worked to secure compensation for victims of James Hardie asbestos-related disease.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Council of Trade Unions"
+                },
+                {
+                  "type": "internal",
+                  "page": "James Hardie"
+                }
+              ]
+            },
+            {
+              "text": "Stephen Jones was elected as national secretary of the CPSU in 2005 and led the union's campaign against the Howard government's WorkChoices industrial laws in the lead up to the 2007 Australian federal election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "WorkChoices"
+                },
+                {
+                  "text": "2007 Australian federal election",
+                  "type": "internal",
+                  "page": "2007 Australian federal election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Keenan",
+          "first": "Anthony",
+          "title": "Meet Stephen",
+          "publisher": "www.stephenjones.org.au",
+          "url": "http://www.stephenjones.org.au/about/",
+          "access-date": "3 December 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20101121090813/http://www.stephenjones.org.au/about/",
+          "archive-date": "21 November 2010",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "jurisdiction": "Commonwealth of Australia",
+          "house": "House of Representatives",
+          "date": "19 October 2010",
+          "page": "725",
+          "speaker": "Stephen Jones MP",
+          "position": "Member for Throsby",
+          "template": "citation",
+          "type": "hansard"
+        },
+        {
+          "title": "Financial Documents - year ended 30 June 2007 (FR2007/479) s253 Schedule 1 - Workplace Relations Act 1996 (RAO Schedule)",
+          "url": "http://www.roc.gov.au/ArticleDocuments/364/090vpsu-fr2007-479.pdf.aspx&usg=AOvVaw1zxW13U7-NonqlQWtcHaCN",
+          "access-date": "2020-10-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephen Jones gained preselection for the seat of Throsby in late 2009, following the resignation of former Member Jennie George.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jennie George"
+                }
+              ]
+            },
+            {
+              "text": "He was endorsed as the Labor candidate after the intervention of the Labor Party national executive and he gained the seat at the 2010 federal election.",
+              "links": [
+                {
+                  "text": "2010 federal election",
+                  "type": "internal",
+                  "page": "2010 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jones made his First Speech in the House of Representatives on 19 October 2010."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 43rd Parliament, Jones served as a member of the House of Representatives Standing Committee on Economics, the Standing Committee on Infrastructure and Communications."
+            },
+            {
+              "text": "and the Joint Select Committee on Gambling Reform."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jones faced a contested pre-selection battle to retain Throsby in 2013."
+            },
+            {
+              "text": "In the long lead up to the pre-selection, a number of potential candidates from the opposing right wing faction of the ALP were floated including Mark Hay, the son of State MP for Wollongong, Noreen Hay and former State Member for Kiama, Matt Brown."
+            },
+            {
+              "text": "When nominations were called in May 2013, after months of delay, the only challenger to contest the pre-selection was local nurse John Rumble, son of former State MP, Terry Rumble."
+            },
+            {
+              "text": "Jones decisively won the rank and file pre-selection ballot held on 15 June 2013 by 90 votes to 47."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stephen Jones was re-elected for a second term at the 2013 Australian federal election.",
+              "links": [
+                {
+                  "text": "2013 Australian federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "On 18 October 2013, he was appointed shadow parliamentary secretary for Infrastructure and Regional Development."
+            },
+            {
+              "text": "On 4 March 2014, Jones was promoted to Shadow Assistant Minister for Health after Melissa Parke MP stepped down due to personal and family reasons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Melissa Parke"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jones was re-elected for a third term at the 2016 Australian federal election, after the Division of Throsby had been renamed the Division of Whitlam.",
+              "links": [
+                {
+                  "text": "2016 Australian federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Whitlam"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected at the 2022 election, becoming the Assistant Treasurer and Minister for Financial Services for the incoming Albanese Government.",
+              "links": [
+                {
+                  "text": "Albanese Government",
+                  "type": "internal",
+                  "page": "Albanese government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://bowral.yourguide.com.au/news/local/news/general/local-southern-highlands-labor-party-has-no-love-for-stephen-jones/1774995.aspx?storypage=0",
+          "title": "Local Southern Highlands Labor Party has no love for Stephen Jones",
+          "work": "Southern Highlands News",
+          "publisher": "Fairfax Media",
+          "date": "12 March 2010",
+          "access-date": "2010-08-23",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "House of Representatives: Members Elected",
+          "publisher": "Australian Electoral Commission",
+          "date": "29 September 2010",
+          "url": "http://results.aec.gov.au/15508/Website/HouseMembersElected-15508-NAT.htm",
+          "access-date": "3 December 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Committee Secretary",
+          "title": "Standing Committee on Economics: Committee Members – 43rd Parliament",
+          "publisher": "Parliament of Australia",
+          "date": "29 October 2010",
+          "url": "http://www.aph.gov.au/house/committee/economics/members.htm",
+          "access-date": "3 December 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Committee Secretary",
+          "title": "Standing Committee on Infrastructure and Communications: Committee Members – 43rd Parliament",
+          "publisher": "Parliament of Australia",
+          "date": "28 October 2010",
+          "url": "http://www.aph.gov.au/house/committee/economics/members.htm",
+          "access-date": "3 December 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.abc.net.au/news/2012-07-05/hay-preselect/4112286",
+          "title": "ALP faction fight looming over Throsby pre-selection",
+          "newspaper": "ABC News",
+          "date": "5 July 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2013-05-01/throsby-preselect/4662208",
+          "title": "Matt Brown potential third candidate for Throsby",
+          "newspaper": "ABC News",
+          "date": "30 April 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.illawarramercury.com.au/story/1372012/jones-demands-preselection-for-throsby/",
+          "title": "Jones demands preselection for Throsby",
+          "date": "19 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2013-05-20/alp-nominations-close-in-throsby/4701016",
+          "title": "ALP nominations close in Throsby",
+          "newspaper": "ABC News",
+          "date": "20 May 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.kiamaindependent.com.au/story/1497869/its-jones-vs-rumble/",
+          "title": "It's Jones vs Rumble",
+          "date": "13 May 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.illawarramercury.com.au/story/1575152/jones-endorsed-as-labors-man-in-throsby/",
+          "title": "Jones endorsed as Labor's man in Throsby",
+          "date": "15 June 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Whitlam - Federal Election 2019 Electorate, Candidates, Results {{!}} Australia Votes - ABC News (Australian Broadcasting Corporation)",
+          "url": "https://www.abc.net.au/news/elections/federal/2019/guide/whit",
+          "access-date": "2020-10-01",
+          "website": "ABC News",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Whitlam - Federal Electorate, Candidates, Results",
+          "url": "https://abc.net.au/news/elections/federal/2022/guide/whit",
+          "access-date": "2022-05-31",
+          "website": "abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Cox, Brett",
+          "title": "Jennie George's retirement puts Stephen Jones in the hot seat",
+          "work": "Illawarra Mercury",
+          "publisher": "Fairfax Media",
+          "url": "http://www.illawarramercury.com.au/news/local/news/politics/jennie-georges-retirement-puts-stephen-jones-in-the-hot-seat/1683362.aspx",
+          "date": "20 November 2009",
+          "access-date": "2010-08-23",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Leadership on progressive political agenda",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As a co-convenor of Labor's left faction in the federal parliamentary Labor Party, Jones has spoken in the House of Representatives on a number of issues of importance to the progressive political agenda including same-sex marriage, asylum seekers, introducing a carbon price and other environmental issues.",
+              "links": [
+                {
+                  "text": "Labor's left faction",
+                  "type": "internal",
+                  "page": "Labor Left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jones gave a talk on \"Politics in the Next Decade: A View from Generation X\" at The Sydney Institute on 2 September 2013 in which he identified three areas where Labor needs to engage in the future:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "First, our region – the Asia Pacific is where our economic, cultural and security will be built on enduring and reciprocal relationships which focus on long term mutual benefits, not short term opportunism."
+          },
+          {
+            "text": "Secondly, Labor’s relationship with small business which can and should transcend the campaign-driven transactional exchange of request and policy concession."
+          },
+          {
+            "text": "Labor was born of the aspiration of working people – our name reflects that. But our Party needs to recognise that the way we work has changed."
+          },
+          {
+            "text": "Thirdly, Labor should engage with progressive entrepreneurs – those who work in business who believe in generating social wealth, yet who are appalled by the intellectual paucity of Australia’s political debate;"
+          }
+        ],
+        [
+          {
+            "text": "Labor was born of the aspiration of working people – our name reflects that. But our Party needs to recognise that the way we work has changed."
+          },
+          {
+            "text": "Thirdly, Labor should engage with progressive entrepreneurs – those who work in business who believe in generating social wealth, yet who are appalled by the intellectual paucity of Australia’s political debate;"
+          }
+        ],
+        [
+          {
+            "text": "Thirdly, Labor should engage with progressive entrepreneurs – those who work in business who believe in generating social wealth, yet who are appalled by the intellectual paucity of Australia’s political debate;"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url-status": "live",
+          "archive-url": "https://ghostarchive.org/varchive/youtube/20211205/wiQnBZs87Js",
+          "archive-date": "2021-12-05",
+          "url": "https://www.youtube.com/watch?v=wiQnBZs87Js&list=UUbzwt6RFRlknMwF9sCbrmvg",
+          "title": "Stephen Jones: Speech to The Sydney Institute",
+          "website": "YouTube}}{{cbignore|undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Same-sex marriage",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 15 November 2010, in response to a motion concerning same-sex marriage moved by Adam Bandt, Federal Member for Melbourne (Australian Greens) in the House of Representative, Jones moved, as an amendment:",
+              "links": [
+                {
+                  "text": "motion",
+                  "type": "internal",
+                  "page": "Motion (parliamentary procedure)"
+                },
+                {
+                  "text": "same-sex marriage",
+                  "type": "internal",
+                  "page": "same-sex marriage"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adam Bandt"
+                },
+                {
+                  "type": "internal",
+                  "page": "Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Greens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "He articulated the political challenge:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The amended motion was supported by Labor and passed in the House of Representatives, the first such motion adopted in the lower house on same-sex marriage."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following changes to the ALP National Platform in November 2011 to allow for marriage equality and a conscience vote for Labor MPs, Stephen Jones agreed to put forward a Private Member's Bill to give effect to ALP policy in the Australian Parliament."
+            },
+            {
+              "text": "He introduced his bill to legalize same-sex marriage on 13 February 2012."
+            },
+            {
+              "text": "The Bill was defeated in the House of Representatives on 19 September 2012.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Australia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "That all the words after “That” be omitted with a view to substituting the following words: “this House calls on all parliamentarians, consistent with their duties as representatives, to gauge their constituents’ views on ways to achieve equal treatment for same sex couples including marriage”"
+          }
+        ],
+        [
+          {
+            "text": "If legislation is to be changed it will require consensus, which will require more votes than any single party can muster in this chamber. That will not be achieved by a heroic dash but by careful advocacy that respects different views, respectfully. On this issue there are different views. There are some who, on theological grounds, believe that to celebrate marriage of two men or two women is an affront to their religion. I have thought carefully about this objection, and I cannot help but draw the conclusion that the real objection here is not to the marriage but to the relationship."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "last": "Keenan",
+          "first": "Anthony",
+          "title": "Jones support for consultation on same-sex marriage",
+          "publisher": "www.stephenjones.org.au",
+          "date": "15 November 2010",
+          "url": "http://www.stephenjones.org.au/2010/11/15/jones-support-for-bandt-motion-calling-for-consultation-on-same-sex-marriage/",
+          "access-date": "3 December 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "jurisdiction": "Commonwealth of Australia",
+          "house": "House of Representatives",
+          "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fvotes%2F2010-11-18%2F0008%22",
+          "date": "18 November 2010",
+          "page": "15",
+          "speaker": "Stephen Jones MP",
+          "position": "Member for Throsby",
+          "template": "citation",
+          "type": "hansard"
+        },
+        {
+          "url": "http://www.theaustralian.com.au/national-affairs/in-depth/alp-platform-changes-to-support-gay-marriage/story-fnba0rxe-1226212916021",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20111203031729/http://www.theaustralian.com.au/national-affairs/in-depth/alp-platform-changes-to-support-gay-marriage/story-fnba0rxe-1226212916021",
+          "archive-date": "2011-12-03",
+          "title": "ALP platform changes to support gay marriage {{!}} The Australian}} |undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2011-12-03/labor-votes-for-conscience-vote-on-same-sex-marriage/3710828",
+          "title": "Labor decides on conscience vote for gay marriage",
+          "newspaper": "ABC News",
+          "date": "3 December 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.abc.net.au/news/2012-09-19/same-sex-marriage-bill-voted-down/4270016",
+          "title": "Lower House votes down same-sex marriage bill",
+          "last": "Cullen",
+          "first": "Simon",
+          "date": "19 September 2012",
+          "newspaper": "ABC News",
+          "access-date": "19 September 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Other issues",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jones has campaigned on a number of other issues as an MP, including restrictions on gambling ads during TV sports broadcasts, for local job seekers in the mining industry, the early rollout of the National Broadband Network to the region, Labor party reform and renewal and Prime Minister Rudd's asylum seeker agreement with Papua New Guinea."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Stephen Jones: Official website",
+            "links": [
+              {
+                "text": "Stephen Jones: Official website",
+                "type": "external",
+                "site": "http://www.stephenjones.org.au/"
+              }
+            ]
+          },
+          {
+            "text": "ALP People: Stephen Jones",
+            "links": [
+              {
+                "text": "ALP People: Stephen Jones",
+                "type": "external",
+                "site": "http://www.alp.org.au/federal-government/labor-people/stephen-jones/"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.aph.gov.au/house/members/member.asp?id=A9B",
+          "title": "Stephen Jones Member for Throsby",
+          "work": "Parliament of Australia website",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Jennie George",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Throsby",
+          "years": "2010–2016",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Abolished",
+          "template": "s-non"
+        },
+        {
+          "list": [
+            "seat"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member for Whitlam",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "current new south wales representatives"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

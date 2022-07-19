@@ -1,0 +1,673 @@
+{
+  "title": "David Ridgway (politician)",
+  "pageID": 5638241,
+  "categories": [
+    "Liberal Party of Australia members of the Parliament of South Australia",
+    "1960 births",
+    "Living people",
+    "Members of the South Australian Legislative Council",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Wickham Ridgway (born 14 November 1960) is a South Australian politician who served as a member of the South Australian Legislative Council from 2002 to 2021, representing the Liberal Party of Australia (SA).",
+              "links": [
+                {
+                  "text": "South Australian",
+                  "type": "internal",
+                  "page": "South Australia"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian Legislative Council"
+                },
+                {
+                  "text": "Liberal Party of Australia (SA)",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (South Australian Division)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David Wickham Ridgway"
+                ]
+              }
+            },
+            {
+              "text": "Ridgway served as the Minister for Trade and Investment in the Marshall Ministry from 22 March 2018 to 26 July 2020, and as Minister for Tourism from March 2018 to January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marshall Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "September 2016",
+          "template": "use australian english"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "11",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "3",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "March 22, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "07",
+            "date": "26",
+            "df": "y",
+            "template": "end date",
+            "text": "July 26, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "3",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "March 22, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "01",
+            "date": "11",
+            "df": "y",
+            "template": "end date",
+            "text": "January 11, 2020"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "David Ridgway"
+          },
+          "image": {
+            "text": "Ridgway.jpg"
+          },
+          "birth_name": {
+            "text": "David Wickham Ridgway"
+          },
+          "birth_date": {
+            "text": "November 14, 1960"
+          },
+          "birth_place": {
+            "text": "Adelaide, South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adelaide"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Party of Australia (SA)",
+            "links": [
+              {
+                "text": "Liberal Party of Australia (SA)",
+                "type": "internal",
+                "page": "Liberal Party of Australia (South Australian Division)"
+              }
+            ]
+          },
+          "office": {
+            "text": "Agent General for South Australia in London",
+            "links": [
+              {
+                "text": "Agent General for South Australia in London",
+                "type": "internal",
+                "page": "Agent-general"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 July 2021"
+          },
+          "predecessor": {
+            "text": "Bill Muirhead",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Muirhead"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the Legislative Council",
+            "links": [
+              {
+                "text": "Legislative Council",
+                "type": "internal",
+                "page": "Legislative Council of South Australia"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "South Australian"
+          },
+          "term_start4": {
+            "text": "9 February 2002"
+          },
+          "term_end4": {
+            "text": "30 June 2021"
+          },
+          "successor4": {
+            "text": "Heidi Girolamo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heidi Girolamo"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Trade and Investment"
+          },
+          "premier2": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 22, 2018"
+          },
+          "term_end2": {
+            "text": "July 26, 2020"
+          },
+          "predecessor2": {
+            "text": "Martin Hamilton-Smith (as Minister for Investment and Trade)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Hamilton-Smith"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Stephen Patterson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Patterson"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Tourism"
+          },
+          "premier3": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "March 22, 2018"
+          },
+          "term_end3": {
+            "text": "January 11, 2020"
+          },
+          "predecessor3": {
+            "text": "Leon Bignell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leon Bignell"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Steven Marshall (absorbed into Premier's portfolio)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2018-03-22/sa-liberal-government-sworn-in-whos-who-in-ministry/9575712",
+          "title": "SA election: Who's who in the new South Australian Liberal Government?",
+          "last": "MacLennan",
+          "first": "Leah",
+          "date": "22 March 2018",
+          "website": "ABC News",
+          "location": "Australia",
+          "access-date": "22 March 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2018/March/2018_020.pdf",
+          "title": "The South Australian Government Gazette, 22 March 2018, No. 20, Supplementary Gazette",
+          "access-date": "23 March 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ridgway was elected state president of the South Australian Rural Youth Movement in 1982–83."
+            },
+            {
+              "text": "In 1984 he won a six-month youth study tour to the UK."
+            },
+            {
+              "text": "This experience heightened his interest in politics, especially in primary industries and regional development."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ridgway began working on the family farm and at 19 he took on management of the family's horticultural business."
+            },
+            {
+              "text": "After purchasing the business in 1997 with his wife Meredith, they expanded the operation to become the largest producer of gladioli corms in Australia and New Zealand."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2019",
+          "template": "blp unsourced section"
+        }
+      ]
+    },
+    {
+      "title": "Parliament",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ridgway was elected from fourth position on the Liberal ticket at the 2002 election and from first position on the Liberal ticket at the 2010 election.",
+              "links": [
+                {
+                  "text": "2002 election",
+                  "type": "internal",
+                  "page": "2002 South Australian state election"
+                },
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 South Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ridgway was appointed a Shadow Parliamentary Secretary in 2005, and after the 2006 election was appointed Shadow Minister for Environment and Conservation, the River Murray and Urban Development & Planning, under the leadership of Iain Evans.",
+              "links": [
+                {
+                  "text": "2006 election",
+                  "type": "internal",
+                  "page": "2006 South Australian legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iain Evans"
+                }
+              ]
+            },
+            {
+              "text": "A leadership change in April 2007, in which Martin Hamilton-Smith assumed Liberal Party leadership, prompted a re-shuffle of the Party's Shadow Cabinet, at which point Ridgway was made Shadow Minister for Police and Mineral Resources Development, whilst retaining his Shadow Urban Development & Planning post.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Martin Hamilton-Smith"
+                }
+              ]
+            },
+            {
+              "text": "David Ridgway also assisted the Leader of the Opposition with the Multicultural Affairs portfolio.",
+              "links": [
+                {
+                  "text": "Leader of the Opposition",
+                  "type": "internal",
+                  "page": "Leader of the Opposition (South Australia)"
+                }
+              ]
+            },
+            {
+              "text": "In February 2013, Ridgway was further promoted to the crucial portfolios of Agriculture, Food and Fisheries, Forests and Tourism."
+            },
+            {
+              "text": "Between 2007 and 2018 Ridgway served as the Leader of the Opposition in the Legislative Council.",
+              "links": [
+                {
+                  "text": "Leader of the Opposition",
+                  "type": "internal",
+                  "page": "Leader of the Opposition (South Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2018 state election Ridgway was appointed as Minister for Trade, Tourism and Investment.",
+              "links": [
+                {
+                  "text": "2018 state election",
+                  "type": "internal",
+                  "page": "2018 South Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "Ridgway was relieved of his Tourism ministerial responsibilities in the immediate aftermath of the devastation of Kangaroo Island and other South Australian tourist areas during the 2019–20 bushfires when the Premier, Steven Marshall assumed that ministerial role on 11 January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kangaroo Island"
+                },
+                {
+                  "text": "2019–20 bushfires",
+                  "type": "internal",
+                  "page": "2019–20 Australian bushfire season"
+                },
+                {
+                  "type": "internal",
+                  "page": "Steven Marshall"
+                }
+              ]
+            },
+            {
+              "text": "On 13 January 2020, by proclamation of the Governor, Ridgway was relieved of the Tourism portfolio in his ministerial position.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of South Australia"
+                }
+              ]
+            },
+            {
+              "text": "In July 2020, Ridgway resigned from cabinet, indicating he was unwilling to serve in a reshuffled ministry following the resignation of Stephan Knoll and Tim Whetstone over an expenses scandal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stephan Knoll"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tim Whetstone"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ridgway resigned from the Legislative Council in June 2021 in order to be appointed as South Australia's Agent-General in London."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2018",
+          "template": "more citations needed"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://indaily.com.au/news/politics/2018/03/22/ministries-merged-marshall-unveils-new-cabinet/",
+          "title": "Marshall unveils new Cabinet",
+          "first": "Bension",
+          "last": "Siebert",
+          "date": "22 March 2018",
+          "accessdate": "23 March 2018",
+          "newspaper": "InDaily",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.abc.net.au/news/2021-07-01/david-ridgway-appointed-new-sa-agent-general/100259820",
+          "title": "Former minister David Ridgway appointed South Australia's new agent-general in London",
+          "last": "Boisvert",
+          "first": "Eugene",
+          "publisher": "Australian Broadcasting Corporation",
+          "date": "1 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "SA Premier will head tourism-led recovery in fire-ravaged Kangaroo Island and Adelaide Hills",
+          "url": "https://www.abc.net.au/news/2020-01-11/premier-to-take-over-tourism-portfolio-after-bushfires/11860042",
+          "website": "ABC News",
+          "date": "11 January 2020",
+          "publisher": "Australian Broadcasting Corporation",
+          "accessdate": "11 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Three SA ministers resign from cabinet – Australian Associated Press",
+          "url": "https://www.aap.com.au/three-sa-ministers-resign-from-cabinet/",
+          "accessdate": "26 July 2020",
+          "agency": "AAP",
+          "date": "26 July 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He currently resides in Adelaide and has three children.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adelaide"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "March 2018",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Leon Bignell",
+          "as": "Minister for Tourism",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Trade, Tourism and Investment",
+          "years": "2018–2020",
+          "rows": "2",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Steven Marshall",
+          "as": "Premier of South Australia",
+          "template": "s-aft"
+        },
+        {
+          "before": "Martin Hamilton-Smith",
+          "as": "Minister for Investment and Trade",
+          "template": "s-bef"
+        },
+        {
+          "after": "Himself",
+          "as": "Minister for Trade and Investment",
+          "template": "s-aft"
+        },
+        {
+          "before": "Himself",
+          "as": "Minister for Trade, Tourism and Investment",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Trade and Investment",
+          "years": "2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stephen Patterson",
+          "template": "s-aft"
+        },
+        {
+          "before": "Rob Lucas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Opposition in the Legislative Council",
+          "years": "2007–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kyam Maher",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Bill Muirhead",
+          "template": "s-bef"
+        },
+        {
+          "title": "Agent-General for South Australia",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliament Profile",
+            "links": [
+              {
+                "text": "Parliament Profile",
+                "type": "external",
+                "site": "http://www2.parliament.sa.gov.au/Internet/DesktopModules/memberdrill.aspx?pid=1820"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

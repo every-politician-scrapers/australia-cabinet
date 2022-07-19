@@ -1,0 +1,599 @@
+{
+  "title": "Jaclyn Symes",
+  "pageID": 44735105,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Victoria",
+    "Members of the Victorian Legislative Council",
+    "21st-century Australian politicians",
+    "Women members of the Victorian Legislative Council",
+    "People from Benalla",
+    "Deakin University alumni",
+    "Attorneys-General of Victoria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jaclyn Symes is an Australian politician and Attorney-General of the state of Victoria.",
+              "formatting": {
+                "bold": [
+                  "Jaclyn Symes"
+                ]
+              }
+            },
+            {
+              "text": "She is a Labor member of the Victorian Legislative Council, having represented Northern Victoria Region since 2014.",
+              "links": [
+                {
+                  "text": "Labor",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Victorian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victorian Legislative Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Victoria Region"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symes worked for five years as a ministerial advisor for Rob Hulls, the Victorian Deputy Premier and Attorney-General.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rob Hulls"
+                },
+                {
+                  "text": "Deputy Premier",
+                  "type": "internal",
+                  "page": "Deputy Premier of Victoria"
+                },
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General of Victoria"
+                }
+              ]
+            },
+            {
+              "text": "When the Labor Party lost government in 2010, Symes transferred to Hulls' electoral office."
+            },
+            {
+              "text": "In 2011, she became pregnant and applied for maternity leave entitlements accrued during her employment with the Department of Premier and Cabinet, but was informed that as she was now employed by the Parliament of Victoria, she could not access the entitlement without dispensation from the Speaker of the Legislative Assembly.",
+              "links": [
+                {
+                  "text": "Speaker of the Legislative Assembly",
+                  "type": "internal",
+                  "page": "Speaker of the Victorian Legislative Assembly"
+                }
+              ]
+            },
+            {
+              "text": "The Speaker, Ken Smith, declined the request, and the matter was referred to the Fair Work Commission by the Community and Public Sector Union.",
+              "links": [
+                {
+                  "text": "Ken Smith",
+                  "type": "internal",
+                  "page": "Ken Smith (Australian politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fair Work Commission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Community and Public Sector Union"
+                }
+              ]
+            },
+            {
+              "text": "Premier Ted Baillieu intervened and referred the matter to the Public Sector Standards Commissioner to resolve any inconsistencies in the government's employment policies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ted Baillieu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2018, Symes was appointed as Minister for Agriculture, Minister for Regional Development and Minister for Resources."
+            },
+            {
+              "text": "In March 2020, Symes became the Leader of the Government in the Legislative Council."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 December 2020, Symes was appointed the new Attorney-General of Victoria, replacing Jill Hennessy, who had stepped down from the ministry to spend more time with her teenage daughters as they went through high school.",
+              "links": [
+                {
+                  "text": "Jill Hennessy",
+                  "type": "internal",
+                  "page": "Jill Hennessy (politician)"
+                }
+              ]
+            },
+            {
+              "text": "In August 2021, Symes was appointed as Minister for Emergency Services but relinquished her resources portfolio.",
+              "links": [
+                {
+                  "text": "Minister for Emergency Services",
+                  "type": "internal",
+                  "page": "Minister for Police (Victoria)",
+                  "anchor": "Emergency Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symes completed a Bachelor of Laws at Deakin University in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deakin University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "update"
+        },
+        {
+          "date": "January 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jaclyn Symes"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MLC",
+            "links": [
+              {
+                "text": "MLC",
+                "type": "internal",
+                "page": "Victorian Legislative Council"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Benalla, Victoria, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benalla"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for Emergency Services",
+            "links": [
+              {
+                "text": "Minister for Emergency Services",
+                "type": "internal",
+                "page": "Minister for Police (Victoria)",
+                "anchor": "Emergency Services"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 August 2021"
+          },
+          "predecessor": {
+            "text": "Lisa Neville",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lisa Neville"
+              }
+            ]
+          },
+          "office1": {
+            "text": "55th Attorney-General of Victoria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attorney-General of Victoria"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 December 2020"
+          },
+          "predecessor1": {
+            "text": "Jill Hennessy",
+            "links": [
+              {
+                "text": "Jill Hennessy",
+                "type": "internal",
+                "page": "Jill Hennessy (politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Resources"
+          },
+          "premier2": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 November 2018"
+          },
+          "term_end2": {
+            "text": "23 August 2021"
+          },
+          "predecessor2": {
+            "text": "Tim Pallas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tim Pallas"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jaala Pulford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaala Pulford"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Regional Development"
+          },
+          "premier3": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "29 November 2018"
+          },
+          "term_end3": {
+            "text": "22 December 2020"
+          },
+          "predecessor3": {
+            "text": "Jaala Pulford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaala Pulford"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Mary-Anne Thomas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mary-Anne Thomas"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Agriculture"
+          },
+          "premier4": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "29 November 2018"
+          },
+          "term_end4": {
+            "text": "22 December 2020"
+          },
+          "predecessor4": {
+            "text": "Jaala Pulford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaala Pulford"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Mary-Anne Thomas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mary-Anne Thomas"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the Victorian Legislative Council for Northern Victoria Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victorian Legislative Council"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Victoria Region"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "29 November 2014"
+          },
+          "party": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party (Victorian Branch)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Deakin University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deakin University"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.jaclynsymes.com.au/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/vic-election-2014/results/legislative-council/nvic/",
+          "title": "Northern Victoria Region",
+          "last": "Green",
+          "first": "Antony",
+          "author-link": "Antony Green",
+          "publisher": "Australian Broadcasting Corporation",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Willingham",
+          "first1": "Richard",
+          "title": "Jaclyn Symes sworn in to replace Jill Hennessy as Victorian Attorney-General",
+          "url": "https://www.abc.net.au/news/2020-12-22/new-victorian-attorney-general-jaclyn-symes-sworn-in/13007006",
+          "website": "ABC News",
+          "publisher": "Australian Broadcasting Corporation",
+          "date": "22 December 2020",
+          "access-date": "19 June 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Member Profile - The Hon. Jaclyn Symes",
+          "url": "https://www.parliament.vic.gov.au/about/people-in-parliament/members-search/list-all-members/details/22/116",
+          "website": "Parliament of Victoria",
+          "publisher": "Parliament of Victoria",
+          "access-date": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The Hon. Jaclyn Symes",
+          "url": "https://parliament.vic.gov.au/about/people-in-parliament/members-search/list-all-members/details/22/116",
+          "website": "Parliament of Victoria",
+          "publisher": "Parliament of Victoria",
+          "access-date": "20 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Savage",
+          "first1": "Alison",
+          "title": "ALP staffer denied maternity leave by speaker",
+          "url": "http://www.abc.net.au/news/2011-03-24/alp-staffer-denied-maternity-leave-by-speaker/2644276",
+          "accessdate": "19 December 2014",
+          "work": "ABC News",
+          "date": "25 March 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Jenkins",
+          "first1": "Melissa",
+          "title": "Baillieu intervenes on maternity leave",
+          "url": "http://news.smh.com.au/breaking-news-national/baillieu-intervenes-on-maternity-leave-20110324-1c7th.html",
+          "accessdate": "19 December 2014",
+          "date": "24 March 2011",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Jaala Pulford",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Regional Development",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mary-Anne Thomas",
+          "rows": "2",
+          "template": "s-aft"
+        },
+        {
+          "title": "Minister for Agriculture",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Tim Pallas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Resources",
+          "years": "2018–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jaala Pulford",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jill Hennessy",
+          "template": "s-bef"
+        },
+        {
+          "title": "Attorney-General",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Lisa Neville",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Emergency Services",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "cabinet of victoria"
+        },
+        {
+          "template": "viccurrentmlcs"
+        },
+        {
+          "template": "australian attorneys-general"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "australia-labor-victoria-mp-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary voting record of Jaclyn Symes at Victorian Parliament Tracker",
+            "links": [
+              {
+                "text": "Parliamentary voting record of Jaclyn Symes at Victorian Parliament Tracker",
+                "type": "external",
+                "site": "http://vicvote.review/council/members/Jaclyn%20Symes.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

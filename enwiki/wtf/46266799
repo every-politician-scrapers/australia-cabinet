@@ -1,0 +1,605 @@
+{
+  "title": "Alister Henskens",
+  "pageID": 46266799,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Members of the New South Wales Legislative Assembly",
+    "Liberal Party of Australia members of the Parliament of New South Wales",
+    "People from the North Shore, Sydney",
+    "Australian people of Dutch descent",
+    "21st-century Australian politicians",
+    "Australian Senior Counsel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alister Andrew Henskens (born 30 December 1963) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Alister Andrew Henskens"
+                ]
+              }
+            },
+            {
+              "text": "He has served as the New South Wales Minister for Skills and Training, the Minister for Science, Innovation and Technology, and the Leader of the House in the Legislative Assembly since December 2021 in the Perrottet ministry.",
+              "links": [
+                {
+                  "text": "New South Wales",
+                  "type": "internal",
+                  "page": "Government of New South Wales"
+                },
+                {
+                  "text": "Minister for Skills and Training",
+                  "type": "internal",
+                  "page": "Minister for Skills and Training (New South Wales)"
+                },
+                {
+                  "text": "Minister for Science, Innovation and Technology",
+                  "type": "internal",
+                  "page": "Minister for Energy (New South Wales)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perrottet ministry"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as the Minister for Families, Communities and Disability Services between May and December 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Families, Communities and Disability Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Henskens has been a Liberal Party member of the New South Wales Legislative Assembly since 2015, representing the electorate of electoral district of Ku-ring-gai in Sydney's upper North Shore.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (New South Wales Division)"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales Legislative Assembly"
+                },
+                {
+                  "text": "electoral district of Ku-ring-gai",
+                  "type": "internal",
+                  "page": "electoral district of Ku-ring-gai"
+                },
+                {
+                  "text": "North Shore",
+                  "type": "internal",
+                  "page": "North Shore (Sydney)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "sep": ",",
+          "list": [
+            "SC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "y",
+          "year": "1963",
+          "month": "12",
+          "day": "30",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "sep": ",",
+          "list": [
+            "SC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Alister Henskens"
+          },
+          "office1": {
+            "text": "Minister for Skills and Training",
+            "links": [
+              {
+                "text": "Minister for Skills and Training",
+                "type": "internal",
+                "page": "Minister for Skills and Training (New South Wales)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 December 2021"
+          },
+          "predecessor1": {
+            "text": "Geoff Lee (Skills and Training)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geoff Lee"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Science, Innovation and Technology",
+            "links": [
+              {
+                "text": "Minister for Science, Innovation and Technology",
+                "type": "internal",
+                "page": "Minister for Science, Innovation and Technology (New South Wales)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 December 2021"
+          },
+          "predecessor2": {
+            "text": "Brad Hazzard (Medical Research) Kevin Anderson (Better Regulation and Innovation)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brad Hazzard"
+              },
+              {
+                "text": "Kevin Anderson",
+                "type": "internal",
+                "page": "Kevin Anderson (politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Families, Communities and Disability Services",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Families, Communities and Disability Services"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "27 May 2021"
+          },
+          "term_end3": {
+            "text": "21 December 2021"
+          },
+          "predecessor3": {
+            "text": "Gareth Ward",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gareth Ward"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Natasha Maclaren-Jones",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natasha Maclaren-Jones"
+              }
+            ]
+          },
+          "constituency_am9": {
+            "text": "Ku-ring-gai",
+            "links": [
+              {
+                "text": "Ku-ring-gai",
+                "type": "internal",
+                "page": "Electoral district of Ku-ring-gai"
+              }
+            ]
+          },
+          "assembly9": {
+            "text": "New South Wales Legislative"
+          },
+          "term_start9": {
+            "text": "28 March 2015",
+            "links": [
+              {
+                "text": "28 March 2015",
+                "type": "internal",
+                "page": "2015 New South Wales state election"
+              }
+            ]
+          },
+          "predecessor9": {
+            "text": "Barry O'Farrell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barry O'Farrell"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 30, 1963"
+          },
+          "birth_place": {
+            "text": "Newcastle, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Newcastle, New South Wales"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Liberal Party",
+            "links": [
+              {
+                "text": "Liberal Party",
+                "type": "internal",
+                "page": "Liberal Party of Australia (New South Wales Division)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Smith, Alexandra",
+          "url": "https://www.smh.com.au/politics/nsw/berejiklian-fills-cabinet-vacancies-after-ministers-forced-to-quit-20210526-p57vfp.html",
+          "title": "Berejiklian fills cabinet vacancies after ministers forced to quit",
+          "work": "The Sydney Morning Herald",
+          "date": "26 May 2021",
+          "access-date": "7 October 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Background and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born and raised in Newcastle.",
+              "links": [
+                {
+                  "text": "Newcastle",
+                  "type": "internal",
+                  "page": "Newcastle, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "His father immigrated to Australia from the Netherlands in 1951 while his mother was schooled in Ku-ring-gai."
+            },
+            {
+              "text": "Henskens studied economics and law at the University of Sydney while residing at St Andrew's College, before receiving a master's degree in law from the University of Toronto on a Rotary Scholarship.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                },
+                {
+                  "text": "St Andrew's College",
+                  "type": "internal",
+                  "page": "St Andrew's College, University of Sydney"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Toronto"
+                }
+              ]
+            },
+            {
+              "text": "He practised as a solicitor from 1987 to 1996 and as a barrister thereafter, becoming Senior Counsel in 2011."
+            },
+            {
+              "text": "He specialised in general commercial, insolvency, banking, defamation, building and construction law."
+            },
+            {
+              "text": "He was a director of Basketball NSW from 1997 to 1998, and had a long involvement with local basketball organisations in Newcastle and Sydney.",
+              "links": [
+                {
+                  "text": "Newcastle",
+                  "type": "internal",
+                  "page": "Newcastle, New South Wales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Counsel Assisting the Equine Influenza Inquiry in 2008."
+            },
+            {
+              "text": "Henskens also represented former NSW State Member for Terrigal, Chris Hartcher at the NSW Independent Commission Against Corruption (ICAC)'s Operation Spicer inquiry in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chris Hartcher"
+                },
+                {
+                  "text": "NSW Independent Commission Against Corruption",
+                  "type": "internal",
+                  "page": "Independent Commission Against Corruption (New South Wales)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the Legislative Assembly at the 2015 state election, succeeding former Premier Barry O'Farrell in the safe Liberal seat of Ku-ring-gai.",
+              "links": [
+                {
+                  "text": "2015 state election",
+                  "type": "internal",
+                  "page": "2015 New South Wales state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barry O'Farrell"
+                }
+              ]
+            },
+            {
+              "text": "He had won a closely fought Liberal preselection, with other contenders including radio presenter Jason Morrison.",
+              "links": [
+                {
+                  "text": "Jason Morrison",
+                  "type": "internal",
+                  "page": "Jason Morrison (radio broadcaster)"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected as the Member for Ku-ring-gai at the 2019 state election."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Henskens was until early 2017 the Chair of the Legislative Assembly Committee on Transport and Infrastructure, a member of the Legislation Review Committee and a member of the Committee on Investment, Industry and Regional Development."
+            },
+            {
+              "text": "He was in 2015 the Chair of the Select Committee on the Regulation of Brothels and a member of the Joint Select Committee on Companion Animal Breeding Practices."
+            },
+            {
+              "text": "Henskens served as the Cabinet Secretary between 24 April 2019 and 27 May 2021, having previously served as the Parliamentary Secretary for Finance, Services and Property since 1 February 2017."
+            },
+            {
+              "text": "Henskens was appointed to Cabinet in May 2021 as Minister for Families, Communities and Disability Services, and further promoted again on 21 December 2021 as Minister for Skills and Training, the Minister for Science, Innovation and Technology, and as Leader of the House in the Legislative Assembly, in the Perrottet ministry."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nswbar.asn.au/the-bar-association/nsw-silk-appointments/P900",
+          "title": "NSW Silk appointments",
+          "publisher": "NSW Bar Association",
+          "access-date": "6 April 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.smh.com.au/national/equine-flu-bill-could-hit-taxpayers-20080526-gdsf6o.html",
+          "title": "Equine flu bill could hit taxpayers",
+          "last": "Humphries",
+          "first": "David",
+          "date": "26 May 2008",
+          "website": "The Sydney Morning Herald",
+          "access-date": "30 September 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "ICAC to be suspended as Mike Gallacher investigated for 'serious electoral funding irregularities'",
+          "url": "http://www.smh.com.au/nsw/icac-to-be-suspended-as-mike-gallacher-investigated-for-serious-electoral-funding-irregularities-20140505-zr59n.html",
+          "last1": "Whitbourn",
+          "first1": "Michaela",
+          "last2": "McClymont",
+          "first2": "Kate",
+          "name-list-style": "amp",
+          "website": "The Sydney Morning Herald",
+          "access-date": "6 April 2019",
+          "date": "6 May 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.smh.com.au/national/nsw/icac-tensions-spill-onto-the-street-as-associates-of-chris-hartcher-allegedly-attack-reporters-20140519-38jw0.html",
+          "title": "ICAC tensions spill onto the street as associates of Chris Hartcher allegedly attack reporters",
+          "last1": "Whitbourn",
+          "first1": "Michaela",
+          "last2": "McClymont",
+          "first2": "Kate",
+          "name-list-style": "amp",
+          "date": "19 May 2014",
+          "website": "The Sydney Morning Herald",
+          "access-date": "30 September 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.dailytelegraph.com.au/news/nsw/barrister-alister-henskens-takes-over-barry-ofarrells-former-seat-of-ku-ring-gai/story-fni0cx12-1227219574736",
+          "title": "Barrister Alister Henskens takes over Barry O'Farrell's former seat of Ku-ring-gai",
+          "date": "14 February 2015",
+          "access-date": "6 April 2019",
+          "first": "Linda",
+          "last": "Silmalis",
+          "newspaper": "The Daily Telegraph",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parliament.nsw.gov.au/member/files/118/Alister%20Henskens%20Inaugural%20Speech.pdf",
+          "speaker": "Henskens, Alister",
+          "title": "Inaugural Speech",
+          "jurisdiction": "NSW",
+          "house": "Legislative Assembly",
+          "date": "7 May 2015",
+          "template": "citation",
+          "type": "hansard"
+        },
+        {
+          "id": "118",
+          "name": "Mr Alister Andrew Henskens, SC MP",
+          "access-date": "6 April 2019",
+          "template": "citation",
+          "type": "nsw parliament"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Henskens and his wife have two children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-nsw-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Barry O'Farrell",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Ku-ring-gai",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Gareth Ward",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Families, Communities and Disability Services",
+          "years": "2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Natasha Maclaren-Jones",
+          "as": "Minister for Families and Communities and as Minister for Disability Services",
+          "template": "s-aft"
+        },
+        {
+          "before": "Geoff Lee",
+          "as": "Minister for Skills and Tertiary Education",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Skills and Training",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "3",
+          "template": "s-inc"
+        },
+        {
+          "before": "Brad Hazzard",
+          "as": "Minister for Health and Medical Research",
+          "template": "s-bef"
+        },
+        {
+          "rows": "2",
+          "title": "Minister for Science, Innovation and Technology",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Kevin Anderson",
+          "as": "Minister for Better Regulation and Innovation",
+          "template": "s-bef"
+        },
+        {
+          "template": "cabinet of new south wales"
+        },
+        {
+          "template": "nswcurrentmlas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "title": "Blair Boyer",
+  "pageID": 56869515,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Members of the South Australian House of Assembly",
+    "Australian Labor Party members of the Parliament of South Australia",
+    "Monash University alumni",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Blair Ingram Boyer (born 30 March 1981) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Blair Ingram Boyer"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Labor member of the South Australian House of Assembly since the 2018 state election, representing Wright.",
+              "links": [
+                {
+                  "text": "Labor",
+                  "type": "internal",
+                  "page": "Australian Labor Party (South Australian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian House of Assembly"
+                },
+                {
+                  "text": "2018 state election",
+                  "type": "internal",
+                  "page": "2018 South Australian state election"
+                },
+                {
+                  "text": "Wright",
+                  "type": "internal",
+                  "page": "Electoral district of Wright"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A solicitor by training, Boyer worked as chief of staff for his predecessor Jennifer Rankine, and was also deputy chief of staff to Premier Jay Weatherill.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jennifer Rankine"
+                },
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of South Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jay Weatherill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2018, Boyer was appointed the Shadow Minister for Education, Training and Skills in the Malinauskas shadow ministry.",
+              "links": [
+                {
+                  "text": "Malinauskas shadow ministry",
+                  "type": "internal",
+                  "page": "Shadow ministry of Peter Malinauskas"
+                }
+              ]
+            },
+            {
+              "text": "After his party won government in the March 2022 state election, he was appointed as Minister for Education, Training and Skills in the Malinauskas ministry.",
+              "links": [
+                {
+                  "text": "March 2022 state election",
+                  "type": "internal",
+                  "page": "2022 South Australian state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malinauskas ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use australian english"
+        },
+        {
+          "df": "yes",
+          "year": "1981",
+          "month": "3",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Blair Boyer"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "South Australian House of Assembly"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Education, Training and Skills"
+          },
+          "premier1": {
+            "text": "Peter Malinauskas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 March 2022"
+          },
+          "predecessor1": {
+            "text": "John Gardner (as Minister for Education)\nDavid Pisoni (as Minister for Innovation and Skills)",
+            "links": [
+              {
+                "text": "John Gardner",
+                "type": "internal",
+                "page": "John Gardner (Australian politician)"
+              },
+              {
+                "type": "internal",
+                "page": "David Pisoni"
+              }
+            ]
+          },
+          "constituency_am2": {
+            "text": "Wright",
+            "links": [
+              {
+                "text": "Wright",
+                "type": "internal",
+                "page": "Electoral district of Wright"
+              }
+            ]
+          },
+          "assembly2": {
+            "text": "South Australian House of"
+          },
+          "term_start2": {
+            "text": "17 March 2018"
+          },
+          "predecessor2": {
+            "text": "Jennifer Rankine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jennifer Rankine"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 30, 1981"
+          },
+          "party": {
+            "text": "Australian Labor Party (SA)",
+            "links": [
+              {
+                "text": "Australian Labor Party (SA)",
+                "type": "internal",
+                "page": "Australian Labor Party (South Australian Branch)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Monash University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monash University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.blairboyermp.com/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/elections/sa-election-2018/guide/wrig/",
+          "title": "Wright - SA Election 2018",
+          "publisher": "Australian Broadcasting Corporation",
+          "first": "Antony",
+          "last": "Green",
+          "authorlink": "Antony Green",
+          "date": "2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Who's Who in Australia",
+          "date": "2019",
+          "publisher": "ConnectWeb",
+          "url": "https://connectweb.com.au/pages/whos-who-in-australia.aspx",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "John Gardner",
+          "as": "Minister for Education",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Education, Training and Skills",
+          "years": "2022–present",
+          "rows": "2",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "David Pisoni",
+          "as": "Minister for Innovation and Skills",
+          "template": "s-bef"
+        },
+        {
+          "list": [
+            "au-sa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Jennifer Rankine",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Wright",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet of south australia"
+        },
+        {
+          "template": "sacurrentmhas"
+        },
+        {
+          "template": "australia-labor-politician-stub"
+        }
+      ]
+    }
+  ]
+}

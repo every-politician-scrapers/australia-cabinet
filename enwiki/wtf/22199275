@@ -1,0 +1,428 @@
+{
+  "title": "Peter Styles (politician)",
+  "pageID": 22199275,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Members of the Northern Territory Legislative Assembly",
+    "Country Liberal Party members of the Northern Territory Legislative Assembly",
+    "Deputy Chief Ministers of the Northern Territory",
+    "Charles Darwin University alumni",
+    "Australian police officers",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Donald Styles (born 8 July 1953) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Peter Donald Styles"
+                ]
+              }
+            },
+            {
+              "text": "He was a Country Liberal Party member of the Northern Territory Legislative Assembly from 2008 to 2016, representing the electorate of Sanderson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Country Liberal Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Territory Legislative Assembly"
+                },
+                {
+                  "text": "Sanderson",
+                  "type": "internal",
+                  "page": "electoral division of Sanderson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Perth, Western Australia, Styles owned and operated a multi-purpose ship and worked as a public servant for the state government, before joining Western Australia Police.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Perth"
+                },
+                {
+                  "type": "internal",
+                  "page": "Western Australia Police"
+                }
+              ]
+            },
+            {
+              "text": "In 1981, he moved to Darwin and transferred to the Northern Territory Police where he served for 27 years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Territory Police"
+                }
+              ]
+            },
+            {
+              "text": "In 1991, he was awarded the National Medal, and was upgraded to 1st clasp in 2001.",
+              "links": [
+                {
+                  "text": "National Medal",
+                  "type": "internal",
+                  "page": "National Medal (Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008, he ran for parliament and was elected to the seat of Sanderson."
+            },
+            {
+              "text": "He first served in the new CLP government as the Government Whip and Parliamentary Secretary assisting the Chief Minister with Multicultural Affairs, Young Territorians and Senior Territorians."
+            },
+            {
+              "text": "He was later appointed to cabinet as Minister for Business; Racing, Gaming and Licensing; Asian Engagement and Trade; Employment and Training; Corporate and Information Services; Multicultural Affairs; Young Territorians; Senior Territorians; and Defence Industries."
+            },
+            {
+              "text": "In February 2016, he was also voted deputy leader of the Country Liberals and became Deputy Chief Minister of the Northern Territory following the resignation from cabinet of Willem Westra van Holthe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Chief Minister of the Northern Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Willem Westra van Holthe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Peter announced his support for voluntary euthanasia in 2010, citing his experience watching his wife Rhonda die from a terminal illness in 1989.",
+              "links": [
+                {
+                  "text": "voluntary euthanasia",
+                  "type": "internal",
+                  "page": "voluntary euthanasia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2022, Styles and his wife left the Country Liberal Party, citing \"concerns over the future direction of the party\"."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2015",
+          "template": "use australian english"
+        },
+        {
+          "date": "January 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1953",
+          "month": "7",
+          "day": "8",
+          "template": "birth date and age"
+        },
+        {
+          "template": "nt parlbox header"
+        },
+        {
+          "list": [
+            "2008"
+          ],
+          "template": "nt election link"
+        },
+        {
+          "term": "11th",
+          "end": "2012",
+          "party": "Country Liberal Party",
+          "electorate": "Sanderson",
+          "template": "nt parlbox"
+        },
+        {
+          "list": [
+            "2012"
+          ],
+          "template": "nt election link"
+        },
+        {
+          "term": "12th",
+          "end": "2016",
+          "party": "Country Liberal Party",
+          "electorate": "Sanderson",
+          "template": "nt parlbox"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Peter Styles"
+          },
+          "office1": {
+            "text": "Deputy Chief Minister of the Northern Territory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Chief Minister of the Northern Territory"
+              }
+            ]
+          },
+          "leader1": {
+            "text": "Adam Giles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adam Giles"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "16 February 2016"
+          },
+          "term_end1": {
+            "text": "31 August 2016"
+          },
+          "predecessor1": {
+            "text": "Willem Westra van Holthe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Willem Westra van Holthe"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nicole Manison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicole Manison"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Sanderson",
+            "links": [
+              {
+                "text": "Sanderson",
+                "type": "internal",
+                "page": "Electoral division of Sanderson"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Northern Territory"
+          },
+          "term_start2": {
+            "text": "9 August 2008"
+          },
+          "term_end2": {
+            "text": "27 August 2016"
+          },
+          "predecessor2": {
+            "text": "Len Kiely",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Len Kiely"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Kate Worden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kate Worden"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 8, 1953"
+          },
+          "birth_place": {
+            "text": "Perth, Western Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Perth"
+              }
+            ]
+          },
+          "party": {
+            "text": "Country Liberal Party (until 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Country Liberal Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Charles Darwin University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles Darwin University"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Linda Fazldeen"
+          },
+          "occupation": {
+            "text": "Police officer"
+          }
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "}"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://notes.nt.gov.au/lant/members/Members1.nsf/49bd8676b89a70656925636c0021e38a/6bbb5b7abc8db7e569256370000f8a18?OpenDocument",
+          "title": "Styles, Mr Peter Ronald",
+          "publisher": "Northern Territory Legislative Assembly",
+          "accessdate": "5 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "MLA backs right to die",
+          "author": "Alyssa Betts",
+          "url": "http://www.ntnews.com.au/article/2010/09/16/179771_ntnews.html",
+          "newspaper": "Northern Territory News",
+          "date": "16 September 2010",
+          "accessdate": "5 March 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-04-08",
+          "title": "NT politician Sam McMahon joins ex-Queensland premier's party to run for re-election",
+          "language": "en-AU",
+          "work": "ABC News",
+          "url": "https://www.abc.net.au/news/2022-04-08/sam-mcmahon-announces-federal-senate-election-bid-nt/100975390",
+          "access-date": "2022-04-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-nt"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Len Kiely",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Sanderson",
+          "years": "2008–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kate Worden",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Willem Westra van Holthe",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Chief Minister of the Northern Territory",
+          "years": "2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Nicole Manison",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Willem Westra van Holthe",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Leader of the Country Liberal Party",
+          "years": "2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Lia Finocchiaro",
+          "template": "s-aft"
+        },
+        {
+          "template": "australia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "title": "Dan Cregan",
+  "pageID": 56869631,
+  "categories": [
+    "Members of the South Australian House of Assembly",
+    "Date of birth missing (living people)",
+    "Living people",
+    "Liberal Party of Australia members of the Parliament of South Australia",
+    "Independent members of the Parliament of South Australia",
+    "University of Adelaide alumni",
+    "Alumni of the University of Cambridge",
+    "21st-century Australian politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Roy Cregan is an Australian lawyer and politician who has served as Speaker of the South Australian House of Assembly since 12 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the South Australian House of Assembly"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Roy Cregan"
+                ]
+              }
+            },
+            {
+              "text": "He has represented Kavel in the House of Assembly since the 2018 South Australian state election.",
+              "links": [
+                {
+                  "text": "Kavel",
+                  "type": "internal",
+                  "page": "Electoral district of Kavel"
+                },
+                {
+                  "text": "2018 South Australian state election",
+                  "type": "internal",
+                  "page": "2018 South Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "Elected as a member of the Liberal Party, he resigned from the Liberal Party and moved to the crossbench on 8 October 2021.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (South Australian Division)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "March 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2018",
+          "template": "use australian english"
+        },
+        {
+          "date": "March 2022",
+          "template": "needs more sources"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "10",
+            "date": "13",
+            "df": "y",
+            "template": "start date",
+            "text": "October 13, 2021"
+          }
+        },
+        {
+          "age": "37",
+          "year": "2021",
+          "month": "10",
+          "day": "8",
+          "template": "birth based on age as of date"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dan Cregan"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "South Australian House of Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "Hon Dan Cregan MP.jpg"
+          },
+          "office": {
+            "text": "Speaker of the South Australian House of Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the South Australian House of Assembly"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 13, 2021"
+          },
+          "predecessor": {
+            "text": "Josh Teague",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Josh Teague"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the South Australian House of Assembly for Kavel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Australian House of Assembly"
+              },
+              {
+                "text": "Kavel",
+                "type": "internal",
+                "page": "Electoral district of Kavel"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 March 2018"
+          },
+          "predecessor2": {
+            "text": "Mark Goldsworthy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Goldsworthy"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Daniel Roy Cregan"
+          },
+          "birth_date": {
+            "text": "1984 (age 37)"
+          },
+          "party": {
+            "text": "Independent (since 2021)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Liberal (until 2021)",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Australia (South Australian Division)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Adelaide\n\nUniversity of Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Adelaide"
+              },
+              {
+                "type": "internal",
+                "page": "University of Cambridge"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer · Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://members.parliament.sa.gov.au/Detail.aspx?pid=5382",
+          "title": "Mr Dan Cregan",
+          "publisher": "Parliament of South Australia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2021-10-13/sa-government-rocked-as-defector-dan-cregan-becomes-speaker/100534200",
+          "title": "SA government rocked as Liberal defector Dan Cregan seizes speakership in late-night parliament sitting",
+          "date": "13 October 2021",
+          "newspaper": "ABC News",
+          "access-date": "13 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Starick",
+          "first1": "Paul",
+          "title": "Premier Steven Marshall hit by shock defection of Liberal MP Dan Cregan to crossbench",
+          "url": "https://www.adelaidenow.com.au/news/south-australia/premier-steven-marshall-hit-by-shock-defection-of-liberal-mp-dan-cregan-to-crossbench/news-story/0949580bfb435cbaae1c97693f8bd85a",
+          "access-date": "9 October 2021",
+          "work": "The Advertiser",
+          "date": "8 October 2021",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cregan grew up in South Australia and Western Australia, attending the University of Adelaide, where he was active in student politics, including as a director of the Adelaide University Union and as president of the Adelaide University Law Students' Society.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adelaide University Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adelaide University Law Students' Society"
+                }
+              ]
+            },
+            {
+              "text": "He also rowed for the Adelaide University Boat Club First VIII.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adelaide University Boat Club"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cregan received a Cambridge Commonwealth Trust bursary to study law at Peterhouse, Cambridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambridge Commonwealth Trust"
+                },
+                {
+                  "type": "internal",
+                  "page": "Peterhouse, Cambridge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After graduating, Cregan was appointed judge's associate to John Doyle AC QC (Chief Justice of South Australia) and left that role to serve as an Australian Youth Ambassador for Development in Jakarta.",
+              "links": [
+                {
+                  "text": "John Doyle",
+                  "type": "internal",
+                  "page": "John Doyle (judge)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of South Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Youth Ambassador for Development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later, Cregan joined the graduate program at Allens Linklaters where he became a senior associate in the firm's disputes and investigations team.",
+              "links": [
+                {
+                  "text": "Allens",
+                  "type": "internal",
+                  "page": "Allens (law firm)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Linklaters"
+                },
+                {
+                  "text": "senior associate",
+                  "type": "internal",
+                  "page": "senior associate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cregan also held a number of board appointments with the Australian Property Institute and as a director of a family company.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Property Institute"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before his election Cregan worked at Mount Barker law firm Von Doussas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary service",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the election of Steven Marshall's government in March 2018, Cregan was made Chair of the South Australian Public Works Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steven Marshall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 October 2021, Cregan announced he had resigned from the Liberal Party and would move to the crossbench with immediate effect."
+            },
+            {
+              "text": "He said that, in his view, the State government had failed to plan for the needs of rapidly growing towns in the Adelaide Hills."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Cregan moved to the cross bench, the House of Assembly voted to amend South Australia's Constitution to require an independent Speaker.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Assembly"
+                }
+              ]
+            },
+            {
+              "text": "In a late-night sitting of parliament on 13 October 2021 and following passage in the House of a Bill to change South Australia's Constitution Act to require an independent speaker, Cregan won a secret ballot of members 23 votes to 21 to be elected as Speaker of the South Australian House of Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the South Australian House of Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.legislation.sa.gov.au/lz?path=%2FB%2FCURRENT%2FCONSTITUTION%20(INDEPENDENT%20SPEAKER)%20AMENDMENT%20BILL%202021_FRANCES%20BEDFORD%20MP",
+          "title": "LZ",
+          "date": "22 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-sa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Josh Teague",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the South Australian House of Assembly",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Mark Goldsworthy",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Kavel",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "presiding officers of australian legislatures"
+        },
+        {
+          "template": "sacurrentmhas"
+        },
+        {
+          "template": "australia-liberal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

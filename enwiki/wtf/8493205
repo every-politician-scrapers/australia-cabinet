@@ -1,0 +1,1459 @@
+{
+  "title": "Andrew Leigh",
+  "pageID": 8493205,
+  "categories": [
+    "1972 births",
+    "Australian National University faculty",
+    "Australian bloggers",
+    "Australian economists",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Harvard Kennedy School alumni",
+    "Living people",
+    "Members of the Australian House of Representatives",
+    "Members of the Australian House of Representatives for Fenner",
+    "Members of the Australian House of Representatives for Fraser (ACT)",
+    "People educated at James Ruse Agricultural High School",
+    "Sydney Law School alumni",
+    "21st-century Australian politicians",
+    "Fellows of the Academy of the Social Sciences in Australia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrew Keith Leigh (born 3 August 1972) is an Australian politician, author, lawyer and former professor of economics at the Australian National University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian National University"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrew Keith Leigh"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Labor member of the Australian House of Representatives since 2010 representing the seat of Fraser until 2016 and Fenner thereafter.",
+              "links": [
+                {
+                  "text": "Labor",
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                },
+                {
+                  "text": "Fraser",
+                  "type": "internal",
+                  "page": "Division of Fraser (Australian Capital Territory)"
+                },
+                {
+                  "text": "Fenner",
+                  "type": "internal",
+                  "page": "Division of Fenner"
+                }
+              ]
+            },
+            {
+              "text": "He briefly served as the Parliamentary Secretary to Prime Minister Julia Gillard in 2013 and then served as Shadow Assistant Treasurer and Shadow Minister for Competition from 2013 to 2019."
+            },
+            {
+              "text": "Leigh is not a member of any factions of the Labor Party."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "size": "100%",
+          "sep": ",",
+          "list": [
+            "FASSA"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "y",
+          "year": "1972",
+          "month": "8",
+          "day": "3",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Sydney (BA, LLB)",
+            "Harvard Kennedy School (MPA, PhD)"
+          ],
+          "template": "ublist"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dr Andrew Leigh"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Andrew Leigh 2017.jpg"
+          },
+          "caption": {
+            "text": "Leigh in 2017"
+          },
+          "constituency_mp": {
+            "text": "Fenner",
+            "links": [
+              {
+                "text": "Fenner",
+                "type": "internal",
+                "page": "Division of Fenner"
+              }
+            ]
+          },
+          "parliament": {
+            "text": "Australian"
+          },
+          "term_start": {
+            "text": "2 July 2016"
+          },
+          "predecessor": {
+            "text": "New seat",
+            "formatting": {
+              "italic": [
+                "New seat"
+              ]
+            }
+          },
+          "constituency_mp1": {
+            "text": "Fraser",
+            "links": [
+              {
+                "text": "Fraser",
+                "type": "internal",
+                "page": "Division of Fraser (Australian Capital Territory)"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Australian"
+          },
+          "term_start1": {
+            "text": "21 August 2010"
+          },
+          "term_end1": {
+            "text": "2 July 2016"
+          },
+          "predecessor1": {
+            "text": "Bob McMullan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob McMullan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Division abolished",
+            "formatting": {
+              "italic": [
+                "Division abolished"
+              ]
+            }
+          },
+          "birth_name": {
+            "text": "Andrew Keith Leigh"
+          },
+          "birth_date": {
+            "text": "August 3, 1972"
+          },
+          "birth_place": {
+            "text": "Sydney, Australia"
+          },
+          "residence": {
+            "text": "Canberra, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Canberra"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "alma_mater": {
+            "text": "University of Sydney (BA, LLB)\n\nHarvard Kennedy School (MPA, PhD)"
+          },
+          "profession": {
+            "text": "Lawyer, academic, political adviser"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "Australian Labor Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Gweneth"
+          },
+          "children": {
+            "text": "3 sons"
+          },
+          "website": {
+            "text": "https://www.andrewleigh.com/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Both Leigh's parents are academics and both came from homes of social activists \"in the Christian socialist tradition.\""
+            },
+            {
+              "text": "His father's father, was a Methodist minister who seemed to have some sympathies for communism."
+            },
+            {
+              "text": "\"Keith thought they were wrong on God but had their hearts in the right place.\""
+            },
+            {
+              "text": "Leigh's maternal grandfather, a boilermaker and Methodist lay preacher, used the family's spare room to shelter a constant stream of refugees from places like Cambodia and Chile, who were escaping the regimes of Pol Pot and Augusto Pinochet."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leigh's early years of education were in Sydney, Melbourne, Malaysia and Indonesia before completing secondary education at James Ruse Agricultural High School in Sydney, New South Wales.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malaysia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indonesia"
+                },
+                {
+                  "type": "internal",
+                  "page": "James Ruse Agricultural High School"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the University of Sydney with a Bachelor of Arts with First Class Honours in 1994, and a Bachelor of Laws with First Class Honours in 1996.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                }
+              ]
+            },
+            {
+              "text": "He then obtained a Master of Public Administration degree and a PhD in Public Policy from the Kennedy School of Government at Harvard University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Public Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kennedy School of Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            },
+            {
+              "text": "His PhD thesis was titled \"Essays in poverty and inequality\"."
+            },
+            {
+              "text": "At Harvard, Leigh was a Doctoral Fellow at the Malcolm Wiener Centre for Social Policy from 2002 to 2004, and a Frank Knox Fellow from 2000 to 2004."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leigh is one of eleven MPs in the 46th Parliament of Australia who possesses a PhD, the others being Katie Allen, Fiona Martin, Anne Aly, Jim Chalmers, Daniel Mulino, Jess Walsh, Adam Bandt, Mehreen Faruqi, Anne Webster and Helen Haines.",
+              "links": [
+                {
+                  "text": "46th Parliament of Australia",
+                  "type": "internal",
+                  "page": "46th Parliament of Australia"
+                },
+                {
+                  "text": "Katie Allen",
+                  "type": "internal",
+                  "page": "Katie Allen (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fiona Martin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anne Aly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jim Chalmers"
+                },
+                {
+                  "type": "internal",
+                  "page": "Daniel Mulino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jess Walsh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adam Bandt"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mehreen Faruqi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anne Webster"
+                },
+                {
+                  "type": "internal",
+                  "page": "Helen Haines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Stafford",
+          "first1": "Alice",
+          "title": "In Conversation with Andrew Leigh - Author of 'Carving with the Grain'",
+          "date": "26 August 2020",
+          "url": "https://www.evatt.org.au/post/in-conversation-with-andrew-leigh",
+          "publisher": "Evatt",
+          "access-date": "7 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Leigh",
+          "first1": "Andrew",
+          "title": "Essays in poverty and inequality (Australia) [microform]",
+          "journal": "Dissertation Abstracts International",
+          "pages": "65–05",
+          "url": "https://catalogue.nla.gov.au/Record/3416998",
+          "publisher": "National Library of Australia",
+          "access-date": "7 April 2022",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last1": "Leigh",
+          "first1": "Andrew",
+          "title": "Curriculum Vitae",
+          "url": "http://www.andrewleigh.org/pdf/CV.pdf",
+          "publisher": "Andrew Leigh",
+          "access-date": "7 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/national/trading-in-the-lectern-for-a-bully-pulpit-20101001-160xy.html",
+          "title": "Trading in the lectern for a bully pulpit",
+          "author": "West, Andrew",
+          "date": "2 October 2010",
+          "work": "The Sydney Morning Herald",
+          "access-date": "2 November 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Pathways to Parliament",
+          "url": "https://www.smh.com.au/interactive/2021/careers-before-politics/",
+          "website": "The Sydney Morning Herald",
+          "publisher": "Fairfax Media",
+          "access-date": "7 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2010-10-01",
+          "title": "Trading in the lectern for a bully pulpit",
+          "url": "https://www.smh.com.au/national/trading-in-the-lectern-for-a-bully-pulpit-20101001-160xy.html",
+          "access-date": "2020-12-11",
+          "website": "The Sydney Morning Herald",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/rn/lifematters/stories/2010/2977523.htm",
+          "title": "Meet the candidate: Andrew Leigh",
+          "author": "Armstrong, Amanda",
+          "work": "Life Matters",
+          "publisher": "ABC Radio National",
+          "location": "Australia",
+          "date": "10 August 2010",
+          "access-date": "10 August 2010",
+          "archive-url": "https://web.archive.org/web/20100824084348/http://www.abc.net.au/rn/lifematters/stories/2010/2977523.htm",
+          "archive-date": "24 August 2010",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Professional career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Before entering politics, Leigh worked as a lawyer for Minter Ellison in Sydney and Clifford Chance in London from 1995 to 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minter Ellison"
+                },
+                {
+                  "type": "internal",
+                  "page": "Clifford Chance"
+                }
+              ]
+            },
+            {
+              "text": "He was then associate to Justice Michael Kirby of the High Court of Australia from 1997 to 1998, senior trade adviser to Shadow Minister for Trade Senator Peter Cook from 1998 to 2000, and research fellow with the Progressive Policy Institute in Washington, D.C. in 2001.",
+              "links": [
+                {
+                  "text": "Justice",
+                  "type": "internal",
+                  "page": "judge"
+                },
+                {
+                  "text": "Michael Kirby",
+                  "type": "internal",
+                  "page": "Michael Kirby (judge)"
+                },
+                {
+                  "type": "internal",
+                  "page": "High Court of Australia"
+                },
+                {
+                  "text": "Shadow Minister for Trade",
+                  "type": "internal",
+                  "page": "Minister for Trade, Tourism and Investment"
+                },
+                {
+                  "text": "Senator Peter Cook",
+                  "type": "internal",
+                  "page": "Peter Cook (Australian politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Progressive Policy Institute"
+                },
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                }
+              ]
+            },
+            {
+              "text": "Leigh also served as a principal adviser to the Australian Treasury from 2008 to 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Treasury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Academic career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leigh was Professor of Economics at the Australian National University from 2004 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian National University"
+                }
+              ]
+            },
+            {
+              "text": "He also had several visiting appointments at the University of Melbourne, New York University, the Research Institute of Industrial Economics and the University of Michigan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "New York University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Research Institute of Industrial Economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Michigan"
+                }
+              ]
+            },
+            {
+              "text": "Over his academic career, Leigh published over 50 journal articles in the disciplines of economics, public policy and law and over 100 opinion pieces."
+            },
+            {
+              "text": "His research findings have been discussed in The Australian, The Australian Financial Review, The Christian Science Monitor, The Economist, The New York Times, The Sydney Morning Herald, Time, The Wall Street Journal and The Washington Post.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Australian"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Australian Financial Review"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Christian Science Monitor"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Economist"
+                },
+                {
+                  "type": "internal",
+                  "page": "The New York Times"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Sydney Morning Herald"
+                },
+                {
+                  "text": "Time",
+                  "type": "internal",
+                  "page": "Time (magazine)"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Wall Street Journal"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Washington Post"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Australian",
+                  "The Australian Financial Review",
+                  "The Christian Science Monitor",
+                  "The Economist",
+                  "The New York Times",
+                  "The Sydney Morning Herald",
+                  "Time",
+                  "The Wall Street Journal",
+                  "The Washington Post"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The Hon Dr Andrew Leigh MP",
+          "url": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BU8",
+          "work": "Senators and Members",
+          "publisher": "Parliament of Australia",
+          "date": "1 July 2013",
+          "access-date": "3 July 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 1995 NSW election, Leigh stood as the Labor candidate for the New South Wales state seat of Northcott, receiving an 8-point swing, but nonetheless losing by a large margin to Barry O'Farrell.",
+              "links": [
+                {
+                  "text": "1995 NSW election",
+                  "type": "internal",
+                  "page": "Results of the 1995 New South Wales state election (Legislative Assembly)",
+                  "anchor": "Northcott"
+                },
+                {
+                  "text": "Northcott",
+                  "type": "internal",
+                  "page": "Electoral district of Northcott"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barry O'Farrell"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 April 2010, Leigh was selected as Labor's candidate for the Australian federal seat of Fraser following the announced retirement of Bob McMullan.",
+              "links": [
+                {
+                  "text": "Fraser",
+                  "type": "internal",
+                  "page": "Division of Fraser (Australian Capital Territory)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob McMullan"
+                }
+              ]
+            },
+            {
+              "text": "Fraser was a safe Labor seat."
+            },
+            {
+              "text": "Leigh was subsequently elected in the Australian federal election held on 21 August 2010.",
+              "links": [
+                {
+                  "text": "Australian federal election",
+                  "type": "internal",
+                  "page": "2010 Australian federal election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "year": "1995",
+          "district": "Northcott",
+          "accessdate": "25 July 2020",
+          "template": "citation",
+          "type": "nsw election"
+        },
+        {
+          "url": "http://www.theaustralian.com.au/news/nation/blow-to-factions-in-labor-canberra-preselection/story-e6frg6nf-1225858121717",
+          "title": "Blow to factions in Labor Canberra preselection",
+          "author": "Maiden, Samantha",
+          "date": "26 April 2010",
+          "work": "The Australian",
+          "access-date": "26 April 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Division Profile – Fraser",
+          "url": "http://results.aec.gov.au/15508/Website/HouseDivisionFirstPrefs-15508-102.htm",
+          "work": "Virtual Tally Room",
+          "publisher": "Australian Electoral Commission",
+          "access-date": "23 August 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Irvine",
+          "first": "Jessica",
+          "title": "First-timers break the mould",
+          "url": "http://www.smh.com.au/federal-election/firsttimers-break-the-mould-20100822-13az3.html",
+          "access-date": "23 August 2010",
+          "newspaper": "The Sydney Morning Herald",
+          "date": "23 August 2010",
+          "archive-url": "https://web.archive.org/web/20100825174136/http://www.smh.com.au/federal-election/firsttimers-break-the-mould-20100822-13az3.html",
+          "archive-date": "25 August 2010",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Government Ministry",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2013, Leigh served as the Government Spokesperson on Opposition costings."
+            },
+            {
+              "text": "Leigh was then promoted into the Ministry of Julia Gillard on the 25 March 2013 as the Parliamentary Secretary to the Prime Minister following a Cabinet reshuffle in the wake of a failed leadership challenge on Prime Minister Julia Gillard.",
+              "links": [
+                {
+                  "text": "Ministry of Julia Gillard",
+                  "type": "internal",
+                  "page": "Second Gillard Ministry",
+                  "anchor": "March 2013 to June 2013"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Secretary"
+                },
+                {
+                  "text": "failed leadership challenge",
+                  "type": "internal",
+                  "page": "Australian Labor Party leadership spill, March 2013"
+                },
+                {
+                  "type": "internal",
+                  "page": "Julia Gillard"
+                }
+              ]
+            },
+            {
+              "text": "Leigh, a supporter of Gillard, lost this position after the June 2013 Labor leadership spill.",
+              "links": [
+                {
+                  "text": "June 2013 Labor leadership spill",
+                  "type": "internal",
+                  "page": "Australian Labor Party leadership spill, June 2013"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Andrew Leigh takes on new political role",
+          "author": "Mosley, Lisa",
+          "url": "http://www.abc.net.au/news/2013-03-25/andrew-leigh-takes-on-new-political-role/4592576?section=act",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "25 March 2013",
+          "access-date": "25 March 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Peake, Ross",
+          "title": "'Heavy heart' but I back Rudd as PM: Kelly",
+          "url": "http://www.canberratimes.com.au/act-news/heavy-heart-but-i-back-rudd-as-pm-kelly-20130627-2oygw.html",
+          "date": "27 June 2013",
+          "work": "The Canberra Times",
+          "access-date": "27 June 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dpmc.gov.au/parliamentary/docs/ministry_list_20130701.pdf",
+          "title": "Second Rudd Ministry",
+          "work": "Department of Prime Minister and Cabinet",
+          "publisher": "Commonwealth of Australia",
+          "date": "1 July 2013",
+          "access-date": "2 July 2013 }}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Shadow Ministry",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the 2013 federal election, Leigh was appointed by Bill Shorten as Shadow Assistant Treasurer and Shadow Minister for Competition.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bill Shorten"
+                }
+              ]
+            },
+            {
+              "text": "After the 2016 federal election, Leigh continued as the Shadow Assistant Treasurer and added the portfolios of Shadow Minister for Competition and Productivity, Shadow Minister for Charities and Not-for-Profits, and Shadow Minister for Trade in Services.",
+              "links": [
+                {
+                  "text": "2016 federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the 2019 federal election, Leigh was dropped from the outer ministry of the Shadow Ministry of Anthony Albanese due to his decision to remain factionally unaligned.",
+              "links": [
+                {
+                  "text": "2019 federal election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shadow Ministry of Anthony Albanese"
+                }
+              ]
+            },
+            {
+              "text": "Leigh however was appointed to the parliamentary secretary-level positions of Shadow Assistant Minister for Treasury and Shadow Assistant Minister for Charities."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.canberratimes.com.au/story/6191034/andrew-leigh-moving-to-labors-backbench/",
+          "title": "Canberra Labor MP Andrew Leigh falls foul of factions, moves to backbench",
+          "newspaper": "The Canberra Times",
+          "date": "30 May 2019",
+          "access-date": "30 May 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political views",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leigh identifies as a social democrat, but within the Australian Labor Party he is aligned to no faction He has argued that Labor MPs should have more autonomy to dissent from caucus decisions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                }
+              ]
+            },
+            {
+              "text": "In a 2002 book he co-edited with the political scientist David Burchell, The Prince's New Clothes: Why Do Australians Dislike Their Politicians? Leigh suggested a more aggressive media, which covers politics like sport and gossip, and a general breakdown in \"interpersonal\" trust were largely responsible for politicians' falling stocks.",
+              "formatting": {
+                "italic": [
+                  "The Prince's New Clothes: Why Do Australians Dislike Their Politicians?"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In making his first speech, he identified the American liberal Senator, Daniel Patrick Moynihan, as his role model.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel Patrick Moynihan"
+                }
+              ]
+            },
+            {
+              "text": "In the central part of his speech, he spoke about the Australian Project: \"This Australian project is not finished. It’s not something that stopped with the end of the First World War or with the death of Ben Chifley....To me, the Australian project is about encouraging economic growth, while ensuring that its benefits are shared across the community. It is about making sure that all Australians have great public services, regardless of ethnicity, income or postcode. And it is about recognising that governments have a role in expanding opportunities, because no child gets to choose the circumstances of their birth.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Robinson",
+          "first": "Geoffrey",
+          "title": "Book review: Not Dead Yet – What Future for Labor?",
+          "url": "http://theconversation.com/book-review-not-dead-yet-what-future-for-labor-19617",
+          "access-date": "2020-12-11",
+          "website": "The Conversation",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Leigh",
+          "first": "Andrew",
+          "date": "18 October 2010",
+          "title": "First Speech",
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22chamber/hansardr/2010-10-18/0119%22",
+          "url-status": "live",
+          "access-date": "11 December 2010",
+          "website": "Parliament of Australia",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Economic growth",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leigh believes the \"passion for raising living standards\" is part of the Australian identity."
+            },
+            {
+              "text": "He believes growth comes with free markets and innovation — and he strongly identifies with the liberalism of Australia's second Prime Minister, Alfred Deakin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alfred Deakin"
+                }
+              ]
+            },
+            {
+              "text": "In 2019, Leigh claimed the beliefs of the contemporary Australian Labor Party was that of social liberalism.",
+              "links": [
+                {
+                  "text": "social liberalism",
+                  "type": "internal",
+                  "page": "social liberalism"
+                }
+              ]
+            },
+            {
+              "text": "Leigh credits Labor to being the inheritor of small-l liberalism in Australia, and that \"social liberals have been cast out of the Liberal Party of Australia\".",
+              "links": [
+                {
+                  "text": "small-l liberalism in Australia",
+                  "type": "internal",
+                  "page": "Liberalism in Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                }
+              ]
+            },
+            {
+              "text": "In the digital age, that liberalism means a market that is free to develop technological innovation, even with its “creative destruction.” With his co-author Joshua Gans, Leigh has argued that the state must be wary of making entrepreneurs face prohibitively high costs, even as they face high chance of failure.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joshua Gans"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2010-10-28",
+          "title": "Deakin liberalism: a legacy not best replicated today",
+          "url": "https://www.afr.com/politics/federal/deakin-liberalism-a-legacy-not-best-replicated-today-20101029-iucy6",
+          "access-date": "2020-12-11",
+          "website": "Australian Financial Review",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Leigh",
+          "first1": "Andrew",
+          "date": "29 June 2019",
+          "title": "Social liberalism fits Labor",
+          "language": "en",
+          "work": "The Saturday Paper",
+          "url": "https://www.thesaturdaypaper.com.au/opinion/topic/2019/06/29/social-liberalism-fits-labor/15617304008366",
+          "access-date": "18 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "King",
+          "first": "Richard",
+          "date": "15 May 2020",
+          "title": "Risk, rewards of innovation",
+          "work": "The Australian",
+          "url": "https://www.theaustralian.com.au/arts/review/risk-rewards-of-innovation/news-story/4458ba21facc2d8d5715c7cb50a74274",
+          "url-status": "live",
+          "access-date": "11 December 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "When Leigh went to Harvard for post-graduate research, he studied under the social scientist Robert Putnam, who had published the major work on declining social capital in America, Bowling Alone.",
+              "formatting": {
+                "italic": [
+                  "Bowling Alone"
+                ]
+              }
+            },
+            {
+              "text": "Leigh has observed that Australians also 'bowl alone', as they are financially stretched, time poor, and unable to make regular commitments."
+            },
+            {
+              "text": "Leigh is concerned that online communities have actually created more alienation for Australians, but this can be ameliorated when the state encourages volunteering and community groups"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The Tocsin {{!}} Issue 9, February 2020",
+          "url": "https://www.curtinrc.org/the-tocsin-issue-9",
+          "access-date": "2020-12-11",
+          "website": "John Curtin Research Centre",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-10-26",
+          "title": "Reconnecting communities from 'disconnection disaster'",
+          "url": "https://www.abc.net.au/radio/brisbane/programs/drive/andrew-leigh-communtiy-crisis/12815358",
+          "access-date": "2020-12-11",
+          "website": "ABC Radio",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Opportunity",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Inequality is a key concern for Leigh, whose research has indicated that inequality is at a 75-year high within Australia."
+            },
+            {
+              "text": "Though Leigh  maintains that inequality is not automatically a bad thing in itself, it does concern him in practice because he believes that \"rising inequality strains the social fabric.\""
+            },
+            {
+              "text": "As a result, Leigh advocates some redistribution of wealth, in order to maintain opportunity for people."
+            },
+            {
+              "text": "Leigh particularly wants to see university made more affordable than it is for most young people now."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Knight",
+          "first": "Genevieve",
+          "title": "FactCheck Q&A: is Australia the most unequal it has been in 75 years?",
+          "url": "http://theconversation.com/factcheck-qanda-is-australia-the-most-unequal-it-has-been-in-75-years-47931",
+          "access-date": "2020-12-11",
+          "website": "The Conversation",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Leigh",
+          "first": "Andrew",
+          "date": "2020-10-29",
+          "title": "A proper COVID-19 recovery must start with big thinking in parliament",
+          "url": "https://www.canberratimes.com.au/story/6989090/a-proper-covid-19-recovery-must-start-with-big-thinking-in-parliament/",
+          "access-date": "2020-12-11",
+          "website": "The Canberra Times",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Honours and awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leigh delivered the 2004 Garran Oration of the Institute of Public Administration Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institute of Public Administration Australia"
+                }
+              ]
+            },
+            {
+              "text": "In 2006 he was awarded the Best Discussant Award at the Annual PhD Conference in Economics and Business in 2006 and the Early Career Award by the Academy of the Social Sciences in Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Academy of the Social Sciences in Australia"
+                }
+              ]
+            },
+            {
+              "text": "Also in 2011 Leigh was appointed a Fellow of the Academy of the Social Sciences in Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Academy of the Social Sciences in Australia"
+                }
+              ]
+            },
+            {
+              "text": "In 2011, Leigh was awarded the Economic Society of Australia's Young Economist Award."
+            },
+            {
+              "text": "This award, presented once every two years, is given to \"honour that Australian economist under the age of forty who is deemed to have made a significant contribution to economic thought and knowledge.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.assa.edu.au/Publications/Report/ar2006.pdf",
+          "title": "Annual Report",
+          "year": "2006",
+          "publisher": "Academy of the Social Sciences in Australia",
+          "access-date": "30 September 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20080720142607/http://www.assa.edu.au/publications/report/ar2006.pdf",
+          "archive-date": "20 July 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ecosoc.org.au/cc/awards",
+          "title": "Young Economist Award",
+          "work": "Awards",
+          "publisher": "The Economic Society of Australia",
+          "year": "2011",
+          "access-date": "3 July 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20130802083937/http://www.ecosoc.org.au/cc/awards",
+          "archive-date": "2 August 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leigh ran the 2017 Tokyo Marathon in a time of 2:42:48.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tokyo Marathon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.marathon.tokyo/2017/result/",
+          "title": "東京マラソン2017 大会結果 – 東京マラソン 2017 – 東京がひとつになる日.",
+          "website": "marathon.tokyo",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "editor1": "Leigh, Andrew",
+          "editor2": "Burchell, David",
+          "year": "2002",
+          "title": "The Prince's New Clothes: Why do Australians Dislike Their Politicians",
+          "publisher": "University of NSW Press",
+          "isbn": "978-0-86840-604-6",
+          "editor-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author1": "Leigh, Andrew",
+          "author2": "Duncan, Magregor",
+          "author3": "Madden, David",
+          "author4": "Tynan, Peter",
+          "year": "2004",
+          "title": "Imagining Australia: Ideas for Our Future",
+          "publisher": "Allen & Unwin",
+          "isbn": "978-1-74114-382-9",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2010",
+          "title": "Disconnected",
+          "publisher": "University of NSW Press",
+          "isbn": "978-1-74223-153-2",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2013",
+          "title": "Battlers and Billionaires: The Story of Inequality in Australia",
+          "publisher": "Black Inc.",
+          "isbn": "978-1-86395-607-9",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2014",
+          "title": "The Economics of Just About Everything: The Hidden Reasons For Our Curious Choices And Surprising Successes",
+          "publisher": "Allen & Unwin",
+          "isbn": "978-1-74331-471-5",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2015",
+          "title": "The Luck of Politics",
+          "publisher": "Black Inc.",
+          "isbn": "9781863957557",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2018",
+          "title": "Randomistas",
+          "publisher": "Black Inc.",
+          "isbn": "9781863959711",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "author2": "Terrill, Nick",
+          "year": "2020",
+          "title": "Reconnected: A Community Builder's Handbook",
+          "publisher": "Black Inc.",
+          "isbn": "9781760642617",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
+          "author": "Leigh, Andrew",
+          "year": "2021",
+          "title": "What's the Worst That Could Happen?: Existential Risk and Extreme Politics",
+          "publisher": "The MIT Press",
+          "isbn": "9780262046077",
+          "author-mask": "1",
+          "template": "citation",
+          "type": "cite book"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Andrew Leigh"
+          ],
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "http://www.andrewleigh.com/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "openaustralia"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Bob McMullan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Fraser",
+          "years": "2010–2016",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Abolished",
+          "template": "s-non"
+        },
+        {
+          "list": [
+            "seat"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member for Fenner",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "current australian capital and northern territory representatives"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Andrew Leigh – Archive of ANU academic work",
+            "links": [
+              {
+                "text": "Andrew Leigh – Archive of ANU academic work",
+                "type": "external",
+                "site": "http://andrewleigh.org"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Andrew Leigh – Archive of ANU academic work",
+            "links": [
+              {
+                "text": "Andrew Leigh – Archive of ANU academic work",
+                "type": "external",
+                "site": "http://andrewleigh.org"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

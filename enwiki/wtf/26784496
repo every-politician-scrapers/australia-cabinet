@@ -1,0 +1,503 @@
+{
+  "title": "Tim Whetstone",
+  "pageID": 26784496,
+  "categories": [
+    "Members of the South Australian House of Assembly",
+    "1960 births",
+    "Living people",
+    "Liberal Party of Australia members of the Parliament of South Australia",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Timothy John Whetstone (born 5 March 1960) is an Australian politician representing the seat of Chaffey in the South Australian House of Assembly for the South Australian Division of the Liberal Party of Australia since the 2010 election.",
+              "links": [
+                {
+                  "text": "Chaffey",
+                  "type": "internal",
+                  "page": "Electoral district of Chaffey"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian House of Assembly"
+                },
+                {
+                  "text": "South Australian Division of the Liberal Party of Australia",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (South Australian Division)"
+                },
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 South Australian state election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Timothy John Whetstone"
+                ]
+              }
+            },
+            {
+              "text": "Whetstone served as the Minister for Primary Industries and Regional Development in the Marshall Ministry from 22 March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marshall Ministry"
+                }
+              ]
+            },
+            {
+              "text": "He resigned from cabinet on 26 July 2020 after a scandal over parliamentary allowances."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2016",
+          "template": "use australian english"
+        },
+        {
+          "date": "January 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "March 22, 2018"
+          }
+        },
+        {
+          "list": [
+            "Geoff Brock (as Minister for Regional Development)",
+            "Leon Bignell (as Minister for Agriculture, Food and Fisheries and Minister for Forests)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "3",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Tim Whetstone"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "South Australian House of Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "Whetstone2018.jpg"
+          },
+          "constituency_am1": {
+            "text": "Chaffey",
+            "links": [
+              {
+                "text": "Chaffey",
+                "type": "internal",
+                "page": "Electoral district of Chaffey"
+              }
+            ]
+          },
+          "assembly1": {
+            "text": "South Australian House of"
+          },
+          "term_start1": {
+            "text": "20 March 2010"
+          },
+          "predecessor1": {
+            "text": "Karlene Maywald",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karlene Maywald"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for Primary Industries and Regional Development"
+          },
+          "premier": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 22, 2018"
+          },
+          "term_end": {
+            "text": "26 July 2020"
+          },
+          "predecessor": {
+            "text": "Geoff Brock (as Minister for Regional Development)\n\nLeon Bignell (as Minister for Agriculture, Food and Fisheries and Minister for Forests)"
+          },
+          "successor": {
+            "text": "David Basham",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Basham"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Timothy John Whetstone"
+          },
+          "birth_date": {
+            "text": "March 5, 1960"
+          },
+          "birth_place": {
+            "text": "Keith, South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keith, South Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Liberal Party of Australia (SA)",
+            "links": [
+              {
+                "text": "Liberal Party of Australia (SA)",
+                "type": "internal",
+                "page": "Liberal Party of Australia (South Australian Division)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Irrigator"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2018-03-22/sa-liberal-government-sworn-in-whos-who-in-ministry/9575712",
+          "title": "SA election: Who's who in the new South Australian Liberal Government?",
+          "last": "MacLennan",
+          "first": "Leah",
+          "date": "22 March 2018",
+          "website": "ABC News",
+          "location": "Australia",
+          "access-date": "22 March 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2018/March/2018_020.pdf",
+          "title": "The South Australian Government Gazette, 22 March 2018, No. 20, Supplementary Gazette",
+          "access-date": "23 March 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background and early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Whetstone was born in the state's South East at Keith before completing his schooling in Adelaide."
+            },
+            {
+              "text": "He finished a tool maker apprenticeship at General Motors Holden and then went on to develop his own business building and restoring muscle cars and boats."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Whestone was a project manager on the Moomba gas fields before moving to the Riverland in 1989 to purchase a citrus property and develop a vineyard on the River Murray."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://premier.sa.gov.au/meet-the-team/tim-whetstone-mp",
+          "title": "Tim Whetstone MP",
+          "date": "2018-05-25",
+          "work": "Steven Marshall {{!}} Premier of South Australia",
+          "access-date": "2018-09-20",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Whetstone contested the seat of Chaffey at the 2010 election for the Liberal Party, receiving a 20-point two-candidate swing from incumbent SA Nationals MP Karlene Maywald, to finish with 53.8 percent of the two-candidate vote.",
+              "links": [
+                {
+                  "text": "SA Nationals",
+                  "type": "internal",
+                  "page": "Nationals SA"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karlene Maywald"
+                },
+                {
+                  "text": "two-candidate vote",
+                  "type": "internal",
+                  "page": "two-party preferred vote"
+                }
+              ]
+            },
+            {
+              "text": "The SA Nationals did not contest the 2014 election, which saw Whetstone win 75.1 percent of the two-party vote.",
+              "links": [
+                {
+                  "text": "2014 election",
+                  "type": "internal",
+                  "page": "2014 South Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between June 2014 until the state election, Whetstone was the Shadow Minister for Trade and Investment, as well as being the Shadow Minister for Recreation, Sport and Racing from 2014 to 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2018 election, Whetstone was appointed as Minister for Primary Industries and Regional Development.",
+              "links": [
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 South Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2020, Whetstone admitted to wrongly claiming travel expenses on 90 occasions, including several claims for accommodation in Adelaide at the same time as he was undertaking international or interstate travel, in what Premier Steven Marshall described as \"extraordinarily disappointing\" behaviour.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steven Marshall"
+                }
+              ]
+            },
+            {
+              "text": "As a result, Whetstone resigned from the Marshall Ministry on 26 July 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marshall Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/elections/sa/2010/guide/chaf.htm",
+          "title": "Chaffey",
+          "work": "2010 SA election",
+          "publisher": "Australian Broadcasting Corporation",
+          "author": "Green, Antony",
+          "author-link": "Antony Green",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/sa-election-2014/guide/chaf/",
+          "title": "Chaffey",
+          "work": "2014 SA election",
+          "publisher": "Australian Broadcasting Corporation",
+          "author": "Green, Antony",
+          "author-link": "Antony Green",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://indaily.com.au/news/politics/2018/03/22/ministries-merged-marshall-unveils-new-cabinet/",
+          "title": "Marshall unveils new Cabinet",
+          "first": "Bension",
+          "last": "Siebert",
+          "date": "22 March 2018",
+          "accessdate": "23 March 2018",
+          "newspaper": "InDaily",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ministers claimed expenses for staying in Adelaide but weren't actually there",
+          "url": "https://www.abc.net.au/news/2020-07-23/sa-ministers-claimed-expenses-for-staying-in-adelaide-while-away/12483296",
+          "accessdate": "26 July 2020",
+          "work": "ABC News",
+          "date": "23 July 2020",
+          "language": "en-AU}}{{cite news |title=Three South Australian ministers quit cabinet amid expenses scandal |url=https://www.theguardian.com/australia-news/2020/jul/26/three-south-australian-ministers-resign-from-cabinet |accessdate=27 July 2020 |work=The Guardian Australia|date=26 July 2020 |language=en-AU|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Three SA ministers resign from cabinet – Australian Associated Press",
+          "url": "https://www.aap.com.au/three-sa-ministers-resign-from-cabinet/",
+          "accessdate": "26 July 2020",
+          "agency": "AAP",
+          "date": "26 July 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Geoff Brock",
+          "as": "Minister for Regional Development",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Primary Industries and Regional Development",
+          "years": "2018–2020",
+          "rows": "2",
+          "template": "s-ttl"
+        },
+        {
+          "after": "David Basham",
+          "rows": "2",
+          "template": "s-aft"
+        },
+        {
+          "before": "Leon Bignell",
+          "as": "Minister for Agriculture, Food and Fisheries and Minister for Forests",
+          "template": "s-bef"
+        },
+        {
+          "list": [
+            "au-sa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Karlene Maywald",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Chaffey",
+          "years": "2010–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "sacurrentmhas"
+        },
+        {
+          "template": "australia-liberal-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary profile",
+            "links": [
+              {
+                "text": "Parliamentary profile",
+                "type": "external",
+                "site": "http://www2.parliament.sa.gov.au/Internet/DesktopModules/memberdrill.aspx?pid=4339"
+              }
+            ]
+          },
+          {
+            "text": "Primary Industries and Regions SA",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Primary Industries and Regions SA"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "title": "Pat Conroy (politician)",
+  "pageID": 40528947,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Members of the Australian House of Representatives for Charlton",
+    "Members of the Australian House of Representatives for Shortland",
+    "Members of the Australian House of Representatives",
+    "Australian economists",
+    "University of Sydney alumni",
+    "Labor Left politicians",
+    "21st-century Australian politicians",
+    "Australian people of English descent",
+    "People who lost British citizenship",
+    "Citizens of the United Kingdom through descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Patrick Martin Conroy (born 10 May 1979) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Patrick Martin Conroy"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Australian Labor Party (ALP) and the Labor Left faction and has been a member of the House of Representatives since 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                }
+              ]
+            },
+            {
+              "text": "He represented the Division of Charlton in New South Wales until its abolition in 2016, and since then has represented the Division of Shortland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Division of Charlton"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Shortland"
+                }
+              ]
+            },
+            {
+              "text": "He is currently the Minister for Defence Industry and Minister for International Development and the Pacific.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Defence Industry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for International Development and the Pacific"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "persons of a similar name",
+            "Patrick Conroy (disambiguation)"
+          ],
+          "template": "for"
+        },
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2022",
+            "month": "6",
+            "date": "1",
+            "template": "start date",
+            "text": "June 1, 2022"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2022",
+            "month": "6",
+            "date": "1",
+            "template": "start date",
+            "text": "June 1, 2022"
+          }
+        },
+        {
+          "df": "y",
+          "year": "1979",
+          "month": "5",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Pat Conroy"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Pat Conroy.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2022"
+          },
+          "office": {
+            "text": "Minister for International Development and the Pacific",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for International Development and the Pacific"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 1, 2022"
+          },
+          "predecessor": {
+            "text": "Zed Seselja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zed Seselja"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Defence Industry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Defence Industry"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "June 1, 2022"
+          },
+          "predecessor1": {
+            "text": "Melissa Price",
+            "links": [
+              {
+                "text": "Melissa Price",
+                "type": "internal",
+                "page": "Melissa Price (politician)"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Shortland",
+            "links": [
+              {
+                "text": "Shortland",
+                "type": "internal",
+                "page": "Division of Shortland"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Australian"
+          },
+          "predecessor2": {
+            "text": "Jill Hall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jill Hall"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 July 2016"
+          },
+          "constituency_mp3": {
+            "text": "Charlton",
+            "links": [
+              {
+                "text": "Charlton",
+                "type": "internal",
+                "page": "Division of Charlton"
+              }
+            ]
+          },
+          "parliament3": {
+            "text": "Australian"
+          },
+          "predecessor3": {
+            "text": "Greg Combet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Combet"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Seat abolished",
+            "formatting": {
+              "italic": [
+                "Seat abolished"
+              ]
+            }
+          },
+          "term_start3": {
+            "text": "7 September 2013"
+          },
+          "term_end3": {
+            "text": "2 July 2016"
+          },
+          "birth_date": {
+            "text": "May 10, 1979"
+          },
+          "birth_place": {
+            "text": "Sydney, Australia"
+          },
+          "citizenship": {
+            "text": "Australian British (1979–2013)"
+          },
+          "party": {
+            "text": "Labor",
+            "links": [
+              {
+                "text": "Labor",
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Sydney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sydney"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Economist, politician"
+          },
+          "website": {
+            "text": "https://www.patconroy.com.au/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-05-31",
+          "title": "PM says ministry has more women than any other in history – as it happened",
+          "url": "https://www.theguardian.com/australia-news/live/2022/may/31/australia-news-live-update-albanese-frontbench-labor-ministry-david-littleproud-nationals-liberals-majority-crossbench-election-liberals-dutton",
+          "access-date": "2022-05-31",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Conroy was born in Sydney, however he moved to the Central Coast of New South Wales when he was one year old.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sydney"
+                }
+              ]
+            },
+            {
+              "text": "His parents were \"union delegates throughout their lives and long-time Labor activists\"."
+            },
+            {
+              "text": "He was born a British citizen by descent through his father, who was born in Bishop Auckland, County Durham, England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bishop Auckland"
+                }
+              ]
+            },
+            {
+              "text": "He renounced his dual citizenship before standing at the 2013 election in accordance with section 44 of the constitution.",
+              "links": [
+                {
+                  "text": "section 44 of the constitution",
+                  "type": "internal",
+                  "page": "Section 44 of the Constitution of Australia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Conroy attended Ettalong Public School and Gosford High School."
+            },
+            {
+              "text": "Growing up he played for the Woy Woy Football Club and the Gosford Rugby Club."
+            },
+            {
+              "text": "Conroy holds the degree of Bachelor of Economics (Hons.) from the University of Sydney.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Economics"
+                },
+                {
+                  "text": "Hons.",
+                  "type": "internal",
+                  "page": "Honours degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                }
+              ]
+            },
+            {
+              "text": "He joined the ALP in 1994 and served as a state and federal vice-president of Australian Young Labor from 2003 to 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Young Labor"
+                }
+              ]
+            },
+            {
+              "text": "Prior to entering parliament, he worked as an electorate officer for Anthony Albanese (2000), an industrial/policy officer with the CFMEU's forestry division (2000–2002), a policy adviser to George Campbell (2002–2004), national economist to the Australian Manufacturing Workers' Union (2004–2008), and as principal policy adviser (2008–2011) and deputy chief of staff (2011–2013) to Greg Combet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anthony Albanese"
+                },
+                {
+                  "type": "internal",
+                  "page": "CFMEU"
+                },
+                {
+                  "text": "George Campbell",
+                  "type": "internal",
+                  "page": "George Campbell (Australian politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Manufacturing Workers' Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Greg Combet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aph.gov.au/~/media/03%20Senators%20and%20Members/32%20Members/Citizenship/45P/ConroyP_CTZ45P.pdf",
+          "title": "Citizenship Register – 45th Parliament",
+          "access-date": "10 April 2018",
+          "archive-url": "https://web.archive.org/web/20180411025803/https://www.aph.gov.au/~/media/03%20Senators%20and%20Members/32%20Members/Citizenship/45P/ConroyP_CTZ45P.pdf",
+          "archive-date": "11 April 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22chamber/hansardr/aec24641-694d-4aba-adb3-c0e00179d7a4/0008%22",
+          "title": "Maiden speech",
+          "publisher": "Parliament of Australia",
+          "date": "14 November 2013",
+          "work": "Hansard",
+          "access-date": "29 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "name": "Mr Pat Conroy MP",
+          "mpid": "249127",
+          "access-date": "16 November 2021",
+          "template": "citation",
+          "type": "au parliament"
+        }
+      ]
+    },
+    {
+      "title": "Parliament",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Conroy was elected to parliament at the 2013 federal election, retaining the Division of Charlton for the Labor Party following Greg Combet's retirement.",
+              "links": [
+                {
+                  "text": "2013 federal election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Division of Charlton"
+                }
+              ]
+            },
+            {
+              "text": "He transferred to the Division of Shortland at the 2016 election, following Charlton's abolition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Division of Shortland"
+                },
+                {
+                  "text": "2016 election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "After the election he was appointed to Bill Shorten's shadow ministry as an assistant minister for the portfolios of infrastructure and climate change and energy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bill Shorten"
+                },
+                {
+                  "text": "shadow ministry",
+                  "type": "internal",
+                  "page": "Shadow Ministry of Bill Shorten"
+                }
+              ]
+            },
+            {
+              "text": "He retained his place in Anthony Albanese's shadow ministry after the 2019 election, and was promoted to Shadow Minister for International Development and the Pacific as well as minister assisting in the portfolios of climate change, defence and government accountability.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anthony Albanese"
+                },
+                {
+                  "text": "shadow ministry",
+                  "type": "internal",
+                  "page": "Shadow Ministry of Anthony Albanese"
+                },
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Conroy is aligned with the ALP's Socialist Left faction, and serves as one of the two federal parliamentary convenors of the Labor Left faction, along with Andrew Giles.",
+              "links": [
+                {
+                  "text": "Socialist Left",
+                  "type": "internal",
+                  "page": "National Left (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Labor Left"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrew Giles"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Labor's new-look shadow ministry",
+          "url": "https://www.sbs.com.au/news/labor-s-new-look-shadow-ministry/e1629c15-7e65-4aec-aa27-3ee6a1cea0bb",
+          "website": "SBS News",
+          "publisher": "Special Broadcasting Service",
+          "access-date": "31 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/federal-politics/political-news/labor-factions-engineer-deal-to-keep-joel-fitzgibbon-pat-conroy-in-parliament-20160115-gm6mrp.html",
+          "title": "Labor factions engineer deal to keep Joel Fitzgibbon, Pat Conroy in Parliament",
+          "work": "The Sydney Morning Herald",
+          "date": "15 January 2016",
+          "author1": "Gartrell, Adam",
+          "accessdate": "16 January 2016",
+          "archive-url": "https://web.archive.org/web/20160115161510/http://www.smh.com.au/federal-politics/political-news/labor-factions-engineer-deal-to-keep-joel-fitzgibbon-pat-conroy-in-parliament-20160115-gm6mrp.html",
+          "archive-date": "15 January 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Crowe",
+          "first1": "David",
+          "title": "New trade tensions inside Labor as Left faction pushes for greater labour restrictions",
+          "url": "https://www.smh.com.au/politics/federal/new-trade-tensions-inside-labor-as-left-faction-pushes-for-greater-labour-restrictions-20181028-p50cib.html",
+          "website": "The Sydney Morning Herald",
+          "publisher": "Fairfax Media",
+          "accessdate": "30 May 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.theherald.com.au/story/1761912/charlton-conroy-to-stick-to-local-issues/?cs=12",
+          "title": "CHARLTON: Conroy to stick to local issues",
+          "work": "Newcastle Herald",
+          "date": "8 September 2013",
+          "author1": "Kelly, Matthew",
+          "accessdate": "14 September 2013",
+          "archive-url": "https://web.archive.org/web/20131112235157/http://www.theherald.com.au/story/1761912/charlton-conroy-to-stick-to-local-issues/?cs=12",
+          "archive-date": "12 November 2013",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "openaustralia"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Greg Combet",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Charlton",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Division abolished",
+          "template": "s-non"
+        },
+        {
+          "before": "Jill Hall",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Shortland",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Zed Seselja",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for International Development and the Pacific",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Melissa Price",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Defence Industry",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "current new south wales representatives"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "australia-labor-representative-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Profile at TheyVoteForYou.org.au",
+            "links": [
+              {
+                "text": "Profile at TheyVoteForYou.org.au",
+                "type": "external",
+                "site": "https://theyvoteforyou.org.au/people/representatives/charlton/pat_conroy"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Profile at TheyVoteForYou.org.au",
+            "links": [
+              {
+                "text": "Profile at TheyVoteForYou.org.au",
+                "type": "external",
+                "site": "https://theyvoteforyou.org.au/people/representatives/charlton/pat_conroy"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

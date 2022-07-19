@@ -1,0 +1,646 @@
+{
+  "title": "Murray Watt",
+  "pageID": 23022129,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Members of the Queensland Legislative Assembly",
+    "People educated at Brisbane State High School",
+    "Australian Labor Party members of the Parliament of Queensland",
+    "University of Queensland alumni",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Members of the Australian Senate",
+    "Members of the Australian Senate for Queensland",
+    "21st-century Australian politicians",
+    "Labor Left politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Murray Patrick Watt (born 20 January 1973) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Murray Patrick Watt"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Australian Labor Party (ALP) and has been a Senator for Queensland since the 2016 federal election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Australian Senate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                },
+                {
+                  "text": "2016 federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He previously served in the Queensland Legislative Assembly from 2009 to 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queensland Legislative Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "year": "1973",
+          "month": "1",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Senator",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              }
+            ]
+          },
+          "name": {
+            "text": "Murray Watt"
+          },
+          "image": {
+            "text": "Murray Watt 2022.png"
+          },
+          "office": {
+            "text": "Minister for Agriculture, Fisheries and Forestry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Agriculture, Fisheries and Forestry"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 June 2022"
+          },
+          "predecessor": {
+            "text": "David Littleproud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Littleproud"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Emergency Management",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Emergency Management"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Anthony Albanese"
+          },
+          "term_start1": {
+            "text": "1 June 2022"
+          },
+          "predecessor1": {
+            "text": "Bridget McKenzie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bridget McKenzie"
+              }
+            ]
+          },
+          "title2": {
+            "text": "Senator for Queensland",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "Queensland"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 July 2016"
+          },
+          "constituency_am3": {
+            "text": "Everton",
+            "links": [
+              {
+                "text": "Everton",
+                "type": "internal",
+                "page": "Electoral district of Everton"
+              }
+            ]
+          },
+          "assembly3": {
+            "text": "Queensland Legislative"
+          },
+          "predecessor3": {
+            "text": "Rod Welford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rod Welford"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Tim Mander",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tim Mander"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "21 March 2009"
+          },
+          "term_end3": {
+            "text": "24 March 2012"
+          },
+          "birth_date": {
+            "text": "January 20, 1973"
+          },
+          "birth_place": {
+            "text": "Brisbane, Queensland, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brisbane"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Murray Patrick Watt"
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Australian Labor Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Queensland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Queensland"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Public servant Judge's associate Political advisor"
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "website": {
+            "text": "https://www.murraywatt.com/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Watt was born in Brisbane on 20 January 1973.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brisbane"
+                }
+              ]
+            },
+            {
+              "text": "His parents were both schoolteachers from working-class backgrounds."
+            },
+            {
+              "text": "He grew up in Brisbane's southern suburbs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watt was educated at Brisbane State High School where he was school captain in 1989.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brisbane State High School"
+                }
+              ]
+            },
+            {
+              "text": "In 1996, he graduated from the University of Queensland with the degrees of Bachelor of Commerce and Bachelor of Laws.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Queensland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Commerce"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                }
+              ]
+            },
+            {
+              "text": "He practised as a solicitor from 1997 to 2002 and was a judge's associate from 1999 to 2000.",
+              "links": [
+                {
+                  "text": "judge's associate",
+                  "type": "internal",
+                  "page": "judge's associate"
+                }
+              ]
+            },
+            {
+              "text": "He was then a public servant in the Queensland Department of Premier and Cabinet and the Department of State Development from 2007 to 2009, and chief of staff to Anna Bligh from 2002 to 2007, and again in 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anna Bligh"
+                }
+              ]
+            },
+            {
+              "text": "He had long been active in the Australian Labor Party, serving as president of Queensland Young Labor in 1998 and delegate to various state conferences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watt was also a senior associate with the Brisbane office of the legal firm Maurice Blackburn.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maurice Blackburn"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=CHAMBER;id=chamber%2Fhansards%2F7bf9040b-3855-4d2d-840b-2e051635f1c8%2F0135;query=Id%3A%22chamber%2Fhansards%2F7bf9040b-3855-4d2d-840b-2e051635f1c8%2F0136%22",
+          "title": "First speech",
+          "publisher": "Parliament of Australia",
+          "work": "Hansard",
+          "date": "13 September 2016",
+          "accessdate": "30 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.mauriceblackburn.com.au/our-people/lawyers/murray-watt/",
+          "title": "Murray Watt, Senior Associate",
+          "publisher": "Maurice Blackburn",
+          "date": "2016",
+          "access-date": "4 June 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "name": "Senator Murray Watt",
+          "mpid": "245759",
+          "access-date": "15 November 2021",
+          "template": "citation",
+          "type": "au parliament"
+        },
+        {
+          "title": "Former Members",
+          "publisher": "Parliament of Queensland",
+          "year": "2015",
+          "url": "http://www.parliament.qld.gov.au/members/former/bio?id=18636245",
+          "access-date": "7 February 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "State politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2009, Watt was elected to the Legislative Assembly of Queensland for Everton, succeeding Rod Welford, who had retired.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Queensland"
+                },
+                {
+                  "text": "Everton",
+                  "type": "internal",
+                  "page": "Electoral district of Everton"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rod Welford"
+                }
+              ]
+            },
+            {
+              "text": "He was defeated at the 2012 state election.",
+              "links": [
+                {
+                  "text": "2012 state election",
+                  "type": "internal",
+                  "page": "2012 Queensland state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Meaghan Scanlon was preselected as the Labor candidate for Gaven at the 2017 state election, it was claimed that Watt was the deciding factor and that it was against the wishes of the branch members.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Meaghan Scanlon"
+                },
+                {
+                  "text": "Gaven",
+                  "type": "internal",
+                  "page": "Electoral district of Gaven"
+                },
+                {
+                  "text": "2017 state election",
+                  "type": "internal",
+                  "page": "2017 Queensland state election"
+                }
+              ]
+            },
+            {
+              "text": "One member of the branch claimed \"factional politics prior to Murray coming to the Gold Coast didn't happen\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.goldcoastbulletin.com.au/news/gold-coast/inside-labors-bloody-factional-battle-on-the-gold-coast-in-the-leadup-to-the-state-election/news-story/0fb74daa855a4be9659a11c4e0c00bb6",
+          "newspaper": "Gold Coast Bulletin",
+          "title": "Inside Labor's bloody factional battle on the Gold Coast in the lead-up to the State election",
+          "first": "Paul",
+          "last": "Weston",
+          "date": "17 May 2017",
+          "access-date": "10 June 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Federal politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the retirement of Senator Jan McLucas in 2015, Watt was endorsed by the Labor Party as a Senate candidate for Queensland at the 2016 federal election and was subsequently elected.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jan McLucas"
+                },
+                {
+                  "text": "2016 federal election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the 2019 election, Watt was included in Anthony Albanese's shadow ministry as Shadow Minister for Northern Australia and Shadow Minister for Disaster and Emergency Management.",
+              "links": [
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                },
+                {
+                  "text": "Anthony Albanese's shadow ministry",
+                  "type": "internal",
+                  "page": "Shadow Ministry of Anthony Albanese"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 he was also appointed to the role of Shadow Minister for Queensland Resources."
+            },
+            {
+              "text": "He is also Deputy Opposition Whip in the Senate.",
+              "links": [
+                {
+                  "text": "Deputy Opposition Whip in the Senate",
+                  "type": "internal",
+                  "page": "Whip in the Australian Senate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watt is a member of Labor Left.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Labor Left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Re-elected at the 2022 election, Watt became Minister for Agriculture, Fisheries and Forestry and Minister for Emergency Management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Agriculture, Fisheries and Forestry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for Emergency Management"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2015-04-06/murray-watt-elected-as-candidate-for-labor-ballot-for-qld-senate/6372490",
+          "title": "Murray Watt to replace Jan McLucas as Labor candidate for Senate seat",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "3 April 2015",
+          "access-date": "4 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query%3DId%3A%22media%2Fpressrel%2F7778549%22;src1%3Dsm1",
+          "title": "ParlInfo - Basic Search",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Labor's new-look shadow ministry",
+          "url": "https://www.sbs.com.au/news/labor-s-new-look-shadow-ministry/e1629c15-7e65-4aec-aa27-3ee6a1cea0bb",
+          "website": "SBS News",
+          "publisher": "Special Broadcasting Service",
+          "access-date": "31 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pm.gov.au/media/albanese-government-full-ministry",
+          "title": "Albanese Government full Ministry &#124; Prime Minister of Australia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/federal-politics/federal-election-2016/greens-will-begrudgingly-work-with-hanson-larissa-waters-20160804-gqkrch.html",
+          "newspaper": "The Sydney Morning Herald",
+          "title": "Greens will begrudgingly work with Hanson: Larissa Waters",
+          "first": "Cameron",
+          "last": "Atfield",
+          "date": "4 August 2016",
+          "access-date": "4 August 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-qld"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Rod Welford",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Everton",
+          "years": "2009&ndash;2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Tim Mander",
+          "template": "s-aft"
+        },
+        {
+          "template": "australian cabinet"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "australian senators"
+        },
+        {
+          "template": "australia-labor-senator-stub"
+        }
+      ]
+    }
+  ]
+}

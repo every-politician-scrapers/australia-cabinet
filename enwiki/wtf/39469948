@@ -1,0 +1,361 @@
+{
+  "title": "Alan Blow",
+  "pageID": 39469948,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Chief Justices of Tasmania",
+    "Judges of the Supreme Court of Tasmania",
+    "21st-century Australian judges",
+    "Officers of the Order of Australia",
+    "Recipients of the Medal of the Order of Australia",
+    "Commanders of the Order of St John",
+    "Australian Queen's Counsel",
+    "Australian barristers",
+    "Sydney Law School alumni",
+    "University of Sydney alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alan Michael Blow (born 3 December 1949) is an Australian judge who is the current Chief Justice of Tasmania.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of Tasmania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alan Michael Blow"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After graduating from the University of Sydney with Bachelor of Arts and Bachelor of Laws degrees, he practised as a barrister in civil litigation, criminal and family law, before being appointed as a judge of the Supreme Court of Tasmania in 2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Tasmania"
+                }
+              ]
+            },
+            {
+              "text": "He has also a long time lecturer in Supreme Court Advocacy at the University of Tasmania's Centre for Legal Studies, teaching postgraduate legal practice students.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tasmania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, Blow presided over the trial of Susan Neill-Fraser for the murder of Bob Chappell.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Susan Neill-Fraser"
+                },
+                {
+                  "text": "murder of Bob Chappell",
+                  "type": "internal",
+                  "page": "murder of Bob Chappell"
+                }
+              ]
+            },
+            {
+              "text": "He sentenced Neill-Fraser to 26 years’ imprisonment."
+            },
+            {
+              "text": "The sentence was later reduced to 23 years’ imprisonment."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 April 2013, Blow was appointed Chief Justice of Tasmania, replacing Ewan Crawford who had reached the mandatory retirement age of 72.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ewan Crawford"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018 Blow was appointed Officer of the Order of Australia for \"distinguished service to the judiciary and to the law, particularly as Chief Justice of the Supreme Court of Tasmania, to legal education and professional standards, and to the community\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of Australia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In Dec 2021, Blow would have reached compulsory retirement age of 72 for a Tasmanian Supreme Court Justice."
+            },
+            {
+              "text": "However Tasmanian Parliament had extended the compulsory retirement age to 75 at Blow's request."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian judge",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2018",
+          "template": "use australian english"
+        },
+        {
+          "date": "April 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "yes",
+          "year": "1949",
+          "month": "12",
+          "day": "2",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Margaret Ross",
+          "from": "12 April 1975",
+          "template": "marriage"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable Chief Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
+              {
+                "text": "Chief Justice",
+                "type": "internal",
+                "page": "Chief Justice of Tasmania"
+              }
+            ]
+          },
+          "name": {
+            "text": "Alan Blow"
+          },
+          "order1": {
+            "text": "14th"
+          },
+          "office1": {
+            "text": "Chief Justice of Tasmania"
+          },
+          "term_start1": {
+            "text": "8 April 2013"
+          },
+          "governor1": {
+            "text": "Peter Underwood Kate Warner Barbara Baker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Underwood"
+              },
+              {
+                "type": "internal",
+                "page": "Kate Warner"
+              },
+              {
+                "type": "internal",
+                "page": "Barbara Baker"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ewan Crawford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ewan Crawford"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Lieutenant-Governor of Tasmania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant-Governor of Tasmania"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 April 2013"
+          },
+          "governor2": {
+            "text": "Peter Underwood Kate Warner Barbara Baker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Underwood"
+              },
+              {
+                "type": "internal",
+                "page": "Kate Warner"
+              },
+              {
+                "type": "internal",
+                "page": "Barbara Baker"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 2, 1949"
+          },
+          "birth_place": {
+            "text": "Sydney, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sydney"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Alan Michael Blow"
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "spouse": {
+            "text": "Margaret Ross (m. 12 April 1975)"
+          },
+          "alma_mater": {
+            "text": "University of Sydney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sydney"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Barrister"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://catalogues.lawlibrary.tas.gov.au/dbtw-wpd/exec/dbtwpub.dll?AC=GET_RECORD&XC=/dbtw-wpd/exec/dbtwpub.dll&BU=http%3A%2F%2Fcatalogues.lawlibrary.tas.gov.au%2Ftextbase%2FSentSearch.htm&GI=&TN=TasSent&SN=AUTO13210&SE=1497&RN=0&MR=20&TR=0&TX=1000&ES=0&XP=&RF=SentResult1&EF=&DF=SentResult2&RL=1&EL=1&DL=1&NP=3&ID=&MF=&DT=&ST=0&IR=1091&NR=0&NB=0&SV=0&SS=0&BG=&FG=&QS=SentSearch",
+          "title": "Tasmania v Neill-Fraser, Comments on Passing Sentence of 27 October 2010",
+          "accessdate": "1 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://classic.austlii.edu.au/au/cases/tas/TASCCA/2012/2.html",
+          "title": "Neill-Fraser v Tasmania [2012] TASCCA 2 at [221]",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/national/australia-day-honours-2018-the-full-list-20180125-h0o20j.html",
+          "title": "Australia Day Honours 2018: The full list",
+          "date": "2018-01-26",
+          "work": "The Sydney Morning Herald",
+          "access-date": "2018-01-25",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Judge warns of class divide",
+          "author": "Killick, David",
+          "url": "http://www.themercury.com.au/article/2013/03/29/375694_tasmania-news.html",
+          "newspaper": "The Mercury",
+          "date": "29 March 2013",
+          "accessdate": "22 May 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "before": "Ewan Crawford",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Justice of Tasmania",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

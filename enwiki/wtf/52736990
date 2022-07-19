@@ -1,0 +1,291 @@
+{
+  "title": "James Angus (scientist)",
+  "pageID": 52736990,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Officers of the Order of Australia",
+    "Recipients of the Centenary Medal",
+    "Fellows of the Australian Academy of Science",
+    "Australian pharmacologists",
+    "Lieutenant-Governors of Victoria",
+    "University of Sydney alumni",
+    "University of Melbourne faculty"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "James Alexander Angus (born 15 February 1949 in Sydney) is an Australian pharmacologist.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sydney"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "James Alexander Angus"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He held the Chair in Pharmacology at the University of Melbourne from 1993 to 2003, and was the Dean of the Faculty of Medicine, Dentistry and Health Sciences at the University of Melbourne from 2003 to 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Melbourne"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected a Fellow of the Australian Academy of Science (FAA) in 1996, awarded the Centenary Medal in 2001, and appointed an Officer of the Order of Australia in 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fellow of the Australian Academy of Science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Centenary Medal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of Australia"
+                }
+              ]
+            },
+            {
+              "text": "Angus was made an Honorary Fellow of the Australian Academy of Health and Medical Sciences in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Academy of Health and Medical Sciences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been the Lieutenant-Governor of Victoria since 12 November 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lieutenant-Governor of Victoria"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian pharmacologist",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AO",
+            "FAA"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1949",
+          "month": "2",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "AO",
+            "FAA"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "James Angus"
+          },
+          "order": {
+            "text": "15th"
+          },
+          "office": {
+            "text": "Lieutenant-Governor of Victoria"
+          },
+          "term_start": {
+            "text": "12 November 2021"
+          },
+          "governor": {
+            "text": "Linda Dessau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linda Dessau"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ken Lay",
+            "links": [
+              {
+                "text": "Ken Lay",
+                "type": "internal",
+                "page": "Ken Lay (police officer)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 15, 1949"
+          },
+          "birth_place": {
+            "text": "Sydney, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sydney"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "James Alexander Angus"
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "profession": {
+            "text": "Pharmacologist"
+          },
+          "alma_mater": {
+            "text": "University of Sydney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sydney"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.aahms.org/fellowship/",
+          "title": "Fellowship {{!}} AAHMS – Australian Academy of Health and Medical Sciences",
+          "website": "www.aahms.org",
+          "language": "en-AU",
+          "access-date": "2018-06-25",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://honours.pmc.gov.au/honours/awards/1126434",
+          "title": "Award Extract - Australian Honours Search Facility",
+          "id": "1126434",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "accessdate": "21 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://honours.pmc.gov.au/honours/awards/1142603",
+          "title": "Award Extract - Australian Honours Search Facility",
+          "id": "1142603",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "accessdate": "21 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Swearing in of the Fifteenth Lieutenant-Governor of Victoria",
+          "url": "https://www.governor.vic.gov.au/all-news/swearing-fifteenth-lieutenant-governor-victoria",
+          "publisher": "Governor of Victoria",
+          "date": "12 November 2021",
+          "accessdate": "15 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Ken Lay",
+          "template": "s-bef"
+        },
+        {
+          "title": "Lieutenant-Governor of Victoria",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

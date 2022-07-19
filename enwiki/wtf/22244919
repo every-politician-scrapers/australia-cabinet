@@ -1,0 +1,539 @@
+{
+  "title": "Colin Brooks (politician)",
+  "pageID": 22244919,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Victoria",
+    "Members of the Victorian Legislative Assembly",
+    "Speakers of the Victorian Legislative Assembly",
+    "Mayors of places in Victoria (Australia)",
+    "Recipients of the Centenary Medal",
+    "Australian electricians",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Colin William Brooks (born 9 January 1970) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Colin William Brooks"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Labor Party member of the Victorian Legislative Assembly since 2006, representing the electorate of Bundoora.",
+              "links": [
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Victorian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victorian Legislative Assembly"
+                },
+                {
+                  "text": "Bundoora",
+                  "type": "internal",
+                  "page": "Electoral district of Bundoora"
+                }
+              ]
+            },
+            {
+              "text": "He is currently the Minister for Child Protection and Family Services and Minister for Disability, Ageing and Carers since June 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brooks is also the Speaker of the Victorian Legislative Assembly since March 2017, but is expected to step down on 2 August when parliament reconvenes due to his ministerial appointment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Victorian Legislative Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use australian english"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1970",
+          "month": "1",
+          "day": "9",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Colin Brooks"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Victorian Legislative Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "BrooksColinWilliam 75.jpg"
+          },
+          "order": {
+            "text": "Minister for Child Protection and Family Services"
+          },
+          "premier": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 June 2022"
+          },
+          "predecessor": {
+            "text": "Anthony Carbines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Carbines"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Minister for Disability, Ageing and Carers"
+          },
+          "premier1": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 June 2022"
+          },
+          "predecessor1": {
+            "text": "Anthony Carbines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Carbines"
+              }
+            ]
+          },
+          "office2": {
+            "text": "37th Speaker of the Victorian Legislative Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Victorian Legislative Assembly"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "7 March 2017"
+          },
+          "predecessor2": {
+            "text": "Telmo Languiller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Telmo Languiller"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Maree Edwards",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maree Edwards"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Victorian Legislative Assembly for Bundoora",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victorian Legislative Assembly"
+              },
+              {
+                "text": "Bundoora",
+                "type": "internal",
+                "page": "Electoral district of Bundoora"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "25 November 2006"
+          },
+          "predecessor3": {
+            "text": "Sherryl Garbutt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sherryl Garbutt"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 9, 1970"
+          },
+          "birth_place": {
+            "text": "Sydney, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sydney"
+              },
+              {
+                "type": "internal",
+                "page": "New South Wales"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party (Victorian Branch)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Electrician"
+          },
+          "website": {
+            "text": "https://www.colinbrooks.com.au/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Sydney, he was educated at De La Salle College in Ashfield before receiving an electrical trades certificate from Petersham TAFE.",
+              "links": [
+                {
+                  "text": "De La Salle College",
+                  "type": "internal",
+                  "page": "De La Salle College Ashfield"
+                },
+                {
+                  "text": "Ashfield",
+                  "type": "internal",
+                  "page": "Ashfield, New South Wales"
+                },
+                {
+                  "text": "Petersham",
+                  "type": "internal",
+                  "page": "Petersham, New South Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "TAFE"
+                }
+              ]
+            },
+            {
+              "text": "He was an electrician from 1990 to 1996."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1996, Brooks became an electorate officer."
+            },
+            {
+              "text": "From 1997 to 2005, he served on Banyule City Council, being mayor from 1998 to 1999 and 2001 to 2002."
+            },
+            {
+              "text": "In 2006, he was selected as the Labor candidate for the safe seat of Bundoora in the 2006 state election, after the retirement of sitting member Sherryl Garbutt.",
+              "links": [
+                {
+                  "text": "Labor",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Victorian Branch)"
+                },
+                {
+                  "text": "Bundoora",
+                  "type": "internal",
+                  "page": "Electoral district of Bundoora"
+                },
+                {
+                  "text": "2006 state election",
+                  "type": "internal",
+                  "page": "2006 Victorian state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sherryl Garbutt"
+                }
+              ]
+            },
+            {
+              "text": "He has represented the seat since."
+            },
+            {
+              "text": "In March 2017, he was chosen by the Labor Caucus to replace Telmo Languiller as Speaker of the Legislative Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Telmo Languiller"
+                },
+                {
+                  "text": "Speaker of the Legislative Assembly",
+                  "type": "internal",
+                  "page": "Speaker of the Victorian Legislative Assembly"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected as Speaker in December 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brooks was appointed as Minister for Child Protection and Family Services and Minister for Disability, Ageing and Carers in the Second Andrews Ministry in June 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Andrews Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Johnston",
+          "first1": "Matt",
+          "last2": "Minear",
+          "first2": "Tom",
+          "last3": "Galloway",
+          "first3": "Anthony",
+          "title": "Victorian MP expenses scandal: Don Nardella won't answer allowance questions",
+          "url": "http://www.heraldsun.com.au/news/victoria/victorian-mp-expenses-scandal-don-nardella-wont-answer-allowance-questions/news-story/dc40a253ae8d668d11f7e45ce681d59e",
+          "accessdate": "2017-03-07",
+          "work": "Herald Sun",
+          "date": "2017-03-07",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.parliament.vic.gov.au/about/news/4116-presiding-officers-elected-for-59th-parliament",
+          "title": "Presiding Officers elected for 59th Parliament",
+          "publisher": "Parliament of Victoria",
+          "date": "19 December 2018",
+          "access-date": "17 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.premier.vic.gov.au/statement-new-ministry",
+          "title": "Statement On New Ministry",
+          "publisher": "Premier of Victoria",
+          "date": "25 June 2022",
+          "archive-url": "https://web.archive.org/web/20220627065514/https://www.premier.vic.gov.au/statement-new-ministry",
+          "archive-date": "27 June 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brooks is married with three children."
+            },
+            {
+              "text": "He takes an interest in fishing and gardening."
+            },
+            {
+              "text": "In 2001, he received the Centenary Medal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Centenary Medal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Colin Brooks (Bundoora)",
+          "work": "Members Information",
+          "publisher": "Parliament of Victoria",
+          "url": "http://www.parliament.vic.gov.au/members/id/1672",
+          "accessdate": "20 December 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-vic-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Sherryl Garbutt",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Bundoora",
+          "years": "2006–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Telmo Languiller",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the Victorian Legislative Assembly",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Anthony Carbines",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Child Protection and Family Services",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "title": "Minister for Minister for Disability, Ageing and Carers",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "presiding officers of australian legislatures"
+        },
+        {
+          "template": "cabinet of victoria"
+        },
+        {
+          "template": "viccurrentmlas"
+        },
+        {
+          "template": "australia-labor-victoria-mp-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary voting record of Colin Brooks at Victorian Parliament Tracker",
+            "links": [
+              {
+                "text": "Parliamentary voting record of Colin Brooks at Victorian Parliament Tracker",
+                "type": "external",
+                "site": "http://vicvote.review/assembly/members/Colin%20Brooks.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

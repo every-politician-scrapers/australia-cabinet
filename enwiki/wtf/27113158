@@ -1,0 +1,304 @@
+{
+  "title": "Sally Capp",
+  "pageID": 27113158,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "People educated at the Presbyterian Ladies' College, Melbourne",
+    "University of Melbourne alumni",
+    "Melbourne Law School alumni",
+    "University of Melbourne women",
+    "Mayors and Lord Mayors of Melbourne",
+    "Agents-General for Victoria",
+    "Women mayors of places in Victoria (Australia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sally Anne Capp is an Australian politician who is the 104th lord mayor of Melbourne, elected on 18 May 2018 and sworn in on 24 May 2018.",
+              "links": [
+                {
+                  "text": "lord mayor of Melbourne",
+                  "type": "internal",
+                  "page": "List of mayors and lord mayors of Melbourne"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sally Anne Capp"
+                ]
+              }
+            },
+            {
+              "text": "She is also the former executive director of the development lobbying group the Property Council of Victoria."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Capp was educated at Presbyterian Ladies' College before graduating with honours in economics and law from the University of Melbourne.",
+              "links": [
+                {
+                  "text": "Presbyterian Ladies' College",
+                  "type": "internal",
+                  "page": "Presbyterian Ladies' College, Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Melbourne"
+                }
+              ]
+            },
+            {
+              "text": "Her first career was a solicitor."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Previously Capp was chief of operations of the Victorian Employers Chamber of Commerce and the former Victorian agent-general in London from 2009 to 2012, the first woman to hold the office.",
+              "links": [
+                {
+                  "text": "Victorian",
+                  "type": "internal",
+                  "page": "Victoria, Australia"
+                },
+                {
+                  "text": "agent-general",
+                  "type": "internal",
+                  "page": "agent-general"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Capp is the former CEO of the Committee for Melbourne and was a director of Collingwood Football Club to 2009, the first woman to serve on the board of that club.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Committee for Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "Collingwood Football Club"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 18 May 2018, Capp was declared elected as lord mayor of Melbourne in the 2018 by-election for lord mayor, following the resignation of Robert Doyle on 4 February.",
+              "links": [
+                {
+                  "text": "2018 by-election for lord mayor",
+                  "type": "internal",
+                  "page": "2018 Lord Mayor of Melbourne by-election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Robert Doyle"
+                }
+              ]
+            },
+            {
+              "text": "She was sworn in on 24 May."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Capp was re-elected as lord mayor in November 2020, securing another four-year term.",
+              "links": [
+                {
+                  "text": "November 2020",
+                  "type": "internal",
+                  "page": "2020 City of Melbourne election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2015",
+          "template": "use australian english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable Lord Mayor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              },
+              {
+                "text": "Lord Mayor",
+                "type": "internal",
+                "page": "Lord Mayor of Melbourne"
+              }
+            ]
+          },
+          "name": {
+            "text": "Sally Capp"
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "order": {
+            "text": "104th Lord Mayor of Melbourne",
+            "links": [
+              {
+                "text": "Lord Mayor of Melbourne",
+                "type": "internal",
+                "page": "List of mayors and lord mayors of Melbourne"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 May 2018"
+          },
+          "deputy": {
+            "text": "Arron Wood\nNicholas Reece",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arron Wood"
+              },
+              {
+                "type": "internal",
+                "page": "Nicholas Reece"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Robert Doyle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert Doyle"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Papua New Guinea"
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Team Sally Capp Liberal (2014–15)",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Australia (Victorian Division)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sally Capp returned as Melbourne Lord Mayor",
+          "url": "https://www.abc.net.au/news/2020-11-04/sally-capp-returned-as-melbourne-lord-mayor/12846856",
+          "website": "www.abc.net.au",
+          "access-date": "29 July 2021",
+          "language": "en-AU",
+          "date": "4 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.theage.com.au/breaking-news-sport/camplin-joins-magpies-board-20091208-khs7.html",
+          "title": "Camplin joins Magpies board",
+          "work": "The Age",
+          "date": "8 December 2009",
+          "accessdate": "2 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Lord Mayor and Councillors",
+          "url": "https://www.melbourne.vic.gov.au/about-council/our-profile/lord-mayor-and-councillors/Pages/lord-mayor-and-councillors.aspx",
+          "website": "www.melbourne.vic.gov.au",
+          "access-date": "14 October 2021",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Paul Austin",
+          "url": "https://www.theage.com.au/national/key-london-job-a-historic-first-for-women-20091028-hl0g.html",
+          "title": "Key London job a historic first for women",
+          "work": "The Age",
+          "date": "29 October 2009",
+          "accessdate": "2 May 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Robert Doyle",
+          "template": "s-bef"
+        },
+        {
+          "title": "Lord Mayor of Melbourne",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "australia-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

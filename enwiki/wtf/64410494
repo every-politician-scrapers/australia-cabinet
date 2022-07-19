@@ -1,0 +1,269 @@
+{
+  "title": "Shane Patton",
+  "pageID": 64410494,
+  "categories": [
+    "1960s births",
+    "Living people",
+    "Chief Commissioners of Victoria Police",
+    "Recipients of the Australian Police Medal",
+    "People from Victoria (Australia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shane Andrew Patton is an Australian police officer and, the Chief Commissioner of Victoria Police.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victoria Police"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shane Andrew Patton"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Patton grew up in regional Victoria and joined Victoria Police in 1978."
+            },
+            {
+              "text": "Part of his early career was spent at St Kilda Criminal Investigation Branch (CIB) in the 1980s.",
+              "links": [
+                {
+                  "text": "St Kilda",
+                  "type": "internal",
+                  "page": "St Kilda, Victoria"
+                }
+              ]
+            },
+            {
+              "text": "Other roles have been in general duties, detective work, police prosecutor, ethical standards investigation, transit and education, as well as acting as chief of staff for Simon Overland whilst Overland was Chief Commissioner.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Simon Overland"
+                }
+              ]
+            },
+            {
+              "text": "Patton was appointed Deputy Commissioner in September 2015 and was made Chief Commissioner on 27June 2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2015 Australia Day Honours, Patton was awarded the Australian Police Medal.",
+              "links": [
+                {
+                  "text": "2015 Australia Day Honours",
+                  "type": "internal",
+                  "page": "2015 Australia Day Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Police Medal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2020",
+          "template": "use australian english"
+        },
+        {
+          "description": "Australian police officer",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "country": "AUS",
+          "size": "100%",
+          "list": [
+            "APM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "age": "58",
+          "year": "2020",
+          "month": "6",
+          "day": "1",
+          "df": "y",
+          "template": "birth based on age as of date"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "APM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "June 2020",
+            ""
+          ],
+          "lc": "y",
+          "template": "as of"
+        },
+        {
+          "template": "nbsp"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Chief Commissioner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Commissioner"
+              }
+            ]
+          },
+          "name": {
+            "text": "Shane Patton"
+          },
+          "order": {
+            "text": "23rd"
+          },
+          "office": {
+            "text": "Chief Commissioner of Victoria Police"
+          },
+          "term_start": {
+            "text": "27 June 2020"
+          },
+          "predecessor": {
+            "text": "Graham Ashton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Graham Ashton"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1962 (age 58)"
+          },
+          "birthname": {
+            "text": "Shane Andrew Patton"
+          },
+          "occupation": {
+            "text": "Police officer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Vedelago",
+          "first": "Chris",
+          "date": "2020-01-25",
+          "title": "'The Bermuda Triangle of police files': How Simon Overland's diaries were lost and found",
+          "url": "https://www.theage.com.au/national/victoria/the-bermuda-triangle-of-police-files-how-simon-overland-s-diaries-were-lost-and-found-20200125-p53uny.html",
+          "access-date": "2022-04-17",
+          "website": "The Age",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "ausawardid": "1151431",
+          "date": "26 January 2015",
+          "recipient": "Assistant Commissioner Shane Andrew Patton",
+          "award": "Australian Police Medal",
+          "postnominal": "APM",
+          "accessdate": "29 June 2020",
+          "template": "citation",
+          "type": "it's an honour"
+        },
+        {
+          "last1": "Pearson",
+          "first1": "Erin",
+          "last2": "Mills",
+          "first2": "Tammy",
+          "title": "'Enormous experience': Shane Patton to serve as Victoria's new top cop",
+          "url": "https://www.theage.com.au/national/victoria/victoria-s-new-police-chief-commissioner-announced-20200601-p54ycv.html",
+          "accessdate": "29 June 2020",
+          "work": "The Age",
+          "publisher": "Nine Limited",
+          "date": "1 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Shane Patton named new Victoria Police Chief Commissioner as Graham Ashton prepares to retire",
+          "url": "https://www.abc.net.au/news/2020-06-01/new-victoria-police-chief-commissioner-named-shane-patton/12306964",
+          "accessdate": "29 June 2020",
+          "work": "ABC News",
+          "publisher": "Australian Broadcasting Corporation",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "Australia"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "pol"
+          ],
+          "template": "s-civ"
+        },
+        {
+          "before": "Graham Ashton",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Commissioner of Victoria Police",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "chief commissioners of victoria police"
+        },
+        {
+          "template": "australia-bio-stub"
+        }
+      ]
+    }
+  ]
+}

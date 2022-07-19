@@ -1,0 +1,506 @@
+{
+  "title": "Peter Watson (politician)",
+  "pageID": 16992783,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "Members of the Western Australian Legislative Assembly",
+    "Speakers of the Western Australian Legislative Assembly",
+    "Olympic athletes of Australia",
+    "Australian male sprinters",
+    "Athletes (track and field) at the 1968 Summer Olympics",
+    "Athletes (track and field) at the 1974 British Commonwealth Games",
+    "People educated at Perth Modern School",
+    "Australian Labor Party members of the Parliament of Western Australia",
+    "21st-century Australian politicians",
+    "Politicians from Melbourne",
+    "Athletes from Melbourne",
+    "Sportsmen from Western Australia",
+    "Commonwealth Games competitors for Australia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Bruce Watson (born 30 May 1947) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Peter Bruce Watson"
+                ]
+              }
+            },
+            {
+              "text": "He was the Labor Party member of the Western Australian Legislative Assembly from February 2001 to March 2021, representing the electorate of Albany.",
+              "links": [
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Western Australian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Western Australian Legislative Assembly"
+                },
+                {
+                  "text": "Albany",
+                  "type": "internal",
+                  "page": "electoral district of Albany"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watson was born in the Melbourne suburb of Reservoir.",
+              "links": [
+                {
+                  "text": "Reservoir",
+                  "type": "internal",
+                  "page": "Reservoir, Victoria"
+                }
+              ]
+            },
+            {
+              "text": "After arriving in Western Australia in 1961, Watson attended Perth Modern School and took up athletics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Perth Modern School"
+                }
+              ]
+            },
+            {
+              "text": "He excelled at the 1500m event and won the Australian title in 1968 and again in 1973."
+            },
+            {
+              "text": "Watson was the third West Australian after Herb Elliott and Keith Wheeler to break the four minute mile.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Herb Elliott"
+                },
+                {
+                  "text": "four minute mile",
+                  "type": "internal",
+                  "page": "four minute mile"
+                }
+              ]
+            },
+            {
+              "text": "He represented Australia at the 1968 Summer Olympics and the 1974 Commonwealth Games.",
+              "links": [
+                {
+                  "text": "1968 Summer Olympics",
+                  "type": "internal",
+                  "page": "1968 Summer Olympics"
+                },
+                {
+                  "text": "1974 Commonwealth Games",
+                  "type": "internal",
+                  "page": "1974 Commonwealth Games"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Employed at Australia Post, Watson held various positions, including postal manager, before entering politics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australia Post"
+                }
+              ]
+            },
+            {
+              "text": "He was successful at the 2001 Western Australian state election, defeating the sitting member, Kevin Prince, and was re-elected in 2005.",
+              "links": [
+                {
+                  "text": "2001 Western Australian state election",
+                  "type": "internal",
+                  "page": "2001 Western Australian state election"
+                },
+                {
+                  "text": "Kevin Prince",
+                  "type": "internal",
+                  "page": "Kevin Prince (politician)"
+                },
+                {
+                  "text": "2005",
+                  "type": "internal",
+                  "page": "2005 Western Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the 2008 election, electoral boundary changes resulting from the adoption of the one-vote one-value principle meant that substantial rural areas were included in the electorate, and it became notionally Liberal.",
+              "links": [
+                {
+                  "text": "2008 election",
+                  "type": "internal",
+                  "page": "2008 Western Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "Watson won the seat by 89 votes."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In both the 2008 and 2013 elections, Watson accomplished the feat of winning in the face of swings against the Australian Labor Party in the state as a whole.",
+              "links": [
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Western Australian state election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Watson retained the seat again at the 2017 election with a swing toward him of 1.8%, winning the seat by 4.1% after preferences.",
+              "links": [
+                {
+                  "text": "2017 election",
+                  "type": "internal",
+                  "page": "2017 Western Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "Watson was appointed Speaker of the Legislative Assembly on 11 May 2017.",
+              "links": [
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "Speaker of the Western Australian Legislative Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Western Australian politician and middle-distance runner",
+          "template": "short description"
+        },
+        {
+          "date": "August 2016",
+          "template": "use australian english"
+        },
+        {
+          "date": "January 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1947",
+          "month": "5",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Peter Watson"
+          },
+          "caption": {
+            "text": "Peter Watson campaign poster 2017"
+          },
+          "office": {
+            "text": "30th Speaker of the Western Australian Legislative Assembly",
+            "links": [
+              {
+                "text": "30th Speaker of the Western Australian Legislative Assembly",
+                "type": "internal",
+                "page": "Speaker of the Western Australian Legislative Assembly"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 May 2017"
+          },
+          "term_end": {
+            "text": "29 April 2021"
+          },
+          "predecessor": {
+            "text": "Michael Sutherland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Sutherland"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Michelle Roberts",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Roberts"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Albany",
+            "links": [
+              {
+                "text": "Albany",
+                "type": "internal",
+                "page": "Electoral district of Albany"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Western Australian"
+          },
+          "term_start2": {
+            "text": "10 February 2001"
+          },
+          "term_end2": {
+            "text": "29 January 2021"
+          },
+          "predecessor2": {
+            "text": "Kevin Prince",
+            "links": [
+              {
+                "text": "Kevin Prince",
+                "type": "internal",
+                "page": "Kevin Prince (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Rebecca Stephens",
+            "links": [
+              {
+                "text": "Rebecca Stephens",
+                "type": "internal",
+                "page": "Rebecca Stephens (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 30, 1947"
+          },
+          "birth_place": {
+            "text": "Reservoir, Victoria",
+            "links": [
+              {
+                "text": "Reservoir",
+                "type": "internal",
+                "page": "Reservoir, Victoria"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Peter Bruce Watson"
+          },
+          "citizenship": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party (Western Australian Branch)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Postal worker"
+          },
+          "website": {
+            "text": "https://web.archive.org/web/20201124001017/http://www.peterwatson.walabor.org.au/ (Archive)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.athletics.com.au/history/national/matf55.htm",
+          "title": "Australian Open Track & Field Championships",
+          "year": "2007",
+          "access-date": "10 April 2008",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20080731232722/http://www.athletics.com.au/history/national/matf55.htm",
+          "archive-date": "31 July 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://corporate.olympics.com.au/wa/files/19/WAOC_History_Package_30Nov06.pdf",
+          "title": "WA's Olympic History 1912–2006",
+          "year": "2006",
+          "access-date": "18 April 2008",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20070912021132/http://corporate.olympics.com.au/wa/files/19/WAOC_History_Package_30Nov06.pdf",
+          "archive-date": "12 September 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.athletics.com.au/history/athletes/athlete617.htm",
+          "title": "Australian Athletics – Historical results",
+          "year": "2008",
+          "access-date": "18 April 2008",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20071020154104/http://www.athletics.com.au/history/athletes/athlete617.htm",
+          "archive-date": "20 October 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Electorate Results – Albany",
+          "url": "http://www.abc.net.au/elections/wa/2005/results/alba.htm",
+          "work": "ABC Elections",
+          "publisher": "Australian Broadcasting Corporation",
+          "access-date": "14 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Electorate Results – Albany",
+          "url": "http://www.abc.net.au/elections/wa/2008/guide/alba.htm",
+          "work": "ABC Elections",
+          "publisher": "Australian Broadcasting Corporation",
+          "access-date": "14 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Electorate Results – Albany",
+          "url": "http://www.abc.net.au/elections/wa/2013/guide/alba.htm",
+          "work": "ABC Elections",
+          "publisher": "Australian Broadcasting Corporation",
+          "access-date": "14 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hansard WA Parliament",
+          "work": "Parliament of Western Australia",
+          "date": "11 May 2017",
+          "url": "http://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/4A01EB88B3C8AD724825811D003BD556/$file/A40%20S1%2020170511%20All.pdf",
+          "archive-date": "14 May 2017",
+          "archive-url": "https://web.archive.org/web/20170514165527/http://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/4A01EB88B3C8AD724825811D003BD556/$file/A40%20S1%2020170511%20All.pdf",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.skynews.com.au/news/politics/state/2017/05/11/wa-premier-grilled-during-question-time.html",
+          "title": "WA premier grilled during question time",
+          "date": "11 May 2017",
+          "work": "Sky News",
+          "quote": "Earlier, as the longest-serving MP, former premier Colin Barnett briefly chaired the lower house for the unopposed election of Labor's Peter Watson as Speaker.",
+          "archive-url": "https://archive.today/20170524044202/http://www.skynews.com.au/news/politics/state/2017/05/11/wa-premier-grilled-during-question-time.html",
+          "archive-date": "24 May 2017",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.wa.gov.au/parliament%5Cmemblist.nsf/AllDocs/70D4270613A8AEBB482569FC00285797?opendocument",
+          "title": "Extract from the Western Australian Parliamentary Handbook",
+          "year": "2007",
+          "access-date": "10 April 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/news/elections/wa-election-2017/guide/alba/",
+          "title": "WA Election 2017 Electorate: Albany",
+          "access-date": "12 March 2017",
+          "date": "11 March 2017",
+          "publisher": "Australian Broadcasting Corporation",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-wa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Kevin Prince",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Albany",
+          "years": "2001–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rebecca Stephens",
+          "template": "s-aft"
+        },
+        {
+          "before": "Michael Sutherland",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the Western Australian Legislative Assembly",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michelle Roberts",
+          "template": "s-aft"
+        },
+        {
+          "template": "footer australia nc 800m men"
+        },
+        {
+          "template": "footer australia nc 1500m men"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

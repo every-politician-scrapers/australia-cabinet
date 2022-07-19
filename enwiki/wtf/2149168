@@ -1,0 +1,955 @@
+{
+  "title": "Justine Elliot",
+  "pageID": 2149168,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Labor Right politicians",
+    "Australian police officers",
+    "Members of the Australian House of Representatives for Richmond",
+    "Members of the Australian House of Representatives",
+    "Government ministers of Australia",
+    "Women members of the Australian House of Representatives",
+    "Griffith University alumni",
+    "University of Queensland alumni",
+    "Politicians from Brisbane",
+    "Women government ministers of Australia",
+    "Women police officers",
+    "21st-century Australian politicians",
+    "21st-century Australian women politicians",
+    "Australian people of American descent",
+    "Australian people of Sicilian descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria Justine Elliot (née Borsellino; born 29 July 1967) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Maria Justine Elliot",
+                  "Borsellino"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Australian Labor Party (ALP) and has served in the House of Representatives since the 2004 federal election, representing the New South Wales seat of Richmond.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "Australian House of Representatives"
+                },
+                {
+                  "text": "2004 federal election",
+                  "type": "internal",
+                  "page": "2004 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                },
+                {
+                  "text": "Richmond",
+                  "type": "internal",
+                  "page": "Division of Richmond"
+                }
+              ]
+            },
+            {
+              "text": "She served as Minister for Ageing in the First Rudd Government from 2007 to 2010 and as a parliamentary secretary in the Gillard Government from 2010 to 2013.",
+              "links": [
+                {
+                  "text": "Minister for Ageing",
+                  "type": "internal",
+                  "page": "Minister for Ageing (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Rudd Government"
+                },
+                {
+                  "text": "parliamentary secretary",
+                  "type": "internal",
+                  "page": "parliamentary secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gillard Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2016",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2007",
+            "month": "12",
+            "date": "03",
+            "template": "start date",
+            "text": "December 3, 2007"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2010",
+            "month": "06",
+            "date": "28",
+            "template": "end date",
+            "text": "June 28, 2010"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2010",
+            "month": "09",
+            "date": "14",
+            "template": "start date",
+            "text": "September 14, 2010"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "2013",
+            "month": "02",
+            "date": "04",
+            "template": "end date",
+            "text": "February 4, 2013"
+          }
+        },
+        {
+          "df": "y",
+          "year": "1967",
+          "month": "7",
+          "day": "29",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Justine Elliot"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Australian House of Representatives"
+              }
+            ]
+          },
+          "image": {
+            "text": "Justine Elliot.jpg"
+          },
+          "office1": {
+            "text": "Minister for Ageing",
+            "links": [
+              {
+                "text": "Minister for Ageing",
+                "type": "internal",
+                "page": "Minister for Ageing (Australia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Kevin Rudd\nJulia Gillard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kevin Rudd"
+              },
+              {
+                "type": "internal",
+                "page": "Julia Gillard"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Christopher Pyne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christopher Pyne"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mark Butler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Butler"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "December 3, 2007"
+          },
+          "term_end1": {
+            "text": "June 28, 2010"
+          },
+          "office2": {
+            "text": "Parliamentary Secretary for Trade",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Secretary"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Julia Gillard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julia Gillard"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Anthony Byrne",
+            "links": [
+              {
+                "text": "Anthony Byrne",
+                "type": "internal",
+                "page": "Anthony Byrne (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Kelvin Thomson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kelvin Thomson"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "September 14, 2010"
+          },
+          "term_end2": {
+            "text": "February 4, 2013"
+          },
+          "constituency_mp3": {
+            "text": "Richmond",
+            "links": [
+              {
+                "text": "Richmond",
+                "type": "internal",
+                "page": "Division of Richmond"
+              }
+            ]
+          },
+          "parliament3": {
+            "text": "Australian"
+          },
+          "predecessor3": {
+            "text": "Larry Anthony",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Larry Anthony"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "9 October 2004"
+          },
+          "birth_name": {
+            "text": "Maria Justine Borsellino"
+          },
+          "birth_date": {
+            "text": "July 29, 1967"
+          },
+          "birth_place": {
+            "text": "Brisbane, Queensland, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brisbane"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Labor",
+            "links": [
+              {
+                "text": "Labor",
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Queensland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Queensland"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Police officer"
+          },
+          "website": {
+            "text": "https://www.justineelliot.com.au/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elliot was born on 29 July 1967 in Brisbane, Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brisbane"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queensland"
+                }
+              ]
+            },
+            {
+              "text": "Her father Bob Borsellino (d."
+            },
+            {
+              "text": "2011) was a journalist and political activist who led efforts for an inquiry into the killing of the Balibo Five.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Balibo Five"
+                }
+              ]
+            },
+            {
+              "text": "He was a candidate for the Democrats and Greens at several state and federal elections.",
+              "links": [
+                {
+                  "text": "Democrats",
+                  "type": "internal",
+                  "page": "Australian Democrats"
+                },
+                {
+                  "text": "Greens",
+                  "type": "internal",
+                  "page": "Australian Greens"
+                }
+              ]
+            },
+            {
+              "text": "Her grandfathers were both World War II veterans, Joe Borsellino with the United States Marines and Victor Perkins with the Australian Army.",
+              "links": [
+                {
+                  "text": "United States Marines",
+                  "type": "internal",
+                  "page": "United States Marine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Army"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Elliot attended Nambour State High School, graduating in 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nambour State High School"
+                }
+              ]
+            },
+            {
+              "text": "She went on to complete a Bachelor of Arts at the University of Queensland, majoring in English and history, and a graduate diploma in human resource management and industrial relations at Griffith University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Queensland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Griffith University"
+                }
+              ]
+            },
+            {
+              "text": "Elliot was an officer with the Queensland Police from 1990 to 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queensland Police"
+                }
+              ]
+            },
+            {
+              "text": "She subsequently moved to New South Wales and worked at the Department of Juvenile Justice from 2002 to 2003."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dailymercury.com.au/news/bob-fought-justice-activist-east-timor-borsellino/889151/",
+          "title": "Bob fought for justice",
+          "newspaper": "Daily Mercury",
+          "location": "Mackay, Qld.",
+          "date": "28 June 2011",
+          "access-date": "3 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZW",
+          "title": "Hon Justine Elliot MP",
+          "publisher": "Parliament of Australia",
+          "access-date": "3 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.sunshinecoastdaily.com.au/news/nambour-high-has-third-minister/332451/",
+          "title": "Nambour High has third Minister",
+          "newspaper": "Sunshine Coast Daily",
+          "date": "30 November 2007",
+          "access-date": "3 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22chamber/hansardr/2004-12-02/0074%22",
+          "title": "Maiden speech",
+          "work": "Hansard",
+          "publisher": "Parliament of Australia",
+          "access-date": "2 December 2004",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.alp.org.au/justine_elliot",
+          "title": "Justine Elliot",
+          "publisher": "Australian Labor Party",
+          "date": "3 April 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elliot joined the ALP in 1995 and served as president of its Tweed Coast branch from 2003 to 2004.",
+              "links": [
+                {
+                  "text": "Tweed Coast",
+                  "type": "internal",
+                  "page": "Tweed Heads, New South Wales"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Opposition (2004–2007)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a considerable upset at the 2004 election, Elliot defeated the National Party's Larry Anthony, a minister in the Howard government.",
+              "links": [
+                {
+                  "text": "2004 election",
+                  "type": "internal",
+                  "page": "2004 Australian federal election"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Larry Anthony"
+                },
+                {
+                  "type": "internal",
+                  "page": "Howard government"
+                }
+              ]
+            },
+            {
+              "text": "Elliot's win was one of the few victories for the Labor Party as the Coalition easily won a fourth term in government.",
+              "links": [
+                {
+                  "text": "Coalition",
+                  "type": "internal",
+                  "page": "Coalition (Australia)"
+                }
+              ]
+            },
+            {
+              "text": "She was only the second Labor member ever to win the seat, and was also the only Labor challenger to defeat a Coalition MP in a rural seat."
+            },
+            {
+              "text": "Richmond had been in the hands of a conservative party for all but six years since Federation, and for 66 of those years by the National Party."
+            },
+            {
+              "text": "For much of that time, it had been a reasonably safe National seat."
+            },
+            {
+              "text": "However, the growth of Tweed Heads and other coastal communities, as well as the concurrent loss of its more rural territory, has seen it become an increasingly urban seat since the 1980s.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tweed Heads"
+                }
+              ]
+            },
+            {
+              "text": "Elliot trailed Anthony by 11 points on the first count and was well behind him for most of the night."
+            },
+            {
+              "text": "However, on the seventh count, a Green candidate's preferences flowed overwhelmingly to Elliot, allowing her to defeat Anthony by 301 votes.",
+              "links": [
+                {
+                  "text": "Green",
+                  "type": "internal",
+                  "page": "Australian Greens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Elliot served on the House of Representatives Standing Committee on Health and Ageing from 2004 to 2007."
+            },
+            {
+              "text": "The 2007 election saw Elliot re-elected over the Nationals' Sue Page.",
+              "links": [
+                {
+                  "text": "2007 election",
+                  "type": "internal",
+                  "page": "2007 Australian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sue Page"
+                }
+              ]
+            },
+            {
+              "text": "She picked up a swing of over 7.4 points, which was significantly larger than the New South Wales state average and technically made Richmond a safe Labor seat."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.goldcoast.com.au/article/2012/02/24/393915_tweed-byron-news.html",
+          "title": "Tweed MP to back Kevin Rudd",
+          "work": "Goldcoast.com.au",
+          "date": "24 February 2012",
+          "access-date": "27 March 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "April 2021",
+          "template": "citation needed"
+        },
+        {
+          "date": "April 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Government (2007–2013)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Prime Minister Kevin Rudd announced Elliott would be part of his new ministry on 29 November 2007, as Minister for Ageing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kevin Rudd"
+                },
+                {
+                  "text": "new ministry",
+                  "type": "internal",
+                  "page": "First Rudd Ministry"
+                },
+                {
+                  "text": "Minister for Ageing",
+                  "type": "internal",
+                  "page": "Minister for Ageing (Australia)"
+                }
+              ]
+            },
+            {
+              "text": "She retained the seat at the 2010 election with only a small swing against Labor.",
+              "links": [
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "She stepped aside as Minister for Ageing ahead of the formation of the Second Gillard Ministry on 11 September 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Gillard Ministry"
+                }
+              ]
+            },
+            {
+              "text": "On 11 September 2010 Elliot was appointed as Parliamentary Secretary for Foreign Affairs and Trade, and held this position until a reconfiguration of the ministry on 4 February 2013 when she became a backbencher.",
+              "links": [
+                {
+                  "text": "backbencher",
+                  "type": "internal",
+                  "page": "backbencher"
+                }
+              ]
+            },
+            {
+              "text": "She publicly announced that this was because of her opposition to coal-seam gas mining (CSG) in the electorate, which conflicted with the role of parliamentary secretary."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.smh.com.au/news/national/rudd-drops-six-report/2007/11/29/1196037032972.html",
+          "title": "Rudd drops six: report",
+          "date": "29 November 2007",
+          "access-date": "29 November 2007",
+          "work": "The Sydney Morning Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/stories/2010/09/11/3009113.htm",
+          "title": "Gillard unveils new Cabinet",
+          "publisher": "ABC News",
+          "location": "Australia",
+          "date": "11 September 2010",
+          "access-date": "11 September 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.theage.com.au/national/the-gillard-ministry-20100911-155qc.html",
+          "location": "Australia",
+          "work": "The Age",
+          "title": "The Gillard ministry",
+          "date": "11 September 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZW",
+          "title": "The Hon Justine Elliot MP",
+          "work": "Parliament of Australia: Senators and Members",
+          "publisher": "Commonwealth of Australia",
+          "access-date": "27 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tweeddailynews.com.au/news/justine-elliot-defends-her-stand-against-csg/1750319/",
+          "title": "Justine Elliot defends her stand against CSG",
+          "date": "10 February 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Opposition (2013–2022)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elliot retained Richmond for Labor at the 2013 election even as the Coalition opposition defeated the incumbent Labor government, marking only the second time (the first being her initial victory in 2004) that the non-Labor parties had been in government without holding Richmond.",
+              "links": [
+                {
+                  "text": "2013 election",
+                  "type": "internal",
+                  "page": "2013 Australian federal election"
+                }
+              ]
+            },
+            {
+              "text": "She again won with an increased majority at the 2016 election and then increased her majority again at the 2019 election.",
+              "links": [
+                {
+                  "text": "2016 election",
+                  "type": "internal",
+                  "page": "2016 Australian federal election"
+                },
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Elliot served on the Joint Statutory Law Enforcement Committee in 2013 and 2014, and the Joint Standing Treaties Committee in 2013."
+            },
+            {
+              "text": "She also served on the three House of Representatives Standing Committees of Regional Australia, Publications and Petitions from 2013 to 2016."
+            },
+            {
+              "text": "Elliot has been the Chair of the Federal Labor Country Caucus since 2014, and was the Deputy Chair of the Standing Committee on Petitions from 2013 to 2016, and again since 2019."
+            },
+            {
+              "text": "She has also served on the Australian Commission for Law Enforcement Integrity since 2016, and the Law Enforcement Committee since 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.joelfitzgibbon.com/rural_and_regional_australia_goes_to_the_top_of_labor_s_agenda",
+          "title": "Rural and Regional Australia Goes to the Top of Labors Agenda",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Government (2022-present)",
+      "depth": 1
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elliot has two children with her husband Craig Elliot, who is also a former police officer."
+            },
+            {
+              "text": "As of 2018 they lived in the rural locality of Nunderi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nunderi"
+                }
+              ]
+            },
+            {
+              "text": "Her husband was the ALP's candidate in Tweed at the 2019 New South Wales state election.",
+              "links": [
+                {
+                  "text": "Tweed",
+                  "type": "internal",
+                  "page": "Electoral district of Tweed"
+                },
+                {
+                  "text": "2019 New South Wales state election",
+                  "type": "internal",
+                  "page": "2019 New South Wales state election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.qt.com.au/news/game-on-mps-husband-throws-hat-in-ring/3396190/",
+          "title": "Game on: MP's husband throws hat in ring",
+          "newspaper": "Queensland Times",
+          "date": "24 April 2018",
+          "access-date": "3 April 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "First Rudd Ministry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Rudd Ministry"
+              }
+            ]
+          },
+          {
+            "text": "First Gillard Ministry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Gillard Ministry"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "openaustralia"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Christopher Pyne",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Ageing",
+          "years": "2007–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mark Butler",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Larry Anthony",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Richmond",
+          "years": "2004–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "current new south wales representatives"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

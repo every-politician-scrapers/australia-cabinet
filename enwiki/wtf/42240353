@@ -1,0 +1,601 @@
+{
+  "title": "Corey Wingard",
+  "pageID": 42240353,
+  "categories": [
+    "Members of the South Australian House of Assembly",
+    "Living people",
+    "21st-century Australian politicians",
+    "University of South Australia alumni",
+    "Year of birth missing (living people)",
+    "10 Sport",
+    "Australian television presenters"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Corey Luke Wingard is a former Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Corey Luke Wingard"
+                ]
+              }
+            },
+            {
+              "text": "He was a Liberal member of the South Australian House of Assembly from the 2014 state election, representing Mitchell until 2018 and Gibson until his defeat in 2022.",
+              "links": [
+                {
+                  "text": "Liberal",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (South Australian Division)"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian House of Assembly"
+                },
+                {
+                  "text": "2014 state election",
+                  "type": "internal",
+                  "page": "2014 South Australian state election"
+                },
+                {
+                  "text": "Mitchell",
+                  "type": "internal",
+                  "page": "Electoral district of Mitchell (South Australia)"
+                },
+                {
+                  "text": "Gibson",
+                  "type": "internal",
+                  "page": "Electoral district of Gibson"
+                }
+              ]
+            },
+            {
+              "text": "Wingard served as the Minister for Recreation, Sport and Racing in the Marshall Ministry from 2018 to 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marshall Ministry"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as the Minister for Police, Emergency Services and Correctional Services."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following a Cabinet reshuffle on 28 July 2020, Wingard was appointed the Minister for Infrastructure and Transport, and was sworn in on the following day."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wingard previously was a journalist and sports presenter, ran a media advice company, and worked for senator Sean Edwards.",
+              "links": [
+                {
+                  "text": "journalist",
+                  "type": "internal",
+                  "page": "journalist"
+                },
+                {
+                  "text": "Sean Edwards",
+                  "type": "internal",
+                  "page": "Sean Edwards (politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wingard graduated from the University of South Australia with a degree in exercise and sports.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of South Australia"
+                }
+              ]
+            },
+            {
+              "text": "He worked for the SANFL before moving into television where he worked for the Nine Network on the Wide World of Sports and FOX Sports.",
+              "links": [
+                {
+                  "text": "SANFL",
+                  "type": "internal",
+                  "page": "Australian Football League"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Nine Network",
+                  "Wide World of Sports",
+                  "FOX Sports"
+                ]
+              }
+            },
+            {
+              "text": "He later joined Network 10 where he was a sports producer/presenter and was a host and commentator for major events such as the Commonwealth Games, IPL cricket, AFL and the National Basketball League.",
+              "formatting": {
+                "italic": [
+                  "Network 10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wingard was cleared of misconduct by Premier Steven Marshall following the report of a private investigator after accusations of bullying and intimidatory behavior by Leah Cassidy, chief executive of Sport SA.",
+              "links": [
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of South Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Steven Marshall"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leah Cassidy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sport SA"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2016",
+          "template": "use australian english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "March 22, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "07",
+            "date": "29",
+            "df": "y",
+            "template": "start date",
+            "text": "July 29, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "03",
+            "date": "22",
+            "df": "y",
+            "template": "start date",
+            "text": "March 22, 2018"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Corey Wingard"
+          },
+          "image": {
+            "text": "Wingard (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister for Recreation, Sport and Racing"
+          },
+          "premier": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 22, 2018"
+          },
+          "term_end": {
+            "text": "21 March 2022"
+          },
+          "predecessor": {
+            "text": "Leon Bignell (as Minister for Recreation and Sport, and as Minister for Racing)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leon Bignell"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Katrine Hildyard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katrine Hildyard"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Infrastructure and Transport"
+          },
+          "premier1": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "July 29, 2020"
+          },
+          "term_end1": {
+            "text": "21 March 2022"
+          },
+          "predecessor1": {
+            "text": "Stephan Knoll (as Minister for Infrastructure, Transport and Local Government)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephan Knoll"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Tom Koutsantonis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tom Koutsantonis"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Police, Emergency Services and Correctional Services"
+          },
+          "premier2": {
+            "text": "Steven Marshall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Marshall"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 22, 2018"
+          },
+          "term_end2": {
+            "text": "29 July 2020"
+          },
+          "predecessor2": {
+            "text": "Chris Picton (as Minister for Police, Minister for Correctional Services, and as Minister for Emergency Services)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Picton"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vincent Tarzia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vincent Tarzia"
+              }
+            ]
+          },
+          "constituency_am4": {
+            "text": "Mitchell",
+            "links": [
+              {
+                "text": "Mitchell",
+                "type": "internal",
+                "page": "Electoral district of Mitchell (South Australia)"
+              }
+            ]
+          },
+          "assembly4": {
+            "text": "South Australian House of"
+          },
+          "term_start4": {
+            "text": "15 March 2014"
+          },
+          "term_end4": {
+            "text": "17 March 2018"
+          },
+          "predecessor4": {
+            "text": "Alan Sibbons",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alan Sibbons"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "District abolished",
+            "formatting": {
+              "italic": [
+                "District abolished"
+              ]
+            }
+          },
+          "constituency_am3": {
+            "text": "Gibson",
+            "links": [
+              {
+                "text": "Gibson",
+                "type": "internal",
+                "page": "Electoral district of Gibson"
+              }
+            ]
+          },
+          "assembly3": {
+            "text": "South Australian House of"
+          },
+          "term_start3": {
+            "text": "17 March 2018"
+          },
+          "term_end3": {
+            "text": "19 March 2022"
+          },
+          "predecessor3": {
+            "text": "New seat",
+            "formatting": {
+              "italic": [
+                "New seat"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Sarah Andrews",
+            "links": [
+              {
+                "text": "Sarah Andrews",
+                "type": "internal",
+                "page": "Sarah Andrews (politician)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Cleve, South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cleve, South Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Liberal Party of Australia (SA)",
+            "links": [
+              {
+                "text": "Liberal Party of Australia (SA)",
+                "type": "internal",
+                "page": "Liberal Party of Australia (South Australian Division)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of South Australia"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Sports journalist",
+            "links": [
+              {
+                "text": "Sports journalist",
+                "type": "internal",
+                "page": "Sportscaster"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2018-03-22/sa-liberal-government-sworn-in-whos-who-in-ministry/9575712",
+          "title": "SA election: Who's who in the new South Australian Liberal Government?",
+          "last": "MacLennan",
+          "first": "Leah",
+          "date": "22 March 2018",
+          "website": "ABC News",
+          "location": "Australia",
+          "access-date": "22 March 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2018/March/2018_020.pdf",
+          "title": "The South Australian Government Gazette, 22 March 2018, No. 20, Supplementary Gazette",
+          "access-date": "23 March 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2021-09-09/sa-minister-corey-wingard-cleared-of-bullying-sport-sa-ceo/100448578",
+          "title": "Minister cleared of intimidating Sport SA boss but separate bullying allegations also aired in Parliament",
+          "newspaper": "ABC News",
+          "date": "9 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/sa-election-2014/guide/mitc/",
+          "title": "Mitchell",
+          "work": "2014 SA election",
+          "author": "Green, Antony",
+          "author-link": "Antony Green",
+          "publisher": "Australian Broadcasting Corporation",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Stephan Knoll",
+          "as": "Minister for Infrastructure, Transport and Local Government",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Infrastructure and Transport",
+          "years": "2020–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Tom Koutsantonis",
+          "template": "s-aft"
+        },
+        {
+          "before": "Leon Bignell",
+          "as": "Minister for Recreation and Sport, and as Minister for Racing",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Recreation, Sport and Racing",
+          "years": "2018–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Katrine Hildyard",
+          "template": "s-aft"
+        },
+        {
+          "before": "Chris Picton",
+          "as": "Minister for Police, Minister for Correctional Services, and as Minister for Emergency Services",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Police, Emergency Services and Correctional Services",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vincent Tarzia",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "au-sa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Alan Sibbons",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Mitchell",
+          "years": "2014–2018",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Abolished",
+          "template": "s-non"
+        },
+        {
+          "list": [
+            "seat"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member for Gibson",
+          "years": "2018–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Sarah Andrews",
+          "template": "s-aft"
+        },
+        {
+          "template": "australia-liberal-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary Profile",
+            "links": [
+              {
+                "text": "Parliamentary Profile",
+                "type": "external",
+                "site": "https://members.parliament.sa.gov.au/Detail.aspx?pid=4843"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

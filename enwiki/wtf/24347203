@@ -1,0 +1,433 @@
+{
+  "title": "Bill Johnston (politician)",
+  "pageID": 24347203,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Members of the Western Australian Legislative Assembly",
+    "Australian Labor Party members of the Parliament of Western Australia",
+    "People from Canberra",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William Joseph Johnston (born 11 August 1962) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "William Joseph Johnston"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Labor Party member of the Western Australian Legislative Assembly since the 2008 state election, representing Cannington.",
+              "links": [
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Western Australian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Western Australian Legislative Assembly"
+                },
+                {
+                  "text": "2008 state election",
+                  "type": "internal",
+                  "page": "2008 Western Australian state election"
+                },
+                {
+                  "text": "Cannington",
+                  "type": "internal",
+                  "page": "Electoral district of Cannington"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "While still a student Johnston spent time abroad as an American Field Service exchange student to Bandung, Indonesia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "American Field Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bandung"
+                }
+              ]
+            },
+            {
+              "text": "He is married to Kate Doust, the member for the South Metropolitan Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kate Doust"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to entering Parliament, Johnston spent seven years as the state secretary of WA Labor and was a former senior official of the Shop, Distributive and Allied Employees Association, the union representing retail and warehouse workers.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shop, Distributive and Allied Employees Association"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2013 state election, Johnston was re-elected for a second term in office.",
+              "links": [
+                {
+                  "text": "2013 state election",
+                  "type": "internal",
+                  "page": "2013 Western Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "In opposition, he was the shadow minister for State Development; Energy; Mines & Petroleum."
+            },
+            {
+              "text": "He was reelected again at the 2017 Western Australian state election.",
+              "links": [
+                {
+                  "text": "2017 Western Australian state election",
+                  "type": "internal",
+                  "page": "2017 Western Australian state election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use australian english"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "8",
+          "day": "11",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bill Johnston"
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "assembly": {
+            "text": "Western Australian Legislative"
+          },
+          "constituency_am": {
+            "text": "Cannington",
+            "links": [
+              {
+                "text": "Cannington",
+                "type": "internal",
+                "page": "Electoral district of Cannington"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party (Western Australian Branch)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "William Joseph Johnston"
+          },
+          "birth_date": {
+            "text": "August 11, 1962"
+          },
+          "birth_place": {
+            "text": "Canberra, ACT, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Canberra"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Kate Doust",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kate Doust"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.billjohnston.com.au/"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "Western Australian Legislative Assembly"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 September 2008"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Parliament of Western Australia",
+          "author-link": "Parliament of Western Australia",
+          "title": "Mr William (Bill) Joseph Johnston MLA",
+          "year": "2013",
+          "url": "http://www.parliament.wa.gov.au/web/newwebparl.nsf/iframewebpages/Legislative+Assembly+-+Current+Members",
+          "accessdate": "15 September 2009",
+          "archiveurl": "https://web.archive.org/web/20090913004708/http://www.parliament.wa.gov.au/web/newwebparl.nsf/iframewebpages/Legislative%2BAssembly%2B-%2BCurrent%2BMembers",
+          "archivedate": "13 September 2009",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "McGowan Ministry",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "When Labor was elected to government in 2017, Johnston became Minister for Asian Engagement; Minister for Housing; Minister for Electoral Affairs; and Minister for Commerce and Industrial Relations.",
+              "links": [
+                {
+                  "text": "elected to government in 2017",
+                  "type": "internal",
+                  "page": "2017 Western Australian state election"
+                }
+              ]
+            },
+            {
+              "text": "Five days after the cabinet was sworn in, he swapped the Housing portfolio with Peter Tinley, after Tinley resigned as Minister for Mines and Petroleum over a possible conflict of interest.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peter Tinley"
+                },
+                {
+                  "text": "Minister for Mines and Petroleum",
+                  "type": "internal",
+                  "page": "Minister for Mines and Petroleum (Western Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 December 2018 Johnston gained the Energy portfolio and relinquished Electoral Affairs, Commerce and Asian Engagement.",
+              "links": [
+                {
+                  "text": "Energy",
+                  "type": "internal",
+                  "page": "Minister for Energy (Western Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Minister for Industrial Relations, Johnston introduced industrial manslaughter laws.",
+              "links": [
+                {
+                  "text": "industrial manslaughter",
+                  "type": "internal",
+                  "page": "industrial manslaughter"
+                }
+              ]
+            },
+            {
+              "text": "These laws include a maximum penalty of between five and 20 years imprisonment for individuals, along with fines of up to $10 million for companies responsible for the death of a worker."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2020, Johnston and Premier Mark McGowan announced the Household Electricity Credit, a $600 credit applied to every household electricity account.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mark McGowan"
+                }
+              ]
+            },
+            {
+              "text": "The credit was funded by a settlement of the decades long Bell Group litigation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bell Group"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Also as Energy Minister, Johnston launched Western Australia's first Whole of System Plan, a long-term plan for the South West Interconnected System electricity network.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South West Interconnected System"
+                }
+              ]
+            },
+            {
+              "text": "He has also overseen reforms to solar buyback arrangements, intended to support the stability of the electricity network as household solar generation increases."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-10-22",
+          "title": "Almost three years after her son fell to his death, Regan Ballantine says his life has been 'given more meaning'",
+          "url": "https://www.abc.net.au/news/2020-10-22/wa-upper-house-passes-work-safety-industrial-manslaughter-bill/12801790",
+          "access-date": "2020-11-21",
+          "website": "www.abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-10-04",
+          "title": "WA households get pre-Christmas boost with $600 power credit from Bell Group settlement",
+          "url": "https://www.abc.net.au/news/2020-10-04/wa-households-electricity-credit-state-budget-bell-group/12730314",
+          "access-date": "2020-11-21",
+          "website": "www.abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-10-11",
+          "title": "Renewable energy predicted to power 80 per cent of WA's biggest electricity network within two decades",
+          "url": "https://www.abc.net.au/news/2020-10-12/future-of-wa-energy-system-half-coal-power-plants-shut-by-2025/12750068",
+          "access-date": "2020-11-21",
+          "website": "www.abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-30",
+          "title": "Solar subsidies to be slashed in WA, experts say other states likely to follow suit",
+          "url": "https://www.abc.net.au/news/2020-08-31/wa-solar-subsidy-overhaul-to-avoid-grid-overload/12608036",
+          "access-date": "2020-11-21",
+          "website": "www.abc.net.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "21 March 2017",
+          "title": "Mining, housing ministers swap jobs",
+          "work": "PerthNow",
+          "url": "http://www.perthnow.com.au/news/western-australia/new-wa-mining-housing-ministers-swap-jobs/news-story/68d0bef633ceb6470b94c828b00c0a5e",
+          "accessdate": "16 June 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-wa-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "list": [
+            "seat"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member for Cannington",
+          "years": "2008–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet of western australia"
+        },
+        {
+          "template": "wacurrentmlas"
+        },
+        {
+          "template": "australia-labor-westernaustralia-mp-stub"
+        }
+      ]
+    }
+  ]
+}

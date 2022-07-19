@@ -1,0 +1,362 @@
+{
+  "title": "Nazih Elasmar",
+  "pageID": 16726310,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Members of the Victorian Legislative Council",
+    "Presidents of the Victorian Legislative Council",
+    "Australian Labor Party members of the Parliament of Victoria",
+    "Mayors of places in Victoria (Australia)",
+    "Victoria (Australia) local councillors",
+    "Recipients of the Medal of the Order of Australia",
+    "Recipients of the Centenary Medal",
+    "Lebanese emigrants to Australia",
+    "21st-century Australian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nazih Halim Elasmar (Arabic: نزيه حليم الأسمر) (born 16 April 1953), is an Australian politician, and a sitting member of the Victorian Legislative Council for the Labor Party.",
+              "links": [
+                {
+                  "text": "Arabic",
+                  "type": "internal",
+                  "page": "Arabic language"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victorian Legislative Council"
+                },
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Victorian Branch)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nazih Halim Elasmar"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2006 Victorian state elections, Elasmar was elected to the Northern Metropolitan Region.",
+              "links": [
+                {
+                  "text": "2006 Victorian state elections",
+                  "type": "internal",
+                  "page": "2006 Victorian state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Metropolitan Region"
+                }
+              ]
+            },
+            {
+              "text": "He was previously the mayor of the City of Darebin in 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "City of Darebin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, Elasmar was elected as the President of the Victorian Legislative Council, succeeding Shaun Leane.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Victorian Legislative Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shaun Leane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Elasmar is married with three children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2021",
+          "template": "blp sources"
+        },
+        {
+          "date": "January 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "size": "100%",
+          "list": [
+            "OAM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1953",
+          "month": "4",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "OAM"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nazih Elasmar"
+          },
+          "honorific-suffix": {
+            "text": "MLC",
+            "links": [
+              {
+                "text": "MLC",
+                "type": "internal",
+                "page": "Victorian Legislative Council"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 16, 1953"
+          },
+          "birth_place": {
+            "text": "Beirut, Lebanon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beirut, Lebanon"
+              }
+            ]
+          },
+          "office": {
+            "text": "President of the Victorian Legislative Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Victorian Legislative Council"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 June 2020"
+          },
+          "predecessor": {
+            "text": "Shaun Leane",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shaun Leane"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Wendy Lovell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wendy Lovell"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Victorian Legislative Council for Northern Metropolitan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victorian Legislative Council"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Metropolitan Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 November 2006"
+          },
+          "constituency1": {
+            "text": "Northern Metropolitan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Metropolitan Region"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labor",
+            "links": [
+              {
+                "text": "Labor",
+                "type": "internal",
+                "page": "Australian Labor Party (Victorian Branch)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Teacher\nElectorate Officer\nPolitician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sbs.com.au/news/vic-labor-mp-resigns-post-role-filled",
+          "title": "Labor MP Nazih Elasmar is the new Victorian upper house deputy president replacing Khalil Eideh.",
+          "date": "25 July 2018",
+          "agency": "AAP",
+          "publisher": "SBS",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nazih Elasmar",
+          "url": "https://www.parliament.vic.gov.au/about/people-in-parliament/members-search/list-all-members/details/22/61",
+          "publisher": "Parliament of Victoria",
+          "access-date": "18 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "General citations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.vic.gov.au/handbook/searchresult.cfm?menuid=1&memberId=1626",
+          "title": "Nazih Elasmar, OAM",
+          "work": "Parliamentary Handbook",
+          "publisher": "Parliament of Victoria",
+          "access-date": "2008-07-20",
+          "archive-url": "https://web.archive.org/web/20080723065037/http://www.parliament.vic.gov.au/handbook/searchresult.cfm?menuid=1&memberId=1626",
+          "archive-date": "2008-07-23",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "url": "http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1131634&search_type=simple&showInd=true",
+          "title": "Nazih Halim EL ASMAR, OAM",
+          "date": "2006-01-26",
+          "work": "itsanhonour.gov.au",
+          "publisher": "Australian Government",
+          "access-date": "2008-07-20",
+          "archive-url": "https://web.archive.org/web/20120527161805/http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1131634&search_type=simple&showInd=true",
+          "archive-date": "27 May 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-vic-lc"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Shaun Leane",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Victorian Legislative Council",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "presiding officers of australian legislatures"
+        },
+        {
+          "template": "viccurrentmlcs"
+        },
+        {
+          "template": "australia-labor-victoria-mp-stub"
+        },
+        {
+          "template": "australia-mayor-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary voting record of Nazih Elasmar at Victorian Parliament Tracker",
+            "links": [
+              {
+                "text": "Parliamentary voting record of Nazih Elasmar at Victorian Parliament Tracker",
+                "type": "external",
+                "site": "http://vicvote.review/council/members/Nazih%20Elasmar.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

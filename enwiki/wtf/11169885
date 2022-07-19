@@ -1,0 +1,770 @@
+{
+  "title": "Jacinta Allan",
+  "pageID": 11169885,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Australian Labor Party members of the Parliament of Victoria",
+    "Members of the Victorian Legislative Assembly",
+    "People from Bendigo",
+    "21st-century Australian politicians",
+    "21st-century Australian women politicians",
+    "Women members of the Victorian Legislative Assembly"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jacinta Marie Allan (born 19 September 1973) is an Australian politician serving as Deputy Premier of Victoria since June 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Premier of Victoria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jacinta Marie Allan"
+                ]
+              }
+            },
+            {
+              "text": "She has been a Labor Party member of the Victorian Legislative Assembly since 1999, representing the electorate of Bendigo East.",
+              "links": [
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (Victorian Branch)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victorian Legislative Assembly"
+                },
+                {
+                  "text": "Bendigo East",
+                  "type": "internal",
+                  "page": "electoral district of Bendigo East"
+                }
+              ]
+            },
+            {
+              "text": "Allan is the longest serving Victorian female Minister in the State’s history and Victoria’s longest serving Labor Minister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A member of a prominent Bendigo political family, she is the granddaughter of the late Bendigo Trades Hall Council President William Allan."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "December 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1973",
+          "month": "9",
+          "day": "19",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Ben Davis",
+          "from": "2004",
+          "to": "2008",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Yorick Piper",
+          "from": "2012",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jacinta Allan"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Victorian Legislative Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "Jacinta Allan DP.jpg"
+          },
+          "office1": {
+            "text": "Deputy Premier of Victoria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Premier of Victoria"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 June 2022"
+          },
+          "predecessor1": {
+            "text": "James Merlino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Merlino"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Leader of the Labor Party in Victoria",
+            "links": [
+              {
+                "text": "Deputy Leader of the Labor Party in Victoria",
+                "type": "internal",
+                "page": "Australian Labor Party (Victorian Branch)",
+                "anchor": "Victorian Labor deputy leaders"
+              }
+            ]
+          },
+          "premier2": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "25 June 2022"
+          },
+          "predecessor2": {
+            "text": "James Merlino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Merlino"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Leader of the House",
+            "links": [
+              {
+                "text": "Leader of the House",
+                "type": "internal",
+                "page": "Leader of the House (Australia)"
+              }
+            ]
+          },
+          "premier3": {
+            "text": "Daniel Andrews",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Andrews"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "4 December 2014"
+          },
+          "term_end3": {
+            "text": "27 June 2022"
+          },
+          "predecessor3": {
+            "text": "Louise Asher",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Louise Asher"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Lizzie Blandthorn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lizzie Blandthorn"
+              }
+            ]
+          },
+          "constituency_am6": {
+            "text": "Bendigo East",
+            "links": [
+              {
+                "text": "Bendigo East",
+                "type": "internal",
+                "page": "Electoral district of Bendigo East"
+              }
+            ]
+          },
+          "assembly6": {
+            "text": "Victorian Legislative"
+          },
+          "term_start6": {
+            "text": "18 September 1999"
+          },
+          "predecessor6": {
+            "text": "Michael John",
+            "links": [
+              {
+                "text": "Michael John",
+                "type": "internal",
+                "page": "Michael John (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 19, 1973"
+          },
+          "birth_place": {
+            "text": "Bendigo, Victoria, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bendigo"
+              },
+              {
+                "text": "Victoria",
+                "type": "internal",
+                "page": "Victoria (Australia)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party (Victorian Branch)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ben Davis (m. 2004-2008)\nYorick Piper (m. 2012)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "La Trobe University, Bendigo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "La Trobe University"
+              },
+              {
+                "type": "internal",
+                "page": "Bendigo"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Jacinta Marie Allan"
+          },
+          "website": {
+            "text": "https://www.jacintaallan.com/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Allan went to school at St Joseph’s Primary School in Quarry Hill, then Catholic College Bendigo."
+            },
+            {
+              "text": "She completed her studies in a Bachelor of Arts (Hons) at La Trobe University in Bendigo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La Trobe University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Early career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Allan served in the political offices of Steve Gibbons and Neil O'Keefe, before her election to parliament.",
+              "links": [
+                {
+                  "text": "Steve Gibbons",
+                  "type": "internal",
+                  "page": "Steve Gibbons (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Neil O'Keefe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was first elected at the 1999 state election at the age of 25, making her the youngest ever elected female parliamentarian in Victoria.",
+              "links": [
+                {
+                  "text": "1999 state election",
+                  "type": "internal",
+                  "page": "1999 Victorian state election"
+                },
+                {
+                  "text": "Victoria",
+                  "type": "internal",
+                  "page": "Victoria (Australia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.premier.vic.gov.au/ministers/list_item.asp?id=35",
+          "title": "Archived copy",
+          "website": "www.premier.vic.gov.au",
+          "access-date": "17 January 2022",
+          "archive-url": "https://web.archive.org/web/20050616072329/http://www.premier.vic.gov.au/ministers/list_item.asp?id=35",
+          "archive-date": "16 June 2005",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Bracks/Brumby governments (2002–2010)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She entered the ministry after the 2002 election, serving as Minister for Education Services and Minister for Employment and Youth Affairs.",
+              "links": [
+                {
+                  "text": "2002 election",
+                  "type": "internal",
+                  "page": "2002 Victorian state election"
+                }
+              ]
+            },
+            {
+              "text": "After a cabinet reshuffle in 2006, Allan's responsibilities were altered slightly, losing Youth Affairs in exchange for Women's Affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was promoted in August 2007, in a reshuffle sparked by the accession of John Brumby to the premiership.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Brumby"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, she became Minister for Industry and Trade."
+            },
+            {
+              "text": "Allan was targeted by Right to Life organisations during her election campaign in 2010, having voted for abortion reform in parliament during 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Right to Life"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.vic.gov.au/members/details/51-hon-jacinta-allan",
+          "title": "Hon Jacinta Allan",
+          "publisher": "Parliament of Victoria",
+          "access-date": "6 December 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Opposition (2010–2014)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the defeat of the Brumby government in November 2010, Allan became manager of opposition business in the Legislative Assembly, as well as opposition spokeswoman for Roads, Regional and Rural Development and Bushfire Response."
+            },
+            {
+              "text": "Since this time, Allan has also served as police and emergency services spokesperson."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a reshuffle announced in December 2013, Allan became Shadow Minister for Agriculture, Regional Cities and Regional & Rural Development, in addition to her responsibilities as Manager of Opposition Business."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.bendigoadvertiser.com.au/news/local/news/general/bendigo-mp-given-new-portfolio/2445477.aspx",
+          "title": "Bendigo MP given new portfolio",
+          "first": "Reymer",
+          "last": "Martin",
+          "date": "6 February 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2013-07-26",
+          "title": "Jacinta Allan announces pregnancy",
+          "url": "https://www.bendigoadvertiser.com.au/story/1664542/jacinta-allan-announces-pregnancy/",
+          "website": "Bendigo Advertiser",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Andrews government (2014–present)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the 2014 Victorian state election, Allan was appointed as Minister for Public Transport and Minister for Employment in the First Andrews Ministry.",
+              "links": [
+                {
+                  "text": "2014 Victorian state election",
+                  "type": "internal",
+                  "page": "2014 Victorian state election"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Andrews Ministry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following Labor’s victory, Allan was appointed Minister for Transport Infrastructure in Second Andrews Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Andrews Ministry"
+                }
+              ]
+            },
+            {
+              "text": "The portfolio leads a large package of projects such as the Suburban Rail Loop and Metro Tunnel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Suburban Rail Loop"
+                },
+                {
+                  "type": "internal",
+                  "page": "Metro Tunnel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the Victorian Government’s response to the COVID-19 health emergency, Allan is became a member of the Crisis Council of Cabinet, serving as the Minister for the Coordination of Transport – COVID-19.",
+              "links": [
+                {
+                  "text": "Minister for the Coordination of Transport – COVID-19",
+                  "type": "internal",
+                  "page": "Second Andrews Ministry",
+                  "anchor": "Crisis Council of Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "In this role, she became responsible for leading all COVID-19 response activities across the transport portfolio."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2014-12-04/daniel-andrews-sworn-in-as-victorian-premier/5935934",
+          "title": "New Victorian Premier sworn in, new ministerial team revealed",
+          "newspaper": "ABC News",
+          "date": "4 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.premier.vic.gov.au/crisis-council-of-cabinet-set-up-to-combat-coronavirus/",
+          "title": "Crisis Council Of Cabinet Set Up To Combat Coronavirus {{!}} Premier of Victoria",
+          "website": "www.premier.vic.gov.au",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20200403073339/https://www.premier.vic.gov.au/crisis-council-of-cabinet-set-up-to-combat-coronavirus/",
+          "archive-date": "2020-04-03",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Allan was born and grew up in Bendigo."
+            },
+            {
+              "text": "She is married and has two young children who attend the local primary school."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-vic-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Michael John",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member for Bendigo East",
+          "list": [
+            ""
+          ],
+          "years": "1999–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Louise Asher",
+          "as": "Minister for Employment and Trade",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Employment",
+          "years": "2014–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wade Noonan",
+          "as": "Minister for Industry and Employment",
+          "template": "s-aft"
+        },
+        {
+          "before": "Terry Mulder",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Public Transport",
+          "years": "2014–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Melissa Horne",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-new"
+        },
+        {
+          "title": "Minister for Transport Infrastructure",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Gavin Jennings",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Priority Precincts",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "before": "James Merlino",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Premier of Victoria",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "James Merlino",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Leader of the Labor Party\nin Victoria",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet of victoria"
+        },
+        {
+          "template": "viccurrentmlas"
+        },
+        {
+          "template": "australian deputy premiers"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Parliamentary voting record of Jacinta Allan at Victorian Parliament Tracker",
+            "links": [
+              {
+                "text": "Parliamentary voting record of Jacinta Allan at Victorian Parliament Tracker",
+                "type": "external",
+                "site": "http://vicvote.review/assembly/members/Jacinta%20Allan.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "title": "Slade Brockman",
+  "pageID": 54930056,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Presidents of the Australian Senate",
+    "Liberal Party of Australia members of the Parliament of Australia",
+    "Members of the Australian Senate",
+    "Members of the Australian Senate for Western Australia",
+    "21st-century Australian politicians",
+    "People from Manjimup, Western Australia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William Edward Slade Brockman (born 27 March 1970) is an Australian politician who has served as a Senator for Western Australia since 2017, representing the Liberal Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Australia"
+                },
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "William Edward Slade Brockman"
+                ]
+              }
+            },
+            {
+              "text": "He was elected President of the Australian Senate in October 2021 following the resignation of Scott Ryan.",
+              "links": [
+                {
+                  "text": "President of the Australian Senate",
+                  "type": "internal",
+                  "page": "President of the Senate (Australia)"
+                },
+                {
+                  "text": "Scott Ryan",
+                  "type": "internal",
+                  "page": "Scott Ryan (Australian politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to his appointment to the Senate, Brockman was an adviser and chief of staff for Senator Mathias Cormann, and a policy director for the Pastoralists and Graziers Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mathias Cormann"
+                }
+              ]
+            },
+            {
+              "text": "His policy interests include agriculture, mining, trade, oil and gas, infrastructure and regional development."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1970",
+          "month": "3",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Senator the Honourable",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "text": "the Honourable",
+                "type": "internal",
+                "page": "the Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Slade Brockman"
+          },
+          "office": {
+            "text": "President of the Australian Senate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Australian Senate"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 October 2021"
+          },
+          "predecessor": {
+            "text": "Scott Ryan",
+            "links": [
+              {
+                "text": "Scott Ryan",
+                "type": "internal",
+                "page": "Scott Ryan (Australian politician)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator for Western Australia",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "Western Australia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "16 August 2017"
+          },
+          "predecessor1": {
+            "text": "Chris Back",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Back"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "William Edward Slade Brockman"
+          },
+          "birth_date": {
+            "text": "March 27, 1970"
+          },
+          "birth_place": {
+            "text": "Manjimup, Western Australia, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manjimup, Western Australia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "party": {
+            "text": "Liberal Party",
+            "links": [
+              {
+                "text": "Liberal Party",
+                "type": "internal",
+                "page": "Liberal Party of Australia"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Perth, Western Australia"
+          },
+          "alma_mater": {
+            "text": "Murdoch University\nUniversity of New England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Murdoch University"
+              },
+              {
+                "text": "University of New England",
+                "type": "internal",
+                "page": "University of New England (Australia)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "18 October 2021",
+          "title": "WA's Brockman sworn in as Senate president",
+          "url": "https://7news.com.au/politics/was-brockman-sworn-in-as-senate-president-c-4266019",
+          "access-date": "18 October 2021",
+          "publisher": "7News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Bettles",
+          "first1": "Colin",
+          "date": "23 July 2017",
+          "title": "Slade Brockman maintains WA Libs' farm focus",
+          "language": "en",
+          "work": "Farm Online",
+          "url": "http://www.farmonline.com.au/story/4807275/slade-brockman-maintains-wa-libs-farm-focus/",
+          "accessdate": "17 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "18 July 2017",
+          "title": "Liberal Senate hopeful will be a GST rebel",
+          "work": "The West Australian",
+          "url": "https://thewest.com.au/news/wa/liberal-senate-hopeful-will-be-a-gst-rebel-ng-b88540633z",
+          "accessdate": "17 August 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brockman was born in 1970 in Manjimup, Western Australia, and grew up on a family farm in the South West region of Western Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manjimup"
+                },
+                {
+                  "type": "internal",
+                  "page": "Western Australia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has a Bachelor of Laws from the University of New England and a first-class Honours Degree in Political History from Murdoch University.",
+              "links": [
+                {
+                  "text": "University of New England",
+                  "type": "internal",
+                  "page": "University of New England (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Murdoch University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His work background includes running a family farm, management roles in business and working for industry associations."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2021",
+          "template": "cn"
+        }
+      ],
+      "references": [
+        {
+          "mpid": "30484",
+          "name": "Senator Slade Brockman",
+          "access-date": "2021-11-07",
+          "template": "citation",
+          "type": "au parliament"
+        }
+      ]
+    },
+    {
+      "title": "Senate",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 16 August 2017, Brockman was appointed as a Senator for Western Australia by a joint sitting of the Parliament of Western Australia to fill the casual vacancy resulting from the resignation of Chris Back.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Western Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chris Back"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brockman is a member of the National Right faction of the Liberal Party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brockman has served in a range of parliamentary and committee roles, including as Government Deputy Whip of the Senate, Chair of the Economics Legislation Committee, and Chair of the Select Committee on Multi-Jurisdictional Management and Execution of the Murray Darling Basin Plan."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the time of the Australian Marriage Law Postal Survey, Brockman said that he would vote against the bill in parliament, in line with his personal beliefs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Marriage Law Postal Survey"
+                }
+              ]
+            },
+            {
+              "text": "He voted against the Marriage Amendment (Definition and Religious Freedoms) Bill on 29 November 2017.",
+              "links": [
+                {
+                  "text": "Marriage Amendment (Definition and Religious Freedoms) Bill",
+                  "type": "internal",
+                  "page": "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Massola",
+          "first1": "James",
+          "title": "Who's who in the Liberals' left, right and centre factions?",
+          "url": "https://www.smh.com.au/politics/federal/who-s-who-in-the-liberals-left-right-and-centre-factions-20210303-p577gv.html",
+          "website": "The Sydney Morning Herald",
+          "date": "20 March 2021",
+          "publisher": "Fairfax Media",
+          "access-date": "1 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Parliament House",
+          "first": "Canberra",
+          "title": "Senator Slade Brockman",
+          "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=30484",
+          "url-status": "live",
+          "access-date": "2021-10-19",
+          "website": "www.aph.gov.au",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "14 November 2017",
+          "title": "How your MP will vote if Australia says Yes to same-sex marriage",
+          "language": "en-AU",
+          "work": "ABC News",
+          "url": "http://www.abc.net.au/news/2017-11-14/same-sex-marriage-if-the-survey-says-yes-how-will-your-mp-vote/9104112",
+          "access-date": "14 November 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Slade Brockman on They Vote For You",
+          "url": "https://theyvoteforyou.org.au/people/senate/wa/slade_brockman",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Joint Sitting of the Legislative Council and the Legislative Assembly",
+          "url": "http://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/4DB7487E03847B984825817F00046168/$File/J40%20S1%2020170816%20All.pdf",
+          "website": "Hansard",
+          "publisher": "Parliament of Western Australia",
+          "accessdate": "17 August 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "President of the Senate",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the resignation of Scott Ryan from the role, Brockman was chosen as the Liberal Party's candidate for President of the Senate.",
+              "links": [
+                {
+                  "text": "Scott Ryan",
+                  "type": "internal",
+                  "page": "Scott Ryan (Australian politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the ensuing Senate ballot, Brockman stood against Greens Senator Mehreen Faruqi and won the position 45 votes to 7 on 18 October 2021.",
+              "links": [
+                {
+                  "text": "Greens",
+                  "type": "internal",
+                  "page": "Australian Greens"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mehreen Faruqi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-01",
+          "title": "Brockman wins West Aussie battle for Senate presidency",
+          "url": "https://thewest.com.au/politics/federal-politics/senate-president-vote-slade-brockman-wins-race-to-replace-scott-ryan-ng-b882025130z",
+          "access-date": "2021-10-19",
+          "website": "The West Australian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Scott Ryan",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Australian Senate",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "president of the australian senate"
+        },
+        {
+          "template": "presiding officers of australian legislatures"
+        },
+        {
+          "template": "australian senators"
+        },
+        {
+          "template": "australia-liberal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "title": "Brian Ross Martin",
+  "pageID": 3148758,
+  "categories": [
+    "Officers of the Order of Australia",
+    "Australian Queen's Counsel",
+    "Lawyers from Adelaide",
+    "People from Darwin, Northern Territory",
+    "Chief Justices of the Northern Territory",
+    "Judges of the Supreme Court of the Northern Territory",
+    "Judges of the Supreme Court of South Australia",
+    "Judges of the Supreme Court of Western Australia",
+    "20th-century Australian judges",
+    "21st-century Australian judges",
+    "Directors of Public Prosecutions of Australia",
+    "1947 births",
+    "Living people",
+    "Adelaide Law School alumni",
+    "Sturt Football Club players"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brian Ross Martin (born 2 September 1947) is an Australian jurist.",
+              "formatting": {
+                "bold": [
+                  "Brian Ross Martin"
+                ]
+              }
+            },
+            {
+              "text": "He was a judge of the Supreme Court of South Australia before being appointed Chief Justice of the Supreme Court of the Northern Territory in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of South Australia"
+                },
+                {
+                  "text": "Chief Justice",
+                  "type": "internal",
+                  "page": "Chief Justice of the Northern Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of the Northern Territory"
+                }
+              ]
+            },
+            {
+              "text": "He served in the Northern Territory between 2004 and 2010."
+            },
+            {
+              "text": "He served as an acting Judge of the Supreme Court of Western Australia in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Western Australia"
+                }
+              ]
+            },
+            {
+              "text": "In legal texts, he is referred to as \"Martin (BR) CJ\" to avoid confusion with his predecessor."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Brian Frank Martin",
+            "Brian Frank Martin, also an Australian jurist"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "June 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2014",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "sep": ",",
+          "list": [
+            "AO",
+            "QC"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1999",
+            "month": "02",
+            "df": "y",
+            "template": "end date",
+            "text": "February 1999"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2016",
+            "month": "07",
+            "date": "28",
+            "df": "y",
+            "template": "start date",
+            "text": "July 28, 2016"
+          }
+        },
+        {
+          "year": "1947",
+          "month": "09",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "sep": ",",
+          "list": [
+            "AO",
+            "QC"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Brian Martin"
+          },
+          "office": {
+            "text": "Commonwealth Director of Public Prosecutions",
+            "links": [
+              {
+                "text": "Commonwealth Director of Public Prosecutions",
+                "type": "internal",
+                "page": "Director of Public Prosecutions (Australia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1997",
+            "number": 1997
+          },
+          "term_end": {
+            "text": "February 1999"
+          },
+          "office2": {
+            "text": "Judge of the Supreme Court of South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme Court of South Australia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 February 1999"
+          },
+          "term_end2": {
+            "text": "27 January 2004"
+          },
+          "office3": {
+            "text": "Chief Justice of the Northern Territory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice of the Northern Territory"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "27 January 2004"
+          },
+          "term_end3": {
+            "text": "2010",
+            "number": 2010
+          },
+          "predecessor3": {
+            "text": "Brian Frank Martin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brian Frank Martin"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Trevor Riley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trevor Riley"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Acting Judge of the Supreme Court of Western Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme Court of Western Australia"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "February 2012"
+          },
+          "term_end4": {
+            "text": "November 2012"
+          },
+          "office5": {
+            "text": "Royal Commissioner for the Royal Commission into Juvenile Detention in the Northern Territory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Commissioner"
+              },
+              {
+                "type": "internal",
+                "page": "Royal Commission into Juvenile Detention in the Northern Territory"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "July 28, 2016"
+          },
+          "appointer5": {
+            "text": "Governor-General Sir Peter Cosgrove",
+            "links": [
+              {
+                "text": "Governor-General",
+                "type": "internal",
+                "page": "Governor-General of Australia"
+              },
+              {
+                "type": "internal",
+                "page": "Peter Cosgrove"
+              }
+            ]
+          },
+          "nominator5": {
+            "text": "Prime Minister Malcolm Turnbull MP",
+            "links": [
+              {
+                "text": "Prime Minister",
+                "type": "internal",
+                "page": "Prime Minister of Australia"
+              },
+              {
+                "type": "internal",
+                "page": "Malcolm Turnbull"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 2, 1947"
+          },
+          "birth_place": {
+            "text": "Adelaide, South Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adelaide"
+              },
+              {
+                "type": "internal",
+                "page": "South Australia"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Brian Ross Martin"
+          },
+          "citizenship": {
+            "text": "Australian"
+          },
+          "alma_mater": {
+            "text": "University of Adelaide",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Adelaide"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer; Jurist",
+            "links": [
+              {
+                "text": "Jurist",
+                "type": "internal",
+                "page": "Judge"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Royal commission into NT youth detention to investigate possible human rights breaches",
+          "first1": "Matthew",
+          "last1": "Doran",
+          "first2": "Stephanie",
+          "last2": "Anderson",
+          "url": "http://www.abc.net.au/news/2016-07-28/royal-commission-nt-youth-detention-human-rights-breaches/7667810",
+          "date": "28 July 2016",
+          "access-date": "28 July 2016",
+          "newspaper": "ABC News",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin was born in Adelaide and was educated at the Oakbank Area School and the Adelaide High School before studying at the University of Adelaide.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adelaide"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adelaide High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Legal career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brian Ross Martin was admitted to practise law in 1970, becoming an assistant Crown Prosecutor in Adelaide in 1974 and eventually the Senior Crown Prosecutor in 1982."
+            },
+            {
+              "text": "He was appointed as a Queen's Counsel (QC) in 1984 and in 1991 was appointed Senior Counsel assisting the Royal Commission into WA Inc.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen's Counsel"
+                },
+                {
+                  "text": "Royal Commission into WA Inc",
+                  "type": "internal",
+                  "page": "WA Inc Royal Commission"
+                }
+              ]
+            },
+            {
+              "text": "Martin was appointed as the Commonwealth Director of Public Prosecutions in 1997 a position he held until taking up his appointment as a Judge of the South Australian Supreme Court.",
+              "links": [
+                {
+                  "text": "Commonwealth Director of Public Prosecutions",
+                  "type": "internal",
+                  "page": "Director of Public Prosecutions (Australia)"
+                }
+              ]
+            },
+            {
+              "text": "He was sworn in as the Northern Territory's fifth Chief Justice on 27 January 2004 following the retirement of Brian Frank Martin; and held the position until 2010.",
+              "links": [
+                {
+                  "text": "Northern Territory's",
+                  "type": "internal",
+                  "page": "Northern Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brian Frank Martin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Justice Martin was the trial judge for the trial of R v Murdoch, which commenced with a voir dire in April 2005 and the trial proper began on 17 October 2005, and was completed with a verdict of guilty on 13 December 2005.",
+              "links": [
+                {
+                  "text": "R v Murdoch",
+                  "type": "internal",
+                  "page": "Peter Falconio",
+                  "anchor": "Trial of Bradley Murdoch"
+                },
+                {
+                  "text": "voir dire",
+                  "type": "internal",
+                  "page": "voir dire"
+                }
+              ]
+            },
+            {
+              "text": "He also presided over the Snowtown murder cases involving the conviction of John Bunting, Robert Wagner, and James Vlassakis for murder, and Mark Haydon for helping to dispose of the bodies.",
+              "links": [
+                {
+                  "text": "Snowtown murder cases",
+                  "type": "internal",
+                  "page": "Snowtown murders"
+                },
+                {
+                  "text": "murder",
+                  "type": "internal",
+                  "page": "murder"
+                }
+              ]
+            },
+            {
+              "text": "The trial was one of the longest and most publicised in Australian legal history."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2012, Brian Martin was sworn in as an Acting Judge of the Western Australian Supreme Court, to preside over the trial of Lloyd Rayney who was charged with the August 2007 murder of his wife, Corryn Rayney.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lloyd Rayney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Corryn Rayney"
+                }
+              ]
+            },
+            {
+              "text": "Martin delivered his verdict in November 2012."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2016, he was appointed as the Royal Commissioner for the Royal Commission into Juvenile Detention in the Northern Territory, after the ABC Four Corners program \"Australia's Shame\" was broadcast.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Commission into Juvenile Detention in the Northern Territory"
+                },
+                {
+                  "text": "ABC",
+                  "type": "internal",
+                  "page": "Australian Broadcasting Corporation"
+                },
+                {
+                  "text": "Four Corners",
+                  "type": "internal",
+                  "page": "Four Corners (Australian TV program)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australia's Shame"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Four Corners"
+                ]
+              }
+            },
+            {
+              "text": "Martin resigned four days later, saying that \"rightly or wrongly, in this role I would not have the full confidence of sections of the Indigenous community which has a vital interest in this inquiry.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Final Snowtown murder charge dropped",
+          "url": "http://www.abc.net.au/news/2007-05-07/final-snowtown-murder-charge-dropped/2541822",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "7 May 2007",
+          "access-date": "8 August 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2011-12-29/supreme-court-judge-appointed-for-rayney-trial/3751406",
+          "title": "Supreme Court judge appointed for Rayney trial",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "29 December 2011",
+          "access-date": "29 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2012-11-01/verdict-handed-down-in-rayney-trial/4346322",
+          "title": "Lloyd Rayney found not guilty of murder",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "1 November 2012",
+          "access-date": "29 July 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2016-08-01/brian-martin-stands-down-from-royal-commission/7677400",
+          "title": "Royal commissioner resigns four days after being appointed by PM",
+          "date": "1 August 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hull",
+          "first": "Tony",
+          "url": "http://www.abc.net.au/lateline/content/2003/s941664.htm",
+          "title": "Snowtown killers likely to die in jail",
+          "publisher": "Australian Broadcasting Corporation",
+          "work": "Lateline",
+          "date": "8 September 2003",
+          "access-date": "11 January 2014",
+          "archive-url": "https://web.archive.org/web/20131218064957/http://www.abc.net.au/lateline/content/2003/s941664.htm",
+          "archive-date": "18 December 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.theage.com.au/articles/2003/09/08/1062901997392.html",
+          "title": "Sadists get life",
+          "work": "The Age",
+          "date": "9 September 2003",
+          "access-date": "11 January 2014",
+          "last": "Debelle",
+          "first": "Penelope",
+          "location": "Melbourne",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.smh.com.au/news/National/Bodiesinbarrels-trial-not-over/2004/12/19/1103391631199.html",
+          "title": "Bodies-in-barrels trial not over",
+          "agency": "AAP",
+          "date": "19 December 2004",
+          "work": "The Sydney Morning Herald",
+          "access-date": "11 January 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2005-09-19/snowtown-killers-cooked-victims-flesh/2106732",
+          "title": "Snowtown killers 'cooked victim's flesh'",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "19 September 2005",
+          "access-date": "11 January 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Turnbull",
+          "first": "Malcolm",
+          "author-link": "Malcolm Turnbull",
+          "date": "28 July 2016",
+          "title": "Royal Commission into the Child Protection and Youth Detention Systems of the Government of the Northern Territory",
+          "url": "https://www.pm.gov.au/media/2016-07-28/royal-commission-child-protection-and-youth-detention-systems-northern-territory",
+          "location": "Canberra",
+          "publisher": "Australian Government",
+          "access-date": "28 July 2016",
+          "archive-url": "https://web.archive.org/web/20160827155125/https://www.pm.gov.au/media/2016-07-28/royal-commission-child-protection-and-youth-detention-systems-northern-territory",
+          "archive-date": "27 August 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "author": "Coogan, Michael",
+          "url": "http://www.abc.net.au/news/2016-07-28/nt-youth-detention-royal-commission-who-is-brian-martin/7670576",
+          "title": "Brian Martin QC: Meet the man who will head the NT youth detention royal commission",
+          "work": "ABC News",
+          "location": "Australia",
+          "date": "28 July 2016",
+          "access-date": "29 July 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Other interests",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin played 63 games, kicking 68 goals for Sturt Football Club in the South Australian National Football League (SANFL).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sturt Football Club"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Australian National Football League"
+                }
+              ]
+            },
+            {
+              "text": "He played in two SANFL premierships for the Double Blues.",
+              "formatting": {
+                "italic": [
+                  "Double Blues"
+                ]
+              }
+            },
+            {
+              "text": "He was a Director of the Adelaide Crows Football Club from 1994 to 1998 and was Chairman of the Westminster School Council from 1988 to 1996.",
+              "links": [
+                {
+                  "text": "Adelaide Crows Football Club",
+                  "type": "internal",
+                  "page": "Adelaide Crows"
+                },
+                {
+                  "text": "Westminster School",
+                  "type": "internal",
+                  "page": "Westminster School, Adelaide"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Adelaide's Brian Martin Now Chief Justice of the Northern Territory",
+          "series": "Stateline",
+          "credits": "Reporter: Mike Sexton",
+          "network": "ABC TV",
+          "location": "Adelaide",
+          "airdate": "17 October 2003",
+          "transcript-url": "http://www.abc.net.au/stateline/sa/content/2003/s969700.htm",
+          "transcript": "Transcript",
+          "template": "citation",
+          "type": "episode"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "title": "Chief Justice of the Northern Territory",
+          "before": "Brian Frank Martin",
+          "after": "Trevor Riley",
+          "years": "2004–2010",
+          "template": "succession box"
+        },
+        {
+          "title": "Commonwealth Director of Public Prosecutions",
+          "before": "Michael Rozenes",
+          "after": "Damian Bugg",
+          "years": "1997–1999",
+          "template": "succession box"
+        },
+        {
+          "template": "1966 sturt premiership players"
+        },
+        {
+          "template": "1968 sturt premiership players"
+        },
+        {
+          "template": "wa inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Profile of Chief Justice Martin",
+            "links": [
+              {
+                "text": "Profile of Chief Justice Martin",
+                "type": "external",
+                "site": "https://web.archive.org/web/20060217031246/http://www.nt.gov.au/ntsc/judges/current/martin.html"
+              }
+            ]
+          },
+          {
+            "text": "List of current judges",
+            "links": [
+              {
+                "text": "List of current judges",
+                "type": "external",
+                "site": "https://web.archive.org/web/20060906112333/http://www.nt.gov.au/ntsc/judges.html"
+              }
+            ]
+          },
+          {
+            "text": "Martin appointed Chief Justice of the Northern Territory",
+            "links": [
+              {
+                "text": "Martin appointed Chief Justice of the Northern Territory",
+                "type": "external",
+                "site": "https://web.archive.org/web/20050721055900/http://www.nt.gov.au/ntsc/doc/news/2003/new_cheif_justice.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Stateline Interview with Martin on his appointment as Chief Justice",
+            "links": [
+              {
+                "text": "Stateline Interview with Martin on his appointment as Chief Justice",
+                "type": "external",
+                "site": "http://www.abc.net.au/stateline/nt/content/2003/s969618.htm"
+              }
+            ]
+          },
+          {
+            "text": "ABC News report on challenges for Chief Justice Martin",
+            "links": [
+              {
+                "text": "ABC News report on challenges for Chief Justice Martin",
+                "type": "external",
+                "site": "http://www.abc.net.au/nt/news/200310/s966806.htm"
+              }
+            ]
+          },
+          {
+            "text": "Swearing in of Chief Justice Martin",
+            "links": [
+              {
+                "text": "Swearing in of Chief Justice Martin",
+                "type": "external",
+                "site": "https://web.archive.org/web/20050721055913/http://www.nt.gov.au/ntsc/doc/news/2004/ceremonial_br_martin_02022004.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Welcome of new Chief Justice Martin to Alice Springs Supreme Court",
+            "links": [
+              {
+                "text": "Welcome of new Chief Justice Martin to Alice Springs Supreme Court",
+                "type": "external",
+                "site": "https://web.archive.org/web/20050721055831/http://www.nt.gov.au/ntsc/doc/news/2004/ceremonial_sitting_04022004.pdf"
+              }
+            ]
+          },
+          {
+            "text": "NT Parliament announces appointment of Chief Justice Martin (hansard)",
+            "links": [
+              {
+                "text": "NT Parliament announces appointment of Chief Justice Martin (hansard)",
+                "type": "external",
+                "site": "https://archive.today/20121127032733/http://notes.nt.gov.au/lant/hansard/hansard9.nsf/0/A352079046578FF169256DE800078DE3?opendocument"
+              }
+            ]
+          },
+          {
+            "text": "2004 Judge's handbook, including Northern Territory section from Chief Justice Martin",
+            "links": [
+              {
+                "text": "2004 Judge's handbook, including Northern Territory section from Chief Justice Martin",
+                "type": "external",
+                "site": "https://web.archive.org/web/20051226154228/http://www.alsa.asn.au/files/lsd/2004/JudgesHandbook2004.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Speech to the South Australian Press Club 15 September 2006",
+            "links": [
+              {
+                "text": "Speech to the South Australian Press Club 15 September 2006",
+                "type": "external",
+                "site": "https://web.archive.org/web/20070328234223/http://www.nt.gov.au/ntsc/media/20060915cjmartin_sa_pressclub.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

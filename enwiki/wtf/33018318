@@ -1,0 +1,604 @@
+{
+  "title": "Jenny McAllister",
+  "pageID": 33018318,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "People from Sydney",
+    "People from the Northern Rivers",
+    "University of Queensland alumni",
+    "University of Sydney alumni",
+    "Members of the Australian Senate",
+    "Members of the Australian Senate for New South Wales",
+    "Women members of the Australian Senate",
+    "Australian Labor Party members of the Parliament of Australia",
+    "Labor Left politicians",
+    "21st-century Australian politicians",
+    "21st-century Australian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jennifer Ryll McAllister (born 21 February 1973) is an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Jennifer Ryll McAllister"
+                ]
+              }
+            },
+            {
+              "text": "She has been a Senator for New South Wales since 2015 and previously served as the party's national president from 2011 to 2015.",
+              "links": [
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Australian Senate"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "She is from the Socialist Left faction of the Labor Party.",
+              "links": [
+                {
+                  "text": "Socialist Left",
+                  "type": "internal",
+                  "page": "Socialist Left (Australia)"
+                }
+              ]
+            },
+            {
+              "text": "In August 2018 she was appointed Shadow Assistant Minister for Families and Communities."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2016",
+          "template": "use australian english"
+        },
+        {
+          "df": "yes",
+          "year": "1973",
+          "month": "2",
+          "day": "21",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jenny McAllister"
+          },
+          "honorific-prefix": {
+            "text": "Senator the Honourable",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "text": "the Honourable",
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "image": {
+            "text": "File:Jenny_McAllister,_ALP_President,_September_2013.jpg"
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "office": {
+            "text": "Assistant Minister for Climate Change and Energy"
+          },
+          "term_start": {
+            "text": "1 June 2022"
+          },
+          "predecessor": {
+            "text": "Tim Wilson",
+            "links": [
+              {
+                "text": "Tim Wilson",
+                "type": "internal",
+                "page": "Tim Wilson (Australian politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Senator for New South Wales",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Australian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "New South Wales"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 May 2015"
+          },
+          "predecessor2": {
+            "text": "John Faulkner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Faulkner"
+              }
+            ]
+          },
+          "office1": {
+            "text": "23rd National President of the Labor Party",
+            "links": [
+              {
+                "text": "National President of the Labor Party",
+                "type": "internal",
+                "page": "Australian Labor Party National Executive",
+                "anchor": "National Presidents"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2011"
+          },
+          "term_end1": {
+            "text": "17 June 2015"
+          },
+          "deputy1": {
+            "text": "Tony Sheldon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Sheldon"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Anna Bligh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anna Bligh"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mark Butler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Butler"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 21, 1973"
+          },
+          "birth_place": {
+            "text": "Murwillumbah, New South Wales, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Murwillumbah"
+              },
+              {
+                "type": "internal",
+                "page": "New South Wales"
+              },
+              {
+                "type": "internal",
+                "page": "Australia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Australian Labor Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Labor Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician"
+          },
+          "spouse": {
+            "text": "John Graham",
+            "links": [
+              {
+                "text": "John Graham",
+                "type": "internal",
+                "page": "John Graham (Australian politician)"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.jennymcallister.com.au/"
+          },
+          "primeminister": {
+            "text": "Anthony Albanese",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Albanese"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Jenny McAllister",
+          "url": "http://www.alp.org.au/federal-government/labor-people/jenny-mcallister/",
+          "work": "Labor People",
+          "publisher": "Australian Labor Party",
+          "access-date": "25 November 2011",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100820133313/http://www.alp.org.au/federal-government/labor-people/jenny-mcallister/",
+          "archive-date": "20 August 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://news.smh.com.au/breaking-news-national/left-wing-reformer-elected-alp-president-20111125-1nykq.html",
+          "title": "Left-wing reformer elected ALP president",
+          "first": "Paul",
+          "last": "Osborne",
+          "date": "25 November 2011",
+          "work": "The Sydney Morning Herald",
+          "publisher": "Fairfax Media",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "mpid": "121628",
+          "name": "Senator Jenny McAllister",
+          "access-date": "2021-11-06",
+          "template": "citation",
+          "type": "au parliament"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McAllister was born in Murwillumbah, on the north coast of New South Wales.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Murwillumbah"
+                },
+                {
+                  "type": "internal",
+                  "page": "New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "She attended the University of Queensland from 1992–1995, majoring in Politics and Government, and the University of Sydney, from which she graduated in 1996 with a Bachelor of Arts with First Class Honours, majoring in Political Economy, Politics and Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Queensland"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://au.linkedin.com/pub/jennifer-mcallister/29/499/960",
+          "title": "Jennifer McAllister – LinkedIn",
+          "access-date": "29 June 2013",
+          "archive-url": "https://archive.today/20130629185834/http://au.linkedin.com/pub/jennifer-mcallister/29/499/960",
+          "archive-date": "29 June 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.abc.net.au/tv/qanda/txt/s3424243.htm",
+          "title": "Panellist: Jenny McAllister",
+          "website": "Australian Broadcasting Corporation",
+          "date": "20 December 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Professional career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McAllister has worked in both the public and private sectors."
+            },
+            {
+              "text": "Between 2006 and 2010, she served as the Director of Climate Change, Air and Noise Policy within the New South Wales Department of Environment, Climate Change and Water.",
+              "links": [
+                {
+                  "text": "New South Wales Department of Environment, Climate Change and Water",
+                  "type": "internal",
+                  "page": "Department of Environment, Climate Change and Water (New South Wales)"
+                }
+              ]
+            },
+            {
+              "text": "She subsequently joined AECOM Australia Pty Ltd as Strategic Advisor Water and Climate (2010–2013), progressing to Technical Director – Infrastructure Advisory (2013–2014) and was Managing Director, Water and Urban Development (2014–2015) and a member of AECOM's ANZ executive when she resigned to join the Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "AECOM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McAllister's first formal involvement with politics came in 1992, when she registered as a member of the Australian Labor Party."
+            },
+            {
+              "text": "In 2003, she co-founded the Labor Environment Activist Network with Kristina Keneally.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kristina Keneally"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "McAllister is a member of the ALP State Conference (NSW) (1999–present) and the ALP Administrative Committee (NSW) (2000–present)."
+            },
+            {
+              "text": "She was previously a member or delegate of the ALP National Policy Committee on Foreign Affairs (1998–2000), the ALP National Policy Committee (2006–2007)."
+            },
+            {
+              "text": "She was also the Labor candidate for the seat of Richmond in the 2001 federal election.",
+              "links": [
+                {
+                  "text": "Richmond",
+                  "type": "internal",
+                  "page": "Division of Richmond"
+                },
+                {
+                  "text": "2001 federal election",
+                  "type": "internal",
+                  "page": "2001 Australian federal election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 November 2011, McAllister was elected as National President of the ALP, serving until the conclusion of her term at the 2015 Australian Labor Party National Conference, where she was replaced by Mark Butler.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Labor Party National Conference"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Butler"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2014, Jenny McAllister was selected to run on the Labor senate ticket at the 2016 election in the number two position, replacing John Faulkner, and considered a winnable spot.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Faulkner"
+                }
+              ]
+            },
+            {
+              "text": "However, on 6 February 2015, John Faulkner resigned from the Senate, creating a casual vacancy."
+            },
+            {
+              "text": "On 6 May 2015, McAllister was elected by a joint sitting of the NSW Parliament to fill the vacancy."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "cn"
+        },
+        {
+          "date": "May 2021",
+          "template": "cn"
+        }
+      ],
+      "references": [
+        {
+          "title": "Mark Butler named national president of Australian Labor Party",
+          "url": "http://www.abc.net.au/news/2015-06-17/mark-butler-named-new-national-president-of-labor-party/6553702",
+          "website": "ABC News",
+          "date": "17 June 2015",
+          "access-date": "22 May 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "John Faulkner announces retirement",
+          "url": "http://www.skynews.com.au/news/top-stories/2014/12/11/john-faulkner-announces-retirement.html",
+          "access-date": "23 March 2015",
+          "publisher": "Sky News",
+          "date": "11 Dec 2014",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20141220044213/http://www.skynews.com.au/news/top-stories/2014/12/11/john-faulkner-announces-retirement.html",
+          "archive-date": "20 December 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Labor elder John Faulkner resigns from Federal Parliament",
+          "url": "http://www.smh.com.au/federal-politics/political-news/labor-elder-john-faulkner-resigns-from-federal-parliament-20141211-124q9m.html",
+          "access-date": "23 March 2015",
+          "publisher": "Sydney Morning Herald",
+          "date": "11 Dec 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "John Faulkner: Veteran Labor senator stepping aside for 'new generation', brings retirement forward to January",
+          "url": "http://www.abc.net.au/news/2014-12-11/john-faulkner-brings-forward-his-retirement-from-parliament/5959844",
+          "access-date": "23 March 2015",
+          "publisher": "ABC News",
+          "date": "11 Dec 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Veteran Labor senator John Faulkner to retire early 2015",
+          "url": "http://www.theaustralian.com.au/national-affairs/politics-news/veteran-labor-senator-john-faulkner-to-retire-early-2015/story-fn59nqld-1227152233364",
+          "access-date": "23 March 2015",
+          "publisher": "The Australian",
+          "date": "11 Dec 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Labor's John Faulkner announces his retirement from the Senate",
+          "url": "http://www.news.com.au/national/labors-john-faulkner-announces-his-retirement-from-the-senate/story-fncynjr2-1227152238304",
+          "access-date": "23 March 2015",
+          "publisher": "news.com.au",
+          "date": "11 Dec 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sharpe swings back into NSW parliament",
+          "url": "http://www.9news.com.au/national/2015/05/06/15/25/sharpe-swings-back-into-nsw-parliament",
+          "access-date": "6 May 2015",
+          "publisher": "9 News",
+          "date": "6 May 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McAllister lives in Redfern with her husband, John Graham—former assistant general secretary of the NSW branch of the Labor Party and member of the Legislative Council—and their two children.",
+              "links": [
+                {
+                  "text": "Redfern",
+                  "type": "internal",
+                  "page": "Redfern, New South Wales"
+                },
+                {
+                  "text": "John Graham",
+                  "type": "internal",
+                  "page": "John Graham (Australian politician)"
+                },
+                {
+                  "text": "Legislative Council",
+                  "type": "internal",
+                  "page": "New South Wales Legislative Council"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "twitter"
+        },
+        {
+          "id": "jennymcallisteralp",
+          "name": "Jenny McAllister",
+          "template": "facebook"
+        },
+        {
+          "template": "albanese ministry"
+        },
+        {
+          "template": "australian senators"
+        }
+      ]
+    }
+  ]
+}

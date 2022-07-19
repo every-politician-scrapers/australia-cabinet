@@ -1,0 +1,248 @@
+{
+  "title": "Michael Grant (judge)",
+  "pageID": 69355430,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Chief Justices of the Northern Territory",
+    "Australian Queen's Counsel",
+    "Australian barristers",
+    "Australian solicitors",
+    "Officers of the Order of Australia",
+    "Charles Darwin University faculty",
+    "People educated at St Joseph's College, Hunters Hill",
+    "University of Queensland alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Patrick Grant (born 24 January 1963) is an Australian judge, who has been the Chief Justice of the Northern Territory since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of the Northern Territory"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael Patrick Grant"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Grant was born in Darwin in 1963, and educated at St Joseph's College, Hunters Hill in Sydney.",
+              "links": [
+                {
+                  "text": "Darwin",
+                  "type": "internal",
+                  "page": "Darwin, Northern Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Joseph's College, Hunters Hill"
+                }
+              ]
+            },
+            {
+              "text": "He graduated with a Bachelor of Laws with first class honours from the University of Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Queensland"
+                }
+              ]
+            },
+            {
+              "text": "He practised as a solicitor from 1993, while also working as a lecturer in torts and taxation law at Northern Territory University.",
+              "links": [
+                {
+                  "text": "Northern Territory University",
+                  "type": "internal",
+                  "page": "Charles Darwin University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1997, Grant worked as director of litigation in the office of the Attorney-General of the Northern Territory.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney-General of the Northern Territory"
+                }
+              ]
+            },
+            {
+              "text": "In 1999, he joined William Forster Chambers as a barrister, and was made Queen's Counsel in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen's Counsel"
+                }
+              ]
+            },
+            {
+              "text": "From September 2007 to July 2016, Grant was Solicitor-General of the Northern Territory."
+            },
+            {
+              "text": "He was appointed as Chief Justice in July 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian judge",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1963",
+          "month": "1",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "AUS",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Michael Grant"
+          },
+          "office": {
+            "text": "Chief Justice of the Northern Territory",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice of the Northern Territory"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 July 2016"
+          },
+          "predecessor": {
+            "text": "Trevor Riley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trevor Riley"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 23, 1963"
+          },
+          "birth_place": {
+            "text": "Darwin, Northern Territory, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Darwin, Northern Territory"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Queensland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Queensland"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Who's Who in Australia",
+          "date": "2021",
+          "publisher": "ConnectWeb",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Chief Justice Michael Grant AO",
+          "url": "https://supremecourt.nt.gov.au/about/judges/michael-grant",
+          "publisher": "Supreme Court of the Northern Territory",
+          "access-date": "25 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "before": "Trevor Riley",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Justice of the Northern Territory",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

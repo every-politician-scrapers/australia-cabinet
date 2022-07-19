@@ -1,0 +1,643 @@
+{
+  "title": "Paul Symon",
+  "pageID": 32679553,
+  "categories": [
+    "1960 births",
+    "Academics of the Royal Military Academy Sandhurst",
+    "Australian generals",
+    "Military personnel from Melbourne",
+    "Deakin University alumni",
+    "Directors-General of the Australian Secret Intelligence Service",
+    "Living people",
+    "Officers of the Order of Australia",
+    "Royal Military College, Duntroon graduates",
+    "University of New South Wales alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Major General Paul Bruce Symon, (born 1960) is the Director-General of the Australian Secret Intelligence Service since 18 December 2017.",
+              "links": [
+                {
+                  "text": "Major General",
+                  "type": "internal",
+                  "page": "Major general (Australia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Secret Intelligence Service"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paul Bruce Symon"
+                ]
+              }
+            },
+            {
+              "text": "A retired senior Australian Army officer, Symon served as Director of the Defence Intelligence Organisation from 2011 to 2014 and as Deputy Chief of Army from 2009 to 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Defence Intelligence Organisation"
+                },
+                {
+                  "text": "Deputy Chief of Army",
+                  "type": "internal",
+                  "page": "Deputy Chief of Army (Australia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Paul Simon (disambiguation)",
+            "Paul Simon"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2016",
+          "template": "use australian english"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "birth_year": "1960",
+          "template": "birth year and age"
+        },
+        {
+          "country": "AUS",
+          "size": "100",
+          "list": [
+            "AO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Major General",
+            "links": [
+              {
+                "text": "Major General",
+                "type": "internal",
+                "page": "Major general (Australia)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Paul Symon"
+          },
+          "image": {
+            "text": "File:PaulSymonPortrait.jpg"
+          },
+          "order": {
+            "text": "12th",
+            "links": [
+              {
+                "text": "12th",
+                "type": "internal",
+                "page": "Director-General of the Australian Secret Intelligence Service",
+                "anchor": "List of Directors-General"
+              }
+            ]
+          },
+          "office": {
+            "text": "Director-General of the Australian Secret Intelligence Service"
+          },
+          "term_start": {
+            "text": "18 December 2017"
+          },
+          "predecessor": {
+            "text": "Nick Warner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nick Warner"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1960 (age 62)"
+          },
+          "birth_place": {
+            "text": "Melbourne, Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Melbourne"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "alma_mater": {
+            "text": "Royal Military College, Duntroon\nDeakin University\nUniversity of New South Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Military College, Duntroon"
+              },
+              {
+                "type": "internal",
+                "page": "Deakin University"
+              },
+              {
+                "type": "internal",
+                "page": "University of New South Wales"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Australian Army officer\nPublic servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Army"
+              },
+              {
+                "type": "internal",
+                "page": "Public servant"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Australia"
+          },
+          "branch": {
+            "text": "Australian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australian Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1979–2015"
+          },
+          "rank": {
+            "text": "Major General",
+            "links": [
+              {
+                "text": "Major General",
+                "type": "internal",
+                "page": "Major general (Australia)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Defence Intelligence Organisation (2011–14)\nDeputy Chief of Army (2009–11)\nJoint Task Force 633 (2005–06)\n1st Regiment, Royal Australian Artillery (1998–99)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Defence Intelligence Organisation"
+              },
+              {
+                "text": "Deputy Chief of Army",
+                "type": "internal",
+                "page": "Deputy Chief of Army (Australia)"
+              },
+              {
+                "text": "1st Regiment, Royal Australian Artillery",
+                "type": "internal",
+                "page": "1st Regiment, Royal Australian Artillery"
+              }
+            ]
+          },
+          "battles": {
+            "text": "East Timor\nIraq War\nWar in Afghanistan",
+            "links": [
+              {
+                "text": "East Timor",
+                "type": "internal",
+                "page": "United Nations Transitional Administration in East Timor"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq War"
+              },
+              {
+                "text": "War in Afghanistan",
+                "type": "internal",
+                "page": "War in Afghanistan (2001–present)"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "Officer of the Order of Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Officer of the Order of Australia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Symon was educated at Scotch College, Melbourne and entered the Royal Military College, Duntroon, as an Australian Army officer cadet in 1979, and was allotted to Kokoda Company.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scotch College, Melbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Military College, Duntroon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australian Army"
+                },
+                {
+                  "text": "officer cadet",
+                  "type": "internal",
+                  "page": "officer cadet"
+                }
+              ]
+            },
+            {
+              "text": "In his final year at Duntroon in 1982 he was the senior cadet – Battalion Sergeant Major – and graduated as the recipient of the Sword of Honour."
+            },
+            {
+              "text": "Symon was allotted to the Royal Regiment of Australian Artillery (RAA) and over his career saw service with the gunners in many postings, culminating in command of the 1st Field Regiment, Royal Australian Artillery in 1998 to 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Regiment of Australian Artillery"
+                },
+                {
+                  "text": "1st Field Regiment, Royal Australian Artillery",
+                  "type": "internal",
+                  "page": "1st Regiment, Royal Australian Artillery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symon served on four operational deployments."
+            },
+            {
+              "text": "His most important joint command was in late 2005 until mid-2006 when appointed Commander Middle East (Joint Task Force 633)."
+            },
+            {
+              "text": "This appointment gave him national command responsibility for all Australian soldiers, sailors and airmen/women in Iraq and Afghanistan.",
+              "links": [
+                {
+                  "text": "Iraq",
+                  "type": "internal",
+                  "page": "Iraq War"
+                },
+                {
+                  "text": "Afghanistan",
+                  "type": "internal",
+                  "page": "War in Afghanistan (2001–present)"
+                }
+              ]
+            },
+            {
+              "text": "His command coincided with Australia's only death in Iraq, that of Private Jake Kovco.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jake Kovco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symon advised the United Nations Special Representative in East Timor in the four months prior to the deployment of International Force for East Timor, known as INTERFET.",
+              "links": [
+                {
+                  "text": "United Nations Special Representative in East Timor",
+                  "type": "internal",
+                  "page": "Special Representative of the Secretary-General for East Timor"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Force for East Timor"
+                }
+              ]
+            },
+            {
+              "text": "This entailed close liaison with the Indonesian military, Falintil and militia leaders prior to, during, and after the vote for independence in 1999.",
+              "links": [
+                {
+                  "text": "Indonesian military",
+                  "type": "internal",
+                  "page": "Indonesian National Armed Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "Falintil"
+                },
+                {
+                  "text": "vote for independence in 1999",
+                  "type": "internal",
+                  "page": "1999 East Timorese crisis"
+                }
+              ]
+            },
+            {
+              "text": "For his leadership in East Timor and in command, he was appointed a Member of the Order of Australia in the 2000 Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the Order of Australia"
+                },
+                {
+                  "text": "2000 Birthday Honours",
+                  "type": "internal",
+                  "page": "2000 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1997 he served with the United Nations Truce Supervision Organization in a period of great tension between Hezbollah and the Israeli Defence Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Truce Supervision Organization"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hezbollah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israeli Defence Force"
+                }
+              ]
+            },
+            {
+              "text": "And in 2003, he was appointed as the senior military adviser for the Regional Assistance Mission to Solomon Islands It was in this period that a significant number of militia leaders were jailed and a very successful gun amnesty organised.",
+              "links": [
+                {
+                  "text": "Regional Assistance Mission to Solomon Islands",
+                  "type": "internal",
+                  "page": "Regional Assistance Mission to the Solomon Islands"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symon has taught at the Royal Military Academy Sandhurst in the UK, and has served as Army's Director-General of Personnel, Director-General of Preparedness and Plans and Deputy Chief of Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Military Academy Sandhurst"
+                },
+                {
+                  "text": "Deputy Chief of Army",
+                  "type": "internal",
+                  "page": "Deputy Chief of Army (Australia)"
+                }
+              ]
+            },
+            {
+              "text": "He has also served as Director-General Pacific in International Policy Division and Chief of Staff of Army's 1st Division in Brisbane.",
+              "links": [
+                {
+                  "text": "1st Division",
+                  "type": "internal",
+                  "page": "1st Division (Australia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Academically, Symon holds two Master's degrees: from Deakin University and from the University of New South Wales.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deakin University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "He is a graduate of Australian Command and Staff College and of the Centre for Defence and Strategic Studies in Canberra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Command and Staff College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Centre for Defence and Strategic Studies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canberra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symon was appointed an Officer of the Order of Australia in the 2007 Australia Day Honours in recognition of his operational service in the Middle East.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of Australia"
+                },
+                {
+                  "text": "2007 Australia Day Honours",
+                  "type": "internal",
+                  "page": "2007 Australia Day Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Symon is married to Kate and they have two children."
+            },
+            {
+              "text": "He enjoys running half marathons and sharing the company of his family and friends."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Symon has a strong liking for singer-songwriter Adele, AFL club Carlton, and poetry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adele"
+                },
+                {
+                  "text": "AFL",
+                  "type": "internal",
+                  "page": "Australian Football League"
+                },
+                {
+                  "text": "Carlton",
+                  "type": "internal",
+                  "page": "Carlton Football Club"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/news/2018-03-20/australias-spy-chief-paul-symon-is-on-twitter/9567580",
+          "title": "Twitter account of spy chief Paul Symon reveals penchant for poetry, Adele and Carlton Football Club",
+          "newspaper": "ABC",
+          "date": "20 March 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "title": "Director Defence Intelligence Organisation",
+          "before": "Major General Richard Wilson",
+          "after": "Air Vice Marshal John McGarry",
+          "years": "2011–2014",
+          "template": "succession box"
+        },
+        {
+          "title": "Deputy Chief of Army",
+          "before": "Major General David Morrison",
+          "after": "Major General Jeffrey Sengelman",
+          "years": "2009–2011",
+          "template": "succession box"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Nick Warner",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director-General of the Australian Secret Intelligence Service",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

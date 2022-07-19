@@ -1,0 +1,801 @@
+{
+  "title": "Shelley Hancock",
+  "pageID": 2396277,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Liberal Party of Australia members of the Parliament of New South Wales",
+    "Members of the New South Wales Legislative Assembly",
+    "Place of birth missing (living people)",
+    "Speakers of the New South Wales Legislative Assembly",
+    "People educated at North Sydney Girls High School",
+    "21st-century Australian politicians",
+    "21st-century Australian women politicians",
+    "Women members of the New South Wales Legislative Assembly"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shelley Elizabeth Hancock (born 14 November 1951), an Australian politician.",
+              "formatting": {
+                "bold": [
+                  "Shelley Elizabeth Hancock"
+                ]
+              }
+            },
+            {
+              "text": "Hancock has been a Liberal Member of the Legislative Assembly seat of South Coast since 2003.",
+              "links": [
+                {
+                  "text": "Liberal",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia (New South Wales Division)"
+                },
+                {
+                  "text": "Legislative Assembly",
+                  "type": "internal",
+                  "page": "New South Wales Legislative Assembly"
+                },
+                {
+                  "text": "South Coast",
+                  "type": "internal",
+                  "page": "Electoral district of South Coast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hancock previously served as the thirtieth Speaker of the New South Wales Legislative Assembly and was the first woman to hold the role, serving between May 2011 and March 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the New South Wales Legislative Assembly"
+                }
+              ]
+            },
+            {
+              "text": "Hancock also served as the Minister for Local Government in the second Berejiklian ministry and the Perrottet ministry between April 2019 and December 2021.",
+              "links": [
+                {
+                  "text": "Minister for Local Government",
+                  "type": "internal",
+                  "page": "Minister for Local Government (New South Wales)"
+                },
+                {
+                  "text": "second Berejiklian ministry",
+                  "type": "internal",
+                  "page": "second Berejiklian ministry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perrottet ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Australian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2014",
+          "template": "use australian english"
+        },
+        {
+          "df": "y",
+          "year": "1951",
+          "month": "11",
+          "day": "14",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shelley Hancock"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "NSW Legislative Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "Shelley Hancock Official Photo.jpg"
+          },
+          "office": {
+            "text": "Minister for Local Government",
+            "links": [
+              {
+                "text": "Minister for Local Government",
+                "type": "internal",
+                "page": "Minister for Local Government (New South Wales)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 April 2019"
+          },
+          "term_end": {
+            "text": "21 December 2021"
+          },
+          "predecessor": {
+            "text": "Gabrielle Upton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabrielle Upton"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Wendy Tuckerman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wendy Tuckerman"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Gladys Berejiklian Dominic Perrottet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gladys Berejiklian"
+              },
+              {
+                "type": "internal",
+                "page": "Dominic Perrottet"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "South Coast",
+            "links": [
+              {
+                "text": "South Coast",
+                "type": "internal",
+                "page": "Electoral district of South Coast"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "New South Wales"
+          },
+          "term_start2": {
+            "text": "22 March 2003",
+            "links": [
+              {
+                "text": "22 March 2003",
+                "type": "internal",
+                "page": "2003 New South Wales state election"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Wayne Smith",
+            "links": [
+              {
+                "text": "Wayne Smith",
+                "type": "internal",
+                "page": "Wayne Smith (Australian politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "30th Speaker of the New South Wales Legislative Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the New South Wales Legislative Assembly"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 May 2011"
+          },
+          "term_end3": {
+            "text": "7 May 2019"
+          },
+          "predecessor3": {
+            "text": "Richard Torbay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Torbay"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Jonathan O'Dea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jonathan O'Dea"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 14, 1951"
+          },
+          "birth_place": {
+            "text": "Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Australia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal Party",
+            "links": [
+              {
+                "text": "Liberal Party",
+                "type": "internal",
+                "page": "Liberal Party of Australia (New South Wales Division)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Australian"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Teacher"
+          },
+          "alma_mater": {
+            "text": "University of Sydney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sydney"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early years and background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hancock grew up in Chatswood and attended primary schools in Chatswood and Artarmon and the North Sydney Girls High School.",
+              "links": [
+                {
+                  "text": "Chatswood",
+                  "type": "internal",
+                  "page": "Chatswood, New South Wales"
+                },
+                {
+                  "text": "Artarmon",
+                  "type": "internal",
+                  "page": "Artarmon, New South Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "North Sydney Girls High School"
+                }
+              ]
+            },
+            {
+              "text": "She completed a Bachelor of Arts at the University of Sydney and was a former joint owner of the H Ranch at Milton and was a high school teacher at Ulladulla for 26 years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                },
+                {
+                  "text": "Milton",
+                  "type": "internal",
+                  "page": "Milton, New South Wales"
+                },
+                {
+                  "text": "Ulladulla",
+                  "type": "internal",
+                  "page": "Ulladulla, New South Wales"
+                }
+              ]
+            },
+            {
+              "text": "Hancock is married to Ossie and they have three children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hancock served on Shoalhaven City Council for 17 years as a ward three alderman and councillor, serving on a number of Council committees.",
+              "links": [
+                {
+                  "text": "Shoalhaven City Council",
+                  "type": "internal",
+                  "page": "City of Shoalhaven"
+                }
+              ]
+            },
+            {
+              "text": "Hancock was also elected Deputy Mayor from September 2000 to September 2001."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Hancock, Shelley (1951 – )",
+          "publisher": "Australian Women",
+          "url": "http://www.womenaustralia.info/biogs/AWE1832b.htm",
+          "accessdate": "28 February 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.shoalhaven.nsw.gov.au/council/councillors/previous/hancock.htm",
+          "work": "History with Council",
+          "publisher": "Shoalhaven City Council",
+          "title": "Former Councillor Shelley Hancock",
+          "year": "1999",
+          "accessdate": "3 May 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hancock has represented South Coast for the Liberal Party since 2003."
+            },
+            {
+              "text": "She was the only Liberal candidate to win a seat from the governing Labor Party at the 2003 state election with 52.8 per cent of the two-party vote.",
+              "links": [
+                {
+                  "text": "Labor Party",
+                  "type": "internal",
+                  "page": "Australian Labor Party (New South Wales Branch)"
+                },
+                {
+                  "text": "2003 state election",
+                  "type": "internal",
+                  "page": "2003 New South Wales state election"
+                }
+              ]
+            },
+            {
+              "text": "During her inaugural speech to the New South Wales Legislative Assembly on 28 May 2003, Hancock asserted \"motherhood convinced me that mine is the privileged gender\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to the 2007 election, local and metropolitan journalists received phone calls encouraging them to print false allegations that Hancock and her husband had been involved in the making of pornographic films."
+            },
+            {
+              "text": "The source of the phone contact was revealed to be a staff member of the Labor Party candidate Michelle Miran, an employee of the [[List of New South Wales government agencies#State Development.2C Regional Development.2C Small Business and Rural Affairs|NSW Department of State and Regional Development]]."
+            },
+            {
+              "text": "The same reports suggested that Labor had unsuccessfully tried to publish the same allegations at the 1991, 1995 and 2003 elections as well."
+            },
+            {
+              "text": "Hancock went on to defeat Michelle Miran achieving a 6.2-point two-party-preferred swing in her favour."
+            },
+            {
+              "text": "At the 2011 general election, Hancock was re-elected to the South Coast with a swing of 11.2 points and won the seat with 70.4 per cent of the two-party vote.",
+              "links": [
+                {
+                  "text": "2011 general election",
+                  "type": "internal",
+                  "page": "2011 New South Wales state election"
+                },
+                {
+                  "text": "two-party",
+                  "type": "internal",
+                  "page": "two-party-preferred"
+                }
+              ]
+            },
+            {
+              "text": "Her main opponent was Glenn Sims, representing Labor."
+            },
+            {
+              "text": "Hancock contested the 2015 general election and was re-elected with a swing against her of 10.5 points.",
+              "links": [
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 New South Wales state election"
+                }
+              ]
+            },
+            {
+              "text": "Despite the swing, Hancock went on to win the seat with 59.6 per cent of the two-party vote."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "jurisdiction": "NSW",
+          "title": "Inaugural speech",
+          "last": "Hancock",
+          "first": "Shelley",
+          "url": "https://www.parliament.nsw.gov.au/member/files/23/Shelley%20Hancock%20Inaugural%20Speech.pdf",
+          "house": "Legislative Assembly",
+          "date": "28 May 2003",
+          "template": "citation",
+          "type": "hansard"
+        },
+        {
+          "url": "http://www.dailytelegraph.com.au/news/nsw-act/labor-porn-film-smear/story-e6freuzi-1111113206226",
+          "work": "The Daily Telegraph",
+          "title": "Labor porn film smear",
+          "last1": "Benson",
+          "first1": "Simon",
+          "last2": "Sikora",
+          "first2": "Kate",
+          "date": "23 March 2007",
+          "accessdate": "3 May 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.pollbludger.com/nsw2007/southcoast.htm",
+          "work": "Crikey.com",
+          "publisher": "Private Media Pty Limited",
+          "title": "The Poll Bludger blog – South Coast 2007",
+          "year": "2007",
+          "accessdate": "3 May 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "id": "23",
+          "name": "The Hon. Shelley Elizabeth HANCOCK, BA, DipEd MP",
+          "access-date": "2 April 2019",
+          "template": "citation",
+          "type": "nsw parliament"
+        },
+        {
+          "url": "http://www.abc.net.au/elections/nsw/2011/guide/scoa.htm",
+          "title": "South Coast",
+          "work": "NSW Votes 2011",
+          "publisher": "Australian Broadcasting Corporation",
+          "author": "Green, Antony",
+          "date": "5 April 2011",
+          "accessdate": "3 May 2011",
+          "authorlink": "Antony Green",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Speaker of the NSW Legislative Assembly",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the 2011 state election, on 3 May, Hancock was elected unanimously as Speaker of the New South Wales Legislative Assembly, the first female Speaker of New South Wales Parliament."
+            },
+            {
+              "text": "Following the 2015 state election, Hancock was re-elected unanimously to the role on 5 May."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Speaker, Hancock was responsible for a number of infrastructure and security improvements to the New South Wales Parliamentary Precinct."
+            },
+            {
+              "text": "Most notably, her tenure has overseen historic restorations to elements of the old Rum Hospital Building including the Wentworth Room, which was used as the Legislative Council chamber from 1829 to 1843, as well as the former parliamentary library, the Jubilee Room, built in 1906."
+            },
+            {
+              "text": "Further to the historic restorations, she has overseen improvements to the modern office buildings housing member and parliamentary staff, as well overseeing upgrades to disability access and facilities."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Speaker, Hancock has sought to address a number of issues on the parliamentary precinct where there was disparity in what was available to women, and what was available to men."
+            },
+            {
+              "text": "She organised a 'loo coup' where, along with a number of other female MPs and Ministers, she arranged for the substandard female bathrooms on a lower level of the parliament building to be swapped with the superior male bathroom facilities."
+            },
+            {
+              "text": "This was part of a larger push to make NSW Parliament a fit place for female politicians."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hancock presided over an incident in the Legislative Assembly where she was forced to call upon the Sergeant-at-arms to remove Michael Daley, a senior Labor Party shadow minister, who was accused of drunken misconduct in the chamber.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Michael Daley"
+                }
+              ]
+            },
+            {
+              "text": "Daley later apologised to Hancock."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2017, Hancock, launched the 'NSW Parliament: A Fit Place for Women' exhibition which showcased the expanding role of women in NSW politics throughout its history."
+            },
+            {
+              "text": "The exhibition was particularly well timed with the first female Liberal Premier of New South Wales, Gladys Berejiklian, coming to power in January of the same year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gladys Berejiklian"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.abc.net.au/local/stories/2011/03/30/3177662.htm",
+          "title": "Female speaker makes NSW history",
+          "work": "702 ABC Sydney",
+          "publisher": "Australian Broadcasting Corporation",
+          "date": "30 March 2011",
+          "accessdate": "27 April 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.southcoastregister.com.au/story/2984198/shelley-hancock-to-remain-speaker-ward-becomes-parliamentary-secretary/",
+          "title": "Shelley Hancock to remain Speaker, Ward becomes parliamentary secretary",
+          "last": "HANSCOMBE",
+          "first": "JOHN",
+          "date": "1 April 2015",
+          "work": "South Coast Register",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.smh.com.au/nsw/loo-coup-women-protest-about-lack-of-toilets-at-nsw-parliament-20151028-gkkk93.html",
+          "title": "Loo coup: Women protest about lack of toilets at NSW Parliament",
+          "last": "Partridge",
+          "first": "Emma",
+          "date": "28 October 2015",
+          "work": "The Sydney Morning Herald",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.smh.com.au/nsw/ladies-loo-win-as-nsw-parliament-returns-20160212-gmsyft.html",
+          "title": "Female MPs stage successful loo coup as NSW Parliament returns",
+          "last": "Needham",
+          "first": "Kirsty",
+          "date": "14 February 2016",
+          "work": "The Sydney Morning Herald",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dailytelegraph.com.au/was-senior-labour-mp-michael-daley-drunk-when-he-was-ejected-from-parliament/news-story/c94ecd45a9836863e1a31d29f3b71cf7",
+          "title": "Was senior Labor MP Michael Daley drunk when he was ejected from parliament?",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.auswhn.org.au/blog/parliamentary-trailblazers/",
+          "title": "NSW Parliamentary trailblazers: A fit place for women? {{!}} Australian Women's History Network",
+          "date": "9 February 2017",
+          "work": "Australian Women's History Network",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.parliament.nsw.gov.au/news/Pages/A-Fit-Place-for-Women---NSW-Parliament.aspx",
+          "title": "A Fit Place for Women",
+          "website": "Parliament.NSW.gov.au",
+          "access-date": "1 May 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.smh.com.au/nsw/ritual-abounds-but-little-hubris--and-even-wc-is-missing-20110503-1e6tk.html",
+          "title": "Ritual abounds but little hubris – and even WC is missing",
+          "work": "The Sydney Morning Herald",
+          "author": "Humphries, David",
+          "date": "4 May 2011",
+          "accessdate": "4 May 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "April 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Minister for Local Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the 2019 state election Hancock was sworn in as the Minister for Local Government in the second Berejiklian ministry, with effect from 2 April 2019; and served in the first arrangement of the Perrottet ministry until she announce her resignation from the Perrottet ministry ahead of the reshuffle, citing difficulty to move past the resignation of the former Premier Gladys Berejiklian and the lack of women representation in the Perrottet ministry;",
+              "links": [
+                {
+                  "text": "2019 state election",
+                  "type": "internal",
+                  "page": "2019 New South Wales state election"
+                },
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of New South Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gladys Berejiklian"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Sas, Nick",
+          "url": "https://www.abc.net.au/news/2019-03-31/cabinet-reshuffle-after-nsw-election-from-berejiklian/10956776",
+          "title": "Gladys Berejiklian says Liberal Party has no women problem as re-elected NSW Premier shuffles Cabinet",
+          "publisher": "ABC News",
+          "location": "Australia",
+          "date": "31 March 2019",
+          "accessdate": "3 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Hall, James",
+          "url": "https://www.news.com.au/national/nsw-act/politics/two-more-ministers-resign-from-perrottet-government/news-story/08d46c2f4edea33738da4c41fdfaed18",
+          "title": "Two more ministers resign from Perrottet government",
+          "publisher": "news.com.au",
+          "location": "Australia",
+          "date": "18 December 2021",
+          "accessdate": "22 December 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "au-nsw-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Wayne Smith",
+          "template": "s-bef"
+        },
+        {
+          "template": "endash"
+        },
+        {
+          "title": "Member for South Coast",
+          "years": "2003present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-office"
+        },
+        {
+          "before": "Gabrielle Upton",
+          "template": "s-bef"
+        },
+        {
+          "template": "endash"
+        },
+        {
+          "title": "Minister for Local Government",
+          "years": "2019present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wendy Tuckerman",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "au-nsw-la"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Richard Torbay",
+          "template": "s-bef"
+        },
+        {
+          "template": "endash"
+        },
+        {
+          "title": "Speaker of the New South Wales Legislative Assembly",
+          "years": "20112019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jonathan O'Dea",
+          "template": "s-aft"
+        },
+        {
+          "template": "nswcurrentmlas"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
