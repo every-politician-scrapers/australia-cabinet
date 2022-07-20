@@ -312,6 +312,29 @@
           "term_start1": {
             "text": "12 September 2016"
           },
+          "1blankname1": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of the Northern Territory"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Michael Gunner\nNatasha Fyles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Gunner"
+              },
+              {
+                "type": "internal",
+                "page": "Natasha Fyles"
+              }
+            ]
+          },
           "predecessor1": {
             "text": "Peter Styles",
             "links": [

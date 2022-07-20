@@ -188,6 +188,25 @@
               }
             ]
           },
+          "1blankname1": {
+            "text": "Administrator",
+            "links": [
+              {
+                "text": "Administrator",
+                "type": "internal",
+                "page": "Administrator of the Northern Territory"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Vicki O'Halloran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vicki O'Halloran"
+              }
+            ]
+          },
           "term_start1": {
             "text": "13 May 2022"
           },
