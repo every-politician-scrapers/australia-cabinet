@@ -1733,9 +1733,10 @@
       "templates": [
         {
           "list": [
-            "COVID-19 pandemic in Victoria"
+            "COVID-19 pandemic in Victoria",
+            "COVID-19 protests in Australia#Victoria"
           ],
-          "template": "main"
+          "template": "see also"
         },
         {
           "date": "December 2020",

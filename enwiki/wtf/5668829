@@ -642,25 +642,6 @@
         {
           "sentences": [
             {
-              "text": "\"\"Industrial relations has been important to me for many years."
-            },
-            {
-              "text": "I felt the hard edge of the 1996 workplace relations legislation when I was offered an AWA while employed by a large American retailer."
-            },
-            {
-              "text": "I refused to sign and was no longer offered work despite my five years of loyal service."
-            },
-            {
-              "text": "I was 19 years old at the time."
-            },
-            {
-              "text": "Hence, industrial reform and the enforcement of AWAs is not merely an abstract concept for me.\"\""
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "Rishworth's work in the parliament included being a member of the health and ageing, communications as well as the industry, science and innovation committees."
             }
           ]
@@ -792,8 +773,10 @@
       ],
       "templates": [
         {
-          "text": "\"Industrial relations has been important to me for many years. I felt the hard edge of the 1996 workplace relations legislation when I was offered an AWA while employed by a large American retailer. I refused to sign and was no longer offered work despite my five years of loyal service. I was 19 years old at the time. Hence, industrial reform and the enforcement of AWAs is not merely an abstract concept for me.\"",
-          "template": "quote"
+          "list": [
+            "\"Industrial relations has been important to me for many years. I felt the hard edge of the 1996 workplace relations legislation when I was offered an AWA while employed by a large American retailer. I refused to sign and was no longer offered work despite my five years of loyal service. I was 19 years old at the time. Hence, industrial reform and the enforcement of AWAs is not merely an abstract concept for me.\""
+          ],
+          "template": "blockquote"
         }
       ],
       "references": [
@@ -1060,10 +1043,11 @@
       ],
       "references": [
         {
+          "url": "https://www.pm.gov.au/media/albanese-government-full-ministry",
+          "website": "www.pm.gov.au",
+          "access-date": "1 July 2022}}{{SemiBareRefNeedsTitle|date=July 2022|undefined",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
