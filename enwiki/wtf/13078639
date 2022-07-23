@@ -1583,11 +1583,16 @@
               ]
             },
             {
-              "text": "Early in his premiership, McGowan moved to limit the number of pathways for foreign workers to enter the state and re-committed to terminating the controversial Perth Freight Link highway project, which had proved extremely unpopular in large parts of the state.",
+              "text": "Early in his premiership, McGowan moved to limit the number of pathways for foreign workers to enter the state, re-committed to terminating the controversial Perth Freight Link highway project, which had proved extremely unpopular in large parts of the state, and he restructured various government departments.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Perth Freight Link"
+                },
+                {
+                  "text": "restructured various government departments",
+                  "type": "internal",
+                  "page": "2017 Western Australian machinery of government changes"
                 }
               ]
             },
@@ -1712,6 +1717,26 @@
           "archive-url": "https://web.archive.org/web/20170317075643/http://www.abc.net.au/news/2017-03-14/roe-8-labor-moves-to-cancel-contract-after-wa-election-win/8353086",
           "archive-date": "17 March 2017",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Number of WA government departments slashed by 40pc",
+          "url": "https://www.abc.net.au/news/2017-04-28/wa-public-sector-reform-departments-cut-announced/8479786",
+          "website": "ABC News",
+          "access-date": "22 July 2022",
+          "date": "28 April 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Strutt",
+          "first1": "Jessica",
+          "title": "Disquiet over WA public sector reform becomes political headache for McGowan Government",
+          "url": "https://www.abc.net.au/news/2017-07-02/disquiet-over-wa-public-sector-reform-erupts/8668380",
+          "website": "ABC News",
+          "access-date": "22 July 2022",
+          "date": "2 July 2017",
           "template": "citation",
           "type": "web"
         },

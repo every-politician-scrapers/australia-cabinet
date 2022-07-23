@@ -877,7 +877,7 @@
           "title": "The Senate - First Speech",
           "publisher": "Senate",
           "work": "Cth. Parliamentary Debates",
-          "pages": "3785-3789",
+          "pages": "3785–3789",
           "date": "17 June 2015",
           "access-date": "14 July 2022",
           "template": "citation",
@@ -918,7 +918,7 @@
           "title": "The Senate - Official Hansard",
           "publisher": "Senate",
           "work": "Cth. Parliamentary Debates",
-          "pages": "550-551",
+          "pages": "550–551",
           "date": "17 June 2015",
           "access-date": "14 July 2022",
           "template": "citation",
@@ -1347,7 +1347,7 @@
                 {
                   "text": "Little Company of Mary Health Care",
                   "type": "internal",
-                  "page": "Sisters of the Little Company of Mary"
+                  "page": "Little Company of Mary Health Care (Australia)"
                 }
               ]
             },
@@ -1695,7 +1695,7 @@
           "url": "http://www.canberratimes.com.au/lifestyle/royal-tour-2014-prince-william-and-catherine-duchess-of-cambridge-visit-canberra-20140423-373g2.html#post_live_130489",
           "publisher": "Canberra Times",
           "url-status": "dead",
-          "archive-url": "http://web.archive.org/web/20140425093700/https://www.canberratimes.com.au/lifestyle/royal-tour-2014-prince-william-and-catherine-duchess-of-cambridge-visit-canberra-20140423-373g2.html",
+          "archive-url": "https://web.archive.org/web/20140425093700/https://www.canberratimes.com.au/lifestyle/royal-tour-2014-prince-william-and-catherine-duchess-of-cambridge-visit-canberra-20140423-373g2.html",
           "archive-date": "25 March 2014",
           "access-date": "14 July 2022",
           "df": "dmy-all",
@@ -1935,7 +1935,7 @@
         {
           "sentences": [
             {
-              "text": "During her time away from politics, she worked as a consultant at Calvary Hospital and joined the board of the RSPCA ACT division.",
+              "text": "After her disqualification from the Senate, Gallagher worked as a consultant at Calvary Hospital and joined the board of the RSPCA ACT division.",
               "links": [
                 {
                   "text": "Calvary Hospital",
@@ -1972,7 +1972,7 @@
         {
           "sentences": [
             {
-              "text": "In April 2020, she took on the role as Chair of the parliamentary committee into the government's response to the Coronavirus pandemic.",
+              "text": "In April 2020, she was appointed Chair of the parliamentary committee into the government's response to the Coronavirus pandemic.",
               "links": [
                 {
                   "text": "Coronavirus pandemic",
@@ -1982,7 +1982,38 @@
               ]
             },
             {
+              "text": "In August 2021, she criticized the rollout of the vaccine program after her youngest daughter Evie tested positive to the virus."
+            },
+            {
               "text": "At the conclusion of the parliamentary term, the committee handed down its report which included recommending a royal commission into the government's handling of the pandemic."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gallagher also introduced a bill to parliament to amend the Public Governance, Performance and Accountability Act 2013 titled The Public Governance, Performance and Accountability Amendment (Improved Grants Reporting) Bill 2021, in response to the grant programs being administered by the Morrison government which had resulted in criticism from both the Productivity Commission and through various ANAO reports.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Morrison government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Productivity Commission"
+                },
+                {
+                  "text": "ANAO",
+                  "type": "internal",
+                  "page": "Australian National Audit Office"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Public Governance, Performance and Accountability Act 2013",
+                  "The Public Governance, Performance and Accountability Amendment (Improved Grants Reporting) Bill 2021"
+                ]
+              }
             }
           ]
         }
@@ -2031,6 +2062,15 @@
           "type": "news"
         },
         {
+          "url": "https://www.abc.net.au/news/2021-08-17/katy-gallagher-daughter-covid-shadow-finance-minister/100385614",
+          "title": "Shadow Finance Minister Katy Gallagher's daughter tests positive for COVID-19",
+          "date": "17 August 2021",
+          "website": "ABC News",
+          "access-date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "last": "Curtis",
           "first": "Katina",
           "date": "7 April 2022",
@@ -2041,6 +2081,39 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://parlinfo.aph.gov.au/parlInfo/genpdf/chamber/hansards/b42f9285-8f59-45fb-899e-cd7d4c326277/0160/hansard_frag.pdf;fileType=application%2Fpdf",
+          "title": "The Senate - Bills",
+          "publisher": "Senate",
+          "work": "Cth. Parliamentary Debates",
+          "pages": "4175–4176",
+          "date": "4 August 2021",
+          "access-date": "22 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.smh.com.au/politics/federal/morrison-funded-27-car-parks-just-one-day-before-he-called-the-election-20210629-p585c2.html",
+          "last": "Crowe",
+          "first": "David",
+          "title": "Morrison funded 27 car parks just one day before he called the election",
+          "work": "The Sydney Morning Herald",
+          "date": "30 June 2021",
+          "access-date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.smh.com.au/politics/federal/taxpayers-fund-55-6-billion-in-federal-grants-over-less-than-four-years-20220415-p5adrg.html",
+          "last": "Crowe",
+          "first": "David",
+          "title": "Taxpayers fund $55.6 billion in federal grants over less than four years",
+          "work": "The Sydney Morning Herald",
+          "date": "15 April 2022",
+          "access-date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -2108,7 +2181,7 @@
         },
         {
           "url": "https://www.smh.com.au/politics/federal/meet-the-new-cabinet-who-s-who-in-albanese-s-new-ministry-20220531-p5aq02.html",
-          "title": "Meet the new cabinet: Who’s who in Albanese’s ministry",
+          "title": "Meet the new cabinet: Who's who in Albanese's ministry",
           "publisher": "The Sydney Morning Herald",
           "date": "1 June 2022",
           "template": "citation",
@@ -2145,9 +2218,10 @@
         {
           "last1": "Savva",
           "first1": "Niki",
-          "title": "Albanese’s eclectic entourage could make or break him at the polls",
+          "title": "Albanese's eclectic entourage could make or break him at the polls",
           "url": "https://www.smh.com.au/politics/federal/albanese-s-eclectic-entourage-could-make-or-break-him-at-the-polls-20220302-p5a0ws.html",
           "website": "The Sydney Morning Herald",
+          "date": "2 March 2022",
           "publisher": "Fairfax Media",
           "access-date": "28 March 2022",
           "template": "citation",
