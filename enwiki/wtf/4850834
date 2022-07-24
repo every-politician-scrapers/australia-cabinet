@@ -160,7 +160,7 @@
               {
                 "text": "Michael Ferguson",
                 "type": "internal",
-                "page": "Michael Ferguson (Australian politician) "
+                "page": "Michael Ferguson (Australian politician)"
               }
             ]
           },
@@ -213,7 +213,7 @@
               {
                 "text": "Michael Ferguson",
                 "type": "internal",
-                "page": "Michael Ferguson (Australian politician) "
+                "page": "Michael Ferguson (Australian politician)"
               }
             ]
           },
@@ -411,7 +411,7 @@
         {
           "sentences": [
             {
-              "text": "Along with being Deputy Premier, Rockliff is also Minister for Education and Training, Minister for Trade, Minister for Advanced Manufacturing and Defence Industries, Minister for Disability Services and Community Development, and Minister for Mental Health and Wellbeing."
+              "text": "Along with being Deputy Premier, Rockliff was also Minister for Education and Training, Minister for Trade, Minister for Advanced Manufacturing and Defence Industries, Minister for Disability Services and Community Development, and Minister for Mental Health and Wellbeing."
             }
           ]
         },
@@ -491,6 +491,13 @@
           "date": "8 April 2022",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "id": "rockliffj733",
+          "title": "Rockliff, Jeremy",
+          "access-date": "24 July 2022",
+          "template": "citation",
+          "type": "tas parliament"
         }
       ]
     },
@@ -606,16 +613,6 @@
       ],
       "lists": [
         [
-          {
-            "text": "Parliamentary profile",
-            "links": [
-              {
-                "text": "Parliamentary profile",
-                "type": "external",
-                "site": "http://www.parliament.tas.gov.au/history/tasparl/rockliffj733.htm"
-              }
-            ]
-          },
           {
             "text": "Personal Website",
             "links": [

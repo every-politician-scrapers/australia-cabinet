@@ -437,18 +437,17 @@
                 "site": "http://craigfarrell.com.au/"
               }
             ]
-          },
-          {
-            "text": "Parliamentary website",
-            "links": [
-              {
-                "text": "Parliamentary website",
-                "type": "external",
-                "site": "http://www.parliament.tas.gov.au/history/tasparl/farrellC764.htm"
-              }
-            ]
           }
         ]
+      ],
+      "references": [
+        {
+          "id": "farrellC764",
+          "title": "Craig Farrell",
+          "access-date": "24 July 2022",
+          "template": "citation",
+          "type": "cite tas parliament"
+        }
       ]
     }
   ]
