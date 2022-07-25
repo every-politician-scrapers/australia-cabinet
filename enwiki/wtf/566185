@@ -507,13 +507,18 @@
             "text": ", New South Wales, Australia"
           },
           "party": {
-            "text": "Liberal (Coalition; 1987-present)",
+            "text": "Liberal",
             "links": [
               {
                 "text": "Liberal",
                 "type": "internal",
                 "page": "Liberal Party of Australia"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Coalition",
+            "links": [
               {
                 "text": "Coalition",
                 "type": "internal",
