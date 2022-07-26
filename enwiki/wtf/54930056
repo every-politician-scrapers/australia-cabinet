@@ -121,6 +121,9 @@
           "term_start": {
             "text": "18 October 2021"
           },
+          "term_end": {
+            "text": "26 July 2022"
+          },
           "predecessor": {
             "text": "Scott Ryan",
             "links": [
@@ -128,6 +131,15 @@
                 "text": "Scott Ryan",
                 "type": "internal",
                 "page": "Scott Ryan (Australian politician)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sue Lines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sue Lines"
               }
             ]
           },

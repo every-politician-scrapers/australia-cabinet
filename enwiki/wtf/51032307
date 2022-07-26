@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Andrew Bruce Wallace (born 27 February 1968) is an Australian politician currently serving as the 31st Speaker of the House of Representatives.",
+              "text": "Andrew Bruce Wallace (born 27 February 1968) is an Australian politician who served as the 31st Speaker of the House of Representatives.",
               "links": [
                 {
                   "text": "Speaker of the House of Representatives",
@@ -150,6 +150,9 @@
           "term_start": {
             "text": "November 23, 2021"
           },
+          "term_end": {
+            "text": "26 July 2022"
+          },
           "deputy": {
             "text": "Llew O'Brien",
             "links": [
@@ -166,6 +169,15 @@
                 "text": "Tony Smith",
                 "type": "internal",
                 "page": "Tony Smith (Victorian politician)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Milton Dick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milton Dick"
               }
             ]
           },
@@ -604,7 +616,6 @@
           "template": "s-ttl"
         },
         {
-          "rows": "2",
           "template": "s-inc"
         },
         {
@@ -613,8 +624,12 @@
         },
         {
           "title": "Speaker of the Australian House of Representatives",
-          "years": "2021–present",
+          "years": "2021–2022",
           "template": "s-ttl"
+        },
+        {
+          "after": "Milton Dick",
+          "template": "s-aft"
         },
         {
           "template": "speaker of the australian house of representatives"

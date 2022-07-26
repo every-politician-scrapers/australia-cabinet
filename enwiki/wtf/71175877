@@ -574,6 +574,21 @@
           "sentences": [
             {
               "text": "Chipman is married to Alyce and has four children."
+            },
+            {
+              "text": ", his father, Doug Chipman, who is currently Mayor of the City of Clarance in Tasmania, also served in the RAAF and retired as an Air Commodore",
+              "links": [
+                {
+                  "text": "",
+                  "type": "external",
+                  "site": "http://www.raafatas.com/158198737"
+                },
+                {
+                  "text": "City of Clarance in Tasmania",
+                  "type": "internal",
+                  "page": "City of Clarence"
+                }
+              ]
             }
           ]
         }
