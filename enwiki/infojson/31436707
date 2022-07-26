@@ -1,0 +1,142 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Cronulla"
+      ],
+      "stated_as": "Cronulla"
+    },
+    "P580": "2011-03-26",
+    "P1365": {
+      "links": [
+        "Malcolm Kerr (politician)"
+      ],
+      "stated_as": "Malcolm Kerr"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Minister for Planning"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rob Stokes"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "portfolio abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment (New South Wales)"
+      ],
+      "stated_as": "Minister for Heritage"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rob Stokes"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gabrielle Upton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment (New South Wales)"
+      ],
+      "stated_as": "Minister for the Environment"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Rob Stokes"
+      ],
+      "stated_as": "Rob Stokes"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Gabrielle Upton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of New South Wales"
+      ],
+      "stated_as": "Attorney General of New South Wales"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Gabrielle Upton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of New South Wales",
+        "Attorney General of New South Wales"
+      ],
+      "stated_as": "AMinister for the Prevention of Domestic Violence\nAMinister for Prevention of Domestic and Sexual Violence"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+        "Pru Goward"
+      ],
+      "stated_as": "Pru Goward (as Minister for Prevention of Domestic Violence and Sexual Assault)"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Natalie Ward (politician)"
+      ],
+      "stated_as": "Natalie Ward (as Minister for Minister for Women's Safety and the Prevention of Domestic and Sexual Violence)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2020-05-08",
+    "P1365": {
+      "links": [
+        "Andrew Constance"
+      ],
+      "stated_as": "Andrew Constance"
+    }
+  }
+]

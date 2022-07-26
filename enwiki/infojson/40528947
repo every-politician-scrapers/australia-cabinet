@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Charlton"
+      ],
+      "stated_as": "Charlton"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Greg Combet"
+      ],
+      "stated_as": "Greg Combet"
+    },
+    "P582": "2016-07-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Shortland"
+      ],
+      "stated_as": "Shortland"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Jill Hall"
+      ],
+      "stated_as": "Jill Hall"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Industry"
+      ],
+      "stated_as": "Minister for Defence Industry"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Melissa Price (politician)"
+      ],
+      "stated_as": "Melissa Price"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for International Development and the Pacific"
+      ],
+      "stated_as": "Minister for International Development and the Pacific"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Zed Seselja"
+      ],
+      "stated_as": "Zed Seselja"
+    }
+  }
+]

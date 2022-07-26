@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party National Executive"
+      ],
+      "stated_as": "23rd National President of the Labor Party"
+    },
+    "P580": "2011-07-01",
+    "P1365": {
+      "links": [
+        "Anna Bligh"
+      ],
+      "stated_as": "Anna Bligh"
+    },
+    "P582": "2015-06-17",
+    "P1366": {
+      "links": [
+        "Mark Butler"
+      ],
+      "stated_as": "Mark Butler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "New South Wales"
+      ],
+      "stated_as": "Senator for New South Wales"
+    },
+    "P580": "2015-05-06",
+    "P1365": {
+      "links": [
+        "John Faulkner"
+      ],
+      "stated_as": "John Faulkner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Minister for Climate Change and Energy"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Tim Wilson (Australian politician)"
+      ],
+      "stated_as": "Tim Wilson"
+    }
+  }
+]

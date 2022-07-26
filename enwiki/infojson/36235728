@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Privacy Commissioner"
+      ],
+      "stated_as": "Australian Privacy Commissioner"
+    },
+    "P580": "2010-07-19",
+    "P1365": {
+      "links": [
+        "Karen Curtis"
+      ],
+      "stated_as": "Karen Curtis"
+    },
+    "P582": "2018-03-24",
+    "P1366": {
+      "links": [
+        "Angelene Falk"
+      ],
+      "stated_as": "Angelene Falk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Information Commissioner"
+      ],
+      "stated_as": "Australian Information Commissioner"
+    },
+    "P580": "2016-10-13",
+    "P1365": {
+      "links": [
+        "John McMillan (public servant)"
+      ],
+      "stated_as": "John McMillan"
+    },
+    "P582": "2018-03-24",
+    "P1366": {
+      "links": [
+        "Angelene Falk"
+      ],
+      "stated_as": "Angelene Falk"
+    }
+  }
+]

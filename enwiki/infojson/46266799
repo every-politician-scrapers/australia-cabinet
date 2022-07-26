@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for Families, Communities and Disability Services"
+      ],
+      "stated_as": "Minister for Families, Communities and Disability Services"
+    },
+    "P580": "2015-03-28",
+    "P1365": {
+      "links": [
+        "Barry O'Farrell"
+      ],
+      "stated_as": "Barry O'Farrell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Families, Communities and Disability Services"
+      ],
+      "stated_as": "Minister for Families, Communities and Disability Services"
+    },
+    "P580": "2021-05-27",
+    "P1365": {
+      "links": [
+        "Gareth Ward"
+      ],
+      "stated_as": "Gareth Ward"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Natasha Maclaren-Jones"
+      ],
+      "stated_as": "Natasha Maclaren-Jones"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Science, Innovation and Technology (New South Wales)"
+      ],
+      "stated_as": "Minister for Science, Innovation and Technology"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Brad Hazzard",
+        "Kevin Anderson (politician)"
+      ],
+      "stated_as": "Brad Hazzard (Medical Research) Kevin Anderson (Better Regulation and Innovation)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Skills and Training (New South Wales)"
+      ],
+      "stated_as": "Minister for Skills and Training"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Geoff Lee"
+      ],
+      "stated_as": "Geoff Lee (Skills and Training)"
+    }
+  }
+]

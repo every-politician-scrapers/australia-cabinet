@@ -1,0 +1,47 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of New South Wales"
+    },
+    "P1545": "17",
+    "P580": "2012-02-01",
+    "P1365": {
+      "links": [
+        "James Spigelman"
+      ],
+      "stated_as": "James Spigelman"
+    },
+    "P582": "2022-03-05",
+    "P1366": {
+      "links": [
+        "Andrew Bell (judge)"
+      ],
+      "stated_as": "Andrew Bell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant-Governor of New South Wales"
+      ],
+      "stated_as": "Lieutenant-Governor of New South Wales"
+    },
+    "P580": "2012-02-01",
+    "P1365": {
+      "links": [
+        "James Spigelman"
+      ],
+      "stated_as": "James Spigelman"
+    },
+    "P582": "Present",
+    "P1366": {
+      "links": [
+        "Andrew Bell (judge)"
+      ],
+      "stated_as": "Andrew Bell"
+    }
+  }
+]

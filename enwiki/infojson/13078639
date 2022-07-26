@@ -1,0 +1,214 @@
+[
+  {
+    "office": {
+      "links": [
+        "Western Australian Legislative Assembly",
+        "Electoral district of Rockingham"
+      ],
+      "stated_as": "Member of the Legislative Assembly for Rockingham"
+    },
+    "P580": "1996-12-14",
+    "P1365": {
+      "links": [
+        "Mike Barnett (politician)"
+      ],
+      "stated_as": "Mike Barnett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Racing and Gaming (Western Australia)"
+      ],
+      "stated_as": "Minister for Tourism, Racing and Gaming"
+    },
+    "P580": "2005-03-10",
+    "P1365": {
+      "links": [
+        "Nick Griffiths"
+      ],
+      "stated_as": "Nick Griffiths"
+    },
+    "P582": "2006-12-13",
+    "P1366": {
+      "links": [
+        "Sheila McHale",
+        "John Bowler (politician)"
+      ],
+      "stated_as": "Sheila McHale John Bowler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Regional Development (Western Australia)"
+      ],
+      "stated_as": "Minister for the Peel and South West"
+    },
+    "P580": "2005-03-10",
+    "P1365": {
+      "links": [
+        "Norm Marlborough"
+      ],
+      "stated_as": "Norm Marlborough"
+    },
+    "P582": "2008-09-23",
+    "P1366": {
+      "links": [
+        "David Templeman"
+      ],
+      "stated_as": "David Templeman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Disability Services (Western Australia)"
+      ],
+      "stated_as": "Minister for Disability Services"
+    },
+    "P580": "2005-10-13",
+    "P1365": {
+      "links": [
+        "Bob Kucera"
+      ],
+      "stated_as": "Bob Kucera"
+    },
+    "P582": "2007-03-02",
+    "P1366": {
+      "links": [
+        "Margaret Quirk"
+      ],
+      "stated_as": "Margaret Quirk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment (Western Australia)"
+      ],
+      "stated_as": "Minister for the Environment"
+    },
+    "P580": "2006-02-03",
+    "P1365": {
+      "links": [
+        "Judy Edwards"
+      ],
+      "stated_as": "Judy Edwards"
+    },
+    "P582": "2006-12-13",
+    "P1366": {
+      "links": [
+        "Tony McRae (politician)"
+      ],
+      "stated_as": "Tony McRae"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education (Western Australia)"
+      ],
+      "stated_as": "Minister for Education and Training"
+    },
+    "P580": "2006-12-13",
+    "P1365": {
+      "links": [
+        "Ljiljanna Ravlich"
+      ],
+      "stated_as": "Ljiljanna Ravlich"
+    },
+    "P582": "2008-09-23",
+    "P1366": {
+      "links": [
+        "Liz Constable"
+      ],
+      "stated_as": "Liz Constable"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (Western Australian Branch)"
+      ],
+      "stated_as": "Leader of the Labor Party in Western Australia"
+    },
+    "P580": "2012-01-23",
+    "P1365": {
+      "links": [
+        "Eric Ripper"
+      ],
+      "stated_as": "Eric Ripper"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Western Australia)"
+      ],
+      "stated_as": "Leader of the Opposition in Western Australia"
+    },
+    "P580": "2012-01-23",
+    "P1365": {
+      "links": [
+        "Eric Ripper"
+      ],
+      "stated_as": "Eric Ripper"
+    },
+    "P582": "2017-03-17",
+    "P1366": {
+      "links": [
+        "Mike Nahan"
+      ],
+      "stated_as": "Mike Nahan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Western Australia",
+        "2013 Western Australian state election",
+        "2017 Western Australian state election",
+        "2021 Western Australian state election"
+      ],
+      "stated_as": "30th Premier of Western Australia\nElections: 2013, 2017, 2021"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Colin Barnett"
+      ],
+      "stated_as": "Colin Barnett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for State Development (Western Australia)"
+      ],
+      "stated_as": "Minister for Public Sector Management"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Bill Marmion"
+      ],
+      "stated_as": "Bill Marmion"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Western Australia"
+      ],
+      "stated_as": "Treasurer of Western Australia"
+    },
+    "P580": "2021-03-18",
+    "P1365": {
+      "links": [
+        "Ben Wyatt (politician)"
+      ],
+      "stated_as": "Ben Wyatt"
+    }
+  }
+]

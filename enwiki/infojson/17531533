@@ -1,0 +1,35 @@
+[
+  {
+    "office": {
+      "links": [
+        "Western Australian Legislative Council",
+        "Western Australia"
+      ],
+      "stated_as": "Member of the Legislative Council of Western Australia"
+    },
+    "P580": "2001-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Western Australian Legislative Council",
+        "Western Australia"
+      ],
+      "stated_as": "President of the Legislative Council of Western Australia"
+    },
+    "P580": "2017-05-23",
+    "P1365": {
+      "links": [
+        "Barry House"
+      ],
+      "stated_as": "Barry House"
+    },
+    "P582": "2021-05-24",
+    "P1366": {
+      "links": [
+        "Alanna Clohesy"
+      ],
+      "stated_as": "Alanna Clohesy"
+    }
+  }
+]

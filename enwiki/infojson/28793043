@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (New South Wales Branch)"
+      ],
+      "stated_as": "General Secretary of the Australian Labor Party (NSW Branch)"
+    },
+    "P580": "2008-10-01",
+    "P1365": {
+      "links": [
+        "Karl Bitar"
+      ],
+      "stated_as": "Karl Bitar"
+    },
+    "P582": "2010-07-17",
+    "P1366": {
+      "links": [
+        "Sam Dastyari"
+      ],
+      "stated_as": "Sam Dastyari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "New South Wales"
+      ],
+      "stated_as": "Senator for New South Wales"
+    },
+    "P580": "2011-07-01",
+    "P582": "2013-08-09",
+    "P1366": {
+      "links": [
+        "Sam Dastyari"
+      ],
+      "stated_as": "Sam Dastyari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Australia",
+        "Division of Kingsford Smith"
+      ],
+      "stated_as": "Member of the Australian Parliament for Kingsford Smith"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Peter Garrett"
+      ],
+      "stated_as": "Peter Garrett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence (Australia)"
+      ],
+      "stated_as": "Assistant Minister for Defence"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Andrew Hastie"
+      ],
+      "stated_as": "Andrew Hastie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Veterans' Affairs"
+      ],
+      "stated_as": "Assistant Minister for Veterans' Affairs"
+    },
+    "P580": "2022-06-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Australia"
+      ],
+      "stated_as": "Assistant Minister for the Republic"
+    },
+    "P580": "2022-06-01"
+  }
+]

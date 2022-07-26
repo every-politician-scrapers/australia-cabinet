@@ -1,0 +1,200 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Mulgrave (Queensland)"
+      ],
+      "stated_as": "Mulgrave"
+    },
+    "P580": "2009-03-21",
+    "P1365": {
+      "links": [
+        "Warren Pitt"
+      ],
+      "stated_as": "Warren Pitt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Disabilities, Mental Health and Aboriginal and Torres Strait Islander Partnerships of Queensland"
+    },
+    "P580": "2011-02-21",
+    "P1365": {
+      "links": [
+        "Annastacia Palaszczuk",
+        "Desley Boyle"
+      ],
+      "stated_as": "Annastacia Palaszczuk (Disabilities)\nDesley Boyle (Partnerships)"
+    },
+    "P582": "2012-03-26",
+    "P1366": {
+      "links": [
+        "Tracy Davis",
+        "Jack Dempsey (politician)"
+      ],
+      "stated_as": "Tracy Davis (Disability Services)\nJack Dempsey (politician) (Partnerships)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Manager of Opposition Business in the House (Queensland)"
+      ],
+      "stated_as": "Manager of Opposition Business in Queensland"
+    },
+    "P580": "2012-04-19",
+    "P1365": {
+      "links": [
+        "Rosemary Menkens"
+      ],
+      "stated_as": "Rosemary Menkens"
+    },
+    "P582": "2015-01-31",
+    "P1366": {
+      "links": [
+        "Ray Stevens (politician)"
+      ],
+      "stated_as": "Ray Stevens"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Treasurer of Queensland"
+    },
+    "P580": "2012-04-19",
+    "P1365": {
+      "links": [
+        "Tim Nicholls"
+      ],
+      "stated_as": "Tim Nicholls"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "John-Paul Langbroek"
+      ],
+      "stated_as": "John-Paul Langbroek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Aboriginal and Torres Strait Islander Partnerships of Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Glen Elmes"
+      ],
+      "stated_as": "Glen Elmes\n(Aboriginal and Torres Strait Islander Affairs)"
+    },
+    "P582": "2017-12-12",
+    "P1366": {
+      "links": [
+        "Jackie Trad"
+      ],
+      "stated_as": "Jackie Trad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Queensland"
+      ],
+      "stated_as": "Minister for Employment and Industrial Relations of Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "John-Paul Langbroek"
+      ],
+      "stated_as": "John-Paul Langbroek\n(Employment)"
+    },
+    "P582": "2015-12-07",
+    "P1366": {
+      "links": [
+        "Grace Grace"
+      ],
+      "stated_as": "Grace Grace"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Queensland"
+      ],
+      "stated_as": "Treasurer of Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Tim Nicholls"
+      ],
+      "stated_as": "Tim Nicholls"
+    },
+    "P582": "2017-12-12",
+    "P1366": {
+      "links": [
+        "Jackie Trad"
+      ],
+      "stated_as": "Jackie Trad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Sport"
+    },
+    "P580": "2015-12-07",
+    "P1365": {
+      "links": [
+        "Bill Byrne (politician)"
+      ],
+      "stated_as": "Bill Byrne\n(Sport and Racing)"
+    },
+    "P582": "2017-12-12",
+    "P1366": {
+      "links": [
+        "Mick de Brenni"
+      ],
+      "stated_as": "Mick de Brenni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Legislative Assembly of Queensland"
+      ],
+      "stated_as": "39th Speaker of the Queensland Legislative Assembly"
+    },
+    "P580": "2018-02-13",
+    "P1365": {
+      "links": [
+        "Peter Wellington"
+      ],
+      "stated_as": "Peter Wellington"
+    },
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Incumbent"
+    }
+  }
+]

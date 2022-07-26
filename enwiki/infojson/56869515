@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education, Training and Skills"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+        "Jennifer Rankine"
+      ],
+      "stated_as": "Jennifer Rankine"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education, Training and Skills"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "John Gardner (Australian politician)",
+        "David Pisoni"
+      ],
+      "stated_as": "John Gardner (as Minister for Education)\nDavid Pisoni (as Minister for Innovation and Skills)"
+    }
+  }
+]

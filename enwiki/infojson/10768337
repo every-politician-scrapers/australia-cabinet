@@ -1,0 +1,187 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2007-05-03",
+    "P1365": {
+      "links": [
+        "Jeannie Ferris"
+      ],
+      "stated_as": "Jeannie Ferris"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education and Training"
+      ],
+      "stated_as": "Assistant Minister for Education and Training"
+    },
+    "P580": "2014-12-23",
+    "P1365": {
+      "links": [
+        "Sussan Ley"
+      ],
+      "stated_as": "Sussan Ley"
+    },
+    "P582": "2015-09-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education and Training"
+      ],
+      "stated_as": "Minister for Education and Training"
+    },
+    "P580": "2015-09-21",
+    "P1365": {
+      "links": [
+        "Christopher Pyne"
+      ],
+      "stated_as": "Christopher Pyne"
+    },
+    "P582": "2018-08-28",
+    "P1366": {
+      "links": [
+        "Dan Tehan"
+      ],
+      "stated_as": "Dan Tehan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Deputy Leader of the Government in the Senate"
+    },
+    "P580": "2018-08-28",
+    "P1365": {
+      "links": [
+        "Mitch Fifield"
+      ],
+      "stated_as": "Mitch Fifield"
+    },
+    "P582": "2020-10-30",
+    "P1366": {
+      "links": [
+        "Michaelia Cash"
+      ],
+      "stated_as": "Michaelia Cash"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Trade, Tourism and Investment"
+      ],
+      "stated_as": "Minister for Trade, Tourism and Investment"
+    },
+    "P580": "2018-08-28",
+    "P1365": {
+      "links": [
+        "Steven Ciobo"
+      ],
+      "stated_as": "Steven Ciobo"
+    },
+    "P582": "2020-12-22",
+    "P1366": {
+      "links": [
+        "Dan Tehan"
+      ],
+      "stated_as": "Dan Tehan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Leader of the Government in the Senate"
+    },
+    "P580": "2020-10-30",
+    "P1365": {
+      "links": [
+        "Mathias Cormann"
+      ],
+      "stated_as": "Mathias Cormann"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Penny Wong"
+      ],
+      "stated_as": "Penny Wong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Australia)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2020-10-30",
+    "P1365": {
+      "links": [
+        "Mathias Cormann"
+      ],
+      "stated_as": "Mathias Cormann"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Katy Gallagher"
+      ],
+      "stated_as": "Katy Gallagher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of the Executive Council"
+      ],
+      "stated_as": "Vice-President of the Executive Council"
+    },
+    "P580": "2020-10-30",
+    "P1365": {
+      "links": [
+        "Mathias Cormann"
+      ],
+      "stated_as": "Mathias Cormann"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Katy Gallagher"
+      ],
+      "stated_as": "Katy Gallagher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition in the Senate (Australia)"
+      ],
+      "stated_as": "Leader of the Opposition in the Senate"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Penny Wong"
+      ],
+      "stated_as": "Penny Wong"
+    }
+  }
+]

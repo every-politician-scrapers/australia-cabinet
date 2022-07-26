@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Victorian Legislative Assembly",
+        "Electoral district of Bundoora"
+      ],
+      "stated_as": "Member of the Victorian Legislative Assembly for Bundoora"
+    },
+    "P580": "2006-11-25",
+    "P1365": {
+      "links": [
+        "Sherryl Garbutt"
+      ],
+      "stated_as": "Sherryl Garbutt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Victorian Legislative Assembly"
+      ],
+      "stated_as": "37th Speaker of the Victorian Legislative Assembly"
+    },
+    "P580": "2017-03-07",
+    "P1365": {
+      "links": [
+        "Telmo Languiller"
+      ],
+      "stated_as": "Telmo Languiller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Child Protection and Family Services"
+    },
+    "P580": "2022-06-27",
+    "P1365": {
+      "links": [
+        "Anthony Carbines"
+      ],
+      "stated_as": "Anthony Carbines"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Disability, Ageing and Carers"
+    },
+    "P580": "2022-06-27",
+    "P1365": {
+      "links": [
+        "Anthony Carbines"
+      ],
+      "stated_as": "Anthony Carbines"
+    }
+  }
+]

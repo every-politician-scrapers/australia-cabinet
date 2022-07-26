@@ -1,0 +1,106 @@
+[
+  {
+    "office": {
+      "links": [
+        "Leader of Government Business in the House of Assembly (South Australia)"
+      ],
+      "stated_as": "Leader of Government Business"
+    },
+    "P580": "2014-03-15",
+    "P582": "2022-03-19",
+    "P1366": {
+      "links": [
+        "Ashton Hurn"
+      ],
+      "stated_as": "Ashton Hurn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Local Government"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Geoff Brock"
+      ],
+      "stated_as": "Geoff Brock"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Vickie Chapman"
+      ],
+      "stated_as": "Vickie Chapman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Planning"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "John Rau"
+      ],
+      "stated_as": "John Rau"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Vickie Chapman"
+      ],
+      "stated_as": "Vickie Chapman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Transport and Infrastructure"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Stephen Mullighan"
+      ],
+      "stated_as": "Stephen Mullighan"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Corey Wingard"
+      ],
+      "stated_as": "Corey Wingard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of Government Business in the House of Assembly (South Australia)"
+      ],
+      "stated_as": "Leader of Government Business"
+    },
+    "P580": "2020-02-05",
+    "P1365": {
+      "links": [
+        "John Gardner (Australian politician)"
+      ],
+      "stated_as": "John Gardner"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Dan van Holst Pellekaan"
+      ],
+      "stated_as": "Dan van Holst Pellekaan"
+    }
+  }
+]

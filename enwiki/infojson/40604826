@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Gellibrand"
+      ],
+      "stated_as": "Gellibrand"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Nicola Roxon"
+      ],
+      "stated_as": "Nicola Roxon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Australia)"
+      ],
+      "stated_as": "MAssistant Minister for Foreign Affairs"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Steven Ciobo"
+      ],
+      "stated_as": "Steven Ciobo (2015)"
+    }
+  }
+]

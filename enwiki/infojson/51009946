@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Burt"
+      ],
+      "stated_as": "Burt"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "new seat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Personnel"
+      ],
+      "stated_as": "Minister for Defence Personnel"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Andrew Gee (politician)"
+      ],
+      "stated_as": "Andrew Gee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Veterans Affairs (Australia) "
+      ],
+      "stated_as": "Minister for Veterans Affairs"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Andrew Gee (politician)"
+      ],
+      "stated_as": "Andrew Gee"
+    }
+  }
+]

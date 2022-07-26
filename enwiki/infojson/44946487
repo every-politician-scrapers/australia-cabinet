@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (Queensland Branch)"
+      ],
+      "stated_as": "Secretary of the Australian Labor Party (Queensland Branch)"
+    },
+    "P580": "2008-10-09",
+    "P1365": {
+      "links": [
+        "Milton Dick"
+      ],
+      "stated_as": "Milton Dick"
+    },
+    "P582": "2014-11-12",
+    "P1366": {
+      "links": [
+        "Evan Moorhead"
+      ],
+      "stated_as": "Evan Moorhead"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Queensland"
+      ],
+      "stated_as": "Senator for Queensland"
+    },
+    "P580": "2016-07-02"
+  }
+]

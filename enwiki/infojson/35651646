@@ -1,0 +1,249 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Queensland",
+        "Electoral district of South Brisbane"
+      ],
+      "stated_as": "Member of the Queensland Parliament for South Brisbane"
+    },
+    "P580": "2012-04-28",
+    "P1365": {
+      "links": [
+        "Anna Bligh"
+      ],
+      "stated_as": "Anna Bligh"
+    },
+    "P582": "2020-10-06",
+    "P1366": {
+      "links": [
+        "Amy MacMahon"
+      ],
+      "stated_as": "Amy MacMahon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Environment and Heritage Protection, Small Business and Consumer Affairs & The Arts"
+    },
+    "P580": "2012-05-10",
+    "P1365": {
+      "links": [
+        "Bill Byrne (politician)",
+        "Annastacia Palaszczuk"
+      ],
+      "stated_as": "Bill Byrne (Environment and Heritage Protection)\nAnnastacia Palaszczuk (Small Business & The Arts)"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Stephen Bennett (Australian politician)",
+        "Tim Nicholls",
+        "Ian Walker (politician)"
+      ],
+      "stated_as": "Stephen Bennett (Environment and Heritage Protection)\nTim Nicholls (Small Business)\nIan Walker (The Arts)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Transport"
+    },
+    "P580": "2012-05-10",
+    "P1365": {
+      "links": [
+        "Desley Scott"
+      ],
+      "stated_as": "Desley Scott"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Scott Emerson"
+      ],
+      "stated_as": "Scott Emerson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Main Roads"
+    },
+    "P580": "2014-03-04",
+    "P1365": {
+      "links": [
+        "Tim Mulherin"
+      ],
+      "stated_as": "Tim Mulherin"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Fiona Simpson"
+      ],
+      "stated_as": "Fiona Simpson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Premier of Queensland"
+    },
+    "P1545": "34",
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Jeff Seeney"
+      ],
+      "stated_as": "Jeff Seeney"
+    },
+    "P582": "2020-05-10",
+    "P1366": {
+      "links": [
+        "Steven Miles (politician)"
+      ],
+      "stated_as": "Steven Miles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure, Local Government and Planning of Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Jeff Seeney"
+      ],
+      "stated_as": "Jeff Seeney"
+    },
+    "P582": "2017-12-12",
+    "P1366": {
+      "links": [
+        "Cameron Dick"
+      ],
+      "stated_as": "Cameron Dick"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Trade and Investment\nof Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Tim Nicholls"
+      ],
+      "stated_as": "Tim Nicholls"
+    },
+    "P582": "2017-02-10",
+    "P1366": {
+      "links": [
+        "Curtis Pitt"
+      ],
+      "stated_as": "Curtis Pitt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Transport and Main Roads"
+      ],
+      "stated_as": "Minister for Transport of Queensland"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Scott Emerson"
+      ],
+      "stated_as": "Scott Emerson"
+    },
+    "P582": "2015-12-08",
+    "P1366": {
+      "links": [
+        "Stirling Hinchliffe"
+      ],
+      "stated_as": "Stirling Hinchliffe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Transport and Main Roads"
+      ],
+      "stated_as": "Minister for Transport of Queensland"
+    },
+    "P580": "2017-02-09",
+    "P1365": {
+      "links": [
+        "Stirling Hinchliffe"
+      ],
+      "stated_as": "Stirling Hinchliffe"
+    },
+    "P582": "2017-12-12",
+    "P1366": {
+      "links": [
+        "Mark Bailey (politician)"
+      ],
+      "stated_as": "Mark Bailey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Aboriginal and Torres Strait Islander Partnerships"
+      ],
+      "stated_as": "Minister for Aboriginal and Torres Strait Islander Partnerships of Queensland"
+    },
+    "P580": "2017-12-12",
+    "P1365": {
+      "links": [
+        "Mark Furner"
+      ],
+      "stated_as": "Mark Furner"
+    },
+    "P582": "2020-05-10",
+    "P1366": {
+      "links": [
+        "Craig Crawford (politician)"
+      ],
+      "stated_as": "Craig Crawford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Queensland"
+      ],
+      "stated_as": "Treasurer of Queensland"
+    },
+    "P580": "2017-12-12",
+    "P1365": {
+      "links": [
+        "Curtis Pitt"
+      ],
+      "stated_as": "Curtis Pitt"
+    },
+    "P582": "2020-05-10",
+    "P1366": {
+      "links": [
+        "Cameron Dick"
+      ],
+      "stated_as": "Cameron Dick"
+    }
+  }
+]

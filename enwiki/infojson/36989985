@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "Attorney-General of the Northern Territory"
+      ],
+      "stated_as": "Attorney-General of the Northern Territory\nMinister for Justice"
+    },
+    "P580": "2012-08-25",
+    "P1365": {
+      "links": [
+        "Jane Aagaard"
+      ],
+      "stated_as": "Jane Aagaard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of the Northern Territory"
+      ],
+      "stated_as": "Attorney-General of the Northern Territory\nMinister for Justice"
+    },
+    "P580": "2016-08-31",
+    "P1365": {
+      "links": [
+        "John Elferink"
+      ],
+      "stated_as": "John Elferink"
+    },
+    "P582": "2020-09-07",
+    "P1366": {
+      "links": [
+        "Selena Uibo"
+      ],
+      "stated_as": "Selena Uibo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2016-09-12",
+    "P1365": {
+      "links": [
+        "Michael Gunner"
+      ],
+      "stated_as": "Michael Gunner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of the Northern Territory"
+      ],
+      "stated_as": "12th Chief Minister of the Northern Territory"
+    },
+    "P580": "2022-05-13",
+    "P1365": {
+      "links": [
+        "Michael Gunner"
+      ],
+      "stated_as": "Michael Gunner"
+    }
+  }
+]

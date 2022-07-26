@@ -1,0 +1,188 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Parliament",
+        "Division of Prospect"
+      ],
+      "stated_as": "Member of the Australian Parliament for Prospect"
+    },
+    "P580": "2004-10-09",
+    "P1365": {
+      "links": [
+        "Janice Crosio"
+      ],
+      "stated_as": "Janice Crosio"
+    },
+    "P582": "2010-08-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Australia"
+      ],
+      "stated_as": "Assistant Treasurer of Australia"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    },
+    "P582": "2009-06-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nick Sherry"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Financial Services and Superannuation"
+      ],
+      "stated_as": "Minister for Financial Services, Superannuation and Corporate Law"
+    },
+    "P580": "2009-06-09",
+    "P1365": {
+      "links": [
+        "Nick Sherry"
+      ],
+      "stated_as": "Nick Sherry"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Bill Shorten"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Parliament",
+        "Division of McMahon"
+      ],
+      "stated_as": "Member of the Australian Parliament for McMahon"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Immigration, Multicultural Affairs and Citizenship (Australia)"
+      ],
+      "stated_as": "Minister for Immigration and Citizenship"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Chris Evans (Australian politician)"
+      ],
+      "stated_as": "Chris Evans"
+    },
+    "P582": "2013-02-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brendan O'Connor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Small Business (Australia)"
+      ],
+      "stated_as": "Minister for Small Business"
+    },
+    "P580": "2013-02-04",
+    "P1365": {
+      "links": [
+        "Brendan O'Connor (politician)"
+      ],
+      "stated_as": "Brendan O'Connor"
+    },
+    "P582": "2013-03-22",
+    "P1366": {
+      "links": [
+        "Gary Gray (politician)"
+      ],
+      "stated_as": "Gary Gray"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Australia"
+      ],
+      "stated_as": "Treasurer of Australia"
+    },
+    "P580": "2013-06-27",
+    "P1365": {
+      "links": [
+        "Wayne Swan"
+      ],
+      "stated_as": "Wayne Swan"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Joe Hockey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Australian Leaders of the Opposition"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2013-09-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Tony Abbott"
+    },
+    "P582": "2013-10-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Bill Shorten"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Climate Change and Energy"
+      ],
+      "stated_as": "Minister for Climate Change and Energy"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Angus Taylor (politician)"
+      ],
+      "stated_as": "Angus Taylor"
+    }
+  }
+]

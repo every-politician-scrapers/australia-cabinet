@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Parliament",
+        "Division of Chifley"
+      ],
+      "stated_as": "Member of the Australian Parliament\nfor Chifley"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+        "Roger Price (Australian politician)"
+      ],
+      "stated_as": "Roger Price"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Industry and Science (Australia)"
+      ],
+      "stated_as": "Minister for Industry and Science"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Angus Taylor (politician)",
+        "Melissa Price (politician)"
+      ],
+      "stated_as": "Angus Taylor (industry)\nMelissa Price (science)"
+    }
+  }
+]

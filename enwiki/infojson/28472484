@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "City of Blacktown"
+      ],
+      "stated_as": "Councillor of Blacktown City Council for Second Ward"
+    },
+    "P580": "2004-03-23",
+    "P582": "2008-09-13"
+  },
+  {
+    "office": {
+      "links": [
+        "City of Blacktown"
+      ],
+      "stated_as": "Deputy Mayor of Blacktown"
+    },
+    "P580": "2007-09",
+    "P1365": {
+      "links": [
+        "Edmond Atalla"
+      ],
+      "stated_as": "Edmond Atalla"
+    },
+    "P582": "2008-09-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alan Pendleton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Greenway"
+      ],
+      "stated_as": "Greenway"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+        "Louise Markus"
+      ],
+      "stated_as": "Louise Markus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Communications and Minister for the Arts"
+      ],
+      "stated_as": "Minister for Communications"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Paul Fletcher (politician)"
+      ],
+      "stated_as": "Paul Fletcher"
+    }
+  }
+]

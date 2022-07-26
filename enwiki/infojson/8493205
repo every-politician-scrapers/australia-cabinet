@@ -1,0 +1,51 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Fraser (Australian Capital Territory)"
+      ],
+      "stated_as": "Fraser"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+        "Bob McMullan"
+      ],
+      "stated_as": "Bob McMullan"
+    },
+    "P582": "2016-07-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Division abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Fenner"
+      ],
+      "stated_as": "Fenner"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    }
+  }
+]

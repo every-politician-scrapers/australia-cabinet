@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+        "Victorian Legislative Council",
+        "Northern Victoria Region"
+      ],
+      "stated_as": "Member of the Victorian Legislative Council for Northern Victoria Region"
+    },
+    "P580": "2014-11-29"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Agriculture"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+        "Jaala Pulford"
+      ],
+      "stated_as": "Jaala Pulford"
+    },
+    "P582": "2020-12-22",
+    "P1366": {
+      "links": [
+        "Mary-Anne Thomas"
+      ],
+      "stated_as": "Mary-Anne Thomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Regional Development"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+        "Jaala Pulford"
+      ],
+      "stated_as": "Jaala Pulford"
+    },
+    "P582": "2020-12-22",
+    "P1366": {
+      "links": [
+        "Mary-Anne Thomas"
+      ],
+      "stated_as": "Mary-Anne Thomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Resources"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+        "Tim Pallas"
+      ],
+      "stated_as": "Tim Pallas"
+    },
+    "P582": "2021-08-23",
+    "P1366": {
+      "links": [
+        "Jaala Pulford"
+      ],
+      "stated_as": "Jaala Pulford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Victoria"
+      ],
+      "stated_as": "55th Attorney-General of Victoria"
+    },
+    "P580": "2020-12-22",
+    "P1365": {
+      "links": [
+        "Jill Hennessy (politician)"
+      ],
+      "stated_as": "Jill Hennessy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Police (Victoria)"
+      ],
+      "stated_as": "Minister for Emergency Services"
+    },
+    "P580": "2021-08-23",
+    "P1365": {
+      "links": [
+        "Lisa Neville"
+      ],
+      "stated_as": "Lisa Neville"
+    }
+  }
+]

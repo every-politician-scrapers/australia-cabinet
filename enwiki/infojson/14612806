@@ -1,0 +1,117 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Innaloo"
+      ],
+      "stated_as": "Innaloo"
+    },
+    "P580": "2001-02-10",
+    "P1365": {
+      "links": [
+        "George Strickland (politician)"
+      ],
+      "stated_as": "George Strickland"
+    },
+    "P582": "2005-02-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Western Australian Legislative Assembly",
+        "Western Australia"
+      ],
+      "stated_as": "Deputy Speaker of the Legislative Assembly of Western Australia"
+    },
+    "P580": "2001-05-01",
+    "P1365": {
+      "links": [
+        "Chris Baker (politician)"
+      ],
+      "stated_as": "Chris Baker"
+    },
+    "P582": "2008-09-06",
+    "P1366": {
+      "links": [
+        "Wendy Duncan"
+      ],
+      "stated_as": "Wendy Duncan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Mindarie"
+      ],
+      "stated_as": "Mindarie"
+    },
+    "P580": "2005-02-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency created"
+    },
+    "P582": "2013-03-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Butler"
+      ],
+      "stated_as": "Butler"
+    },
+    "P580": "2013-03-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency created"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Western Australia"
+      ],
+      "stated_as": "Attorney-General of Western Australia"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Michael Mischin"
+      ],
+      "stated_as": "Michael Mischin"
+    }
+  }
+]

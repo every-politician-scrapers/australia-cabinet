@@ -1,0 +1,151 @@
+[
+  {
+    "office": {
+      "links": [
+        "Queensland Legislative Assembly",
+        "Electoral district of Inala"
+      ],
+      "stated_as": "Member of the Queensland Legislative Assembly for Inala"
+    },
+    "P580": "2006-09-09",
+    "P1365": {
+      "links": [
+        "Henry Palaszczuk"
+      ],
+      "stated_as": "Henry Palaszczuk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Communities, Child Safety and Disability Services"
+      ],
+      "stated_as": "Minister for Disability Services"
+    },
+    "P580": "2009-03-26",
+    "P1365": {
+      "links": [
+        "Lindy Nelson-Carr"
+      ],
+      "stated_as": "Lindy Nelson-Carr"
+    },
+    "P582": "2011-02-21",
+    "P1366": {
+      "links": [
+        "Curtis Pitt"
+      ],
+      "stated_as": "Curtis Pitt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Queensland Government departments"
+      ],
+      "stated_as": "Minister for Multicultural Affairs"
+    },
+    "P580": "2009-03-26",
+    "P1365": {
+      "links": [
+        "Lindy Nelson-Carr"
+      ],
+      "stated_as": "Lindy Nelson-Carr"
+    },
+    "P582": "2012-03-26",
+    "P1366": {
+      "links": [
+        "Jack Dempsey (politician)"
+      ],
+      "stated_as": "Jack Dempsey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Transport and Main Roads"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2011-02-21",
+    "P1365": {
+      "links": [
+        "Rachel Nolan"
+      ],
+      "stated_as": "Rachel Nolan"
+    },
+    "P582": "2012-03-26",
+    "P1366": {
+      "links": [
+        "Scott Emerson"
+      ],
+      "stated_as": "Scott Emerson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (Queensland Branch)"
+      ],
+      "stated_as": "28th Leader of the Labor Party in Queensland"
+    },
+    "P580": "2012-03-28",
+    "P1365": {
+      "links": [
+        "Anna Bligh"
+      ],
+      "stated_as": "Anna Bligh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Queensland)"
+      ],
+      "stated_as": "34th Leader of the Opposition in Queensland"
+    },
+    "P580": "2012-03-28",
+    "P1365": {
+      "links": [
+        "Jeff Seeney"
+      ],
+      "stated_as": "Jeff Seeney"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Lawrence Springborg"
+      ],
+      "stated_as": "Lawrence Springborg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Queensland"
+      ],
+      "stated_as": "39th Premier of Queensland\nElections: 2015, 2017, 2020"
+    },
+    "P580": "2015-02-14",
+    "P1365": {
+      "links": [
+        "Campbell Newman"
+      ],
+      "stated_as": "Campbell Newman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "2032 Summer Olympics"
+      ],
+      "stated_as": "Minister for the Olympics"
+    },
+    "P580": "2021-10-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

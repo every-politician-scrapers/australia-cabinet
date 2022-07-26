@@ -1,0 +1,45 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Lyons"
+      ],
+      "stated_as": "Lyons"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Dick Adams (politician)"
+      ],
+      "stated_as": "Dick Adams"
+    },
+    "P582": "2016-07-02",
+    "P1366": {
+      "links": [
+        "Brian Mitchell (politician)"
+      ],
+      "stated_as": "Brian Mitchell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator of Norfolk Island"
+      ],
+      "stated_as": "Administrator of Norfolk Island"
+    },
+    "P580": "2017-04-01",
+    "P1365": {
+      "links": [
+        "Gary Hardgrave"
+      ],
+      "stated_as": "Gary Hardgrave"
+    }
+  }
+]

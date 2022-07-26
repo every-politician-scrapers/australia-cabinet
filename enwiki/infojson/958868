@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2002-07-01",
+    "P1365": {
+      "links": [
+        "Chris Schacht"
+      ],
+      "stated_as": "Chris Schacht"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Climate Change (Australia)"
+      ],
+      "stated_as": "Minister for Climate Change"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office created"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+        "Greg Combet"
+      ],
+      "stated_as": "Greg Combet"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance and Deregulation (Australia)"
+      ],
+      "stated_as": "Minister for Finance and Deregulation"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Lindsay Tanner"
+      ],
+      "stated_as": "Lindsay Tanner"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Mathias Cormann"
+      ],
+      "stated_as": "Mathias Cormann"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Leader of the Government in the Senate"
+    },
+    "P580": "2013-06-27",
+    "P1365": {
+      "links": [
+        "Stephen Conroy"
+      ],
+      "stated_as": "Stephen Conroy"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition in the Senate (Australia)"
+      ],
+      "stated_as": "Leader of the Opposition in the Senate"
+    },
+    "P580": "2013-09-18",
+    "P1365": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Simon Birmingham"
+      ],
+      "stated_as": "Simon Birmingham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Australia)"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Marise Payne"
+      ],
+      "stated_as": "Marise Payne"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Leader of the Government in the Senate"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Simon Birmingham"
+      ],
+      "stated_as": "Simon Birmingham"
+    }
+  }
+]

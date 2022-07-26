@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Kingston"
+      ],
+      "stated_as": "Kingston"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Kym Richardson"
+      ],
+      "stated_as": "Kym Richardson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Services"
+      ],
+      "stated_as": "Minister for Social Services"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Anne Ruston"
+      ],
+      "stated_as": "Anne Ruston"
+    }
+  }
+]

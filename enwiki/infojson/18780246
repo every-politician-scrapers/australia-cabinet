@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+        "Brisbane City Council"
+      ],
+      "stated_as": "Leader of the Opposition\nof Brisbane City Council"
+    },
+    "P580": "2004-04-18",
+    "P582": "2008-03-16",
+    "P1366": {
+      "links": [
+        "Shayne Sutton"
+      ],
+      "stated_as": "Shayne Sutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Lord Mayor of Brisbane"
+    },
+    "P580": "2008-03-16",
+    "P582": "2011-04-07",
+    "P1366": {
+      "links": [
+        "Adrian Schrinner"
+      ],
+      "stated_as": "Adrian Schrinner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lord Mayor of Brisbane",
+        "2012 Brisbane City Council election",
+        "2016 Brisbane City Council election"
+      ],
+      "stated_as": "16th Lord Mayor of Brisbane Elections: 2012, 2016"
+    },
+    "P1545": "16",
+    "P580": "2011-04-07",
+    "P1365": {
+      "links": [
+        "Campbell Newman"
+      ],
+      "stated_as": "Campbell Newman"
+    },
+    "P582": "2019-04-08",
+    "P1366": {
+      "links": [
+        "Adrian Schrinner"
+      ],
+      "stated_as": "Adrian Schrinner"
+    }
+  }
+]

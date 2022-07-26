@@ -1,0 +1,143 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Port Adelaide"
+      ],
+      "stated_as": "Port Adelaide"
+    },
+    "P580": "2012-02-11",
+    "P1365": {
+      "links": [
+        "Kevin Foley (South Australian politician)"
+      ],
+      "stated_as": "Kevin Foley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Department for Education (South Australia)|Minister for Education\nand Child Development]]"
+    },
+    "P580": "2015-02-03",
+    "P1365": {
+      "links": [
+        "Jennifer Rankine"
+      ],
+      "stated_as": "Jennifer Rankine"
+    },
+    "P582": "2018-03-17",
+    "P1366": {
+      "links": [
+        "Steven Marshall",
+        "John Gardner (Australian politician)"
+      ],
+      "stated_as": "Steven Marshall (Acting)\nJohn Gardner (Education)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (South Australian Branch)"
+      ],
+      "stated_as": "Deputy Leader of the Labor Party in South Australia"
+    },
+    "P580": "2018-04-09",
+    "P1365": {
+      "links": [
+        "John Rau"
+      ],
+      "stated_as": "John Rau"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Leader of the Opposition (South Australia)|Deputy Leader of the Opposition\nof South Australia]]"
+    },
+    "P580": "2018-04-09",
+    "P1365": {
+      "links": [
+        "Vickie Chapman"
+      ],
+      "stated_as": "Vickie Chapman"
+    },
+    "P582": "2022-03-21",
+    "P1366": {
+      "links": [
+        "John Gardner (Australian politician)"
+      ],
+      "stated_as": "John Gardner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Premier of South Australia"
+      ],
+      "stated_as": "15th Deputy Premier of South Australia"
+    },
+    "P580": "2022-03-21",
+    "P1365": {
+      "links": [
+        "Dan van Holst Pellekaan"
+      ],
+      "stated_as": "Dan van Holst Pellekaan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Climate, Environment and Water"
+    },
+    "P580": "2022-03-21",
+    "P1365": {
+      "links": [
+        "David Speirs"
+      ],
+      "stated_as": "David Speirs (as Minister for Environment and Water)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Defence and Space Industries"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New ministerial title"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Industry, Innovation and Science"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "David Pisoni"
+      ],
+      "stated_as": "David Pisoni (as Minister for Innovation and Skills)"
+    }
+  }
+]

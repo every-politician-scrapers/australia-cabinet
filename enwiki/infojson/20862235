@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Northern Territory"
+      ],
+      "stated_as": "Senator for the Northern Territory"
+    },
+    "P580": "2005-06-18",
+    "P1365": {
+      "links": [
+        "Jack Ah Kit"
+      ],
+      "stated_as": "Jack Ah Kit"
+    },
+    "P582": "2012-08-24",
+    "P1366": {
+      "links": [
+        "Larisa Lee"
+      ],
+      "stated_as": "Larisa Lee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Northern Territory"
+      ],
+      "stated_as": "Senator for the Northern Territory"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Nova Peris"
+      ],
+      "stated_as": "Nova Peris"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Indigenous Australians "
+      ],
+      "stated_as": "Assistant Minister for Indigenous Australians"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health (Australia) "
+      ],
+      "stated_as": "Assistant Minister for Indigenous Health"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office established"
+    }
+  }
+]

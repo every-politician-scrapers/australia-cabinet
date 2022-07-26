@@ -1,0 +1,30 @@
+[
+  {
+    "office": {
+      "links": [
+        "City of Adelaide"
+      ],
+      "stated_as": "Alderwoman of the Adelaide City Council"
+    },
+    "P580": "2015-12-15"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Mayor of Adelaide"
+    },
+    "P580": "2017-06",
+    "P582": "2018-11-12"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Lord Mayor of Adelaide"
+    },
+    "P580": "2018-11-12"
+  }
+]

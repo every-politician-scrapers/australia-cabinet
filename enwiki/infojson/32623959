@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[South Australian Legislative Council|Member of the\nSouth Australian Legislative Council]]"
+    },
+    "P580": "2015-12-01",
+    "P1365": {
+      "links": [
+        "Bernard Finnigan"
+      ],
+      "stated_as": "Bernard Finnigan"
+    },
+    "P582": "2018-03-17"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Emergency and Correctional Services"
+    },
+    "P580": "2016-01-19",
+    "P1365": {
+      "links": [
+        "Tony Piccolo"
+      ],
+      "stated_as": "Tony Piccolo"
+    },
+    "P582": "2017-09-18",
+    "P1366": {
+      "links": [
+        "Chris Picton"
+      ],
+      "stated_as": "Chris Picton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2017-09-18",
+    "P1365": {
+      "links": [
+        "Jack Snelling"
+      ],
+      "stated_as": "Jack Snelling"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "Stephen Wade"
+      ],
+      "stated_as": "Stephen Wade"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Croydon (South Australia)"
+      ],
+      "stated_as": "Croydon"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+        "Michael Atkinson (politician)"
+      ],
+      "stated_as": "Michael Atkinson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (South Australia)"
+      ],
+      "stated_as": "Leader of the Opposition in South Australia"
+    },
+    "P580": "2018-04-09",
+    "P1365": {
+      "links": [
+        "Steven Marshall"
+      ],
+      "stated_as": "Steven Marshall"
+    },
+    "P582": "2022-03-21",
+    "P1366": {
+      "links": [
+        "David Speirs"
+      ],
+      "stated_as": "David Speirs"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (South Australian Branch)"
+      ],
+      "stated_as": "Leader of the South Australian Labor Party"
+    },
+    "P580": "2018-04-09",
+    "P1365": {
+      "links": [
+        "Jay Weatherill"
+      ],
+      "stated_as": "Jay Weatherill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of South Australia",
+        "2022 South Australian state election"
+      ],
+      "stated_as": "47th Premier of South Australia\nElections: 2022"
+    },
+    "P580": "2022-03-21",
+    "P1365": {
+      "links": [
+        "Steven Marshall"
+      ],
+      "stated_as": "Steven Marshall"
+    }
+  }
+]

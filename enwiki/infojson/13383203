@@ -1,0 +1,126 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Blaxland"
+      ],
+      "stated_as": "Blaxland"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Michael Hatton"
+      ],
+      "stated_as": "Michael Hatton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Materiel (Australia)"
+      ],
+      "stated_as": "Minister for Defence Materiel"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Greg Combet"
+      ],
+      "stated_as": "Greg Combet"
+    },
+    "P582": "2011-12-14",
+    "P1366": {
+      "links": [
+        "Kim Carr"
+      ],
+      "stated_as": "Kim Carr"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Home Affairs (Australia)"
+      ],
+      "stated_as": "Minister for Home Affairs"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Brendan O'Connor (politician)"
+      ],
+      "stated_as": "Brendan O'Connor"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Michael Keenan (politician)"
+      ],
+      "stated_as": "Michael Keenan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Justice (Australia)"
+      ],
+      "stated_as": "Minister for Justice"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Brendan O'Connor (politician)"
+      ],
+      "stated_as": "Brendan O'Connor"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence Materiel (Australia)"
+      ],
+      "stated_as": "Minister for Defence Materiel"
+    },
+    "P580": "2012-03-01",
+    "P1365": {
+      "links": [
+        "Kim Carr"
+      ],
+      "stated_as": "Kim Carr"
+    },
+    "P582": "2013-02-04",
+    "P1366": {
+      "links": [
+        "Mike Kelly (Australian politician)"
+      ],
+      "stated_as": "Mike Kelly"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education (Australia)"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Alan Tudge"
+      ],
+      "stated_as": "Alan Tudge"
+    }
+  }
+]

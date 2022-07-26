@@ -1,0 +1,99 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Lyons (state)"
+      ],
+      "stated_as": "Lyons"
+    },
+    "P580": "2010-03-20"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the Tasmanian House of Assembly"
+    },
+    "P580": "2017-10-17",
+    "P1365": {
+      "links": [
+        "Elise Archer"
+      ],
+      "stated_as": "Elise Archer"
+    },
+    "P582": "2018-05-01",
+    "P1366": {
+      "links": [
+        "Sue Hickey"
+      ],
+      "stated_as": "Sue Hickey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Local Government"
+    },
+    "P580": "2019-07-02",
+    "P1365": {
+      "links": [
+        "Peter Gutwein"
+      ],
+      "stated_as": "Peter Gutwein"
+    },
+    "P582": "2021-05-19",
+    "P1366": {
+      "links": [
+        "Roger Jaensch"
+      ],
+      "stated_as": "Roger Jaensch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Fire and Emergency Management"
+    },
+    "P580": "2019-07-02",
+    "P1365": {
+      "links": [
+        "Michael Ferguson (Australian politician)"
+      ],
+      "stated_as": "Michael Ferguson"
+    },
+    "P582": "2021-05-19",
+    "P1366": {
+      "links": [
+        "Jacquie Petrusma"
+      ],
+      "stated_as": "Jacquie Petrusma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the Tasmanian House of Assembly"
+    },
+    "P1545": "33",
+    "P580": "2021-06-22",
+    "P1365": {
+      "links": [
+        "Sue Hickey"
+      ],
+      "stated_as": "Sue Hickey"
+    }
+  }
+]

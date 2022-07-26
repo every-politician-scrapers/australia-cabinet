@@ -1,0 +1,107 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Parliament",
+        "Division of Corio"
+      ],
+      "stated_as": "Member of the Australian Parliament for Corio"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Gavan O'Connor"
+      ],
+      "stated_as": "Gavan O'Connor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Trade, Tourism and Investment"
+      ],
+      "stated_as": "Minister for Trade"
+    },
+    "P580": "2013-06-27",
+    "P1365": {
+      "links": [
+        "Craig Emerson"
+      ],
+      "stated_as": "Craig Emerson"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Andrew Robb"
+      ],
+      "stated_as": "Andrew Robb"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leaders of the Australian Labor Party"
+      ],
+      "stated_as": "Deputy Leader of the Labor Party"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Tanya Plibersek"
+      ],
+      "stated_as": "Tanya Plibersek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Australia)"
+      ],
+      "stated_as": "Deputy Leader of the Opposition"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Tanya Plibersek"
+      ],
+      "stated_as": "Tanya Plibersek"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Sussan Ley"
+      ],
+      "stated_as": "Sussan Ley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Australia"
+      ],
+      "stated_as": "19th Deputy Prime Minister of Australia"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Barnaby Joyce"
+      ],
+      "stated_as": "Barnaby Joyce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence (Australia)"
+      ],
+      "stated_as": "Minister for Defence"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  }
+]

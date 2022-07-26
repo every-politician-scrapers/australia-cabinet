@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Judges of the Supreme Court of Victoria"
+      ],
+      "stated_as": "List of Judges ofJudge of the Supreme Court of Victoria"
+    },
+    "P580": "2010-05-03"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Judges of the Supreme Court of Victoria"
+      ],
+      "stated_as": "Judge of the Victorian Court of Appeal"
+    },
+    "P580": "2014-08-12"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of Victoria"
+    },
+    "P1545": "12",
+    "P580": "2017-10-02",
+    "P1365": {
+      "links": [
+        "Marilyn Warren"
+      ],
+      "stated_as": "Marilyn Warren"
+    }
+  }
+]

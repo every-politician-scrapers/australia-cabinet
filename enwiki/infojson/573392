@@ -1,0 +1,82 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Ballarat"
+      ],
+      "stated_as": "Ballarat"
+    },
+    "P580": "2001-11-10",
+    "P1365": {
+      "links": [
+        "Michael Ronaldson"
+      ],
+      "stated_as": "Michael Ronaldson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure and Transport"
+      ],
+      "stated_as": "Minister for Road Safety"
+    },
+    "P580": "2013-03-25",
+    "P1365": {
+      "links": [
+        "Jim Lloyd"
+      ],
+      "stated_as": "Jim Lloyd"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "Sharon Bird"
+      ],
+      "stated_as": "Sharon Bird"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure and Transport"
+      ],
+      "stated_as": "Minister for Regional Australia, Local Government and Territories"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Anthony Albanese"
+      ],
+      "stated_as": "Anthony Albanese"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Warren Truss"
+      ],
+      "stated_as": "Warren Truss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure, Transport and Regional Development"
+      ],
+      "stated_as": "Minister for Infrastructure, Transport, Regional Development and Local Government"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Barnaby Joyce"
+      ],
+      "stated_as": "Barnaby Joyce"
+    }
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Maribyrnong"
+      ],
+      "stated_as": "Maribyrnong"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Bob Sercombe"
+      ],
+      "stated_as": "Bob Sercombe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Australia"
+      ],
+      "stated_as": "Assistant Treasurer of Australia"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Nick Sherry"
+      ],
+      "stated_as": "Nick Sherry"
+    },
+    "P582": "2011-12-14",
+    "P1366": {
+      "links": [
+        "Mark Arbib"
+      ],
+      "stated_as": "Mark Arbib"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Financial Services and Superannuation"
+      ],
+      "stated_as": "Minister for Financial Services and Superannuation"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "David Bradbury (politician)"
+      ],
+      "stated_as": "David Bradbury"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Jobs and Innovation"
+      ],
+      "stated_as": "Minister for Workplace Relations"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Chris Evans (Australian politician)"
+      ],
+      "stated_as": "Chris Evans"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education and Training"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Peter Garrett"
+      ],
+      "stated_as": "Peter Garrett"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Christopher Pyne"
+      ],
+      "stated_as": "Christopher Pyne"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leaders of the Australian Labor Party"
+      ],
+      "stated_as": "Leader of the Labor Party"
+    },
+    "P580": "2013-10-13",
+    "P1365": {
+      "links": [
+        "Kevin Rudd"
+      ],
+      "stated_as": "Kevin Rudd"
+    },
+    "P582": "2019-05-30",
+    "P1366": {
+      "links": [
+        "Anthony Albanese"
+      ],
+      "stated_as": "Anthony Albanese"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Australian Leaders of the Opposition"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2013-10-13",
+    "P1365": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    },
+    "P582": "2019-05-30",
+    "P1366": {
+      "links": [
+        "Anthony Albanese"
+      ],
+      "stated_as": "Anthony Albanese"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Government Services"
+      ],
+      "stated_as": "Minister for Government Services"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Linda Reynolds"
+      ],
+      "stated_as": "Linda Reynolds"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Families and Social Services"
+      ],
+      "stated_as": "Minister for the National Disability Insurance Scheme"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Linda Reynolds"
+      ],
+      "stated_as": "Linda Reynolds"
+    }
+  }
+]

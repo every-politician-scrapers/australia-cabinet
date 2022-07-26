@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Solomon"
+      ],
+      "stated_as": "Solomon"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+        "Damian Hale"
+      ],
+      "stated_as": "Damian Hale"
+    },
+    "P582": "2016-07-02",
+    "P1366": {
+      "links": [
+        "Luke Gosling"
+      ],
+      "stated_as": "Luke Gosling"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator (Australia)",
+        "Australian Indian Ocean Territories"
+      ],
+      "stated_as": "Administrator of the Australian Indian Ocean Territories"
+    },
+    "P580": "2017-10-05",
+    "P1365": {
+      "links": [
+        "Barry Haase"
+      ],
+      "stated_as": "Barry Haase"
+    }
+  }
+]

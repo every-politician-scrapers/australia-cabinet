@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Western Australia"
+      ],
+      "stated_as": "Senator for Western Australia"
+    },
+    "P580": "2017-08-16",
+    "P1365": {
+      "links": [
+        "Chris Back"
+      ],
+      "stated_as": "Chris Back"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Australian Senate"
+      ],
+      "stated_as": "President of the Australian Senate"
+    },
+    "P580": "2021-10-18",
+    "P1365": {
+      "links": [
+        "Scott Ryan (Australian politician)"
+      ],
+      "stated_as": "Scott Ryan"
+    },
+    "P582": "2022-07-26",
+    "P1366": {
+      "links": [
+        "Sue Lines"
+      ],
+      "stated_as": "Sue Lines"
+    }
+  }
+]

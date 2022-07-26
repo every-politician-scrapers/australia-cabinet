@@ -46,7 +46,8 @@
   "birth_name": "Joseph Benedict Hockey",
   "birth_date": "August 2, 1965",
   "birth_place": ", New South Wales, Australia",
-  "party": "Liberal (Coalition; 1987-present)",
+  "party": "Liberal",
+  "otherparty": "Coalition",
   "spouse": "Melissa Babbage (m. 1994)",
   "children": "3",
   "alma_mater": "University of Sydney"

@@ -1,0 +1,242 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Burke (1969–2004)"
+      ],
+      "stated_as": "Burke"
+    },
+    "P580": "2001-11-10",
+    "P1365": {
+      "links": [
+        "Neil O'Keefe"
+      ],
+      "stated_as": "Neil O'Keefe"
+    },
+    "P582": "2004-10-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Gorton"
+      ],
+      "stated_as": "Gorton"
+    },
+    "P580": "2004-10-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Employment Participation (Australia)"
+      ],
+      "stated_as": "Minister for Employment Participation"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Sharman Stone"
+      ],
+      "stated_as": "Sharman Stone"
+    },
+    "P582": "2009-06-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mark Arbib"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Home Affairs (Australia)"
+      ],
+      "stated_as": "Minister for Home Affairs"
+    },
+    "P580": "2009-06-09",
+    "P1365": {
+      "links": [
+        "Bob Debus"
+      ],
+      "stated_as": "Bob Debus"
+    },
+    "P582": "2011-12-14",
+    "P1366": {
+      "links": [
+        "Jason Clare"
+      ],
+      "stated_as": "Jason Clare"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Human Services (Australia)"
+      ],
+      "stated_as": "Minister for Human Services"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Tanya Plibersek"
+      ],
+      "stated_as": "Tanya Plibersek"
+    },
+    "P582": "2012-03-05",
+    "P1366": {
+      "links": [
+        "Kim Carr"
+      ],
+      "stated_as": "Kim Carr"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Housing (Australia)"
+      ],
+      "stated_as": "Minister for Housing"
+    },
+    "P580": "2012-03-05",
+    "P1365": {
+      "links": [
+        "Robert McClelland (Australian politician)"
+      ],
+      "stated_as": "Robert McClelland"
+    },
+    "P582": "2013-06-27",
+    "P1366": {
+      "links": [
+        "Julie Collins"
+      ],
+      "stated_as": "Julie Collins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Small Business (Australia)"
+      ],
+      "stated_as": "Minister for Small Business"
+    },
+    "P580": "2012-03-05",
+    "P1365": {
+      "links": [
+        "Mark Arbib"
+      ],
+      "stated_as": "Mark Arbib"
+    },
+    "P582": "2013-02-04",
+    "P1366": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs"
+      ],
+      "stated_as": "Minister for Immigration and Citizenship"
+    },
+    "P580": "2013-02-04",
+    "P1365": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "Tony Burke"
+      ],
+      "stated_as": "Tony Burke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Employment and Workplace Relations (Australia)"
+      ],
+      "stated_as": "Minister for Employment"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Bill Shorten"
+      ],
+      "stated_as": "Bill Shorten"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Education, Skills and Employment"
+      ],
+      "stated_as": "Minister for Skills and Training"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Craig Emerson"
+      ],
+      "stated_as": "Craig Emerson"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Education, Skills and Employment"
+      ],
+      "stated_as": "Minister for Skills and Training"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Stuart Robert"
+      ],
+      "stated_as": "Stuart Robert"
+    }
+  }
+]

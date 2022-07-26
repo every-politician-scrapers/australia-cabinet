@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Capital Territory Legislative Assembly"
+      ],
+      "stated_as": "Member of the ACT Legislative Assembly"
+    },
+    "P580": "2006-04-05",
+    "P582": "2016-10-15"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Chief Minister of the Australian Capital Territory"
+    },
+    "P1545": "11",
+    "P580": "2011-05-16",
+    "P1365": {
+      "links": [
+        "Katy Gallagher"
+      ],
+      "stated_as": "Katy Gallagher"
+    },
+    "P582": "2014-12-11",
+    "P1366": {
+      "links": [
+        "Simon Corbell"
+      ],
+      "stated_as": "Simon Corbell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Minister of the Australian Capital Territory",
+        "2016 Australian Capital Territory general election",
+        "2020 Australian Capital Territory general election"
+      ],
+      "stated_as": "7th Chief Minister of the Australian Capital Territory\nElections: 2016, 2020"
+    },
+    "P580": "2014-12-11",
+    "P1365": {
+      "links": [
+        "Katy Gallagher"
+      ],
+      "stated_as": "Katy Gallagher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Capital Territory Legislative Assembly"
+      ],
+      "stated_as": "Member of the ACT Legislative Assembly"
+    },
+    "P580": "2016-10-15"
+  }
+]

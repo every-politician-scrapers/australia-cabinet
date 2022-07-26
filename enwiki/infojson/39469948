@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of Tasmania"
+    },
+    "P1545": "14",
+    "P580": "2013-04-08",
+    "P1365": {
+      "links": [
+        "Ewan Crawford"
+      ],
+      "stated_as": "Ewan Crawford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant-Governor of Tasmania"
+      ],
+      "stated_as": "Lieutenant-Governor of Tasmania"
+    },
+    "P580": "2013-04-08"
+  }
+]

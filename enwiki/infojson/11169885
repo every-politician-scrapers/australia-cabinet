@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Australia)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "1999-09-18",
+    "P1365": {
+      "links": [
+        "Michael John (politician)"
+      ],
+      "stated_as": "Michael John"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Australia)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2014-12-04",
+    "P1365": {
+      "links": [
+        "Louise Asher"
+      ],
+      "stated_as": "Louise Asher"
+    },
+    "P582": "2022-06-27",
+    "P1366": {
+      "links": [
+        "Lizzie Blandthorn"
+      ],
+      "stated_as": "Lizzie Blandthorn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (Victorian Branch)"
+      ],
+      "stated_as": "Deputy Leader of the Labor Party in Victoria"
+    },
+    "P580": "2022-06-25",
+    "P1365": {
+      "links": [
+        "James Merlino"
+      ],
+      "stated_as": "James Merlino"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Premier of Victoria"
+      ],
+      "stated_as": "Deputy Premier of Victoria"
+    },
+    "P580": "2022-06-27",
+    "P1365": {
+      "links": [
+        "James Merlino"
+      ],
+      "stated_as": "James Merlino"
+    }
+  }
+]

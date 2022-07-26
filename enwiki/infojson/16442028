@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of New South Wales"
+    },
+    "P1545": "38",
+    "P580": "2014-10-02",
+    "P1365": {
+      "links": [
+        "Marie Bashir"
+      ],
+      "stated_as": "Dame Marie Bashir"
+    },
+    "P582": "2019-05-01",
+    "P1366": {
+      "links": [
+        "Margaret Beazley"
+      ],
+      "stated_as": "Margaret Beazley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor-General of Australia"
+      ],
+      "stated_as": "27th Governor-General of Australia"
+    },
+    "P580": "2019-07-01",
+    "P1365": {
+      "links": [
+        "Peter Cosgrove"
+      ],
+      "stated_as": "Sir Peter Cosgrove"
+    }
+  }
+]

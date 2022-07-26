@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of South Coast"
+      ],
+      "stated_as": "South Coast"
+    },
+    "P580": "2003-03-22",
+    "P1365": {
+      "links": [
+        "Wayne Smith (Australian politician)"
+      ],
+      "stated_as": "Wayne Smith"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the New South Wales Legislative Assembly"
+      ],
+      "stated_as": "30th Speaker of the New South Wales Legislative Assembly"
+    },
+    "P580": "2011-05-03",
+    "P1365": {
+      "links": [
+        "Richard Torbay"
+      ],
+      "stated_as": "Richard Torbay"
+    },
+    "P582": "2019-05-07",
+    "P1366": {
+      "links": [
+        "Jonathan O'Dea"
+      ],
+      "stated_as": "Jonathan O'Dea"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Local Government (New South Wales)"
+      ],
+      "stated_as": "Minister for Local Government"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Gabrielle Upton"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Wendy Tuckerman"
+      ],
+      "stated_as": "Wendy Tuckerman"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Victorian Legislative Council",
+        "Northern Metropolitan Region"
+      ],
+      "stated_as": "Member of the Victorian Legislative Council for Northern Metropolitan Region"
+    },
+    "P580": "2006-11-25"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Victorian Legislative Council"
+      ],
+      "stated_as": "President of the Victorian Legislative Council"
+    },
+    "P580": "2020-06-18",
+    "P1365": {
+      "links": [
+        "Shaun Leane"
+      ],
+      "stated_as": "Shaun Leane"
+    }
+  }
+]

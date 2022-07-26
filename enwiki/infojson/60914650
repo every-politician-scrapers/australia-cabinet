@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Lilley"
+      ],
+      "stated_as": "Lilley"
+    },
+    "P580": "2019-05-18",
+    "P1365": {
+      "links": [
+        "Wayne Swan"
+      ],
+      "stated_as": "Wayne Swan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Aged Care"
+      ],
+      "stated_as": "Minister for Aged Care"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Richard Colbeck"
+      ],
+      "stated_as": "Richard Colbeck"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Sport (Australia)"
+      ],
+      "stated_as": "Minister for Sport"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Richard Colbeck"
+      ],
+      "stated_as": "Richard Colbeck"
+    }
+  }
+]

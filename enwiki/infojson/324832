@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the Call to Australia Party"
+    },
+    "P580": "1977-06-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    },
+    "P582": "1998-04-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Party abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Council"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Council"
+    },
+    "P580": "1981-09-19",
+    "P1365": {
+      "links": [
+        "Roger de Bryon-Faes"
+      ],
+      "stated_as": "Roger de Bryon-Faes"
+    },
+    "P582": "2004-08-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Christian Democratic Party (Australia)"
+      ],
+      "stated_as": "Leader of the Christian Democratic Party"
+    },
+    "P580": "1998-04-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    },
+    "P582": "2022-03-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Party dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Council"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Council"
+    },
+    "P580": "2004-03-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the New South Wales Legislative Council"
+      ],
+      "stated_as": "Assistant President of the Legislative Council of New South Wales"
+    },
+    "P580": "2007-11-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2019-02-25",
+    "P1366": {
+      "links": [
+        "Shaoquett Moselmane"
+      ],
+      "stated_as": "Shaoquett Moselmane"
+    }
+  }
+]

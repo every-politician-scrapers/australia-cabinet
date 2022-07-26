@@ -1,0 +1,165 @@
+[
+  {
+    "office": {
+      "links": [
+        "South Australian Legislative Council"
+      ],
+      "stated_as": "Member of the South Australian Legislative Council"
+    },
+    "P580": "2012-10-17",
+    "P1365": {
+      "links": [
+        "Bob Sneath"
+      ],
+      "stated_as": "Bob Sneath"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Aboriginal Affairs\n(2022–present)\nMinister for Aboriginal Affairs and Reconciliation\n(2015–2018)"
+    },
+    "P580": "2015-02-03",
+    "P1365": {
+      "links": [
+        "Ian Hunter (politician)"
+      ],
+      "stated_as": "Ian Hunter"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "Steven Marshall"
+      ],
+      "stated_as": "Steven Marshall (as Premier of South Australia)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Automotive Transformation"
+    },
+    "P580": "2015-02-03",
+    "P1365": {
+      "links": [
+        "Susan Close"
+      ],
+      "stated_as": "Susan Close"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "David Pisoni"
+      ],
+      "stated_as": "David Pisoni (as Minister for Industry and Skills)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Manufacturing and Innovation"
+    },
+    "P580": "2015-02-03",
+    "P1365": {
+      "links": [
+        "Susan Close"
+      ],
+      "stated_as": "Susan Close"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "David Pisoni"
+      ],
+      "stated_as": "David Pisoni (as Minister for Industry and Skills)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Legislative Council (South Australia)"
+      ],
+      "stated_as": "Leader of the Government in the Legislative Council"
+    },
+    "P580": "2016-01-18",
+    "P1365": {
+      "links": [
+        "Gail Gago"
+      ],
+      "stated_as": "Gail Gago"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "Rob Lucas"
+      ],
+      "stated_as": "Rob Lucas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of South Australia"
+      ],
+      "stated_as": "51st Attorney-General of South Australia"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Vickie Chapman"
+      ],
+      "stated_as": "Vickie Chapman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Legislative Council (South Australia)"
+      ],
+      "stated_as": "Leader of the Government in the Legislative Council"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Rob Lucas"
+      ],
+      "stated_as": "Rob Lucas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Aboriginal Affairs\n(2022–present)\nMinister for Aboriginal Affairs and Reconciliation\n(2015–2018)"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Steven Marshall"
+      ],
+      "stated_as": "Steven Marshall (separated from position of Premier)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Industrial Relations and Public Sector"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New postion"
+    }
+  }
+]

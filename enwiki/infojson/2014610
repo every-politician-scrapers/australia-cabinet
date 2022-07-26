@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of mayors and lord mayors of Darwin"
+      ],
+      "stated_as": "Lord Mayor of Darwin"
+    },
+    "P580": "2001-08-18",
+    "P1365": {
+      "links": [
+        "Peter Adamson (politician)"
+      ],
+      "stated_as": "Peter Adamson"
+    },
+    "P582": "2014-09-18",
+    "P1366": {
+      "links": [
+        "Lauren Moss"
+      ],
+      "stated_as": "Lauren Moss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors and lord mayors of Darwin"
+      ],
+      "stated_as": "Lord Mayor of Darwin"
+    },
+    "P580": "2017-09-04",
+    "P1365": {
+      "links": [
+        "Katrina Fong Lim"
+      ],
+      "stated_as": "Katrina Fong Lim"
+    }
+  }
+]

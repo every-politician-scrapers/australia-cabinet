@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Queensland Health"
+      ],
+      "stated_as": "Chief Health Officer of Queensland"
+    },
+    "P580": "2005-08-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gerry FitzGerald"
+    },
+    "P582": "2021-11-01",
+    "P1366": {
+      "links": [
+        "John Gerrard (Doctor)"
+      ],
+      "stated_as": "John Gerrard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Queensland"
+      ],
+      "stated_as": "27th Governor of Queensland"
+    },
+    "P580": "2021-11-01",
+    "P1365": {
+      "links": [
+        "Paul de Jersey"
+      ],
+      "stated_as": "Paul de Jersey"
+    }
+  }
+]

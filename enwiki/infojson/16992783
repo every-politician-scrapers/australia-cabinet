@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Albany"
+      ],
+      "stated_as": "Albany"
+    },
+    "P580": "2001-02-10",
+    "P1365": {
+      "links": [
+        "Kevin Prince (politician)"
+      ],
+      "stated_as": "Kevin Prince"
+    },
+    "P582": "2021-01-29",
+    "P1366": {
+      "links": [
+        "Rebecca Stephens (politician)"
+      ],
+      "stated_as": "Rebecca Stephens"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Western Australian Legislative Assembly"
+      ],
+      "stated_as": "30th Speaker of the Western Australian Legislative Assembly"
+    },
+    "P580": "2017-05-11",
+    "P1365": {
+      "links": [
+        "Michael Sutherland"
+      ],
+      "stated_as": "Michael Sutherland"
+    },
+    "P582": "2021-04-29",
+    "P1366": {
+      "links": [
+        "Michelle Roberts"
+      ],
+      "stated_as": "Michelle Roberts"
+    }
+  }
+]

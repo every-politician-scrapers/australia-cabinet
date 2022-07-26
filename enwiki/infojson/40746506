@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Rankin"
+      ],
+      "stated_as": "Rankin"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Craig Emerson"
+      ],
+      "stated_as": "Craig Emerson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Australia"
+      ],
+      "stated_as": "Treasurer of Australia"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Josh Frydenberg"
+      ],
+      "stated_as": "Josh Frydenberg"
+    }
+  }
+]

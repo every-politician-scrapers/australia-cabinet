@@ -1,0 +1,30 @@
+[
+  {
+    "office": {
+      "links": [
+        "Solicitor-General of South Australia"
+      ],
+      "stated_as": "Solicitor-General of South Australia"
+    },
+    "P580": "2003-02-03",
+    "P582": "2008"
+  },
+  {
+    "office": {
+      "links": [
+        "Judge of the Supreme Court of South Australia"
+      ],
+      "stated_as": "Judge of the Supreme Court of South Australia"
+    },
+    "P580": "2008-08-21"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Judges of the Supreme Court of South Australia"
+      ],
+      "stated_as": "9th Chief Justice of the Supreme Court of South Australia"
+    },
+    "P580": "2012-06-25"
+  }
+]
