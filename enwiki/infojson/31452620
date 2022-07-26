@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for Innovation and Better Regulation"
+      ],
+      "stated_as": "Minister for Innovation and Better Regulation"
+    },
+    "P580": "2011-03-26",
+    "P1365": {
+      "links": [
+        "Judy Hopwood"
+      ],
+      "stated_as": "Judy Hopwood"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Innovation and Better Regulation"
+      ],
+      "stated_as": "Minister for Innovation and Better Regulation"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+        "Victor Dominello"
+      ],
+      "stated_as": "Victor Dominello"
+    },
+    "P582": "2019-03-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Energy (New South Wales)"
+      ],
+      "stated_as": "Minister for Energy"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+        "Don Harwin",
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Don Harwin (as the Minister for Energy and Utilities) Gabrielle Upton (as the Minister for the Environment)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Treasurer of New South Wales"
+    },
+    "P1545": "66",
+    "P580": "2021-10-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dominic Perrottet"
+    }
+  }
+]

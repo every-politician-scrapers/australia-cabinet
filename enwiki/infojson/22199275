@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral division of Sanderson"
+      ],
+      "stated_as": "Sanderson"
+    },
+    "P580": "2008-08-09",
+    "P1365": {
+      "links": [
+        "Len Kiely"
+      ],
+      "stated_as": "Len Kiely"
+    },
+    "P582": "2016-08-27",
+    "P1366": {
+      "links": [
+        "Kate Worden"
+      ],
+      "stated_as": "Kate Worden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Chief Minister of the Northern Territory"
+      ],
+      "stated_as": "Deputy Chief Minister of the Northern Territory"
+    },
+    "P580": "2016-02-16",
+    "P1365": {
+      "links": [
+        "Willem Westra van Holthe"
+      ],
+      "stated_as": "Willem Westra van Holthe"
+    },
+    "P582": "2016-08-31",
+    "P1366": {
+      "links": [
+        "Nicole Manison"
+      ],
+      "stated_as": "Nicole Manison"
+    }
+  }
+]

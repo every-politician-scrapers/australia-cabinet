@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative Council of New South Wales"
+      ],
+      "stated_as": "Member of Legislative Council"
+    },
+    "P580": "2006-09-28",
+    "P1365": {
+      "links": [
+        "Patricia Forsythe"
+      ],
+      "stated_as": "Patricia Forsythe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Fair Trading"
+    },
+    "P580": "2014-05-06",
+    "P1365": {
+      "links": [
+        "Stuart Ayres"
+      ],
+      "stated_as": "Stuart Ayres"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+        "John Barilaro"
+      ],
+      "stated_as": "John Barilaro (as Minister for Small Business)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Council"
+      ],
+      "stated_as": "President of the New South Wales Legislative Council"
+    },
+    "P580": "2021-05-04",
+    "P1365": {
+      "links": [
+        "John Ajaka"
+      ],
+      "stated_as": "John Ajaka"
+    }
+  }
+]

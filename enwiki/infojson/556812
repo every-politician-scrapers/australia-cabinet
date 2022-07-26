@@ -1,0 +1,93 @@
+[
+  {
+    "office": {
+      "links": [
+        "City of South Sydney"
+      ],
+      "stated_as": "Alderman of the South Sydney Municipal Council for Redfern Ward"
+    },
+    "P580": "1980-09-20",
+    "P582": "1981-12-31"
+  },
+  {
+    "office": {
+      "links": [
+        "City of Sydney"
+      ],
+      "stated_as": "Alderman of the City of Sydney for Redfern Ward"
+    },
+    "P580": "1982-01-01",
+    "P582": "1987-03-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Bligh"
+      ],
+      "stated_as": "Bligh"
+    },
+    "P580": "1988-03-19",
+    "P1365": {
+      "links": [
+        "Michael Yabsley"
+      ],
+      "stated_as": "Michael Yabsley"
+    },
+    "P582": "2007-03-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "District abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lord Mayor of Sydney"
+      ],
+      "stated_as": "82nd Lord Mayor of Sydney"
+    },
+    "P580": "2004-03-27",
+    "P1365": {
+      "links": [
+        "Lucy Turnbull"
+      ],
+      "stated_as": "Lucy Turnbull"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Sydney"
+      ],
+      "stated_as": "Sydney"
+    },
+    "P580": "2007-03-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New district"
+    },
+    "P582": "2012-09-20",
+    "P1366": {
+      "links": [
+        "Alex Greenwich"
+      ],
+      "stated_as": "Alex Greenwich"
+    }
+  }
+]

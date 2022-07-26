@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Cowan"
+      ],
+      "stated_as": "Cowan"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Luke Simpkins"
+      ],
+      "stated_as": "Luke Simpkins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education and Youth"
+      ],
+      "stated_as": "Minister for Early Childhood Education"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Alan Tudge"
+      ],
+      "stated_as": "Alan Tudge"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education and Youth"
+      ],
+      "stated_as": "Minister for Youth"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Alan Tudge"
+      ],
+      "stated_as": "Alan Tudge"
+    }
+  }
+]

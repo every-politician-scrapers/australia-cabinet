@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Richmond"
+      ],
+      "stated_as": "Richmond"
+    },
+    "P580": "2004-10-09",
+    "P1365": {
+      "links": [
+        "Larry Anthony"
+      ],
+      "stated_as": "Larry Anthony"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Ageing (Australia)"
+      ],
+      "stated_as": "Minister for Ageing"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Christopher Pyne"
+      ],
+      "stated_as": "Christopher Pyne"
+    },
+    "P582": "2010-06-28",
+    "P1366": {
+      "links": [
+        "Mark Butler"
+      ],
+      "stated_as": "Mark Butler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary Secretary"
+      ],
+      "stated_as": "Parliamentary Secretary for Trade"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Anthony Byrne (politician)"
+      ],
+      "stated_as": "Anthony Byrne"
+    },
+    "P582": "2013-02-04",
+    "P1366": {
+      "links": [
+        "Kelvin Thomson"
+      ],
+      "stated_as": "Kelvin Thomson"
+    }
+  }
+]

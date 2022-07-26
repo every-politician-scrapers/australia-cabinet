@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Parliament",
+        "Division of Perth"
+      ],
+      "stated_as": "Member of the Australian Parliament for Perth"
+    },
+    "P580": "2018-07-28",
+    "P1365": {
+      "links": [
+        "Tim Hammond"
+      ],
+      "stated_as": "Tim Hammond"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Minister to the Prime Minister"
+    },
+    "P580": "2022-05-21"
+  }
+]

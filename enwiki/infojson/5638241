@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative Council of South Australia"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2002-02-09",
+    "P582": "2021-06-30",
+    "P1366": {
+      "links": [
+        "Heidi Girolamo"
+      ],
+      "stated_as": "Heidi Girolamo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Tourism"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Leon Bignell"
+      ],
+      "stated_as": "Leon Bignell"
+    },
+    "P582": "2020-01-11",
+    "P1366": {
+      "links": [
+        "Steven Marshall"
+      ],
+      "stated_as": "Steven Marshall (absorbed into Premier's portfolio)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Trade and Investment"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Martin Hamilton-Smith"
+      ],
+      "stated_as": "Martin Hamilton-Smith (as Minister for Investment and Trade)"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Stephen Patterson"
+      ],
+      "stated_as": "Stephen Patterson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Agent-general"
+      ],
+      "stated_as": "Agent General for South Australia in London"
+    },
+    "P580": "2021-07-19",
+    "P1365": {
+      "links": [
+        "Bill Muirhead"
+      ],
+      "stated_as": "Bill Muirhead"
+    }
+  }
+]

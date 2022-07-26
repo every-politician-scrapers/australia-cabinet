@@ -1,0 +1,151 @@
+[
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Council"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Council"
+    },
+    "P580": "2003-03-22",
+    "P582": "2004-06-24",
+    "P1366": {
+      "links": [
+        "Eric Roozendaal"
+      ],
+      "stated_as": "Eric Roozendaal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Watson"
+      ],
+      "stated_as": "Watson"
+    },
+    "P580": "2004-10-09",
+    "P1365": {
+      "links": [
+        "Leo McLeay"
+      ],
+      "stated_as": "Leo McLeay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Agriculture, Fisheries and Forestry (Australia)"
+      ],
+      "stated_as": "Minister for Agriculture, Fisheries and Forestry"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Peter McGauran"
+      ],
+      "stated_as": "Peter McGauran"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+        "Joe Ludwig"
+      ],
+      "stated_as": "Joe Ludwig"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Environment Protection, Heritage and the Arts (Australia)"
+      ],
+      "stated_as": "Minister for Sustainability, Environment, Water, Population and Communities"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Peter Garrett"
+      ],
+      "stated_as": "Peter Garrett"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "Mark Butler"
+      ],
+      "stated_as": "Mark Butler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Immigration and Citizenship (Australia)"
+      ],
+      "stated_as": "Minister for Immigration, Multicultural Affairs and Citizenship"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Brendan O'Connor (politician)"
+      ],
+      "stated_as": "Brendan O'Connor"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Scott Morrison"
+      ],
+      "stated_as": "Scott Morrison"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Australia)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers for Employment (Australia)",
+        "Minister for Workplace Relations"
+      ],
+      "stated_as": "Minister for Employment and Workplace Relations"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Richard Marles"
+      ],
+      "stated_as": "Richard Marles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Communications and Minister for the Arts"
+      ],
+      "stated_as": "Minister for the Arts"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Paul Fletcher (politician)"
+      ],
+      "stated_as": "Paul Fletcher"
+    }
+  }
+]

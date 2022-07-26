@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Transport and Infrastructure"
+    },
+    "P580": "2014-03-15",
+    "P1365": {
+      "links": [
+        "Michael Wright (Australian politician)"
+      ],
+      "stated_as": "Michael Wright"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Transport and Infrastructure"
+    },
+    "P580": "2014-03-26",
+    "P1365": {
+      "links": [
+        "Tom Koutsantonis"
+      ],
+      "stated_as": "Tom Koutsantonis"
+    },
+    "P582": "2018-03-18",
+    "P1366": {
+      "links": [
+        "Stephan Knoll"
+      ],
+      "stated_as": "Stephan Knoll (as Minister for Transport, Infrastructure and Local Government)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of South Australia"
+      ],
+      "stated_as": "Treasurer of South Australia"
+    },
+    "P580": "2022-03-21",
+    "P1365": {
+      "links": [
+        "Rob Lucas"
+      ],
+      "stated_as": "Rob Lucas"
+    }
+  }
+]

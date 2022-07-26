@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal Circuit Court of Australia"
+      ],
+      "stated_as": "Judge of the Federal Circuit Court"
+    },
+    "P580": "2008-10-27",
+    "P582": "2021-01-31"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Tasmania"
+    },
+    "P1545": "29",
+    "P580": "2021-06-16",
+    "P1365": {
+      "links": [
+        "Kate Warner"
+      ],
+      "stated_as": "Kate Warner"
+    }
+  }
+]

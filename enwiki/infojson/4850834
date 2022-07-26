@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Premier of Tasmania"
+      ],
+      "stated_as": "20th Deputy Premier of Tasmania"
+    },
+    "P580": "2014-03-31",
+    "P1365": {
+      "links": [
+        "Bryan Green"
+      ],
+      "stated_as": "Bryan Green"
+    },
+    "P582": "2022-04-08",
+    "P1366": {
+      "links": [
+        "Michael Ferguson (Australian politician)"
+      ],
+      "stated_as": "Michael Ferguson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Tasmania"
+      ],
+      "stated_as": "47th Premier of Tasmania"
+    },
+    "P580": "2022-04-08",
+    "P1365": {
+      "links": [
+        "Peter Gutwein"
+      ],
+      "stated_as": "Peter Gutwein"
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Industrial Relations"
+    },
+    "P580": "2006-11-25",
+    "P1365": {
+      "links": [
+        "Mary Gillett"
+      ],
+      "stated_as": "Mary Gillett"
+    },
+    "P582": "2014-11-29",
+    "P1366": {
+      "links": [
+        "Telmo Languiller"
+      ],
+      "stated_as": "Telmo Languiller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Industrial Relations"
+    },
+    "P580": "2014-11-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "District re-established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Victoria"
+      ],
+      "stated_as": "Treasurer of Victoria"
+    },
+    "P580": "2014-12-04",
+    "P1365": {
+      "links": [
+        "Michael O'Brien (Victorian politician)"
+      ],
+      "stated_as": "Michael O'Brien"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Economic Development"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Industrial Relations"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+        "Natalie Hutchins"
+      ],
+      "stated_as": "Natalie Hutchins"
+    }
+  }
+]

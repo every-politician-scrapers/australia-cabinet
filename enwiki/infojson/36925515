@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2012-09-05",
+    "P1365": {
+      "links": [
+        "Mary Jo Fisher"
+      ],
+      "stated_as": "Mary Jo Fisher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Agriculture and Water Resources (Australia)"
+      ],
+      "stated_as": "MiAssistant Minister for Agriculture and Water Resources"
+    },
+    "P580": "2015-09-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2018-08-28",
+    "P1366": {
+      "links": [
+        "Richard Colbeck"
+      ],
+      "stated_as": "Richard Colbeck"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Australia)"
+      ],
+      "stated_as": "Assistant Minister for International Development and the Pacific"
+    },
+    "P580": "2018-08-28",
+    "P1365": {
+      "links": [
+        "Concetta Fierravanti-Wells"
+      ],
+      "stated_as": "Concetta Fierravanti-Wells"
+    },
+    "P582": "2019-05-26",
+    "P1366": {
+      "links": [
+        "Alex Hawke"
+      ],
+      "stated_as": "Alex Hawke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Families and Social Services"
+      ],
+      "stated_as": "Minister for Families and Social Services"
+    },
+    "P580": "2019-05-29",
+    "P1365": {
+      "links": [
+        "Paul Fletcher (politician)"
+      ],
+      "stated_as": "Paul Fletcher"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Amanda Rishworth"
+      ],
+      "stated_as": "Amanda Rishworth"
+    }
+  }
+]

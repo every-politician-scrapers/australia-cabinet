@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Brand"
+      ],
+      "stated_as": "Brand"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Gary Gray (politician)"
+      ],
+      "stated_as": "Gary Gray"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Resources and Minister for Northern Australia"
+      ],
+      "stated_as": "Minister for Resources and Minister for Northern Australia"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Keith Pitt",
+        "David Littleproud"
+      ],
+      "stated_as": "Keith Pitt David Littleproud"
+    }
+  }
+]

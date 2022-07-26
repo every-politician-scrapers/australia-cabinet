@@ -1,0 +1,45 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Fisher"
+      ],
+      "stated_as": "Fisher"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Mal Brough"
+      ],
+      "stated_as": "Mal Brough"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Australian House of Representatives"
+      ],
+      "stated_as": "31st Speaker of the Australian House of Representatives"
+    },
+    "P580": "2021-11-23",
+    "P1365": {
+      "links": [
+        "Tony Smith (Victorian politician)"
+      ],
+      "stated_as": "Tony Smith"
+    },
+    "P582": "2022-07-26",
+    "P1366": {
+      "links": [
+        "Milton Dick"
+      ],
+      "stated_as": "Milton Dick"
+    }
+  }
+]

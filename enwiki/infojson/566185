@@ -1,0 +1,162 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of North Sydney"
+      ],
+      "stated_as": "North Sydney"
+    },
+    "P580": "1996-03-02",
+    "P1365": {
+      "links": [
+        "Ted Mack (politician)"
+      ],
+      "stated_as": "Ted Mack"
+    },
+    "P582": "2015-10-23",
+    "P1366": {
+      "links": [
+        "Trent Zimmerman"
+      ],
+      "stated_as": "Trent Zimmerman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Small Business (Australia)"
+      ],
+      "stated_as": "Minister for Small Business and Tourism"
+    },
+    "P580": "2001-11-26",
+    "P1365": {
+      "links": [
+        "Ian Macfarlane (politician)"
+      ],
+      "stated_as": "Ian Macfarlane"
+    },
+    "P582": "2004-10-26",
+    "P1366": {
+      "links": [
+        "Fran Bailey"
+      ],
+      "stated_as": "Fran Bailey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Human Services (Australia)"
+      ],
+      "stated_as": "Minister for Human Services"
+    },
+    "P580": "2004-10-26",
+    "P1365": {
+      "links": [
+        "Jocelyn Newman"
+      ],
+      "stated_as": "Jocelyn Newman"
+    },
+    "P582": "2007-01-30",
+    "P1366": {
+      "links": [
+        "Ian Campbell (Australian politician)"
+      ],
+      "stated_as": "Ian Campbell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Employment (Australia)"
+      ],
+      "stated_as": "Minister for Employment and Workplace Relations"
+    },
+    "P580": "2007-01-30",
+    "P1365": {
+      "links": [
+        "Kevin Andrews (Australian politician)"
+      ],
+      "stated_as": "Kevin Andrews"
+    },
+    "P582": "2007-12-03",
+    "P1366": {
+      "links": [
+        "Julia Gillard"
+      ],
+      "stated_as": "Julia Gillard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Manager of Opposition Business in the House (Australia)"
+      ],
+      "stated_as": "Manager of Opposition Business in the House"
+    },
+    "P580": "2007-12-02",
+    "P1365": {
+      "links": [
+        "Anthony Albanese"
+      ],
+      "stated_as": "Anthony Albanese"
+    },
+    "P582": "2009-02-16",
+    "P1366": {
+      "links": [
+        "Christopher Pyne"
+      ],
+      "stated_as": "Christopher Pyne"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Australia"
+      ],
+      "stated_as": "Treasurer of Australia"
+    },
+    "P580": "2013-09-18",
+    "P1365": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    },
+    "P582": "2015-09-21",
+    "P1366": {
+      "links": [
+        "Scott Morrison"
+      ],
+      "stated_as": "Scott Morrison"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[List of ambassadors of Australia to the United States|25th Ambassador of Australia to\nthe United States]]"
+    },
+    "P580": "2016-01-29",
+    "P1365": {
+      "links": [
+        "Kim Beazley"
+      ],
+      "stated_as": "Kim Beazley"
+    },
+    "P582": "2020-01-30",
+    "P1366": {
+      "links": [
+        "Arthur Sinodinos"
+      ],
+      "stated_as": "Arthur Sinodinos"
+    }
+  }
+]

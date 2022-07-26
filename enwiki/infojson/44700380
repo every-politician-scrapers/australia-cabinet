@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Fisher"
+      ],
+      "stated_as": "Fisher"
+    },
+    "P580": "2014-12-16",
+    "P1365": {
+      "links": [
+        "Bob Such"
+      ],
+      "stated_as": "Bob Such"
+    },
+    "P582": "2018-03-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "District Abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Hurtle Vale"
+      ],
+      "stated_as": "Hurtle Vale"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New District"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Human Services"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Michelle Lensink"
+      ],
+      "stated_as": "Michelle Lensink"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Canterbury"
+      ],
+      "stated_as": "Canterbury"
+    },
+    "P580": "2003-03-22",
+    "P1365": {
+      "links": [
+        "Kevin Moss"
+      ],
+      "stated_as": "Kevin Moss"
+    },
+    "P582": "2016-05-06",
+    "P1366": {
+      "links": [
+        "Sophie Cotsis"
+      ],
+      "stated_as": "Sophie Cotsis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (New South Wales)",
+        "New South Wales"
+      ],
+      "stated_as": "Deputy Leader of the Opposition\nin New South Wales"
+    },
+    "P580": "2011-04-08",
+    "P1365": {
+      "links": [
+        "Jillian Skinner"
+      ],
+      "stated_as": "Jillian Skinner"
+    },
+    "P582": "2016-03-07",
+    "P1366": {
+      "links": [
+        "Michael Daley"
+      ],
+      "stated_as": "Michael Daley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Barton"
+      ],
+      "stated_as": "Barton"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+        "Nickolas Varvaris"
+      ],
+      "stated_as": "Nickolas Varvaris"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Indigenous Australians"
+      ],
+      "stated_as": "Minister for Indigenous Australians"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Ken Wyatt"
+      ],
+      "stated_as": "Ken Wyatt"
+    }
+  }
+]

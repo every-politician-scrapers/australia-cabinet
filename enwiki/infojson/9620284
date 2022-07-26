@@ -1,0 +1,230 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Lane Cove"
+      ],
+      "stated_as": "Lane Cove"
+    },
+    "P580": "2003-03-22",
+    "P1365": {
+      "links": [
+        "Kerry Chikarovski"
+      ],
+      "stated_as": "Kerry Chikarovski"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Customer Service (New South Wales)"
+      ],
+      "stated_as": "Minister for Fair Trading"
+    },
+    "P580": "2011-04-03",
+    "P1365": {
+      "links": [
+        "Virginia Judge"
+      ],
+      "stated_as": "Virginia Judge"
+    },
+    "P582": "2013-12-09",
+    "P1366": {
+      "links": [
+        "Stuart Ayres"
+      ],
+      "stated_as": "Stuart Ayres"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Energy (New South Wales)"
+      ],
+      "stated_as": "Minister for Resources and Energy"
+    },
+    "P580": "2013-12-09",
+    "P1365": {
+      "links": [
+        "Chris Hartcher"
+      ],
+      "stated_as": "Chris Hartcher"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself (as Minister for Industry, Resources and Energy)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Special Minister of State"
+    },
+    "P580": "2013-12-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Chris Hartcher"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "portfolio abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Trade and Industry (New South Wales)",
+        "Minister for Energy (New South Wales)"
+      ],
+      "stated_as": "Minister for Industry, Resources and Energy"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself (as Minister for Resources and Energy)"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+        "Niall Blair"
+      ],
+      "stated_as": "Don Harwin (as the Minister for Resources) Niall Blair (as the Minister for Trade and Industry)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Family and Community Services (New South Wales)"
+      ],
+      "stated_as": "Minister for Housing"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+        "Brad Hazzard"
+      ],
+      "stated_as": "Brad Hazzard"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Melinda Pavey (as the Minister for Water, Property and Housing)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Planning"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rob Stokes"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rob Stokes (as Minister for Planning and Spaces)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance, Services and Property (New South Wales)"
+      ],
+      "stated_as": "Special Minister of State"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "new portfolio"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+        "Don Harwin"
+      ],
+      "stated_as": "Don Harwin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Counter Terrorism and Corrections"
+      ],
+      "stated_as": "Minister for Counter Terrorism and Corrections"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+        "David Elliott (politician)"
+      ],
+      "stated_as": "David Elliott"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Geoff Lee"
+      ],
+      "stated_as": "Geoff Lee (as Minister for Corrections)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Homes"
+      ],
+      "stated_as": "Minister for Homes"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Melinda Pavey"
+      ],
+      "stated_as": "Melinda Pavey (as Minister for Water, Property and Housing)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Planning (New South Wales)"
+      ],
+      "stated_as": "Minister for Planning"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Rob Stokes"
+      ],
+      "stated_as": "Rob Stokes (as Minister for Planning and Public Spaces)"
+    }
+  }
+]

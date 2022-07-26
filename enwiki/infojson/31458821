@@ -1,0 +1,182 @@
+[
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Assembly",
+        "Electoral district of Castle Hill"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Assembly for Castle Hill"
+    },
+    "P580": "2011-03-26",
+    "P1365": {
+      "links": [
+        "Michael Richardson (politician)"
+      ],
+      "stated_as": "Michael Richardson"
+    },
+    "P582": "2015-03-28",
+    "P1366": {
+      "links": [
+        "Ray Williams (politician)"
+      ],
+      "stated_as": "Ray Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance, Services and Property (New South Wales)"
+      ],
+      "stated_as": "Minister for Finance, Services and Property"
+    },
+    "P580": "2014-04-17",
+    "P1365": {
+      "links": [
+        "Andrew Constance"
+      ],
+      "stated_as": "Andrew Constance"
+    },
+    "P582": "2017-01-23",
+    "P1366": {
+      "links": [
+        "Victor Dominello"
+      ],
+      "stated_as": "Victor Dominello"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Assembly",
+        "Electoral district of Hawkesbury"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Assembly for Hawkesbury"
+    },
+    "P580": "2015-03-28",
+    "P1365": {
+      "links": [
+        "Ray Williams (politician)"
+      ],
+      "stated_as": "Ray Williams"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+        "Robyn Preston"
+      ],
+      "stated_as": "Robyn Preston"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Liberal Party of Australia (New South Wales Division)"
+      ],
+      "stated_as": "Deputy Leader of the Liberal Party in New South Wales"
+    },
+    "P580": "2017-01-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gladys Berejiklian"
+    },
+    "P582": "2021-10-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Stuart Ayres"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of New South Wales"
+      ],
+      "stated_as": "65th Treasurer of New South Wales"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gladys Berejiklian"
+    },
+    "P582": "2021-10-05",
+    "P1366": {
+      "links": [
+        "Matt Kean"
+      ],
+      "stated_as": "Matt Kean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Industrial Relations (New South Wales)"
+      ],
+      "stated_as": "Minister for Industrial Relations"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gladys Berejiklian"
+    },
+    "P582": "2019-04-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Assembly",
+        "Electoral district of Epping"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Assembly for Epping"
+    },
+    "P580": "2019-03-23",
+    "P1365": {
+      "links": [
+        "Damien Tudehope"
+      ],
+      "stated_as": "Damien Tudehope"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of New South Wales"
+      ],
+      "stated_as": "46th Premier of New South Wales"
+    },
+    "P580": "2021-10-05",
+    "P1365": {
+      "links": [
+        "Gladys Berejiklian"
+      ],
+      "stated_as": "Gladys Berejiklian"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Liberal Party of Australia (New South Wales Division)"
+      ],
+      "stated_as": "Leader of the Liberal Party in New South Wales"
+    },
+    "P580": "2021-10-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gladys Berejiklian"
+    }
+  }
+]

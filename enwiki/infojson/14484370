@@ -1,0 +1,177 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Port Adelaide"
+      ],
+      "stated_as": "Port Adelaide"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Rod Sawford"
+      ],
+      "stated_as": "Rod Sawford"
+    },
+    "P582": "2019-05-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Division abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Mental Health and Ageing (Australia)"
+      ],
+      "stated_as": "Minister for Mental Health and Ageing"
+    },
+    "P580": "2010-09-12",
+    "P1365": {
+      "links": [
+        "Nicola Roxon"
+      ],
+      "stated_as": "Nicola Roxon"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "Jacinta Collins"
+      ],
+      "stated_as": "Jacinta Collins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Inclusion (Australia)"
+      ],
+      "stated_as": "Minister for Social Inclusion"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Tanya Plibersek"
+      ],
+      "stated_as": "Tanya Plibersek"
+    },
+    "P582": "2013-07-01",
+    "P1366": {
+      "links": [
+        "Minister for Social Inclusion (Australia)"
+      ],
+      "stated_as": "Office Abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Climate Change (Australia)"
+      ],
+      "stated_as": "Minister for Climate Change"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Greg Combet"
+      ],
+      "stated_as": "Greg Combet"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Sustainability, Environment, Water, Population and Communities (Australia)"
+      ],
+      "stated_as": "Minister for the Environment and Water"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Tony Burke"
+      ],
+      "stated_as": "Tony Burke"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Greg Hunt"
+      ],
+      "stated_as": "Greg Hunt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party National Executive",
+        "Australian Labor Party"
+      ],
+      "stated_as": "National President of the Labor Party"
+    },
+    "P580": "2015-06-17",
+    "P1365": {
+      "links": [
+        "Jenny McAllister"
+      ],
+      "stated_as": "Jenny McAllister"
+    },
+    "P582": "2018-06-18",
+    "P1366": {
+      "links": [
+        "Wayne Swan"
+      ],
+      "stated_as": "Wayne Swan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Hindmarsh"
+      ],
+      "stated_as": "Hindmarsh"
+    },
+    "P580": "2019-05-18",
+    "P1365": {
+      "links": [
+        "Steve Georganas"
+      ],
+      "stated_as": "Steve Georganas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Aged Care"
+      ],
+      "stated_as": "Minister for Health and Aged Care"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Greg Hunt"
+      ],
+      "stated_as": "Greg Hunt"
+    }
+  }
+]

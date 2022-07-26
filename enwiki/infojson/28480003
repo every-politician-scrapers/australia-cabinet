@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Throsby"
+      ],
+      "stated_as": "Throsby"
+    },
+    "P580": "2010-08-21",
+    "P1365": {
+      "links": [
+        "Jennie George"
+      ],
+      "stated_as": "Jennie George"
+    },
+    "P582": "2016-07-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Whitlam"
+      ],
+      "stated_as": "Whitlam"
+    },
+    "P580": "2016-07-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Treasurer and Minister for Financial Services"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]

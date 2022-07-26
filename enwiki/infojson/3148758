@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of Public Prosecutions (Australia)"
+      ],
+      "stated_as": "Commonwealth Director of Public Prosecutions"
+    },
+    "P580": "1997",
+    "P582": "1999-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of South Australia"
+      ],
+      "stated_as": "Judge of the Supreme Court of South Australia"
+    },
+    "P580": "1999-02-23",
+    "P582": "2004-01-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of the Northern Territory"
+      ],
+      "stated_as": "Chief Justice of the Northern Territory"
+    },
+    "P580": "2004-01-27",
+    "P1365": {
+      "links": [
+        "Brian Frank Martin"
+      ],
+      "stated_as": "Brian Frank Martin"
+    },
+    "P582": "2010",
+    "P1366": {
+      "links": [
+        "Trevor Riley"
+      ],
+      "stated_as": "Trevor Riley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Western Australia"
+      ],
+      "stated_as": "Acting Judge of the Supreme Court of Western Australia"
+    },
+    "P580": "2012-02",
+    "P582": "2012-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Royal Commissioner",
+        "Royal Commission into Juvenile Detention in the Northern Territory"
+      ],
+      "stated_as": "Royal Commissioner for the Royal Commission into Juvenile Detention in the Northern Territory"
+    },
+    "P580": "2016-07-28"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+        "Western Australian Legislative Assembly",
+        "Electoral district of West Swan"
+      ],
+      "stated_as": "Member of the Western Australian Legislative Assembly for West Swan"
+    },
+    "P580": "2008-09-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Lands (Western Australia)"
+      ],
+      "stated_as": "Minister for Lands"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Terry Redman"
+      ],
+      "stated_as": "Terry Redman"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+        "Ben Wyatt (politician)"
+      ],
+      "stated_as": "Ben Wyatt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Planning (Western Australia)"
+      ],
+      "stated_as": "Minister for Planning"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Donna Faragher"
+      ],
+      "stated_as": "Donna Faragher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Transport (Western Australia)"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Bill Marmion"
+      ],
+      "stated_as": "Bill Marmion"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Ports (Western Australia)"
+      ],
+      "stated_as": "Minister for Ports"
+    },
+    "P580": "2021-03-19",
+    "P1365": {
+      "links": [
+        "Alannah MacTiernan"
+      ],
+      "stated_as": "Alannah MacTiernan"
+    }
+  }
+]

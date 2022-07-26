@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of Australia to China"
+      ],
+      "stated_as": "Australian Ambassador to China"
+    },
+    "P580": "2011-08",
+    "P1365": {
+      "links": [
+        "Geoff Raby"
+      ],
+      "stated_as": "Geoff Raby"
+    },
+    "P582": "2016-02",
+    "P1366": {
+      "links": [
+        "Jan Adams (diplomat)"
+      ],
+      "stated_as": "Jan Adams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Foreign Affairs and Trade"
+      ],
+      "stated_as": "Secretary of the Department of Foreign Affairs and Trade"
+    },
+    "P580": "2016-07-22",
+    "P1365": {
+      "links": [
+        "Peter Varghese"
+      ],
+      "stated_as": "Peter Varghese"
+    },
+    "P582": "2021-06-25",
+    "P1366": {
+      "links": [
+        "Kathryn Campbell"
+      ],
+      "stated_as": "Kathryn Campbell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of South Australia"
+      ],
+      "stated_as": "36th Governor of South Australia"
+    },
+    "P580": "2021-10-07",
+    "P1365": {
+      "links": [
+        "Hieu Van Le"
+      ],
+      "stated_as": "Hieu Van Le"
+    }
+  }
+]

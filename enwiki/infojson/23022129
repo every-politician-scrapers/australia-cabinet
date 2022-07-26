@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Queensland"
+      ],
+      "stated_as": "Senator for Queensland"
+    },
+    "P580": "2009-03-21",
+    "P1365": {
+      "links": [
+        "Rod Welford"
+      ],
+      "stated_as": "Rod Welford"
+    },
+    "P582": "2012-03-24",
+    "P1366": {
+      "links": [
+        "Tim Mander"
+      ],
+      "stated_as": "Tim Mander"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Queensland"
+      ],
+      "stated_as": "Senator for Queensland"
+    },
+    "P580": "2016-07-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Agriculture, Fisheries and Forestry"
+      ],
+      "stated_as": "Minister for Agriculture, Fisheries and Forestry"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "David Littleproud"
+      ],
+      "stated_as": "David Littleproud"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Emergency Management"
+      ],
+      "stated_as": "Minister for Emergency Management"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Bridget McKenzie"
+      ],
+      "stated_as": "Bridget McKenzie"
+    }
+  }
+]

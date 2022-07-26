@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Reynell"
+      ],
+      "stated_as": "Reynell"
+    },
+    "P580": "2014-03-15",
+    "P1365": {
+      "links": [
+        "Gay Thompson"
+      ],
+      "stated_as": "Gay Thompson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Child Protection"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Rachel Sanderson"
+      ],
+      "stated_as": "Rachel Sanderson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Recreation, Sport and Racing"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Corey Wingard"
+      ],
+      "stated_as": "Corey Wingard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Women and the Prevention of Domestic and Family Violence"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Carolyn Power"
+      ],
+      "stated_as": "Carolyn Power (as Assistant Minister for Domestic and Family Violence Prevention)"
+    }
+  }
+]

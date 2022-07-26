@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "President of the New South Wales Court of Appeal"
+      ],
+      "stated_as": "President of the New South Wales Court of Appeal"
+    },
+    "P580": "2008-06-01",
+    "P1365": {
+      "links": [
+        "Keith Mason (judge)"
+      ],
+      "stated_as": "Keith Mason"
+    },
+    "P582": "2013-02-28",
+    "P1366": {
+      "links": [
+        "Margaret Beazley"
+      ],
+      "stated_as": "Margaret Beazley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of the Federal Court of Australia"
+      ],
+      "stated_as": "Chief Justice of the Federal Court of Australia"
+    },
+    "P580": "2013-03-01",
+    "P1365": {
+      "links": [
+        "Patrick Keane (justice)"
+      ],
+      "stated_as": "Patrick Keane"
+    }
+  }
+]

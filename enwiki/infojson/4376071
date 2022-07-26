@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Australia)",
+        "Division of Isaacs"
+      ],
+      "stated_as": "Member of Parliament\nfor Isaacs"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Ann Corcoran"
+      ],
+      "stated_as": "Ann Corcoran"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary (Australian minister)"
+      ],
+      "stated_as": "Cabinet Secretary"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Joe Ludwig"
+      ],
+      "stated_as": "Joe Ludwig"
+    },
+    "P582": "2013-02-04",
+    "P1366": {
+      "links": [
+        "Jason Clare"
+      ],
+      "stated_as": "Jason Clare"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Australia"
+      ],
+      "stated_as": "Attorney-General of Australia"
+    },
+    "P580": "2013-02-04",
+    "P1365": {
+      "links": [
+        "Nicola Roxon"
+      ],
+      "stated_as": "Nicola Roxon"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "George Brandis"
+      ],
+      "stated_as": "George Brandis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Government Services"
+      ],
+      "stated_as": "Minister for the Public Service and Integrity"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Gary Gray (politician)"
+      ],
+      "stated_as": "Gary Gray"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Eric Abetz"
+      ],
+      "stated_as": "Eric Abetz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Special Minister of State"
+      ],
+      "stated_as": "Special Minister of State"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Gary Gray (politician)"
+      ],
+      "stated_as": "Gary Gray"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Michael Ronaldson"
+      ],
+      "stated_as": "Michael Ronaldson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Australia"
+      ],
+      "stated_as": "Attorney-General of Australia"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Katy Gallagher"
+      ],
+      "stated_as": "Katy Gallagher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary (Australian minister)"
+      ],
+      "stated_as": "Cabinet Secretary"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Arthur Sinodinos"
+      ],
+      "stated_as": "Arthur Sinodinos (2017)"
+    }
+  }
+]

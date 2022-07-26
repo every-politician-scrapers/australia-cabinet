@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Treasurer of the Northern Territory"
+      ],
+      "stated_as": "Treasurer of the Northern Territory"
+    },
+    "P580": "2013-02-16",
+    "P1365": {
+      "links": [
+        "Paul Henderson (politician)"
+      ],
+      "stated_as": "Paul Henderson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of the Northern Territory"
+      ],
+      "stated_as": "Treasurer of the Northern Territory"
+    },
+    "P580": "2016-08-31",
+    "P1365": {
+      "links": [
+        "Adam Giles"
+      ],
+      "stated_as": "Adam Giles"
+    },
+    "P582": "2020-09-07",
+    "P1366": {
+      "links": [
+        "Michael Gunner"
+      ],
+      "stated_as": "Michael Gunner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Chief Minister of the Northern Territory"
+      ],
+      "stated_as": "19th Deputy Chief Minister of the Northern Territory"
+    },
+    "P580": "2016-09-12",
+    "P1365": {
+      "links": [
+        "Peter Styles (politician)"
+      ],
+      "stated_as": "Peter Styles"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "office": {
+      "links": [
+        "Western Australian Legislative Assembly",
+        "Electoral district of Victoria Park"
+      ],
+      "stated_as": "Member of the Legislative Assembly for Victoria Park"
+    },
+    "P580": "2006-03-11",
+    "P1365": {
+      "links": [
+        "Geoff Gallop"
+      ],
+      "stated_as": "Geoff Gallop"
+    },
+    "P582": "2021-03-13",
+    "P1366": {
+      "links": [
+        "Hannah Beazley"
+      ],
+      "stated_as": "Hannah Beazley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer of Western Australia"
+      ],
+      "stated_as": "Treasurer of Western Australia"
+    },
+    "P580": "2017-03-17",
+    "P1365": {
+      "links": [
+        "Mike Nahan"
+      ],
+      "stated_as": "Mike Nahan"
+    },
+    "P582": "2021-03-18",
+    "P1366": {
+      "links": [
+        "Mark McGowan"
+      ],
+      "stated_as": "Mark McGowan"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Franklin"
+      ],
+      "stated_as": "Franklin"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Harry Quick"
+      ],
+      "stated_as": "Harry Quick"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Services (Australia) "
+      ],
+      "stated_as": "Minister for Community Services"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position created"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Women (Australia)"
+      ],
+      "stated_as": "Minister for the Status of Women"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Kate Ellis (politician)"
+      ],
+      "stated_as": "Kate Ellis"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Tony Abbott"
+      ],
+      "stated_as": "Tony Abbott"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Services (Australia)"
+      ],
+      "stated_as": "Minister for Housing and Homelessness"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Mark Butler"
+      ],
+      "stated_as": "Mark Butler"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Services (Australia)"
+      ],
+      "stated_as": "Minister for Housing and Homelessness"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Michael Sukkar"
+      ],
+      "stated_as": "Michael Sukkar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Small Business (Australia) "
+      ],
+      "stated_as": "Minister for Small Business"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Stuart Robert"
+      ],
+      "stated_as": "Stuart Robert"
+    }
+  }
+]

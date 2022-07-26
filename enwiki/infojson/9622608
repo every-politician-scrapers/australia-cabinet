@@ -1,0 +1,173 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Wakehurst"
+      ],
+      "stated_as": "Wakehurst"
+    },
+    "P580": "1991-05-25",
+    "P1365": {
+      "links": [
+        "John David Booth"
+      ],
+      "stated_as": "John Booth"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Planning (New South Wales)"
+      ],
+      "stated_as": "Minister for Planning and Infrastructure"
+    },
+    "P580": "2011-04-03",
+    "P1365": {
+      "links": [
+        "Tony Kelly (politician)"
+      ],
+      "stated_as": "Tony Kelly"
+    },
+    "P582": "2014-04-23",
+    "P1366": {
+      "links": [
+        "Pru Goward",
+        "Mike Baird"
+      ],
+      "stated_as": "Pru Goward (Planning) Mike Baird (Infrastructure)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of New South Wales"
+      ],
+      "stated_as": "Attorney General of New South Wales"
+    },
+    "P580": "2014-04-23",
+    "P1365": {
+      "links": [
+        "Greg Smith (New South Wales politician)"
+      ],
+      "stated_as": "Greg Smith"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Gabrielle Upton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Justice (New South Wales)"
+      ],
+      "stated_as": "Minister for Justice"
+    },
+    "P580": "2014-04-23",
+    "P1365": {
+      "links": [
+        "Greg Smith (New South Wales politician)"
+      ],
+      "stated_as": "Greg Smith"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+        "Troy Grant",
+        "David Elliott (politician)"
+      ],
+      "stated_as": "Troy Grant (Justice and Police) David Elliott (Corrections)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Family and Community Services (New South Wales)"
+      ],
+      "stated_as": "Minister for Family and Community Services"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Gabrielle Upton"
+      ],
+      "stated_as": "Gabrielle Upton"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pru Goward"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Family and Community Services (New South Wales)"
+      ],
+      "stated_as": "Minister for Social Housing"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Frank Terenzini"
+      ],
+      "stated_as": "Frank Terenzini"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pru Goward"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Medical Research (New South Wales)"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+        "Jillian Skinner",
+        "Pru Goward"
+      ],
+      "stated_as": "Jillian Skinner (Health) Pru Goward (Medical research)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Medical Research (New South Wales)"
+      ],
+      "stated_as": "Minister for Health and Medical Research"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself (as Minister for Health)"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Alister Henskens"
+      ],
+      "stated_as": "Alister Henskens (Science, Innovation and Technology)"
+    }
+  }
+]

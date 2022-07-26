@@ -1,0 +1,112 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2008-07-01",
+    "P582": "2014-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Sport (Australia)"
+      ],
+      "stated_as": "Minister for Sport"
+    },
+    "P580": "2013-07-01",
+    "P1365": {
+      "links": [
+        "Kate Lundy"
+      ],
+      "stated_as": "Kate Lundy"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2016-07-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition in the Senate (Australia)"
+      ],
+      "stated_as": "Deputy Leader of the Opposition in the Senate"
+    },
+    "P580": "2016-09-30",
+    "P1365": {
+      "links": [
+        "Stephen Conroy"
+      ],
+      "stated_as": "Stephen Conroy"
+    },
+    "P582": "2019-05-30",
+    "P1366": {
+      "links": [
+        "Kristina Keneally"
+      ],
+      "stated_as": "Kristina Keneally"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Deputy Leader of the Government in the Senate"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Michaelia Cash"
+      ],
+      "stated_as": "Michaelia Cash"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Trade and Tourism"
+      ],
+      "stated_as": "Minister for Trade and Tourism"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Dan Tehan"
+      ],
+      "stated_as": "Dan Tehan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Special Minister of State"
+      ],
+      "stated_as": "Special Minister of State"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Ben Morton (politician)"
+      ],
+      "stated_as": "Ben Morton"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "New South Wales Legislative Assembly",
+        "Electoral district of Penrith"
+      ],
+      "stated_as": "Member of the New South Wales Legislative Assembly for Penrith"
+    },
+    "P580": "2010-06-19",
+    "P1365": {
+      "links": [
+        "Karyn Paluzzano"
+      ],
+      "stated_as": "Karyn Paluzzano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Liberal Party of Australia (New South Wales Division)"
+      ],
+      "stated_as": "Deputy Leader of the Liberal Party in New South Wales"
+    },
+    "P580": "2021-10-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dominic Perrottet"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Enterprise, Investment and Trade"
+      ],
+      "stated_as": "Minister for Enterprise, Investment and Trade"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself (as Minister for Trade and Industry)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Tourism and Sport"
+      ],
+      "stated_as": "Minister for Tourism and Sport"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself (as Minister for Jobs, Investment, Tourism and Western Sydney)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Regional minister (New South Wales)"
+      ],
+      "stated_as": "Minister for Western Sydney"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself (as Minister for Jobs, Investment, Tourism and Western Sydney)"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "South Australian House of Assembly",
+        "Electoral district of Kavel"
+      ],
+      "stated_as": "Member of the South Australian House of Assembly for Kavel"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+        "Mark Goldsworthy"
+      ],
+      "stated_as": "Mark Goldsworthy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the South Australian House of Assembly"
+      ],
+      "stated_as": "Speaker of the South Australian House of Assembly"
+    },
+    "P580": "2021-10-13",
+    "P1365": {
+      "links": [
+        "Josh Teague"
+      ],
+      "stated_as": "Josh Teague"
+    }
+  }
+]

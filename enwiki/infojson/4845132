@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Hotham"
+      ],
+      "stated_as": "Hotham"
+    },
+    "P580": "2013-09-07",
+    "P1365": {
+      "links": [
+        "Simon Crean"
+      ],
+      "stated_as": "Simon Crean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Home Affairs (Australia)"
+      ],
+      "stated_as": "Minister for Home Affairs"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Karen Andrews"
+      ],
+      "stated_as": "Karen Andrews"
+    }
+  }
+]

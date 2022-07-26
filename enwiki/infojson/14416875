@@ -1,0 +1,189 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Petrie"
+      ],
+      "stated_as": "Petrie"
+    },
+    "P580": "2007-11-24",
+    "P1365": {
+      "links": [
+        "Teresa Gambaro"
+      ],
+      "stated_as": "Teresa Gambaro"
+    },
+    "P582": "2013-09-07",
+    "P1366": {
+      "links": [
+        "Luke Howarth"
+      ],
+      "stated_as": "Luke Howarth"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Education, Science, IT and Innovation"
+    },
+    "P580": "2014-02-22",
+    "P1365": {
+      "links": [
+        "Scott Driscoll"
+      ],
+      "stated_as": "Scott Driscoll"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Education, Science, IT and Innovation"
+    },
+    "P580": "2014-03-04",
+    "P1365": {
+      "links": [
+        "Annastacia Palaszczuk"
+      ],
+      "stated_as": "Annastacia Palaszczuk"
+    },
+    "P582": "2014-08-05",
+    "P1366": {
+      "links": [
+        "Anthony Lynham"
+      ],
+      "stated_as": "Anthony Lynham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Minister for Training\nand Disability Services"
+    },
+    "P580": "2014-03-04",
+    "P1365": {
+      "links": [
+        "Annastacia Palaszczuk",
+        "Desley Scott"
+      ],
+      "stated_as": "Annastacia Palaszczuk (Training)\nDesley Scott (Disability Services)"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Tim Mander",
+        "Tracy Davis"
+      ],
+      "stated_as": "Tim Mander (Training)\nTracy Davis (Disability Services)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Shadow Attorney-General\nShadow Minister for Justice and Housing"
+    },
+    "P580": "2014-08-05",
+    "P1365": {
+      "links": [
+        "Annastacia Palaszczuk",
+        "Jo-Ann Miller"
+      ],
+      "stated_as": "Annastacia Palaszczuk (Justice)\nJo-Ann Miller (Housing)"
+    },
+    "P582": "2015-02-14",
+    "P1366": {
+      "links": [
+        "Ian Walker (politician)",
+        "Rob Molhoek"
+      ],
+      "stated_as": "Ian Walker (Justice)\nRob Molhoek (Housing)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General of Queensland"
+      ],
+      "stated_as": "Attorney-General of Queensland and Minister for Justice"
+    },
+    "P580": "2015-02-16",
+    "P1365": {
+      "links": [
+        "Jarrod Bleijie"
+      ],
+      "stated_as": "Jarrod Bleijie"
+    },
+    "P582": "2020-11-12",
+    "P1366": {
+      "links": [
+        "Shannon Fentiman"
+      ],
+      "stated_as": "Shannon Fentiman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Queensland"
+      ],
+      "stated_as": "Minister for Training and Skills for Queensland"
+    },
+    "P580": "2015-02-16",
+    "P1365": {
+      "links": [
+        "John-Paul Langbroek"
+      ],
+      "stated_as": "John-Paul Langbroek"
+    },
+    "P582": "2017-12-11",
+    "P1366": {
+      "links": [
+        "Shannon Fentiman"
+      ],
+      "stated_as": "Shannon Fentiman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Queensland)"
+      ],
+      "stated_as": "Leader of the House in Queensland"
+    },
+    "P580": "2017-12-11",
+    "P1365": {
+      "links": [
+        "Stirling Hinchliffe"
+      ],
+      "stated_as": "Stirling Hinchliffe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Queensland Health"
+      ],
+      "stated_as": "Minister for Health and Ambulance Services"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+        "Steven Miles (politician)"
+      ],
+      "stated_as": "Steven Miles"
+    }
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Australia)",
+        "Division of Sydney"
+      ],
+      "stated_as": "Member of Parliament\nfor Sydney"
+    },
+    "P580": "1998-10-03",
+    "P1365": {
+      "links": [
+        "Peter Baldwin (politician)"
+      ],
+      "stated_as": "Peter Baldwin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Housing (Australia)"
+      ],
+      "stated_as": "Minister for Housing"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Brian Howe (politician)"
+      ],
+      "stated_as": "Brian Howe (1996)"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+        "Mark Arbib"
+      ],
+      "stated_as": "Mark Arbib"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Women (Australia)"
+      ],
+      "stated_as": "Minister for the Status of Women"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Julie Bishop"
+      ],
+      "stated_as": "Julie Bishop"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+        "Kate Ellis (politician)"
+      ],
+      "stated_as": "Kate Ellis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Human Services (Australia)"
+      ],
+      "stated_as": "Minister for Human Services"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Chris Bowen"
+      ],
+      "stated_as": "Chris Bowen"
+    },
+    "P582": "2011-12-14",
+    "P1366": {
+      "links": [
+        "Brendan O'Connor (politician)"
+      ],
+      "stated_as": "Brendan O'Connor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Inclusion (Australia)"
+      ],
+      "stated_as": "Minister for Social Inclusion"
+    },
+    "P580": "2010-09-14",
+    "P1365": {
+      "links": [
+        "Simon Crean"
+      ],
+      "stated_as": "Simon Crean"
+    },
+    "P582": "2011-12-14",
+    "P1366": {
+      "links": [
+        "Mark Butler"
+      ],
+      "stated_as": "Mark Butler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health (Australia)"
+      ],
+      "stated_as": "Minister for Health and Medical Research"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+        "Nicola Roxon"
+      ],
+      "stated_as": "Nicola Roxon"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leaders of the Australian Labor Party"
+      ],
+      "stated_as": "Deputy Leader of the Labor Party"
+    },
+    "P580": "2013-10-14",
+    "P1365": {
+      "links": [
+        "Anthony Albanese"
+      ],
+      "stated_as": "Anthony Albanese"
+    },
+    "P582": "2019-05-30",
+    "P1366": {
+      "links": [
+        "Richard Marles"
+      ],
+      "stated_as": "Richard Marles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Australia)"
+      ],
+      "stated_as": "Deputy Leader of the Opposition"
+    },
+    "P580": "2013-10-14",
+    "P1365": {
+      "links": [
+        "Julie Bishop"
+      ],
+      "stated_as": "Julie Bishop"
+    },
+    "P582": "2019-05-30",
+    "P1366": {
+      "links": [
+        "Richard Marles"
+      ],
+      "stated_as": "Richard Marles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment and Water (Australia)"
+      ],
+      "stated_as": "Minister for the Environment and Water"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Sussan Ley"
+      ],
+      "stated_as": "Sussan Ley"
+    }
+  }
+]

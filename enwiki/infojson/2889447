@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Victoria (Australia)"
+      ],
+      "stated_as": "Senator for Victoria"
+    },
+    "P580": "2004-03-31",
+    "P1365": {
+      "links": [
+        "Richard Alston (politician)"
+      ],
+      "stated_as": "Richard Alston"
+    },
+    "P582": "2019-08-16",
+    "P1366": {
+      "links": [
+        "Sarah Henderson"
+      ],
+      "stated_as": "Sarah Henderson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Manager of Government Business in the Senate (Australia)"
+      ],
+      "stated_as": "Manager of Government Business in the Senate"
+    },
+    "P580": "2013-09-18",
+    "P1365": {
+      "links": [
+        "Jacinta Collins"
+      ],
+      "stated_as": "Jacinta Collins"
+    },
+    "P582": "2017-12-20",
+    "P1366": {
+      "links": [
+        "Simon Birmingham"
+      ],
+      "stated_as": "Simon Birmingham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Communications (Australia)"
+      ],
+      "stated_as": "Minister for Communications"
+    },
+    "P580": "2015-09-21",
+    "P1365": {
+      "links": [
+        "Malcolm Turnbull"
+      ],
+      "stated_as": "Malcolm Turnbull"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Paul Fletcher (politician)"
+      ],
+      "stated_as": "Paul Fletcher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Arts (Australia)"
+      ],
+      "stated_as": "Minister for the Arts"
+    },
+    "P580": "2015-09-21",
+    "P1365": {
+      "links": [
+        "George Brandis"
+      ],
+      "stated_as": "George Brandis"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Paul Fletcher (politician)"
+      ],
+      "stated_as": "Paul Fletcher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Government in the Senate (Australia)"
+      ],
+      "stated_as": "Deputy Government Senate Leader"
+    },
+    "P580": "2017-12-20",
+    "P1365": {
+      "links": [
+        "Mathias Cormann"
+      ],
+      "stated_as": "Mathias Cormann"
+    },
+    "P582": "2018-08-23",
+    "P1366": {
+      "links": [
+        "Simon Birmingham"
+      ],
+      "stated_as": "Simon Birmingham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Permanent Representative of Australia to the United Nations"
+      ],
+      "stated_as": "Permanent Representative of Australia to the United Nations"
+    },
+    "P580": "2019-10-17",
+    "P1365": {
+      "links": [
+        "Gillian Bird"
+      ],
+      "stated_as": "Gillian Bird"
+    }
+  }
+]

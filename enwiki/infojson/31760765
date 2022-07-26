@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Tasmanian Legislative Council",
+        "Electoral division of Derwent"
+      ],
+      "stated_as": "Member of the Tasmanian Legislative Council for Derwent"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+        "Michael Aird"
+      ],
+      "stated_as": "Michael Aird"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Tasmanian Legislative Council"
+      ],
+      "stated_as": "President of the Tasmanian Legislative Council"
+    },
+    "P580": "2019-05-21",
+    "P1365": {
+      "links": [
+        "Jim Wilkinson (Australian politician)"
+      ],
+      "stated_as": "Jim Wilkinson"
+    }
+  }
+]

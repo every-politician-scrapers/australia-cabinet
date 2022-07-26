@@ -1,0 +1,96 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of North Shore"
+      ],
+      "stated_as": "North Shore"
+    },
+    "P580": "1994-02-05",
+    "P1365": {
+      "links": [
+        "Phillip Smiles"
+      ],
+      "stated_as": "Phillip Smiles"
+    },
+    "P582": "2017-02-20",
+    "P1366": {
+      "links": [
+        "Felicity Wilson"
+      ],
+      "stated_as": "Felicity Wilson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the New South Wales Liberal Party"
+      ],
+      "stated_as": "Deputy Leader of the New South Wales Liberal Party"
+    },
+    "P580": "2007-04-04",
+    "P1365": {
+      "links": [
+        "Barry O'Farrell"
+      ],
+      "stated_as": "Barry O'Farrell"
+    },
+    "P582": "2014-04-16",
+    "P1366": {
+      "links": [
+        "Gladys Berejiklian"
+      ],
+      "stated_as": "Gladys Berejiklian"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health (New South Wales)"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2011-04-03",
+    "P1365": {
+      "links": [
+        "Carmel Tebbutt"
+      ],
+      "stated_as": "Carmel Tebbutt"
+    },
+    "P582": "2017-01-23",
+    "P1366": {
+      "links": [
+        "Brad Hazzard"
+      ],
+      "stated_as": "Brad Hazzard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Medical Research (New South Wales)"
+      ],
+      "stated_as": "Minister for Medical Research"
+    },
+    "P580": "2011-04-03",
+    "P1365": {
+      "links": [
+        "Jodi McKay"
+      ],
+      "stated_as": "Jodi McKay"
+    },
+    "P582": "2015-04-02",
+    "P1366": {
+      "links": [
+        "Pru Goward"
+      ],
+      "stated_as": "Pru Goward"
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "office": {
+      "links": [
+        "Victorian Legislative Assembly",
+        "Electoral district of Mulgrave (Victoria)"
+      ],
+      "stated_as": "Member of the Legislative Assembly for Mulgrave"
+    },
+    "P580": "2002-11-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "District created"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bracks Ministry"
+      ],
+      "stated_as": "Minister for Consumer Affairs"
+    },
+    "P580": "2006-12-01",
+    "P1365": {
+      "links": [
+        "Marsha Thomson"
+      ],
+      "stated_as": "Marsha Thomson"
+    },
+    "P582": "2007-08-03",
+    "P1366": {
+      "links": [
+        "Tony Robinson (politician)"
+      ],
+      "stated_as": "Tony Robinson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bracks Ministry"
+      ],
+      "stated_as": "Minister for Gaming"
+    },
+    "P580": "2006-12-01",
+    "P1365": {
+      "links": [
+        "John Pandazopoulos"
+      ],
+      "stated_as": "John Pandazopoulos"
+    },
+    "P582": "2007-08-03",
+    "P1366": {
+      "links": [
+        "Tony Robinson (politician)"
+      ],
+      "stated_as": "Tony Robinson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Brumby Ministry"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2007-08-03",
+    "P1365": {
+      "links": [
+        "Bronwyn Pike"
+      ],
+      "stated_as": "Bronwyn Pike"
+    },
+    "P582": "2010-12-02",
+    "P1366": {
+      "links": [
+        "David Davis (Australian politician)"
+      ],
+      "stated_as": "David Davis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Labor Party (Victorian Branch)"
+      ],
+      "stated_as": "Leader of the Labor Party in Victoria"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "John Brumby"
+      ],
+      "stated_as": "John Brumby"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Victoria)"
+      ],
+      "stated_as": "Leader of the Opposition in Victoria"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "Ted Baillieu"
+      ],
+      "stated_as": "Ted Baillieu"
+    },
+    "P582": "2014-12-04",
+    "P1366": {
+      "links": [
+        "Matthew Guy"
+      ],
+      "stated_as": "Matthew Guy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Victoria",
+        "2014 Victorian state election",
+        "2018 Victorian state election"
+      ],
+      "stated_as": "48th Premier of Victoria\nElections: 2014, 2018"
+    },
+    "P580": "2014-12-04",
+    "P1365": {
+      "links": [
+        "Denis Napthine"
+      ],
+      "stated_as": "Denis Napthine"
+    }
+  }
+]

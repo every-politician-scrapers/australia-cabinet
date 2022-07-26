@@ -1,0 +1,163 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Electoral district of Baulkham Hills"
+      ],
+      "stated_as": "Baulkham Hills"
+    },
+    "P580": "2011-03-26",
+    "P1365": {
+      "links": [
+        "Wayne Merton"
+      ],
+      "stated_as": "Wayne Merton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Justice (New South Wales)"
+      ],
+      "stated_as": "Minister for Corrections"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Brad Hazzard"
+      ],
+      "stated_as": "Brad Hazzard (as Minister for Justice)"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Anthony Roberts (as Minister for Counter Terrorism and Corrections)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Police and Emergency Services (New South Wales)"
+      ],
+      "stated_as": "Minister for Emergency Services"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Stuart Ayres"
+      ],
+      "stated_as": "Stuart Ayres (as Minister for Police and Emergency Services)"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+        "Troy Grant"
+      ],
+      "stated_as": "Troy Grant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Justice (New South Wales)"
+      ],
+      "stated_as": "Minister for Veterans Affairs"
+    },
+    "P580": "2015-04-02",
+    "P1365": {
+      "links": [
+        "Victor Dominello"
+      ],
+      "stated_as": "Victor Dominello"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+        "John Sidoti"
+      ],
+      "stated_as": "John Sidoti (as Minister for Sport, Multiculturalism, Seniors and Veterans)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Corrections (New South Wales)"
+      ],
+      "stated_as": "Minister for Counter Terrorism"
+    },
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "new portfolio"
+    },
+    "P582": "2019-03-23",
+    "P1366": {
+      "links": [
+        "Anthony Roberts"
+      ],
+      "stated_as": "Anthony Roberts (as Minister for Counter Terrorism and Corrections)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Police and Emergency Services (New South Wales)"
+      ],
+      "stated_as": "Minister for Police and Emergency Services"
+    },
+    "P580": "2019-04-02",
+    "P1365": {
+      "links": [
+        "Troy Grant"
+      ],
+      "stated_as": "Troy Grant"
+    },
+    "P582": "2021-12-21",
+    "P1366": {
+      "links": [
+        "Paul Toole"
+      ],
+      "stated_as": "Paul Toole (as Minister for Police)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Transport (New South Wales)"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Paul Toole"
+      ],
+      "stated_as": "Paul Toole (as Minister for Transport and Roads)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Sport, Multiculturalism, Seniors and Veterans"
+      ],
+      "stated_as": "Minister for Veterans"
+    },
+    "P580": "2021-12-21",
+    "P1365": {
+      "links": [
+        "Natalie Ward (politician)"
+      ],
+      "stated_as": "Natalie Ward (as Minister for Sport, Multiculturalism, Seniors and Veterans)"
+    }
+  }
+]

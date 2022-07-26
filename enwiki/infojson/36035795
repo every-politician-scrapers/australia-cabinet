@@ -1,0 +1,73 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Council of Trade Unions"
+      ],
+      "stated_as": "10th President of the ACTU"
+    },
+    "P580": "2010-07-01",
+    "P1365": {
+      "links": [
+        "Sharan Burrow"
+      ],
+      "stated_as": "Sharan Burrow"
+    },
+    "P582": "2018-02-02",
+    "P1366": {
+      "links": [
+        "Michele O'Neil"
+      ],
+      "stated_as": "Michele O'Neil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Batman"
+      ],
+      "stated_as": "Batman"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+        "David Feeney"
+      ],
+      "stated_as": "David Feeney"
+    },
+    "P582": "2019-05-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Division abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Cooper"
+      ],
+      "stated_as": "Cooper"
+    },
+    "P580": "2019-05-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Division created"
+    }
+  }
+]

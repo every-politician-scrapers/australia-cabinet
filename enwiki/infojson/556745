@@ -1,0 +1,185 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Division of Grayndler"
+      ],
+      "stated_as": "Grayndler"
+    },
+    "P580": "1996-03-02",
+    "P1365": {
+      "links": [
+        "Jeannette McHugh"
+      ],
+      "stated_as": "Jeannette McHugh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Australia)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Tony Abbott"
+      ],
+      "stated_as": "Tony Abbott"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Christopher Pyne"
+      ],
+      "stated_as": "Christopher Pyne"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure and Regional Development (Australia)"
+      ],
+      "stated_as": "Minister for Infrastructure and Transport"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Mark Vaile"
+      ],
+      "stated_as": "Mark Vaile"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Warren Truss"
+      ],
+      "stated_as": "Warren Truss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure and Regional Development (Australia)"
+      ],
+      "stated_as": "Minister for Regional Development and Local Government"
+    },
+    "P580": "2007-12-03",
+    "P1365": {
+      "links": [
+        "Jim Lloyd"
+      ],
+      "stated_as": "Jim Lloyd"
+    },
+    "P582": "2010-09-14",
+    "P1366": {
+      "links": [
+        "Simon Crean"
+      ],
+      "stated_as": "Simon Crean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leaders of the Australian Labor Party"
+      ],
+      "stated_as": "Deputy Leader of the Labor Party"
+    },
+    "P580": "2013-06-26",
+    "P1365": {
+      "links": [
+        "Wayne Swan"
+      ],
+      "stated_as": "Wayne Swan"
+    },
+    "P582": "2013-10-13",
+    "P1366": {
+      "links": [
+        "Tanya Plibersek"
+      ],
+      "stated_as": "Tanya Plibersek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Australia"
+      ],
+      "stated_as": "15th Deputy Prime Minister of Australia"
+    },
+    "P580": "2013-06-27",
+    "P1365": {
+      "links": [
+        "Wayne Swan"
+      ],
+      "stated_as": "Wayne Swan"
+    },
+    "P582": "2013-09-18",
+    "P1366": {
+      "links": [
+        "Warren Truss"
+      ],
+      "stated_as": "Warren Truss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leaders of the Australian Labor Party"
+      ],
+      "stated_as": "Leader of the Labor Party"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Bill Shorten"
+      ],
+      "stated_as": "Bill Shorten"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Australia)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Bill Shorten"
+      ],
+      "stated_as": "Bill Shorten"
+    },
+    "P582": "2022-05-23",
+    "P1366": {
+      "links": [
+        "Peter Dutton"
+      ],
+      "stated_as": "Peter Dutton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Australia"
+      ],
+      "stated_as": "31st Prime Minister of Australia"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Scott Morrison"
+      ],
+      "stated_as": "Scott Morrison"
+    }
+  }
+]

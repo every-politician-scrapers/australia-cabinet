@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of judges of the Supreme Court of Queensland"
+      ],
+      "stated_as": "Judge of the Supreme Court of Queensland"
+    },
+    "P580": "1993-06-16",
+    "P582": "1994-10-16"
+  },
+  {
+    "office": {
+      "links": [
+        "List of judges of the Federal Court of Australia"
+      ],
+      "stated_as": "Judge of the Federal Court of Australia"
+    },
+    "P580": "1994-10-17",
+    "P582": "2007-09-04"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Justices of the High Court of Australia"
+      ],
+      "stated_as": "Justice of the High Court of Australia"
+    },
+    "P580": "2007-09-04",
+    "P1365": {
+      "links": [
+        "Ian Callinan"
+      ],
+      "stated_as": "Ian Callinan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of Australia"
+    },
+    "P1545": "13",
+    "P580": "2017-01-30",
+    "P1365": {
+      "links": [
+        "Robert French"
+      ],
+      "stated_as": "Robert French"
+    }
+  }
+]

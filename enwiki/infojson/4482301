@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "South Australian Legislative Council"
+      ],
+      "stated_as": "Member of the South Australian Legislative Council"
+    },
+    "P580": "2006-03-18"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the South Australian Legislative Council"
+      ],
+      "stated_as": "President of the South Australian Legislative Council"
+    },
+    "P580": "2014-05-06",
+    "P1365": {
+      "links": [
+        "John Gazzola"
+      ],
+      "stated_as": "John Gazzola"
+    },
+    "P582": "2018-05-03",
+    "P1366": {
+      "links": [
+        "Andrew McLachlan"
+      ],
+      "stated_as": "Andrew McLachlan"
+    }
+  }
+]

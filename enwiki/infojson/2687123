@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "Tasmania"
+      ],
+      "stated_as": "Senator for Tasmania"
+    },
+    "P580": "2005-08-25",
+    "P1365": {
+      "links": [
+        "Sue Mackay"
+      ],
+      "stated_as": "Sue Mackay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Albanese_ministry"
+      ],
+      "stated_as": "Assistant Minister for Infrastructure and Transport"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Sue Mackay"
+      ],
+      "stated_as": "Sue Mackay"
+    }
+  }
+]

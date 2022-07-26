@@ -1,0 +1,112 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Emergency Services and Correctional Services"
+    },
+    "P580": "2014-03-15",
+    "P1365": {
+      "links": [
+        "Alan Sibbons"
+      ],
+      "stated_as": "Alan Sibbons"
+    },
+    "P582": "2018-03-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "District abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Emergency Services and Correctional Services"
+    },
+    "P580": "2018-03-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    },
+    "P582": "2022-03-19",
+    "P1366": {
+      "links": [
+        "Sarah Andrews (politician)"
+      ],
+      "stated_as": "Sarah Andrews"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Emergency Services and Correctional Services"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Chris Picton"
+      ],
+      "stated_as": "Chris Picton (as Minister for Police, Minister for Correctional Services, and as Minister for Emergency Services)"
+    },
+    "P582": "2020-07-29",
+    "P1366": {
+      "links": [
+        "Vincent Tarzia"
+      ],
+      "stated_as": "Vincent Tarzia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Recreation, Sport and Racing"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Leon Bignell"
+      ],
+      "stated_as": "Leon Bignell (as Minister for Recreation and Sport, and as Minister for Racing)"
+    },
+    "P582": "2022-03-21",
+    "P1366": {
+      "links": [
+        "Katrine Hildyard"
+      ],
+      "stated_as": "Katrine Hildyard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure and Transport"
+    },
+    "P580": "2020-07-29",
+    "P1365": {
+      "links": [
+        "Stephan Knoll"
+      ],
+      "stated_as": "Stephan Knoll (as Minister for Infrastructure, Transport and Local Government)"
+    },
+    "P582": "2022-03-21",
+    "P1366": {
+      "links": [
+        "Tom Koutsantonis"
+      ],
+      "stated_as": "Tom Koutsantonis"
+    }
+  }
+]
