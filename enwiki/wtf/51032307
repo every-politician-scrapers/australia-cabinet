@@ -417,6 +417,30 @@
             },
             {
               "text": "Like his predecessor, Wallace said he would maintain the practice of not sitting in the Liberal Party room while he holds the Speaker position."
+            },
+            {
+              "text": "On the first sitting day of the 47 parliament, Wallace was re-nominated to the speakership.",
+              "links": [
+                {
+                  "text": "47 parliament",
+                  "type": "internal",
+                  "page": "47th Parliament of Australia"
+                }
+              ]
+            },
+            {
+              "text": "He received 56 votes and was defeated by ALP nominee Milton Dick who received 96 votes.",
+              "links": [
+                {
+                  "text": "ALP",
+                  "type": "internal",
+                  "page": "Australian Labor Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Milton Dick"
+                }
+              ]
             }
           ]
         }
@@ -633,9 +657,6 @@
         },
         {
           "template": "speaker of the australian house of representatives"
-        },
-        {
-          "template": "presiding officers of australian legislatures"
         },
         {
           "template": "current queensland representatives"

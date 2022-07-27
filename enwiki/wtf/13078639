@@ -278,19 +278,17 @@
             "text": "Mark McGowan"
           },
           "image": {
-            "text": "Mark McGowan headshot.jpg"
+            "text": "Mark McGowan February 2019 01.jpg"
+          },
+          "caption": {
+            "text": "McGowan in February 2019"
           },
           "office": {
-            "text": "30th Premier of Western Australia\nElections: 2013, 2017, 2021",
+            "text": "30th Premier of Western Australia\nElections: 2017, 2021",
             "links": [
               {
                 "type": "internal",
                 "page": "Premier of Western Australia"
-              },
-              {
-                "text": "2013",
-                "type": "internal",
-                "page": "2013 Western Australian state election"
               },
               {
                 "text": "2017",
@@ -409,12 +407,17 @@
             ]
           },
           "office3": {
-            "text": "Leader of the Opposition in Western Australia",
+            "text": "Leader of the Opposition in Western Australia\nElections: 2013",
             "links": [
               {
                 "text": "Leader of the Opposition in Western Australia",
                 "type": "internal",
                 "page": "Leader of the Opposition (Western Australia)"
+              },
+              {
+                "text": "2013",
+                "type": "internal",
+                "page": "2013 Western Australian state election"
               }
             ]
           },
@@ -841,9 +844,6 @@
                 "page": "Commendation for Brave Conduct"
               }
             ]
-          },
-          "caption": {
-            "text": "McGowan in April 2014"
           },
           "website": {
             "text": "https://www.markmcgowan.com.au/"
@@ -1427,10 +1427,10 @@
       ],
       "images": [
         {
-          "file": "File:NoSharkCull4.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/NoSharkCull4.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/NoSharkCull4.jpg",
-          "caption": "McGowan addressing a rally in 2014",
+          "file": "File:Mark_McGowan_headshot.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mark_McGowan_headshot.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mark_McGowan_headshot.jpg",
+          "caption": "McGowan in 2014",
           "links": []
         }
       ],

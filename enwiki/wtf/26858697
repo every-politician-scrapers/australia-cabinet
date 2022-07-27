@@ -18,11 +18,16 @@
         {
           "sentences": [
             {
-              "text": "Mark David Shelton (born 20 February 1959) is an Australian politician who is the current Speaker of the Tasmanian House of Assembly since June 2021, and previously served in the role from 2017 to 2018 He was previously the Minister for Police, Fire and Emergency Management and Minister for Local Government in the Hodgman Liberal Government, and is a Member for Lyons.",
+              "text": "Mark David Shelton (born 20 February 1959) is an Australian politician who is the current Speaker of the Tasmanian House of Assembly since June 2021, and previously served in the role from 2017 to 2018 He was previously the Minister for Police, Fire and Emergency Management and Minister for Local Government in the Hodgman Liberal Government, and is a member for Lyons.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Speaker of the Tasmanian House of Assembly"
+                },
+                {
+                  "text": "member for Lyons",
+                  "type": "internal",
+                  "page": "Division of Lyons (state)"
                 }
               ],
               "formatting": {
@@ -51,11 +56,6 @@
                   "text": "Liberal",
                   "type": "internal",
                   "page": "Liberal Party of Australia (Tasmanian Division)"
-                },
-                {
-                  "text": "Lyons",
-                  "type": "internal",
-                  "page": "Division of Lyons (state)"
                 },
                 {
                   "text": "state election of that year",
@@ -282,6 +282,13 @@
           "date": "17 October 2017",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "id": "shelton759",
+          "title": "Mark David Shelton",
+          "access-date": "26 July 2022",
+          "template": "citation",
+          "type": "tas parliament"
         },
         {
           "last1": "Green",

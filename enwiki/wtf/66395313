@@ -107,6 +107,10 @@
       ],
       "templates": [
         {
+          "description": "Royal Australian Navy officer",
+          "template": "short description"
+        },
+        {
           "date": "January 2021",
           "template": "use dmy dates"
         },
@@ -705,9 +709,6 @@
         {
           "after": "Rear Admiral Christopher Smith",
           "template": "s-aft"
-        },
-        {
-          "template": "australia-bio-stub"
         }
       ]
     }

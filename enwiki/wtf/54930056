@@ -495,11 +495,12 @@
         },
         {
           "title": "President of the Australian Senate",
-          "years": "2021–present",
+          "years": "2021–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Sue Lines",
+          "template": "s-aft"
         },
         {
           "template": "president of the australian senate"

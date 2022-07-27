@@ -84,9 +84,10 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Hon",
             "links": [
               {
+                "text": "The Hon",
                 "type": "internal",
                 "page": "The Honourable"
               }

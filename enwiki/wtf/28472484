@@ -56,17 +56,22 @@
               ]
             },
             {
-              "text": "She was a member of the shadow ministry from 2013 to 2022, and was appointed Minister for Communications following the ALP's victory in the 2022 Australian federal election.",
+              "text": "She was a member of the shadow ministry from 2013 to 2022.",
               "links": [
                 {
                   "text": "shadow ministry",
                   "type": "internal",
                   "page": "Shadow Ministry of Australia"
-                },
+                }
+              ]
+            },
+            {
+              "text": "She is now Minister for Communications following the ALP's victory in the 2022 Australian federal election.",
+              "links": [
                 {
                   "text": "Minister for Communications",
                   "type": "internal",
-                  "page": "Minister for Communications and Minister for the Arts"
+                  "page": "Minister for Communications "
                 },
                 {
                   "text": "2022 Australian federal election",
@@ -457,7 +462,7 @@
         {
           "sentences": [
             {
-              "text": "In the lead-up to the 2013 federal election, campaign opinion polls had shown that she would lose Greenway, but her subsequent victory was helped during the campaign by the blunder of her Liberal opponent Jaymes Diaz in not stating clearly the Coalition's policy on asylum seekers.",
+              "text": "In the lead-up to the 2013 federal election, campaign opinion polls had shown that she would lose Greenway.",
               "links": [
                 {
                   "text": "2013 federal election",
@@ -465,6 +470,9 @@
                   "page": "2013 Australian federal election"
                 }
               ]
+            },
+            {
+              "text": "However, her subsequent victory was helped during the campaign by the high profile blunder of the Liberal Party candidate Jaymes Diaz, when he could not state clearly the Coalition's policy on asylum seekers."
             }
           ]
         }
@@ -512,24 +520,24 @@
         {
           "sentences": [
             {
-              "text": "Following the ALP's defeat at the 2013 election, Rowland was appointed to Bill Shorten's shadow ministry.",
+              "text": "Following the ALP's defeat at the 2013 election, Rowland was appointed to Bill Shorten's Shadow Ministry.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bill Shorten"
                 },
                 {
-                  "text": "shadow ministry",
+                  "text": "Shadow Ministry",
                   "type": "internal",
                   "page": "Shadow Ministry of Bill Shorten"
                 }
               ]
             },
             {
-              "text": "She has held the portfolios of Shadow Assistant Minister for Communications (2013–2015), Shadow Minister for Citizenship and Multiculturalism (2013–2016), Shadow Minister for Small Business (2015–2016), and Shadow Minister for Communications (2016–2019)."
+              "text": "Rowland has held the portfolios of Shadow Assistant Minister for Communications (2013–2015), Shadow Minister for Citizenship and Multiculturalism (2013–2016), Shadow Minister for Small Business (2015–2016), and Shadow Minister for Communications (2016–2019)."
             },
             {
-              "text": "She was elevated to the shadow cabinet in 2016 and maintained her place following Anthony Albanese's election as party leader in 2019.",
+              "text": "She was elevated to the shadow Cabinet in 2016, and maintained her place following Anthony Albanese's election as party leader in 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -571,11 +579,11 @@
               ]
             },
             {
-              "text": "Despite the 2017 Australian Marriage Law Postal Survey returning a 53.6% no vote for the electorate of Greenway, in line with her longstanding position and the overall success of the Yes vote, Rowland voted for the bill that enacted same-sex marriage in Australia, declaring: \"Personally, a conversation I had with a mother in Seven Hills provided me with an important perspective. Her son is on active service in the Australian navy and he wants to marry his partner. This man is putting his life on the line in service to Australia. Who am I, and who is any person, to say that this man should not be entitled to marry the person he loves?\".",
+              "text": "Despite the 2017 Australian Marriage Law postal survey returning a 53.6% no vote for her electorate of Greenway, Rowland voted for the bill that enacted same-sex marriage in Australia.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Australian Marriage Law Postal Survey"
+                  "page": "Australian Marriage Law postal survey"
                 },
                 {
                   "text": "bill",
@@ -588,6 +596,9 @@
                   "page": "same-sex marriage in Australia"
                 }
               ]
+            },
+            {
+              "text": "This was in line with her longstanding position and the national success of the Yes vote, with Rowland declaring: \"Personally, a conversation I had with a mother in Seven Hills provided me with an important perspective. Her son is on active service in the Australian navy and he wants to marry his partner. This man is putting his life on the line in service to Australia. Who am I, and who is any person, to say that this man should not be entitled to marry the person he loves?\"."
             }
           ]
         },
