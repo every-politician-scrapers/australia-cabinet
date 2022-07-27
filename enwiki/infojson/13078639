@@ -144,9 +144,10 @@
   {
     "office": {
       "links": [
-        "Leader of the Opposition (Western Australia)"
+        "Leader of the Opposition (Western Australia)",
+        "2013 Western Australian state election"
       ],
-      "stated_as": "Leader of the Opposition in Western Australia"
+      "stated_as": "Leader of the Opposition in Western Australia\nElections: 2013"
     },
     "P580": "2012-01-23",
     "P1365": {
@@ -167,11 +168,10 @@
     "office": {
       "links": [
         "Premier of Western Australia",
-        "2013 Western Australian state election",
         "2017 Western Australian state election",
         "2021 Western Australian state election"
       ],
-      "stated_as": "30th Premier of Western Australia\nElections: 2013, 2017, 2021"
+      "stated_as": "30th Premier of Western Australia\nElections: 2017, 2021"
     },
     "P580": "2017-03-17",
     "P1365": {
