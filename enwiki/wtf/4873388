@@ -38,7 +38,7 @@
               ]
             },
             {
-              "text": "Wade has served as the Minister for Health and Wellbeing in the Marshall Ministry since 22 March 2018.",
+              "text": "Wade has served as the Minister for Health and Wellbeing in the Marshall Ministry between 22 March 2018 and 24 March 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -64,17 +64,6 @@
         {
           "date": "January 2015",
           "template": "use dmy dates"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2018",
-            "month": "03",
-            "date": "22",
-            "df": "y",
-            "template": "start date",
-            "text": "March 22, 2018"
-          }
         },
         {
           "year": "1960",
@@ -115,7 +104,10 @@
             "text": "Minister for Health and Wellbeing"
           },
           "term_start": {
-            "text": "March 22, 2018"
+            "text": "22 March 2018"
+          },
+          "term_end": {
+            "text": "24 March 2022"
           },
           "predecessor": {
             "text": "Peter Malinauskas (as Minister for Health and as Minister for Mental Health)",
@@ -123,6 +115,15 @@
               {
                 "type": "internal",
                 "page": "Peter Malinauskas"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Chris Picton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Picton"
               }
             ]
           },
@@ -207,7 +208,35 @@
         {
           "sentences": [
             {
-              "text": "Wade was a ministerial adviser to former state minister Dr Michael Armitage before working in the water industry.",
+              "text": "Wade was born in Victoria, he moved to Adelaide with his family in 1974.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victoria"
+                },
+                {
+                  "text": " Adelaide",
+                  "type": "internal",
+                  "page": "Adelaide, South Australia "
+                }
+              ]
+            },
+            {
+              "text": "He attended Pembroke School, before studying a Bachelor of Law and Economics at the University of Adelaide.",
+              "links": [
+                {
+                  "text": " Pembroke School",
+                  "type": "internal",
+                  "page": "Pembroke School, Adelaide "
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Adelaide"
+                }
+              ]
+            },
+            {
+              "text": "Wade worked as a Parliamentary Advisor at a state and federeal level, including to former Minister for Health Dr Michael Armitage.",
               "links": [
                 {
                   "text": "Michael Armitage",
@@ -215,14 +244,24 @@
                   "page": "Michael Armitage (politician)"
                 }
               ]
+            },
+            {
+              "text": "He then worked in Corporate Governance and served on a number of boards, including as Chair of the Julia Farr Services Inc, and was a fellow of the Australian Institute of Corporate Affairs"
             }
           ]
         }
       ],
-      "templates": [
+      "references": [
         {
-          "date": "March 2018",
-          "template": "empty section"
+          "template": "citation",
+          "type": "{{hansard |jurisdiction= south australia |title= |house= legislative council |date= 9 may 2006 |page= 130 |speaker= stephen wade |position=}}"
+        },
+        {
+          "title": "Hon Stephen Wade {{!}} South Australian Primary Health Care Conference 2019",
+          "url": "https://saphnconference.com.au/program/speakers/hon-stephen-wade",
+          "website": "SA Primary Healthcare Conference",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -392,7 +431,7 @@
           "template": "s-ttl"
         },
         {
-          "after": "TBD",
+          "after": "Chris Picton",
           "template": "s-aft"
         },
         {

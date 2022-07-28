@@ -118,6 +118,9 @@
               }
             ]
           },
+          "image": {
+            "text": "A_photo_of_Matt_Keogh_MP.jpg"
+          },
           "office": {
             "text": "Minister for Veterans Affairs",
             "links": [
