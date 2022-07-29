@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "South Australian Legislative Council"
+      ],
+      "stated_as": "Member of the South Australian Legislative Council"
+    },
+    "P580": "2014-03-15",
+    "P1365": {
+      "links": [
+        "Ann Bressington"
+      ],
+      "stated_as": "Ann Bressington"
+    },
+    "P582": "2020-02-05",
+    "P1366": {
+      "links": [
+        "Nicola Centofanti"
+      ],
+      "stated_as": "Nicola Centofanti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the South Australian Legislative Council"
+      ],
+      "stated_as": "President of the South Australian Legislative Council"
+    },
+    "P580": "2018-05-03",
+    "P1365": {
+      "links": [
+        "Russell Wortley"
+      ],
+      "stated_as": "Russell Wortley"
+    },
+    "P582": "2020-02-05",
+    "P1366": {
+      "links": [
+        "Terry Stephens"
+      ],
+      "stated_as": "Terry Stephens"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Australian Senate",
+        "South Australia"
+      ],
+      "stated_as": "Senator for South Australia"
+    },
+    "P580": "2022-02-06",
+    "P1365": {
+      "links": [
+        "Cory Bernardi"
+      ],
+      "stated_as": "Cory Bernardi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy President of the Australian Senate"
+      ],
+      "stated_as": "Deputy President of the Australian Senate"
+    },
+    "P580": "2022-07-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sue Lines"
+    }
+  }
+]
