@@ -1,0 +1,364 @@
+wanted,position,positionid,from,start,end
+Q7634188,Assistant Minister for Infrastructure and Transport,Q112274358,Q5044273,2022-05-23,
+Q5238597,Minister for Education,Q50826624,Q50728309,2022-03-24,
+Q7518284,Special Minister of State,Q7574624,Q25352543,2021-10-08,2022-05-23
+Q1813692,Leader of the Government in the Senate,Q17009655,Q7518284,2020-10-30,
+Q1813692,Vice-President of the Executive Council,Q11122003,Q7518284,2020-10-30,2022-05-22
+Q17303605,Permanent Representative to the United Nations,Q7169231,Q6880868,2019-10-17,
+Q4757008,Member of the New South Wales Legislative Assembly,Q19202748,Q62395954,2019-03-23,
+Q11770700,Attorney-General,Q4818611,Q16213990,2018-11-29,2020-12-16
+Q6288876,Minister for the Environment,Q11796986,Q16195275,2018-08-28,2019-05-26
+Q16193316,Minister for Child Protection,Q50826661,Q7279386,2018-03-22,2022-03-21
+Q6524523,"Minister for Recreation, Sport and Racing",Q50865231,Q16728204,2018-03-22,2022-03-21
+Q7816502,Minister for Energy and Mining,Q50865495,Q5214641,2018-03-22,2022-03-21
+Q1813692,Leader of the Government in the Senate,Q17009655,Q6880868,2017-12-20,2018-08-23
+Q572783,Minister for the Status of Women,Q6866013,Q6386229,2017-12-20,2019-04-11
+Q927550,Minister for Agriculture and Northern Australia,Q6865745,Q25756209,2017-12-20,2022-05-23
+Q6763646,Lieutenant-Governor,Q55616845,Q6388005,2017-11-09,2021-11-12
+Q6834704,Speaker of the Legislative Assembly,Q7574314,Q7177611,2017-05-11,
+Q7177330,Minister for Mines and Petroleum,Q28183499,Q4909631,2017-03-22,
+Q16142698,Member of the Western Australian Legislative Assembly,Q20165902,Q28957203,2017-03-11,
+Q16189293,Member of the Western Australian Legislative Assembly,Q20165902,Q28972605,2017-03-11,
+Q16196000,Member of the Western Australian Legislative Assembly,Q20165902,Q30122047,2017-03-11,
+Q16217492,Member of the Western Australian Legislative Assembly,Q20165902,Q29364828,2017-03-11,
+Q4961174,Member of the Western Australian Legislative Assembly,Q20165902,Q28968021,2017-03-11,
+Q5484958,Member of the Western Australian Legislative Assembly,Q20165902,Q28957221,2017-03-11,
+Q6209901,Member of the Western Australian Legislative Assembly,Q20165902,Q28968019,2017-03-11,
+Q6225512,Member of the Western Australian Legislative Assembly,Q20165902,Q28968013,2017-03-11,
+Q6834704,Member of the Western Australian Legislative Assembly,Q20165902,Q28968020,2017-03-11,
+Q6939187,Member of the Western Australian Legislative Assembly,Q20165902,Q28950201,2017-03-11,
+Q7152518,Member of the Western Australian Legislative Assembly,Q20165902,Q28957255,2017-03-11,
+Q7340253,Member of the Western Australian Legislative Assembly,Q20165902,Q7175103,2017-03-11,2021-03-13
+Q7823416,Member of the Western Australian Legislative Assembly,Q20165902,Q28968017,2017-03-11,2018-05-08
+Q6148540,Member of the New South Wales Legislative Council,Q18810377,Q28819355,2017-02-22,
+Q103836636,Solicitor-General,Q7557773,Q107228400,2017,2021
+Q7846832,Deputy Premier,Q5261054,Q6220673,2016-11-15,2021-10-06
+Q7050933,Member of the New South Wales Legislative Assembly,Q19202748,Q27897941,2016-11-12,
+Q6388623,Member of the Western Australian Legislative Council,Q19627913,Q27450624,2016-09-27,2017-05-21
+Q4679115,Treasurer,Q7836766,Q7030114,2016-08-31,
+Q6231564,Attorney-General,Q28184344,Q16213089,2016-08-31,2020-09-07
+Q16194854,member of the Northern Territory Legislative Assembly,Q26998278,Q26845735,2016-08-27,2020-07-30
+Q16727397,member of the Northern Territory Legislative Assembly,Q26998278,Q7704806,2016-08-27,2020-08-22
+Q4727007,member of the Northern Territory Legislative Assembly,Q26998278,Q26709567,2016-08-27,2020-07-30
+Q4896371,member of the Northern Territory Legislative Assembly,Q26998278,Q26852924,2016-08-27,2020-07-30
+Q5482887,member of the Northern Territory Legislative Assembly,Q26998278,Q26721597,2016-08-27,
+Q6489439,member of the Northern Territory Legislative Assembly,Q26998278,Q26721593,2016-08-27,
+Q7173228,member of the Northern Territory Legislative Assembly,Q26998278,Q26721591,2016-08-27,2020-08-22
+Q7177170,member of the Northern Territory Legislative Assembly,Q26998278,Q26709293,2016-08-27,
+Q8003623,member of the Northern Territory Legislative Assembly,Q26998278,Q26844627,2016-08-27,2020-07-30
+Q7150671,"Minister for Local Government, Territories and Roads",Q6865914,Q5451092,2016-07-19,2017-10-27
+Q4758396,"Assistant Minister to the Minister for Industry, Energy and Emissions Reduction",Q108865049,Q16205919,2016-07-02,2022-05-23
+Q6740586,Special Minister of State,Q7574624,Q1813692,2016-02-18,2016-07-19
+Q7489994,"Minister for Broadband, Communications and the Digital Economy",Q11796917,Q5451092,2016-02-18,2017-10-27
+Q7627022,Minister for Human Services,Q6865874,Q4707935,2016-02-18,2017-12-20
+Q8003623,Deputy Chief Minister,Q5261007,Q7177170,2016-02-16,
+Q5110039,Minister for Health,Q6865857,Q7649377,2015-09-30,2017-01-13
+Q7627022,Minister for Defence Materiel,Q6865784,Q6740586,2015-09-21,2015-12-29
+Q4756662,Minister for Industrial Relations,Q23073736,Q5566385,2015-04-02,2017-01-30
+Q4756662,Treasurer,Q7836754,Q5566385,2015-04-02,2017-01-30
+Q4757935,Member of the New South Wales Legislative Assembly,Q19202748,Q19872098,2015-03-28,
+Q4758651,Member of the New South Wales Legislative Assembly,Q19202748,Q6812492,2015-03-28,
+Q4859220,Member of the New South Wales Legislative Assembly,Q19202748,Q6701971,2015-03-28,2019-03-23
+Q4865044,Member of the New South Wales Legislative Assembly,Q19202748,Q19871946,2015-03-28,
+Q4980068,Member of the New South Wales Legislative Assembly,Q19202748,Q21062726,2015-03-28,
+Q5076138,Member of the New South Wales Legislative Assembly,Q19202748,Q6207887,2015-03-28,2021-12-31
+Q5091941,Member of the New South Wales Legislative Assembly,Q19202748,Q19875673,2015-03-28,
+Q5106806,Member of the New South Wales Legislative Assembly,Q19202748,Q19786997,2015-03-28,
+Q5106907,Member of the New South Wales Legislative Assembly,Q19202748,Q19879126,2015-03-28,2017-02-14
+Q5180722,Member of the New South Wales Legislative Assembly,Q19202748,Q21062727,2015-03-28,
+Q5225228,Member of the New South Wales Legislative Assembly,Q19202748,Q5234738,2015-03-28,
+Q5293273,Member of the New South Wales Legislative Assembly,Q19202748,Q19879144,2015-03-28,
+Q5524124,Member of the New South Wales Legislative Assembly,Q19202748,Q19872021,2015-03-28,
+Q6233495,Member of the New South Wales Legislative Assembly,Q19202748,Q19787050,2015-03-28,
+Q7323725,Member of the New South Wales Legislative Assembly,Q19202748,Q19870797,2015-03-28,
+Q7344585,Member of the New South Wales Legislative Assembly,Q19202748,Q19872872,2015-03-28,
+Q7353625,Member of the New South Wales Legislative Assembly,Q19202748,Q19786993,2015-03-28,
+Q7375307,Member of the New South Wales Legislative Assembly,Q19202748,Q19872994,2015-03-28,
+Q7822629,Member of the New South Wales Legislative Assembly,Q19202748,Q19873373,2015-03-28,
+Q16189498,Deputy Premier,Q11797087,Q16214242,2015-02-14,
+Q16195577,Member of the Queensland Legislative Assembly,Q18526194,Q19519202,2015-01-31,
+Q16205215,Member of the Queensland Legislative Assembly,Q18526194,Q19519163,2015-01-31,2017-11-25
+Q4716928,Member of the Queensland Legislative Assembly,Q18526194,Q18977873,2015-01-31,2017-11-25
+Q5210628,Member of the Queensland Legislative Assembly,Q18526194,Q6767697,2015-01-31,
+Q5224942,Member of the Queensland Legislative Assembly,Q18526194,Q6769538,2015-01-31,
+Q5234122,Member of the Queensland Legislative Assembly,Q18526194,Q19519415,2015-01-31,
+Q5264587,Member of the Queensland Legislative Assembly,Q18526194,Q5026232,2015-01-31,
+Q5528195,Member of the Queensland Legislative Assembly,Q18526194,Q16734787,2015-01-31,2017-11-25
+Q5980893,Member of the Queensland Legislative Assembly,Q18526194,Q18978093,2015-01-31,
+Q6112074,Member of the Queensland Legislative Assembly,Q18526194,Q18977931,2015-01-31,2017-11-25
+Q6660091,Member of the Queensland Legislative Assembly,Q18526194,Q18977796,2015-01-31,
+Q6847622,Member of the Queensland Legislative Assembly,Q18526194,Q18977976,2015-01-31,
+Q7342831,Member of the Queensland Legislative Assembly,Q18526194,Q5591194,2015-01-31,2017-11-25
+Q7368405,Member of the Queensland Legislative Assembly,Q18526194,Q19519383,2015-01-31,
+Q7407359,Member of the Queensland Legislative Assembly,Q18526194,Q18978053,2015-01-31,
+Q7428838,Member of the Queensland Legislative Assembly,Q18526194,Q19561555,2015-01-31,2017-11-25
+Q7441992,Member of the Queensland Legislative Assembly,Q18526194,Q18977782,2015-01-31,
+Q7612348,Member of the Queensland Legislative Assembly,Q18526194,Q18977785,2015-01-31,
+Q7917294,Member of the Queensland Legislative Assembly,Q18526194,Q19519532,2015-01-31,
+Q16135869,Member of the Victorian Legislative Assembly,Q18534408,Q19664385,2014-11-29,
+Q4757958,Member of the Victorian Legislative Assembly,Q18534408,Q19519946,2014-11-29,
+Q4766247,Member of the Victorian Legislative Assembly,Q18534408,Q18685736,2014-11-29,
+Q5110957,Member of the Victorian Legislative Assembly,Q18534408,Q18684847,2014-11-29,
+Q5296312,Member of the Victorian Legislative Assembly,Q18534408,Q18640479,2014-11-29,
+Q5983100,Member of the Victorian Legislative Assembly,Q18534408,Q18685540,2014-11-29,
+Q6171899,Member of the Victorian Legislative Assembly,Q18534408,Q19605063,2014-11-29,
+Q6210264,Member of the Victorian Legislative Assembly,Q18534408,Q19663390,2014-11-29,
+Q6251835,Member of the Victorian Legislative Assembly,Q18534408,Q19646489,2014-11-29,
+Q7025724,Member of the Victorian Legislative Assembly,Q18534408,Q6790609,2014-11-29,
+Q4756684,Member of the New South Wales Legislative Assembly,Q19202748,Q18379290,2014-10-25,
+Q7804083,Member of the New South Wales Legislative Assembly,Q19202748,Q18394398,2014-10-25,
+Q6846942,Minister for Police and Emergency Services,Q6865931,Q7626294,2014-05-06,2015-04-02
+Q5516102,Minister for Sport and Recreation,Q6865963,Q7626294,2014-04-23,
+Q16189280,Deputy Premier,Q5261058,Q6181827,2014-03-31,2022-04-08
+Q442280,Treasurer,Q7836760,Q7174432,2014-03-31,2022-04-08
+Q7174489,Member of the Victorian Legislative Council,Q19185341,Q16202431,2014-03-26,2015-02-02
+Q7436260,Member of the Queensland Legislative Assembly,Q18526194,Q8062364,2014-02-22,
+Q5592628,Member of the New South Wales Legislative Assembly,Q19202748,Q4864107,2013-10-19,2015-03-06
+Q1449483,Vice-President of the Executive Council,Q11122003,Q5537216,2013-09-18,2017-12-20
+Q434649,Minister for Indigenous Affairs,Q17007714,Q7032631,2013-09-18,2019-05-29
+Q456759,Leader of the Government in the Senate,Q17009655,Q964840,2013-09-18,2015-09-21
+Q6766947,Minister for the Environment,Q11796986,Q5605742,2013-09-18,2016-07-19
+Q7356268,Minister for the Arts,Q6865994,Q5537216,2013-09-18,2015-09-21
+Q21068902,Member of the House of Representatives,Q18912794,Q16213600,2013-09-07,2019-04-11
+Q7176978,Member of the House of Representatives,Q18912794,Q6740586,2013-09-07,2016-05-09
+Q6211016,Minister for Agriculture and Northern Australia,Q6865745,Q3180236,2013-07-02,2013-09-18
+Q5180933,Minister for Education,Q11796967,Q1639334,2013-07-01,2013-09-18
+Q6766947,Minister for Housing,Q25770029,Q6308091,2013-07-01,2013-09-18
+Q6766947,Minister for Social Services,Q6865821,Q6110750,2013-07-01,2013-09-18
+Q8068367,Member of the Australian Capital Territory Legislative Assembly,Q6814365,Q16194647,2013-06-28,
+Q7803661,Member of the Victorian Legislative Assembly,Q18534408,Q11770700,2013-04-27,2014-11-29
+Q1077015,Minister for Industry and Innovation,Q6865883,Q5180933,2013-03-25,2013-06-26
+Q1077015,Minister for Small Business,Q11796971,Q5525157,2013-03-25,2013-09-18
+Q466245,Minister for Resources and Energy,Q6865964,Q5525157,2013-03-25,2013-09-18
+Q4961174,Member of the Western Australian Legislative Assembly,Q20165902,Q6827105,2013-03-21,
+Q6409556,Treasurer,Q17035438,Q6833128,2013-03-13,2014-12-04
+Q16186958,Member of the Western Australian Legislative Assembly,Q20165902,Q16196617,2013-03-09,2017-03-11
+Q4681874,Member of the Western Australian Legislative Assembly,Q20165902,Q7520364,2013-03-09,
+Q5596587,Member of the Western Australian Legislative Assembly,Q20165902,Q7488136,2013-03-09,
+Q6222696,Member of the Western Australian Legislative Assembly,Q20165902,Q7982640,2013-03-09,2017-01-30
+Q6660082,Member of the Western Australian Legislative Assembly,Q20165902,Q7441144,2013-03-09,2021-03-13
+Q7823083,Member of the Western Australian Legislative Assembly,Q20165902,Q16215458,2013-03-09,2017-03-11
+Q1485732,member of the Northern Territory Legislative Assembly,Q26998278,Q7030114,2013-02-16,
+Q466583,Leader of the Government in the Senate,Q17009655,Q2344980,2013-02-04,2013-06-26
+Q1699756,ambassador to the United Kingdom,Q50321853,Q3108729,2013-02-01,2014-06-27
+Q4934033,Member of the South Australian Legislative Council,Q18662245,Q6450701,2012-10-17,
+Q4934033,Member of the South Australian Legislative Council,Q18662245,Q6450701,2012-10-17,2014-02-15
+Q4934033,Member of the South Australian Legislative Council,Q18662245,Q6450701,2012-10-17,2017-12-19
+Q5106043,member of the Northern Territory Legislative Assembly,Q26998278,Q6388650,2012-08-25,2020-01-31
+Q7340278,member of the Northern Territory Legislative Assembly,Q26998278,Q5525238,2012-08-25,2020-07-30
+Q7369200,member of the Northern Territory Legislative Assembly,Q26998278,Q6539377,2012-08-25,2016-08-27
+Q4974149,Member of the Victorian Legislative Assembly,Q18534408,Q6178490,2012-07-21,2014-11-29
+Q1446593,Treasurer,Q7836762,Q7846781,2012-07-07,2014-03-10
+Q5300805,Member of the Tasmanian Legislative Council,Q19299542,Q7340615,2012-05-05,
+Q5592389,Lord Mayor of Darwin,Q38665951,Q6377932,2012-04-03,2017-09-04
+Q7152085,Attorney-General,Q4818604,Q6161053,2012-04-03,2015-02-14
+Q4757008,Treasurer,Q7836757,Q7804046,2012-03-26,2015-02-14
+Q4696715,Member of the Queensland Legislative Assembly,Q18526194,Q6271086,2012-03-24,2017-11-25
+Q5111180,Member of the Queensland Legislative Assembly,Q18526194,Q6830979,2012-03-24,
+Q6163191,Member of the Queensland Legislative Assembly,Q18526194,Q5235920,2012-03-24,2015-01-31
+Q6394657,Member of the Queensland Legislative Assembly,Q18526194,Q7839480,2012-03-24,
+Q6552994,Member of the Queensland Legislative Assembly,Q18526194,Q5232664,2012-03-24,2015-01-31
+Q6847314,Member of the Queensland Legislative Assembly,Q18526194,Q6248320,2012-03-24,2016-04-29
+Q7151367,Member of the Queensland Legislative Assembly,Q18526194,Q4978509,2012-03-24,2015-01-31
+Q7175381,Member of the Queensland Legislative Assembly,Q18526194,Q7340386,2012-03-24,
+Q7340372,Member of the Queensland Legislative Assembly,Q18526194,Q7608697,2012-03-24,
+Q7613019,Member of the Queensland Legislative Assembly,Q18526194,Q7613391,2012-03-24,
+Q7976764,Member of the Queensland Legislative Assembly,Q18526194,Q7440885,2012-03-24,2015-01-31
+Q5981237,Minister for Housing,Q25770029,Q4961047,2012-03-05,2013-06-27
+Q6211016,Manager of Government Business in the Senate,Q6746718,Q6110750,2012-03-05,2013-09-18
+Q6766585,Minister for Small Business,Q11796971,Q4961047,2012-03-05,2013-02-04
+Q6766585,Minister for Sport,Q11796981,Q6375611,2012-03-05,2013-07-01
+Q6766585,Assistant Treasurer,Q107971707,Q5231642,2012-02-27,2013-09-18
+Q4961047,Minister for Justice,Q6865898,Q6162219,2011-12-14,2013-09-18
+Q7612144,Member of the New South Wales Legislative Assembly,Q19202748,Q5106741,2011-11-19,
+Q16193625,Member of the New South Wales Legislative Council,Q18810377,Q4679743,2011-05-24,
+Q5043327,Minister for Health and Medical Research,Q6865860,Q6193175,2011-04-03,
+Q6255214,Minister for Transport,Q6865982,Q5566385,2011-04-03,2015-04-02
+Q15459916,Member of the New South Wales Legislative Assembly,Q19202748,Q7608779,2011-03-26,
+Q4706085,Member of the New South Wales Legislative Assembly,Q19202748,Q5568702,2011-03-26,2019-03-23
+Q5242441,Member of the New South Wales Legislative Assembly,Q19202748,Q7846832,2011-03-26,
+Q5534100,Member of the New South Wales Legislative Assembly,Q19202748,Q5107704,2011-03-26,2019-03-29
+Q5550082,Member of the New South Wales Legislative Assembly,Q19202748,Q7154043,2011-03-26,
+Q6304481,Member of the New South Wales Legislative Assembly,Q19202748,Q6788883,2011-03-26,
+Q6394543,Member of the New South Wales Legislative Assembly,Q19202748,Q5130178,2011-03-26,
+Q6707982,Member of the New South Wales Legislative Assembly,Q19202748,Q4767598,2011-03-26,
+Q6742424,Member of the New South Wales Legislative Assembly,Q19202748,Q6769797,2011-03-26,
+Q6788401,Member of the New South Wales Legislative Assembly,Q19202748,Q5522990,2011-03-26,
+Q6833849,Member of the New South Wales Legislative Assembly,Q19202748,Q5290616,2011-03-26,2015-03-28
+Q7150892,Member of the New South Wales Legislative Assembly,Q19202748,Q6255214,2011-03-26,2017-08-25
+Q7152402,Member of the New South Wales Legislative Assembly,Q19202748,Q16198954,2011-03-26,
+Q7152897,Member of the New South Wales Legislative Assembly,Q19202748,Q4978084,2011-03-26,2019-03-23
+Q7172807,Member of the New South Wales Legislative Assembly,Q19202748,Q6531238,2011-03-26,
+Q7173733,Member of the New South Wales Legislative Assembly,Q19202748,Q6395726,2011-03-26,
+Q7381837,Member of the New South Wales Legislative Assembly,Q19202748,Q4757071,2011-03-26,2016-05-30
+Q7614277,Member of the New South Wales Legislative Assembly,Q19202748,Q6220673,2011-03-26,2021-12-31
+Q7683996,Member of the New South Wales Legislative Assembly,Q19202748,Q5534198,2011-03-26,
+Q7823493,Member of the New South Wales Legislative Assembly,Q19202748,Q7683250,2011-03-26,
+Q7921411,Member of the New South Wales Legislative Assembly,Q19202748,Q6147330,2011-03-26,
+Q7976473,Member of the New South Wales Legislative Assembly,Q19202748,Q5233352,2011-03-26,
+Q1446593,Treasurer,Q7836762,Q5110039,2010-12-14,2012-06-12
+Q6795990,Member of the Victorian Legislative Assembly,Q18534408,Q6830611,2010-12-02,2018-11-24
+Q7681595,Member of the Victorian Legislative Assembly,Q18534408,Q4953793,2010-12-02,
+Q16106798,Member of the Victorian Legislative Assembly,Q18534408,Q5239965,2010-11-27,
+Q1834580,Member of the Victorian Legislative Assembly,Q18534408,Q6758772,2010-11-27,
+Q4727288,Member of the Victorian Legislative Assembly,Q18534408,Q5534307,2010-11-27,2014-11-29
+Q4934080,Member of the Victorian Legislative Assembly,Q18534408,Q5593341,2010-11-27,2018-11-24
+Q5181074,Member of the Victorian Legislative Assembly,Q18534408,Q7803243,2010-11-27,
+Q5181142,Member of the Victorian Legislative Assembly,Q18534408,Q4772216,2010-11-27,
+Q6369935,Member of the Victorian Legislative Assembly,Q18534408,Q7490120,2010-11-27,2014-11-29
+Q6387869,Member of the Victorian Legislative Assembly,Q18534408,Q7803935,2010-11-27,2014-11-29
+Q7340224,Member of the Victorian Legislative Assembly,Q18534408,Q5363216,2010-11-27,2014-11-29
+Q7822833,Member of the Victorian Legislative Assembly,Q18534408,Q5131189,2010-11-27,2014-11-29
+Q7823288,Member of the Victorian Legislative Assembly,Q18534408,Q5249948,2010-11-27,2014-11-29
+Q456759,Minister for Climate Change and Energy Efficiency,Q11796924,Q11701393,2010-09-15,2013-07-01
+Q1077015,Minister for Human Services,Q6865874,Q7684036,2010-09-14,2011-12-14
+Q466583,Minister for Immigration and Border Protection,Q11796950,Q1077015,2010-09-14,2013-02-04
+Q4706771,Minister for Defence Science and Personnel,Q6865787,Q7970485,2010-09-14,2013-09-18
+Q528907,Minister for the Arts,Q6865994,Q1400580,2010-09-14,2013-03-21
+Q6211016,Special Minister of State,Q7574624,Q5525157,2010-09-14,2013-03-25
+Q4706771,Minister for Veterans' Affairs,Q6865985,Q7970485,2010-09-13,2013-09-18
+Q6373859,Member of the New South Wales Legislative Assembly,Q19202748,Q7626294,2010-06-19,
+Q3017478,Attorney-General,Q24190182,Q4965634,2010-05-13,2014-03-31
+Q16192802,Member of the Victorian Legislative Assembly,Q18534408,Q16213990,2010-02-13,
+Q16186846,President of the Legislative Council,Q7241351,Q4739616,2009-11-24,2011-05-03
+Q16148758,President of the Legislative Council,Q7241387,Q4864320,2009-05-22,2017-05-21
+Q7051678,Member of the Tasmanian Legislative Council,Q19299542,Q6846936,2009-05-02,
+Q5534382,Attorney-General,Q4818604,Q5026232,2009-03-26,2011-02-21
+Q16192984,Member of the Queensland Legislative Assembly,Q18526194,Q6769470,2009-03-21,2017-11-25
+Q5271702,Member of the Queensland Legislative Assembly,Q18526194,Q7366970,2009-03-21,
+Q5525058,Member of the Queensland Legislative Assembly,Q18526194,Q5026232,2009-03-21,2012-03-24
+Q6231793,Member of the Queensland Legislative Assembly,Q18526194,Q7173722,2009-03-21,2015-01-31
+Q6387770,Member of the Queensland Legislative Assembly,Q18526194,Q6778713,2009-03-21,2012-03-23
+Q7143932,Member of the Queensland Legislative Assembly,Q18526194,Q5270029,2009-03-21,2012-03-24
+Q7356405,Member of the Queensland Legislative Assembly,Q18526194,Q6939517,2009-03-21,2012-03-24
+Q7154797,Member of the Tasmanian House of Assembly,Q19007285,Q5217549,2009-02-02,2010-03-20
+Q7976042,Speaker of the Legislative Assembly,Q11796886,Q7488240,2008-11-05,2012-11-06
+Q3182698,Member of the New South Wales Legislative Assembly,Q19202748,Q7925861,2008-10-28,
+Q6829483,Member of the New South Wales Legislative Council,Q18810377,Q6255214,2008-10-22,2011-03-02
+Q5387370,Treasurer,Q7836762,Q7846781,2008-09-23,2010-04-27
+Q16189398,Member of the Western Australian Legislative Assembly,Q20165902,Q6848162,2008-09-06,2021-01-29
+Q6304421,Member of the Western Australian Legislative Assembly,Q20165902,Q6557797,2008-09-06,
+Q7149070,Member of the Western Australian Legislative Assembly,Q20165902,Q7172455,2008-09-06,2017-03-11
+Q7488097,Member of the Western Australian Legislative Assembly,Q20165902,Q16194444,2008-09-06,2021-03-13
+Q7634324,Member of the Western Australian Legislative Assembly,Q20165902,Q4910030,2008-09-06,2021-03-13
+Q5231308,Solicitor-General,Q3489387,Q7609284,2008-09-01,2012-10-09
+Q7693851,member of the Northern Territory Legislative Assembly,Q26998278,Q6398589,2008-08-09,
+Q7160520,Member of the Tasmanian House of Assembly,Q19007285,Q5049524,2008-07-07,2018-09-28
+Q4754792,Member of the Victorian Legislative Assembly,Q18534408,Q6771738,2008-06-28,
+Q7839440,Member of the Western Australian Legislative Assembly,Q20165902,Q5110039,2008-02-23,2008-09-23
+Q3108729,Minister for Social Inclusion,Q11796976,Q41563,2007-12-03,2010-06-28
+Q3339775,Vice-President of the Executive Council,Q11122003,Q466003,2007-12-03,2010-09-13
+Q4964109,Minister for Social Services,Q6865821,Q7684036,2007-12-03,2010-09-14
+Q6770126,Minister for Infrastructure and Transport,Q6865888,Q335697,2007-12-03,2013-09-18
+Q6830999,Member of the House of Representatives,Q18912794,Q6162219,2007-11-24,
+Q7626641,Member of the House of Representatives,Q18912794,Q7490480,2007-11-24,2010-08-21
+Q5212226,Director of Public Prosecutions,Q17003098,Q67176325,2007-10-13,2012-10-12
+Q7327386,member of the Northern Territory Legislative Assembly,Q26998278,Q6788499,2007-07-28,2016-08-08
+Q16193158,Member of the New South Wales Legislative Assembly,Q19202748,Q5606139,2007-03-24,
+Q4717480,Member of the New South Wales Legislative Assembly,Q19202748,Q7340581,2007-03-24,
+Q4757365,Member of the New South Wales Legislative Assembly,Q19202748,Q6274036,2007-03-24,
+Q4758736,Member of the New South Wales Legislative Assembly,Q19202748,Q5606262,2007-03-24,2015-03-06
+Q5231153,Member of the New South Wales Legislative Assembly,Q19202748,Q6845925,2007-03-24,2017-01-23
+Q5982920,Member of the New South Wales Legislative Assembly,Q19202748,Q6396539,2007-03-24,2019-03-01
+Q7150017,Member of the New South Wales Legislative Assembly,Q19202748,Q5234738,2007-03-24,2011-03-04
+Q7172837,Member of the New South Wales Legislative Assembly,Q19202748,Q6264319,2007-03-24,2015-03-06
+Q7615169,Member of the New South Wales Legislative Assembly,Q19202748,Q7298298,2007-03-24,2015-03-28
+Q7420540,Minister for Social Services,Q6865821,Q978276,2007-03-21,2007-12-03
+Q5981115,Minister for Human Services,Q6865874,Q5106492,2007-03-09,2007-12-03
+Q7051534,Member of the Western Australian Legislative Assembly,Q20165902,Q7152878,2007-02-03,2008-09-06
+Q454233,Minister for Immigration and Border Protection,Q11796950,Q6395733,2007-01-30,2007-12-03
+Q5981115,Minister for the Environment,Q11796986,Q927550,2007-01-30,2007-12-03
+Q16104416,Member of the Victorian Legislative Assembly,Q18534408,Q5237743,2006-11-25,
+Q16185472,Member of the Victorian Legislative Assembly,Q18534408,Q6773405,2006-11-25,2018-11-24
+Q16190801,Member of the Victorian Legislative Assembly,Q18534408,Q5524720,2006-11-25,
+Q4768299,Member of the Victorian Legislative Assembly,Q18534408,Q16213836,2006-11-25,
+Q4960938,Member of the Victorian Legislative Assembly,Q18534408,Q7381704,2006-11-25,
+Q5210698,Member of the Victorian Legislative Assembly,Q18534408,Q6303428,2006-11-25,2018-10-30
+Q6779634,Member of the Victorian Legislative Assembly,Q18534408,Q7804090,2006-11-25,2014-11-29
+Q7175500,Member of the Victorian Legislative Assembly,Q18534408,Q16197366,2006-11-25,2018-11-24
+Q7175511,Member of the Victorian Legislative Assembly,Q18534408,Q6231839,2006-11-25,
+Q7182016,Member of the Victorian Legislative Assembly,Q18534408,Q7384532,2006-11-25,
+Q7370142,Member of the Victorian Legislative Assembly,Q18534408,Q6984214,2006-11-25,
+Q7381763,Member of the Victorian Legislative Assembly,Q18534408,Q7173454,2006-11-25,2018-11-24
+Q7495437,Member of the Victorian Legislative Assembly,Q18534408,Q5144918,2006-11-25,
+Q7823192,Member of the Victorian Legislative Assembly,Q18534408,Q4911152,2006-11-25,
+Q7926238,Member of the Victorian Legislative Assembly,Q18534408,Q6780986,2006-11-25,2014-11-29
+Q16189280,Deputy Premier,Q5261058,Q16194639,2006-10-30,2008-04-09
+Q4716928,Member of the Queensland Legislative Assembly,Q18526194,Q16114831,2006-09-09,2009-03-20
+Q4933711,Member of the Queensland Legislative Assembly,Q18526194,Q7298155,2006-09-09,2009-03-21
+Q5106326,Member of the Queensland Legislative Assembly,Q18526194,Q16194512,2006-09-09,2009-03-21
+Q5585617,Member of the Queensland Legislative Assembly,Q18526194,Q7925506,2006-09-09,2012-03-24
+Q5726669,Member of the Queensland Legislative Assembly,Q18526194,Q4768021,2006-09-09,
+Q7822929,Member of the Queensland Legislative Assembly,Q18526194,Q4898879,2006-09-09,2012-03-23
+Q2342184,Minister of Public Works,Q23073852,Q7786663,2006-05-22,2008-09-25
+Q3371682,Treasurer,Q7836760,Q6828140,2006-04-05,2010-12-06
+Q3046134,Member of the Western Australian Legislative Assembly,Q20165902,Q4886731,2006-03-11,2021-01-29
+Q1737400,Minister for the Status of Women,Q6866013,Q434858,2006-01-27,2007-12-03
+Q5982140,Minister for Agriculture and Northern Australia,Q6865745,Q964840,2006-01-27,2007-12-03
+Q6740586,Treasurer,Q2390270,Q7173778,2006-01-27,2007-12-03
+Q4758374,Member of the New South Wales Legislative Assembly,Q19202748,Q5043327,2005-09-17,2015-03-06
+Q4758374,Deputy Premier,Q5261054,Q16186946,2005-08-10,2008-09-05
+Q5043327,Minister for Aboriginal Affairs,Q17001522,Q6861366,2005-08-10,2006-11-08
+Q922958,Minister for Education,Q6865801,Q6660849,2005-03-10,2006-12-13
+Q16107231,Member of the Western Australian Legislative Assembly,Q20165902,Q6776880,2005-02-26,2013-03-09
+Q16107345,Member of the Western Australian Legislative Assembly,Q20165902,Q3518926,2005-02-26,2008-09-06
+Q4799656,Member of the Western Australian Legislative Assembly,Q20165902,Q6408697,2005-02-26,2017-03-11
+Q4894444,Member of the Western Australian Legislative Assembly,Q20165902,Q7846781,2005-02-26,2014-09-03
+Q2578355,Chief Justice,Q5096804,Q982736,2004-12-02,2008-03-28
+Q5220012,Minister for Veterans' Affairs,Q6865985,Q5243805,2004-10-26,2006-01-27
+Q6207164,Minister for Human Services,Q6865874,Q6210353,2004-10-26,2007-01-30
+Q6210353,Minister for Tourism,Q6865975,Q5478100,2004-10-09,2007-11-24
+Q475045,Assistant Treasurer,Q107971707,Q6740586,2004-07-18,2006-01-27
+Q5226263,"Minister for Broadband, Communications and the Digital Economy",Q11796917,Q475045,2004-07-18,2007-12-03
+Q5981115,"Minister for Local Government, Territories and Roads",Q6865914,Q6196452,2004-07-18,2007-12-03
+Q3430463,Member of the Senate,Q6814428,Q6880868,2004-03-31,2019-08-16
+Q5111173,Member of the Queensland Legislative Assembly,Q18526194,Q7488127,2004-02-07,2009-03-21
+Q6537526,Member of the Queensland Legislative Assembly,Q18526194,Q6217360,2004-02-07,
+Q6237692,Chief Justice,Q5096806,Q6763646,2003-11-25,2017-10-01
+Q6219140,Administrator of the Northern Territory,Q3249421,Q7693161,2003-10-31,2007-10-30
+Q1316744,Lord Mayor of Sydney,Q19346403,Q6698540,2003-03-22,2004-03-01
+Q5981660,Member of the New South Wales Legislative Assembly,Q19202748,Q5605244,2003-03-22,2019-03-01
+Q6397040,Member of the New South Wales Legislative Assembly,Q19202748,Q6551428,2003-03-22,2016-05-06
+Q7173340,Member of the New South Wales Legislative Assembly,Q19202748,Q5566385,2003-03-22,2021-12-30
+Q7381783,Member of the New South Wales Legislative Assembly,Q19202748,Q4756662,2003-03-22,2021-12-30
+Q16016388,President of the Legislative Council,Q7241385,Q6899966,2003-02-25,2006-12-18
+Q16149565,Member of the Victorian Legislative Assembly,Q18534408,Q6139657,2002-11-30,
+Q4727349,Member of the Victorian Legislative Assembly,Q18534408,Q6829572,2002-11-30,2010-11-26
+Q4754792,Member of the Victorian Legislative Assembly,Q18534408,Q5219373,2002-11-30,
+Q5524228,Member of the Victorian Legislative Assembly,Q18534408,Q6558302,2002-11-30,
+Q7976535,Member of the Victorian Legislative Assembly,Q18534408,Q7612821,2002-11-30,2014-11-04
+Q5525856,Member of the Victorian Legislative Assembly,Q18534408,Q16185520,2002-11-25,2018-11-24
+Q5982140,"Minister for Local Government, Territories and Roads",Q6865914,Q8023238,2002-01-25,2003-10-07
+Q3339775,Minister for Industry and Innovation,Q6865883,Q5982149,2001-11-26,2007-12-03
+Q5235919,Minister for Education,Q11796967,Q908749,2001-11-26,2006-01-27
+Q6835445,Minister for Health,Q6865857,Q1737400,2001-11-26,2003-10-07
+Q7176566,Leader of the House,Q16147127,Q348577,2001-11-26,2007-12-03
+Q5145202,Member of the House of Representatives,Q18912794,Q6177982,2001-11-10,2010-07-19
+Q7176566,Member of the House of Representatives,Q18912794,Q5605742,2001-11-10,2022-04-11
+Q6121013,Member of the Australian Capital Territory Legislative Assembly,Q6814365,Q463507,2001-10-20,2014-12-23
+Q7704766,Speaker of the Legislative Assembly,Q7574305,Q6678746,2001-10-16,2005-06-28
+Q5107286,member of the Northern Territory Legislative Assembly,Q26998278,Q5553077,2001-08-18,2020-07-30
+Q6793439,member of the Northern Territory Legislative Assembly,Q26998278,Q1899245,2001-08-18,2012-08-06
+Q6838393,member of the Northern Territory Legislative Assembly,Q26998278,Q5253876,2001-08-18,2016-08-27
+Q7609442,member of the Northern Territory Legislative Assembly,Q26998278,Q6151067,2001-08-18,2012-08-06
+Q7173407,Lord Mayor of Melbourne,Q23782667,Q926168,2001-07,2008-11
+Q6245246,Member of the Tasmanian Legislative Council,Q19299542,Q5605645,2001-05-05,2008-05-10
+Q5234670,Treasurer,Q7836757,Q7704719,2001-02-22,2005-07-25
+Q4908062,Member of the Queensland Legislative Assembly,Q18526194,Q6759582,2001-02-17,2012-03-23
+Q6114505,Member of the Queensland Legislative Assembly,Q18526194,Q5293011,2001-02-17,2006-09-09
+Q7420540,Member of the Queensland Legislative Assembly,Q18526194,Q6543627,2001-02-17,2006-09-09
+Q16104645,Member of the Western Australian Legislative Assembly,Q20165902,Q6759820,2001-02-10,2021-03-13
+Q16104998,Member of the Western Australian Legislative Assembly,Q20165902,Q4387692,2001-02-10,2008-09-06
+Q16106111,Member of the Western Australian Legislative Assembly,Q20165902,Q6253682,2001-02-10,2005-02-26
+Q16106123,Member of the Western Australian Legislative Assembly,Q20165902,Q6838361,2001-02-10,2021-01-29
+Q16122332,Member of the Western Australian Legislative Assembly,Q20165902,Q7177611,2001-02-10,2021-01-29
+Q16145802,Member of the Western Australian Legislative Assembly,Q20165902,Q5478155,2001-02-10,
+Q454233,Minister for Justice,Q6865898,Q5106492,2001-01-30,2007-03-09
+Q7176566,Minister for Small Business,Q11796971,Q5982149,2001-01-30,2001-11-26
+Q1494887,Attorney-General,Q23073442,Q4910989,2000-12-15,2001-11-14
+Q7149481,Deputy Premier,Q11797087,Q7704719,2000-11-30,2005-07-28
+Q6237630,Member of the New South Wales Legislative Council,Q18810377,Q5606120,2000-11-01,2017-11-15
+Q6174961,Attorney General,Q4818644,Q4932251,2000-06-28,2007-04-02
+Q4932529,Member of the Queensland Legislative Assembly,Q18526194,Q6203963,2000-02-05,2020-02-20
+Q374949,ambassador to the United States of America,Q23892240,Q16963813,2000-02-02,2005-06
+Q7322490,ambassador to China,Q23891568,Q5235368,2000,2003
