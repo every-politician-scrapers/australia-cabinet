@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health and Wellbeing"
+    },
+    "P580": "2014-03-15",
+    "P1365": {
+      "links": [
+        "John Hill (Australian politician)"
+      ],
+      "stated_as": "John Hill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health and Wellbeing"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Stephen Wade"
+      ],
+      "stated_as": "Stephen Wade"
+    }
+  }
+]
